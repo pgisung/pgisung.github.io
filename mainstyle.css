@@ -30,7 +30,7 @@ h2 {
     padding-bottom: 5px;
 }
 
-.name-text {
+.simpleintro-text {
     font-size:16px;
     color:#7c7c7c;
     font-weight: bold;
@@ -41,7 +41,7 @@ h2 {
     line-height: 16px;
 }
 
-.mainbox {
+main {
     width: 610px;
     padding: 30px;
     margin: 30px;
