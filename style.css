@@ -24,6 +24,7 @@ body {
 
 /* Entire Layout */
 .cd-section {
+    /* View port Height - PC에서만 주로 사용, 모바일 X 적게사용*/
     height: 100vh;
 }
 .cd-section > div {
@@ -37,11 +38,14 @@ body {
     height: calc(100% - 80px);
     left: 20px;
     bottom: 20px;
+    overflow: hidden;
 }
 
 /* Header */
 header {
     position: fixed;
+    top: 0;
+    left: 0;
     width: 100%;
 }
 .gnb-inner {
@@ -54,6 +58,9 @@ header {
 .logo {
     float: left;
 }
+.logo img {
+    padding-top: 17px;
+}
 .gnb {
     float: right;
 }
@@ -64,4 +71,27 @@ header {
 .slogan {
     font-size: 16px;
     font-style: italic;
+}
+.trigger {
+    display: none;
+}
+
+/* Hiring Button */
+.btn-hiring {
+    position: fixed;
+    right: 50px;
+    bottom: 50px;
+    color: #fff;
+    background-color: #000;
+    padding: 10px 20px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.38);
+    transition: 0.2s;
+}
+.btn-hiring .fa {
+    transform: rotateY(180deg);
+    margin-right: 5px;
+}
+.btn-hiring:active {
+    transform: scale(0.8);
 }
