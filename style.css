@@ -9,7 +9,7 @@
 
 /* Reset CSS */
 * { box-sizing: border-box; }
-ul { list-style: none; }
+ul { list-style: none; padding: 0; }
 a { text-decoration: none; }
 
 /* Default CSS */
@@ -93,5 +93,465 @@ header {
     margin-right: 5px;
 }
 .btn-hiring:active {
-    transform: scale(0.8);
+    transform: scale(0);
+}
+
+/* ################# Section : about ################# */
+.about-inner {
+    background: #0dace3 url(images/line-drawing.png) no-repeat right bottom;
+    height: 100%;
+    /* background-color: #0dace3; */
+    /* 배경의 크기를 조절하고 싶을 때 */
+    background-size: 800px;
+    /* background-size: 800px; */
+    /* background-size: 800px 500px; */
+}
+.about-items {
+    width: 50%;
+    color: #fff;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    margin-left: 100px;
+}
+.item {
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+.item:hover h3 {
+    color: #000;
+    /* letter-spacing: 3px; */
+}
+.item:hover img {
+    filter: invert(0);
+}
+.item img {
+    height: 120px;
+    float: left;
+    margin-right: 20px;
+    filter: invert(1);
+    transition: 0.5s;
+}
+.item span {}
+.item h3 {
+    font-size: 28px;
+    font-weight: 500;
+    margin: 0;
+    transition: 0.5s;
+    letter-spacing: -1px;
+}
+.item p {
+    overflow: hidden;
+    font-size: 18px;
+}
+
+/* ################# Section : project ################# */
+.project-inner {
+    height: 100%;
+    overflow: hidden;
+    border: 1px solid #000;  
+}
+.tabs {
+    height: 100%;
+    width: 300%;
+    transition: 0.5s;
+}
+.tab {
+    height: 100%;
+    float: left;
+    width: 33.33333%;
+}
+.tab > div {
+    height: 100%;
+    float: left;
+}
+.project-info {
+    width: 25%;
+}
+.project-photo {
+    width: 75%;
+    overflow: hidden;
+    object-fit: cover;
+}
+input[name=tabmenu] {
+    display: none;
+}
+.btn {
+    position: absolute;
+    left: 0;
+    bottom: 30px;
+    width: 25%;
+    text-align: center;
+}
+.btn label {
+    cursor: pointer;
+    width: 5px;
+    height: 5px;
+    background-color: #000;
+    display: inline-block;
+    border-radius: 50%;
+    margin: 8px;
+    position: relative;
+}
+.btn label:before {
+    content: '';
+    display: inline-block;
+    border: 1px solid transparent;
+    width: 17px;
+    height: 17px;
+    border-radius: 50%;
+    position: absolute;
+    left: -6px;
+    top: -6px;
+    transition: 0.3s;
+}
+.btn label:hover:before {
+    border: 1px solid #aaa;
+}
+
+input[id=tab1]:checked ~ .btn label[for=tab1]:before,
+input[id=tab2]:checked ~ .btn label[for=tab2]:before,
+input[id=tab3]:checked ~ .btn label[for=tab3]:before {
+    border: 1px solid #aaa;
+}
+input[id=tab1]:checked ~ .tabs {
+    margin-left: 0;
+}
+input[id=tab2]:checked ~ .tabs {
+    margin-left: -100%;
+}
+input[id=tab3]:checked ~ .tabs {
+    margin-left: -200%;
+}
+
+/* Project info */
+.project-info {
+    padding: 50px;
+}
+.project-info h3 {
+    font-size: 20px;
+}
+.project-info p {
+    font-size: 16px;
+    line-height: 1.5em;
+}
+.project-info ul {
+    line-height: 2em;
+    margin: 30px 0;
+}
+.project-info ul li:before {
+    content: "\f105";
+    font-family: fontawesome;
+    margin-right: 10px;
+}
+.detail {}
+.detail div {
+    /* 정교하게 가로정렬할 때 float: left, 심플하게 가로정렬할 때 display:inline-block */
+    display:inline-block;
+    text-align: center;
+    /* 인라인블록끼리 사이에 margin이 존재함 */
+    width: 32.5%;
+    color: #999;
+}
+.detail div span {
+    font-size: 36px;
+    font-weight: bold;
+    display: block;
+    color: #000;
+    margin-bottom: 10px;
+}
+.view-project {}
+
+/* ################# Section : plan ################# */
+.plan-inner {
+    background-color: #1d1b24;
+    height: 100%;
+}
+.plan-feature {
+    width: 80%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.plan-feature > div {
+    height: 300px;
+    color: #bbb;
+}
+.plan-info {}
+.plan-info > div {
+    float: left;
+}
+.plan-heading {
+    width: 70%;
+    padding-right: 50px;
+}
+.plan-heading h2,
+.history-info h2 {
+    color: #fff;
+    margin: 0;
+}
+.plan-heading p {
+    font-size: 16px;
+    line-height: 1.5em;
+}
+.plan-photo {
+    width: 30%;
+}
+.plan-photo img {
+    height: 270px;
+}
+/* 밑에 hr.bar가 존재하지만 특정 class div밑에 있음을 명시해주면 다르게 동작 */
+.plan-heading hr.bar,
+.history-info hr.bar {
+    background-color: dodgerblue;
+    /* inline요소와 block요소에 대한 개념을 알아야함... */
+    /* inline, block, inline-block 모두 성질이 다름 */
+    display: inline-block;
+}
+.history-slider {}
+.history-slider div h4 {
+    color: #fff;
+    font-size: 20px;
+    font-weight: normal;
+    margin: 0;
+    line-height: 1.5em;
+}
+.history-slider div h4 span {
+    color: dodgerblue;
+}
+.history-slider div p{
+    font-size: 16px;
+    line-height: 1.5em;
+}
+/* Slick.js custom.CSS */
+.history-slider .slick-arrow {
+    /* slick.css에서 강제로 잡고있는 부분이 있는데 / !important 우선순위로 적용되어야 할 부분 */
+    display: none !important;
+}
+.history-slider .slick-dots li button:before {
+    color: #fff;
+    font-size: 10px;
+}
+.history-slider .slick-dots li {
+    margin: 0;
+}
+
+/* ################# Section : awards ################# */
+.awards-inner {
+    height: 100%;
+    border: 1px solid #ddd;
+}
+.awards-inner > div {
+    float: left;
+    width: 50%;
+    height: 100%;
+    position: relative;
+}
+.about-awards {
+    background-color: #1a1f24;
+    color: #fff;
+}
+.about-heading {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    width: 70%;
+}
+.victory-jump {
+    background-color: #fff;
+}
+.victory-jump img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 80%;
+}
+.about-heading h2 {
+    margin: 0;
+}
+hr.bar {
+    width: 50px;
+    height: 4px;
+    border: none;
+    background-color: crimson;
+    margin: 30px auto;
+}
+.about-heading p {
+    color: #999;
+    font-size: 17px;
+    line-height: 1.5em; /* em이란 단위는 폰트사이즈에 배수만큼의 픽셀 ex) fz 16px X 1.5 = lh 1.5em */
+    margin-bottom: 30px;
+}
+.view-awards {
+    color: #bbb;
+    border: 1px solid #bbb;
+    padding: 5px 15px;
+    border-radius: 20px;
+    transition: 0.5s;
+    /* a 태그는 상하 마진을 아무리 넣어도 움직이지 않음 아래의 방법 또는 인접한 다른 태그에 마진을 이용하여 조정 */
+    /* display: inline-block; 
+    margin-top: 20px; */
+}
+.view-awards:hover {
+    background-color: #31c0ce;
+    color: #fff;
+    border-color: transparent;
+    /* border: none; 속성을 사용할 경우 마우스가 hover될 때 부자연스러움*/
+}
+
+/* ################# Section : location ################# */
+.location-inner {
+    background: url(images/background-location.jpg) no-repeat center center;
+    height: 100%;
+}
+/* content: '';를 이용하여 오버레이 적용 :before, :after는 반드시 정의필요 */
+/* :before :after는 기본적으로 인라인 요소 그래서 position: absolute */
+.location-inner:before {
+    content: '';
+    background-color: rgba(0, 0, 0, 0.85);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+.feature {
+    width: 70%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #bbb;
+}
+.feature > div {
+    float: left;
+}
+/* 6:4 배치를 위해 이곳에 각각 비율 정의 */
+.office {
+    width: 60%;
+    padding-right: 100px;
+}
+.service {
+    width: 40%;
+}
+.office b {
+    font-weight: normal;
+}
+.office h2 {
+    color: #1db1f0;
+    font-weight: 500;
+    margin: 0;
+    margin-top: 5px;
+}
+.office p {
+    font-size: 16px;
+    line-height: 1.5em;
+}
+.office span {
+    color: #fff;
+}
+.customer {
+    margin-top: 40px;
+}
+.service-item {
+    margin-bottom: 20px;
+}
+.service-item .fa {
+    color: #1db1f0;
+    font-size: 40px;
+}
+.service-item h3 {
+    color: #fff;
+    font-size: 22px;
+    margin: 0;
+}
+
+/* ################# Section : contact ################# */
+.contact-inner {
+    background-color: #fff;
+    height: 100%;
+    border: 1px solid #ddd;
+}
+.contact-feature {
+    width: 70%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.contact-feature > div {
+    float: left;
+    width: 50%;
+    padding: 20px;
+}
+.contact-form {}
+.contact-form h3 {
+    font-size: 30px;
+    font-weight: normal;
+    margin: 0;
+}
+.send-box {}
+.send-box label {
+    display: block;
+    font-weight: bold;
+    font-size: 16px;
+    margin: 10px 0;
+    margin-top: 20px;
+}
+.send-box label span {
+    color: crimson;
+    font-weight: normal;
+}
+.send-box input[type=email],
+.send-box input[type=text],
+.send-box textarea {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 3px;
+    outline: none;
+    width: 100%;
+    transition: 0.5s;
+}
+.send-box input[type=email]:hover,
+.send-box input[type=text]:hover,
+.send-box textarea:hover {
+    border: 1px solid #0088cc;
+    box-shadow: 0 0 5px #0088cc;
+}
+.send-box input[type=email]:focus,
+.send-box input[type=text]:focus,
+.send-box textarea:focus {
+    background-color: #eee;
+}
+.send-box button {
+    background-color: #0088cc;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: 0.5s;
+    margin-top: 10px;
+}
+.send-box button:hover {
+    background-color: #000;
+}
+.contact-info {}
+.contact-info h4 {
+    font-weight: normal;
+    font-size: 20px;
+    margin: 0;
+    margin-top: 20px;
+}
+.contact-info ul li {
+    line-height: 2em;
+}
+.contact-info ul li:last-child {
+    color: #0088cc;
+}
+.contact-info p {
+    line-height: 1.5em;
 }
