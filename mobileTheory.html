@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MobileTheory</title>
+  <style>
+    /* 사실상 모바일의 경우 원래 브라우저의 기본값으로 변경시키는 과정 */
+    /* height: 100vh -> height: auto */
+    /* position: absolute -> position: static으로 변경 */
+    /* width: 50% -> width: 100% */
+    /* float: left -> float: none */
+
+    body {
+      margin: 0;
+    }
+    section {
+      border: 5px solid red;
+      /* 원래 height 값은 디폴트로 auto이나 pc에서 작업중 높이가 생길경우 auto가 아닌 요소들이 생김 */
+      height: 300px;
+    }
+    section:nth-child(4) {
+      /* 배경으로 이미지를 넣을 경우 갖고있는 height값이 없어서 모바일에서 이미지가 디스플레이되지 않음 */
+      background: url(images/careers-main-01.png) no-repeat center center;
+      background-size: cover;
+    }
+    @media (max-width: 768px) {
+      section {
+        /* pc버전에서 높이가 생긴 요소들에 대해서 다시 auto로 설정해줘야 모바일에서 문제없이 텍스트가 배치됨 */
+        height: auto;
+      }
+      section:nth-child(4) {
+        /* 모바일에서 텍스트를 위해 Height auto를 해줬는데 배경으로 이미지를 가진 요소들은 다시 height값을 부여해줘야 함 */
+        height: 300px;
+      }
+    }
+  </style>
+</head>
+<body>
+  
+  <div class="container">
+    <section>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dignissimos est odit ipsam, omnis, sed recusandae error itaque velit rem temporibus consequuntur, voluptatem id accusantium excepturi fugit. Culpa commodi eveniet dicta ipsum, doloremque error repellendus suscipit iure repellat voluptas doloribus earum perspiciatis esse at numquam, soluta possimus enim veniam blanditiis. Necessitatibus architecto, expedita cupiditate a cum amet tempora velit facere reiciendis laboriosam libero iure eos ad in minima et alias rem fuga exercitationem saepe maxime maiores molestiae quisquam vero. Reiciendis architecto molestias nam facilis eius perferendis, alias quis dolorum ea voluptatem quasi ducimus, autem, accusantium quo magnam quaerat placeat odio?
+    </section>
+    <section>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis nisi beatae libero minima quis placeat veniam corporis magnam molestias molestiae? Neque, molestias debitis a inventore porro iusto dignissimos natus veritatis aperiam quibusdam unde architecto labore fuga magni hic alias adipisci tenetur provident accusantium voluptatem sequi. Repellat delectus perferendis earum sequi adipisci nam velit dignissimos dolorem excepturi alias consequatur, aut neque non voluptatum reprehenderit iure? Magni laboriosam maxime quam minus sequi. Animi quia libero incidunt tempora, id possimus expedita. Quia perspiciatis eius unde aperiam magni eos veritatis corrupti laborum! Deserunt ea iste neque tempora voluptates dolore ex animi, praesentium porro et voluptate inventore nisi, illum possimus vel accusamus dolor laudantium? Provident sunt est repudiandae vel velit quibusdam error debitis fugit fuga.
+    </section>
+    <section>
+      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, fugiat libero! Error minus, deserunt sunt suscipit dignissimos eligendi illum nulla dolore ratione, dolor omnis nam tenetur, reiciendis rem perferendis repudiandae. Sed animi, suscipit delectus amet, voluptate reprehenderit quis assumenda, velit ex pariatur nihil nisi culpa. Veniam voluptate optio delectus fugit temporibus ut error laudantium nulla. Ea, debitis provident dolores consequatur vitae quia sequi quis officiis veritatis eius quae beatae atque iusto facilis porro quasi eos dicta vero maiores veniam iure facere! Nulla excepturi suscipit, perspiciatis sunt, placeat natus minus voluptatum quibusdam beatae blanditiis, eum cupiditate laudantium. Ab provident, qui totam asperiores at ipsam vero sapiente eligendi adipisci excepturi, assumenda fugiat suscipit rerum atque labore nobis autem. Exercitationem quis dicta provident perspiciatis ex animi, error sequi suscipit officiis unde dolores id quas nam assumenda culpa quod commodi est aliquam, nulla maiores libero tenetur nemo? Magni hic fugiat a fugit doloribus esse.
+    </section>
+    <section>
+
+    </section>
+  </div>
+
+</body>
+</html>
