@@ -123,4 +123,38 @@
         right: 20px;
         bottom: 20px;
     }
+    .cd-vertical-nav {
+        display: none;
+    }
+
+    /* Show Hide Section */
+    #home
+    #about,
+    #project,
+    #plan,
+    #awards,
+    #location,
+    #contact {
+        display: none;
+    }
+
+    /* ################# Section : home ################# */
+    .home-inner {
+        height: 100vh;
+    }
+    .welcome-text {
+        transform: translate(-50%, -50%) scale(0.7);
+        width: 100%;
+    }
+    .home-heading {
+        left: 20px;
+    }
+    .home-heading span {
+        font-size: 50px;
+    }
+
+    /* ################# Section : about ################# */
+    .about-inner {
+        height: 100vh;
+    }
 }
