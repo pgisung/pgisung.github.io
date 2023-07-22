@@ -1,0 +1,79 @@
+# Site settings
+title: JohnnyPark
+description: The growth diary of Mobile developer JohnnyPark
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://pgisung.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Banner Section
+hero: home-banner.jpg
+hero-title: Welcome to JohnnyPark
+hero-description: Once it's coincidental, Twice there must be something relationship, Eventually it’s gonna be destiny.
+
+# Author - Creator
+author-name: Jisung Park (Johnny)
+author-image: my-image.jpg
+about-author: When three people going along, there is someone who must be my teacher.
+# about-author: Mobile developer who dealing with both iOS and Android. Hoping as well as Backend
+author-email: pgisung@naver.com
+author-twitter: https://www.instagram.com/pgisung
+author-facebook: https://www.facebook.com/pgisung
+author-instagram: https://www.instagram.com/pgisung
+author-pinterest: https://github.com/pgisung
+
+## Other Authors - here you can add Other authors. For example Natali_Braxton
+#authors:
+#  Natali_Braxton:
+#    author-name: Natali Braxton
+#    author-image: others-image.jpg
+#    about-author: My name is Natali Braxton. I love walking, I play the guitar in my spare time. And also write articles about different technologies.
+#    author-email: natali.example@gmail.com
+#    author-twitter: https://twitter.com/
+#    author-facebook: https://twitter.com/
+#    author-instagram: https://www.instagram.com/
+#    author-pinterest: https://pinterest.com/
+
+# Social Media Links (Links are located in hero and footer)
+twitter: https://www.instagram.com/pgisung
+facebook: https://www.facebook.com/pgisung
+google-plus: https://www.instagram.com/pgisung
+instagram: https://www.instagram.com/pgisung
+pinterest: https://github.com/pgisung
+youtube: https://www.youtube.com/@xinting_chih
+
+# Contact Form Settings
+contact-subtitle: Feel free to contact me anytime. Please fill out the form below, if you would like to send. Welcome any discussions and suggestions!
+
+# Google Analytics
+google-analytics: G-0BBELR6071 # Add your identifier. For example UA-99631805-1.
+
+# Newsletter
+mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+
+# Comment Section (Disqus)
+disqus-identifier: pgisung # Add your shortname for Disqus Comment. For example mr-brown
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 9
+paginate_path: "/page/:num"
+
+# Pages path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
+
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+
+include:
+  - _pages
+
+# Exclude from processing.
+exclude:
+ - Gemfile
+ - Gemfile.lock
+ - vendor
