@@ -15,7 +15,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   &.body-post {
-    background-color: #f5fafc;
+    background-color: $currentbodycolor;
   }
 }
 

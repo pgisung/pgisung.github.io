@@ -281,7 +281,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 body.body-post {
-  background-color: #f5fafc;
+  background-color: rgba(255, 162, 81, 0.1);
 }
 
 h1 {
@@ -543,8 +543,12 @@ table tr:hover {
 
 /* 2. ========== Header Menu ========== */
 .site-header {
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 100;
   height: 60px;
-  position: relative;
+  position: fixed;
   background-color: #8D4801;
   overflow: hidden;
 }
@@ -655,6 +659,7 @@ table tr:hover {
     transform: none;
     top: 0;
     left: 0;
+    margin-top: 60px;
     margin-bottom: 40px;
   }
   .site-nav a {
@@ -684,7 +689,7 @@ table tr:hover {
   height: 60px;
   opacity: 0;
   visibility: hidden;
-  position: absolute;
+  position: fixed;
   top: 0;
   right: 0;
   transition: all 0.3s ease-in-out;
@@ -763,7 +768,8 @@ table tr:hover {
 
 .search-results-list {
   width: 100%;
-  height: 100vh;
+  height: 35vh;
+  box-shadow: 0 5px 10px rgba(141, 72, 1, 0.3);
   margin: 0;
   padding: 40px 15px;
   position: absolute;
@@ -864,22 +870,31 @@ table tr:hover {
   padding: 0;
   margin: 0;
 }
+.info-social-list li:nth-child(1) a:hover {
+  background-color: #181717;
+}
+.info-social-list li:nth-child(2) a:hover {
+  background-color: #1877F2;
+}
+.info-social-list li:nth-child(3) a:hover {
+  background-color: #E4405F;
+}
+.info-social-list li:nth-child(4) a:hover {
+  background-color: #0A66C2;
+}
 .info-social-list li a {
-  width: 20%;
+  width: 25%;
   float: left;
   text-align: center;
   line-height: 60px;
 }
-.info-social-list li a:hover {
-  background-color: rgba(182, 162, 145, 0.5);
-}
 .info-social-list li a, .info-social-list li span {
   font-size: 21px;
   color: #000000;
-  transition: all 0.2s ease;
+  transition: all 0.3s ease;
 }
 .info-social-list li a:hover, .info-social-list li span:hover {
-  color: #8D4801;
+  color: #ffffff;
 }
 .info-social-list li span {
   cursor: pointer;
@@ -1484,7 +1499,7 @@ table tr:hover {
 
 .site-footer {
   position: relative;
-  background-color: #000000;
+  background-color: #8D4801;
 }
 .site-footer .footer-wrapper {
   position: relative;
@@ -1511,6 +1526,18 @@ table tr:hover {
   margin-right: 20px;
   display: inline;
 }
+.social-footer li:nth-child(1) a:hover {
+  color: #181717;
+}
+.social-footer li:nth-child(2) a:hover {
+  color: #1877F2;
+}
+.social-footer li:nth-child(3) a:hover {
+  color: #E4405F;
+}
+.social-footer li:nth-child(4) a:hover {
+  color: #0A66C2;
+}
 .social-footer li:last-child {
   margin-right: 0;
 }
@@ -1518,9 +1545,6 @@ table tr:hover {
   text-decoration: none;
   color: #ffffff;
   transition: all 0.2s ease;
-}
-.social-footer li a:hover {
-  color: #8D4801;
 }
 
 .copyright {

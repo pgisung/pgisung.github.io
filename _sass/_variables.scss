@@ -5,6 +5,11 @@ $gray: #5b5b5b;
 $darkgray: #323232;
 $black: #000000;
 
+$currentbodycolor: rgba(255, 162, 81, 0.1);
+// unused a variable below - used for entire body
+// $originbodycolor: #f5fafc;
+
+// Main colors
 $brown: #8D4801;
 $brown-highlighted: rgba(141, 72, 1, 0.7);
 $brown-transparency: rgba(182, 162, 145, 0.5);
@@ -23,8 +28,13 @@ $lightorange: #b2a894;
 // unused a variable below - just used rgb value
 // $originhovercolor: #004e8d;
 
-
 $turquoisergba: rgba(186, 142, 119, 0.6);
 $light-turquoisergba: rgba(186, 142, 119, 0.1);
 // $turquoisergba: rgba(0, 197, 217, 0.6);
 // $light-turquoisergba: rgba(0, 197, 217, 0.1);
+
+// social colors
+$githubcolor: #181717;
+$facebookcolor: #1877F2;
+$instagramcolor: #E4405F;
+$linkedincolor: #0A66C2;

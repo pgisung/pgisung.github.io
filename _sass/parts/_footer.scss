@@ -25,7 +25,7 @@
 
 .site-footer {
   position: relative;
-  background-color: $black;
+  background-color: $brown;
   .footer-wrapper {
     position: relative;
     z-index: 1;
@@ -50,6 +50,26 @@
   li {
     margin-right: 20px;
     display: inline;
+    &:nth-child(1) {
+      a:hover {
+        color: $githubcolor;
+      }
+    }
+    &:nth-child(2) {
+      a:hover {
+        color: $facebookcolor;
+      }
+    }
+    &:nth-child(3) {
+      a:hover {
+        color: $instagramcolor;
+      }
+    }
+    &:nth-child(4) {
+      a:hover {
+        color: $linkedincolor;
+      }
+    }
     &:last-child {
       margin-right: 0;
     }
@@ -57,12 +77,31 @@
       text-decoration: none;
       color: $white;
       transition: all 0.2s ease;
-      &:hover {
-        color: $brown;
-      }
     }
   }
 }
+// sns별로 hover 색상 변경으로 원본 주석
+// .social-footer {
+//   margin: 0 0 30px;
+//   padding: 0;
+//   text-align: center;
+//   list-style: none;
+//   li {
+//     margin-right: 20px;
+//     display: inline;
+//     &:last-child {
+//       margin-right: 0;
+//     }
+//     a {
+//       text-decoration: none;
+//       color: $white;
+//       transition: all 0.2s ease;
+//       &:hover {
+//         color: $brown;
+//       }
+//     }
+//   }
+// }
 
 .copyright {
   text-align: center;

@@ -6,7 +6,7 @@
 
       <nav class="site-nav">
         {% for page in site.pages %}
-          {% unless page.name == 'tags.html' or page.name == '404.html' %}
+          {% unless page.name == 'style-guide.md' or page.name == '404.html' %}
             {% if page.title %}
               <a href='{{ page.url | prepend: site.baseurl }}'>{{ page.title }}</a>
             {% endif %}
