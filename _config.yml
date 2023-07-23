@@ -2,7 +2,7 @@
 title: JohnnyPark
 description: The growth diary of Mobile developer JohnnyPark
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://pgisung.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://pgisung.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner Section
 hero: home-banner.jpg
@@ -14,10 +14,12 @@ author-name: Jisung Park (Johnny)
 author-image: my-image.jpg
 about-author: When three people going along, there is someone who must be my teacher.
 author-email: pgisung@naver.com
-author-twitter: https://www.instagram.com/pgisung
+author-github: https://github.com/pgisung
 author-facebook: https://www.facebook.com/pgisung
 author-instagram: https://www.instagram.com/pgisung
-author-pinterest: https://github.com/pgisung
+author-linkedin: https://www.linkedin.com/in/jisung-park-a7243527b
+#author-twitter: https://www.instagram.com/pgisung
+#author-pinterest: https://github.com/pgisung
 
 ## Other Authors - here you can add Other authors. For example Natali_Braxton
 #authors:
@@ -26,9 +28,11 @@ author-pinterest: https://github.com/pgisung
 #    author-image: others-image.jpg
 #    about-author: My name is Natali Braxton. I love walking, I play the guitar in my spare time. And also write articles about different technologies.
 #    author-email: natali.example@gmail.com
-#    author-twitter: https://twitter.com/
+#    author-github: https://github.com/
 #    author-facebook: https://twitter.com/
 #    author-instagram: https://www.instagram.com/
+#    author-linkedin: https://www.linkedin.com/
+#    author-twitter: https://twitter.com/
 #    author-pinterest: https://pinterest.com/
 
 # Social Media Links (Links are located in hero and footer)
@@ -37,9 +41,7 @@ facebook: https://www.facebook.com/pgisung
 instagram: https://www.instagram.com/pgisung
 linkedin: https://www.linkedin.com/in/jisung-park-a7243527b
 #twitter: https://www.instagram.com/pgisung
-#facebook: https://www.facebook.com/pgisung
 #google-plus: https://www.instagram.com/pgisung
-#instagram: https://www.instagram.com/pgisung
 #pinterest: https://github.com/pgisung
 #youtube: https://www.youtube.com/@xinting_chih
 
@@ -50,7 +52,7 @@ contact-subtitle: Feel free to contact me anytime. Please fill out the form belo
 google-analytics: G-0BBELR6071 # Add your identifier. For example UA-99631805-1.
 
 # Newsletter
-mailchimp: https://formspree.io/f/mjvqkavr # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+mailchimp: https://github.us21.list-manage.com/subscribe/post?u=a722e29f0af62cbea1d4fecfe&amp;id=4f8f66c56d&amp;f_id=00dedce6f0 # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
 # Comment Section (Disqus)
 disqus-identifier: pgisung # Add your shortname for Disqus Comment. For example mr-brown
