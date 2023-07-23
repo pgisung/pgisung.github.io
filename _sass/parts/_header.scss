@@ -1,7 +1,7 @@
 .site-header {
   height: 60px;
   position: relative;
-  background-color: $blue;
+  background-color: $brown;
   overflow: hidden;
 }
 
@@ -97,7 +97,7 @@
     right: -250px;
     bottom: 0;
     left: auto;
-    background-color: rgba(0, 120, 217, 0.80);
+    background-color: rgba(141, 72, 1, 0.8);
     overflow-y: auto;
     z-index: 10;
     transition: right .35s cubic-bezier(0.565, 1.65, 0.765, 0.90);
@@ -122,7 +122,7 @@
       transition: all 0.2s ease;
 
       &:hover {
-        background-color: darken(rgba(0, 120, 217, 0.80), 10%);
+        background-color: darken(rgba(141, 72, 1, 0.8), 10%);
         color: $white;
       }
     }

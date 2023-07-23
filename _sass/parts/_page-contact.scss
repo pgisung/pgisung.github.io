@@ -36,16 +36,16 @@
       color: $gray;
       transition: all .25s ease;
       &:focus {
-        border: 2px solid rgba(0, 120, 217, 0.3);
+        border: 2px solid rgba(141, 72, 1, 0.3);
       }
     }
     .form-btn {
       font-weight: 700;
-      background-color: $blue;
+      background-color: $brown;
       color: $white;
       border-radius: 3px;
       &:hover {
-        background-color: darken($blue, 15%);
+        background-color: darken($brown, 15%);
       }
     }
   }

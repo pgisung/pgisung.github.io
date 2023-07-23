@@ -79,7 +79,7 @@
         text-decoration: none;
         transition: all 0.25s ease;
         &:hover {
-          color: $grayblue;
+          color: $graybrown;
           transition: all 0.25s ease;
           i {
             transform: scale(1.2);
@@ -120,7 +120,7 @@
     a {
       font-size: 13px;
       margin-right: 10px;
-      color: $lightblue;
+      color: $lightbrown;
       text-decoration: none;
       transition: all .25s ease;
       &:last-child {
@@ -142,7 +142,7 @@
   margin-right: 10px;
   float: left;
   font-size: 55px;
-  color: $blue;
+  color: $brown;
   line-height: 0.6;
 }
 
@@ -203,7 +203,7 @@
       a {
         font-size: 14px;
         margin-right: 5px;
-        color: $lightblue;
+        color: $lightbrown;
         transition: all .25s ease;
         &:hover {
           color: $darkgray;

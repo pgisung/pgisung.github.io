@@ -74,7 +74,7 @@ li {
 }
 
 blockquote {
-  border-left: 3px solid $lightblue;
+  border-left: 3px solid $lightbrown;
   padding: 10px 0 10px 30px;
   margin: 20px 0;
   font-size: 18px;
@@ -229,16 +229,16 @@ table tr:hover {
   line-height: 14px;
   display: inline-block;
   text-decoration: none;
-  border: 1px solid $blue;
+  border: 1px solid $brown;
   border-radius: 0;
   background-color: transparent;
-  color: $blue;
+  color: $brown;
   outline: none;
   cursor: pointer;
   transition: all 0.2s ease;
   
   &:hover {
-    background-color: $blue;
+    background-color: $brown;
     color: $white;
   }
 
@@ -269,11 +269,11 @@ table tr:hover {
 }
 
 ::-moz-selection {
-  background: $blue-highlighted;
+  background: $brown-highlighted;
   color: #ffffff;
 }
 
 ::selection {
-  background: $blue-highlighted;
+  background: $brown-highlighted;
   color: #ffffff;
 }

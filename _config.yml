@@ -13,7 +13,6 @@ hero-description: Once it's coincidental, Twice there must be something relation
 author-name: Jisung Park (Johnny)
 author-image: my-image.jpg
 about-author: When three people going along, there is someone who must be my teacher.
-# about-author: Mobile developer who dealing with both iOS and Android. Hoping as well as Backend
 author-email: pgisung@naver.com
 author-twitter: https://www.instagram.com/pgisung
 author-facebook: https://www.facebook.com/pgisung
@@ -33,12 +32,16 @@ author-pinterest: https://github.com/pgisung
 #    author-pinterest: https://pinterest.com/
 
 # Social Media Links (Links are located in hero and footer)
-twitter: https://www.instagram.com/pgisung
+github: https://github.com/pgisung
 facebook: https://www.facebook.com/pgisung
-google-plus: https://www.instagram.com/pgisung
 instagram: https://www.instagram.com/pgisung
-pinterest: https://github.com/pgisung
-youtube: https://www.youtube.com/@xinting_chih
+linkedin: https://www.linkedin.com/in/jisung-park-a7243527b
+#twitter: https://www.instagram.com/pgisung
+#facebook: https://www.facebook.com/pgisung
+#google-plus: https://www.instagram.com/pgisung
+#instagram: https://www.instagram.com/pgisung
+#pinterest: https://github.com/pgisung
+#youtube: https://www.youtube.com/@xinting_chih
 
 # Contact Form Settings
 contact-subtitle: Feel free to contact me anytime. Please fill out the form below, if you would like to send. Welcome any discussions and suggestions!
