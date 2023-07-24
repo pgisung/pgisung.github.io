@@ -13,11 +13,15 @@
   width: 740px;
   max-width: 100%;
 	margin: 80px auto;
-  background-color: $white;
+  // background-color: $white;
 
   .page-content {
+    font-family: 'IBM Plex Sans KR', sans-serif;
     padding-left: 15px;
     padding-right: 15px;
+    h1, h2, h3, h4, h5, h6, p {
+      font-family: 'IBM Plex Sans KR', sans-serif;
+    }
   }
 }
 

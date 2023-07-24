@@ -10,10 +10,14 @@
   word-wrap: break-word;
   padding-left: 15px;
   padding-right: 15px;
-  background-color: $white;
+  // background-color: $white;
 
   .post-content {
+    font-family: 'IBM Plex Sans KR', sans-serif;
     margin-bottom: 40px;
+    h1, h2, h3, h4, h5, h6, p {
+      font-family: 'IBM Plex Sans KR', sans-serif;
+    }
   }
 }
 
@@ -93,11 +97,11 @@
         }
 
         &.post-twitter {
-          color: #55acee;
+          color: #1D9BF0;
         }
 
         &.post-facebook {
-          color: #3b5999;
+          color: #1877F2;
         }
 
         &.post-pinterest {

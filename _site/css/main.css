@@ -552,6 +552,7 @@ table tr:hover {
   -webkit-transition: right 0.35s cubic-bezier(0.565, 1.65, 0.765, 0.9);
   -o-transition: right 0.35s cubic-bezier(0.565, 1.65, 0.765, 0.9);
   transition: right 0.35s cubic-bezier(0.565, 1.65, 0.765, 0.9);
+  background-color: rgba(255, 162, 81, 0.1);
 }
 
 .full-page-container.open {
@@ -1295,11 +1296,14 @@ table tr:hover {
   word-wrap: break-word;
   padding-left: 15px;
   padding-right: 15px;
-  background-color: #ffffff;
 }
 
 .post .post-content {
+  font-family: 'IBM Plex Sans KR', sans-serif;
   margin-bottom: 40px;
+}
+.post .post-content h1, .post .post-content h2, .post .post-content h3, .post .post-content h4, .post .post-content h5, .post .post-content h6, .post .post-content p {
+  font-family: "IBM Plex Sans KR", sans-serif;
 }
 
 .post-header {
@@ -1797,12 +1801,15 @@ table tr:hover {
   width: 740px;
   max-width: 100%;
   margin: 80px auto;
-  background-color: #ffffff;
 }
 
 .page .page-content {
+  font-family: 'IBM Plex Sans KR', sans-serif;
   padding-left: 15px;
   padding-right: 15px;
+}
+.page .page-content h1, .page .page-content h2, .page .page-content h3, .page .page-content h4, .page .page-content h5, .page .page-content h6, .page .page-content p {
+  font-family: "IBM Plex Sans KR", sans-serif;
 }
 
 .page-header {

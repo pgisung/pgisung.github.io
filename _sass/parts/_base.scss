@@ -195,6 +195,7 @@ table tr:hover {
   position: relative;
   right: 0;
   transition: right .35s cubic-bezier(0.565, 1.65, 0.765, 0.90);
+  background-color: $currentbodycolor;
   &.open {
     right: 250px;
   }
