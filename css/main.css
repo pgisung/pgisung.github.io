@@ -419,7 +419,7 @@ li {
 }
 
 blockquote {
-  border-left: 3px solid #c9c1b8;
+  border-left: 3px solid #a79f96;
   padding: 10px 0 10px 30px;
   margin: 20px 0;
   font-size: 18px;
@@ -1436,7 +1436,7 @@ table tr:hover {
 .post-footer .post-tag a {
   font-size: 13px;
   margin-right: 10px;
-  color: #c9c1b8;
+  color: #a79f96;
   text-decoration: none;
   -webkit-transition: all .25s ease;
   -o-transition: all .25s ease;
@@ -1528,7 +1528,7 @@ table tr:hover {
 .post-author .post-author-info .post-author-meta a {
   font-size: 14px;
   margin-right: 5px;
-  color: #c9c1b8;
+  color: #a79f96;
   -webkit-transition: all .25s ease;
   -o-transition: all .25s ease;
   transition: all .25s ease;
@@ -1868,7 +1868,7 @@ table tr:hover {
   padding: 5px 7px;
   font-size: 14px;
   color: #ffffff;
-  background-color: #c9c1b8;
+  background-color: #a79f96;
   -webkit-transition: all .25s ease;
   -o-transition: all .25s ease;
   transition: all .25s ease;
@@ -1892,7 +1892,7 @@ table tr:hover {
 
 .tag-list span a {
   font-size: 16px;
-  color: #c9c1b8;
+  color: #a79f96;
   -webkit-transition: all .25s ease;
   -o-transition: all .25s ease;
   transition: all .25s ease;
