@@ -133,23 +133,23 @@ table {
   color:#333333;
   width: 100%;
   border-width: 1px;
-  border-color: #729ea5;
+  border-color: #563615;
   border-collapse: collapse;
 }
 
 table th {
   font-size: 16px;
   color: $white;
-  background-color:#6cd0ef;
+  background-color:$brown;
   border-width: 1px;
   padding: 8px;
   border-style: solid;
-  border-color: #729ea5;
+  border-color: #563615;
   text-align: left;
 }
 
 table tr {
-  background-color: #d4e3e5;
+  background-color: #ded5cc;
   transition: all .3s ease;
   &:nth-child(even) {
     background-color: #f7f7f7;
@@ -161,7 +161,7 @@ table td {
   border-width: 1px;
   padding: 8px;
   border-style: solid;
-  border-color: #729ea5;
+  border-color: #563615;
 }
 
 table tr:hover {

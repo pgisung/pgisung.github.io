@@ -283,11 +283,11 @@
   color: #099;
 }
 
-img[data-action="zoom"] {
+/* img[data-action="zoom"] {
   cursor: pointer;
   cursor: -webkit-zoom-in;
   cursor: -moz-zoom-in;
-}
+} */
 
 .zoom-img,
 .zoom-img-wrap {
@@ -298,11 +298,11 @@ img[data-action="zoom"] {
   transition: all 300ms;
 }
 
-img.zoom-img {
+/* img.zoom-img {
   cursor: pointer;
   cursor: -webkit-zoom-out;
   cursor: -moz-zoom-out;
-}
+} */
 
 .zoom-overlay {
   z-index: 420;
@@ -480,23 +480,23 @@ table {
   color: #333333;
   width: 100%;
   border-width: 1px;
-  border-color: #729ea5;
+  border-color: #563615;
   border-collapse: collapse;
 }
 
 table th {
   font-size: 16px;
   color: #ffffff;
-  background-color: #6cd0ef;
+  background-color: #8D4801;
   border-width: 1px;
   padding: 8px;
   border-style: solid;
-  border-color: #729ea5;
+  border-color: #563615;
   text-align: left;
 }
 
 table tr {
-  background-color: #d4e3e5;
+  background-color: #ded5cc;
   -webkit-transition: all .3s ease;
   -o-transition: all .3s ease;
   transition: all .3s ease;
@@ -511,7 +511,7 @@ table td {
   border-width: 1px;
   padding: 8px;
   border-style: solid;
-  border-color: #729ea5;
+  border-color: #563615;
 }
 
 table tr:hover {

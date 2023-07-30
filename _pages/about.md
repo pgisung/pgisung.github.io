@@ -19,7 +19,21 @@ On the next hand, I may release my stresses by things that below
 1. listening pop musics
 2. watching Netflix 
 3. go singing to karaoke (whether skill is good or not?)
+ 
+- playing game was 
 
+<div class="image-slider-passive">
+  <img src="images/my-image.jpg">
+  <img src="images/my-image.jpg">
+  <img src="images/my-image.jpg">
+  <img src="images/my-image.jpg">
+  <img src="images/my-image.jpg">
+  <img src="images/my-image.jpg">
+  <img src="images/my-image.jpg">
+  <img src="images/my-image.jpg">
+  <img src="images/my-image.jpg">
+  <img src="images/my-image.jpg">
+</div>
 
 ---
 

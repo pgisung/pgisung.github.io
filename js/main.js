@@ -36,8 +36,8 @@ $(function() {
   });
 
   // Medium's Image Zoom
-  $('.page img, .post img').attr('data-action', 'zoom');
-  $(".page a img, .post a img").removeAttr("data-action", "zoom");
+  // $('.page img, .post img').attr('data-action', 'zoom');
+  // $(".page a img, .post a img").removeAttr("data-action", "zoom");
 
   // Search Box
   $('.search-toggle').click(function() {
@@ -108,5 +108,83 @@ $(function() {
       $(_this).removeClass("is-loading");
     });
   }
+
+  // Slick.js : image-slider-passive
+  $('.image-slider-passive').slick({
+    dots: true,
+    infinite: false,
+    speed: 300,
+    slidesToShow: 3,
+    slidesToScroll: 1,
+    responsive: [
+        {
+          breakpoint: 1024,
+          settings: {
+            slidesToShow: 3,
+            slidesToScroll: 1,
+            infinite: true,
+            dots: true
+          }
+        },
+        {
+          breakpoint: 600,
+          settings: {
+            slidesToShow: 2,
+            slidesToScroll: 1
+          }
+        },
+        {
+          breakpoint: 480,
+          settings: {
+            slidesToShow: 1,
+            slidesToScroll: 1
+          }
+        }
+        // You can unslick at a given breakpoint now by adding:
+        // settings: "unslick"
+        // instead of a settings object
+      ]
+  });
+
+  // Slick.js : image-slider-auto
+  $('.image-slider-auto').slick({
+      dots: true,
+      infinite: true,
+      speed: 500,
+      slidesToShow: 3,
+      slidesToScroll: 1,
+      responsive: [
+        {
+          breakpoint: 1024,
+          settings: {
+            slidesToShow: 3,
+            slidesToScroll: 1,
+            infinite: true,
+            dots: true
+          }
+        },
+        {
+          breakpoint: 600,
+          settings: {
+            slidesToShow: 2,
+            slidesToScroll: 1
+          }
+        },
+        {
+          breakpoint: 480,
+          settings: {
+            slidesToShow: 1,
+            slidesToScroll: 1
+          }
+        }
+        // You can unslick at a given breakpoint now by adding:
+        // settings: "unslick"
+        // instead of a settings object
+      ],
+      fade: true,
+      autoplay: true,
+      autoplaySpeed: 2000,
+      cssEase: 'linear'
+  });
 
 });
