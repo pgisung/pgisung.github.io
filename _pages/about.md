@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-image: about.jpg
+title: About Me
+image: aboutme.jpg
 ---
 
 ## <span style="color: brown">**Introduction**</span>
@@ -16,44 +16,81 @@ My original name is **Jisung Park**. I go by the name of **Johnny** so, you can 
 Well.. That I used to enjoy is a **deep reflection** how I may **improve the performance of process** what I am dealing with and, **making clean code** having appropriate readability. Although it would take so long time merely to think and think,
 
 <div class="image-slider-passive">
-  <img src="images/about/hobbies/hobby1.jpg">
+  <img src="images/aboutme/hobbies/hobby1.jpg">
 </div>
 <br>
 On the next hand, I may release my stresses by things that below.
+
 - **listening pop musics**.
   - K-pop, Billboard Hot 100, Youtube cover songs, J.fla
 <div class="image-slider-passive">
-  <img src="images/about/hobbies/hobby2.jpg">
+  <img src="images/aboutme/hobbies/hobby2.jpg">
 </div>
+
 - **watching Netflix**.
-  - I doesn't matter what genre it is however, it is important whether the content having proper sequence of story and containing message.
+  - It doesn't matter what genre it is however, it is important whether the content having proper sequence of story and containing message.
 <div class="image-slider-passive">
-  <img src="images/about/hobbies/hobby3.jpg">
+  <img src="images/aboutme/hobbies/hobby3.jpg">
 </div>
+
 - that go **singing** to karaoke. (whether the skill is good or not?)
 <div class="image-slider-passive">
-  <img src="images/about/hobbies/hobby4.jpg">
+  <img src="images/aboutme/hobbies/hobby4.jpg">
 </div>
 
 - there was **playing game**.
   - I had tried to measure how long time can't I feel boring from playing game content. and there was precisely the end.
 
 <div class="image-slider-auto">
-  <img src="images/about/games/game1.jpg">
-  <img src="images/about/games/game2.jpg">
-  <img src="images/about/games/game3.jpg">
-  <img src="images/about/games/game4.jpg">
-  <img src="images/about/games/game5.jpg">
-  <img src="images/about/games/game6.jpg">
-  <img src="images/about/games/game7.jpg">
-  <img src="images/about/games/game8.jpg">
-  <img src="images/about/games/game9.jpg">
-  <img src="images/about/games/game10.jpg">
-  <img src="images/about/games/game11.jpg">
-  <img src="images/about/games/game12.jpg">
-  <img src="images/about/games/game13_1.jpg">
-  <img src="images/about/games/game13_2.jpg">
+  <img src="images/aboutme/games/game1.jpg">
+  <img src="images/aboutme/games/game2.jpg">
+  <img src="images/aboutme/games/game3.jpg">
+  <img src="images/aboutme/games/game4.jpg">
+  <img src="images/aboutme/games/game5.jpg">
+  <img src="images/aboutme/games/game6.jpg">
+  <img src="images/aboutme/games/game7.jpg">
+  <img src="images/aboutme/games/game8.jpg">
+  <img src="images/aboutme/games/game9.jpg">
+  <img src="images/aboutme/games/game10.jpg">
+  <img src="images/aboutme/games/game11.jpg">
+  <img src="images/aboutme/games/game12.jpg">
+  <img src="images/aboutme/games/game13_1.jpg">
+  <img src="images/aboutme/games/game13_2.jpg">
 </div>
+<br>
+#### <span style="color: #8D4801">**What is the aim of this blog?**</span>
+
+```javascript
+// What is developing
+gulp.task('development', function() {
+    return gulp.src('product')
+        .pipe(function(){
+            while(isAbleBuild) {
+                sprint()
+            }
+        })
+});
+
+gulp.task('sprint', function() {
+    return gulp.src('app')
+        .pipe(empathize())
+        .pipe(define())
+        .pipe(ideate())
+        .pipe(prototype())
+        .pipe(test());
+})
+
+gulp.task('designcycle', function() {
+    return gulp.src('app')
+        .pipe(brainstorm())
+        .pipe(plan())
+        .pipe(prototype())
+        .pipe(evaluate());
+})
+```
+1. **To share what I have suffered hard** while develping app
+2. The topic **about development** that I would like to discuss 
+3. For my eager to want to have **my own area in online**
 
 ---
 

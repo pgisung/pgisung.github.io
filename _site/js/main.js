@@ -36,8 +36,15 @@ $(function() {
   });
 
   // Medium's Image Zoom
-  // $('.page img, .post img').attr('data-action', 'zoom');
-  // $(".page a img, .post a img").removeAttr("data-action", "zoom");
+  $('.page img, .post img').attr('data-action', 'zoom');
+  $(".page a img, .post a img").removeAttr("data-action", "zoom");
+  // slick slider Image Zoom
+  // $(document).on('click', '.page img, .post img', function() {
+  //   $('.image-slider-passive, .image-slider-auto').addClass('zoomed');
+  // });
+  // $(document).on('click', '.page a img, .post a img', function() {
+  //   $('.image-slider-passive, .image-slider-auto').removeClass('zoomed');
+  // });
 
   // Search Box
   $('.search-toggle').click(function() {

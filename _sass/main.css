@@ -26,7 +26,7 @@
   background: #f7f7f7;
 }
 .highlighter-rouge .highlight {
-  background: #eef;
+  background: rgba(170, 177, 199, 0.15);
 }
 .highlight .c {
   color: #998;
@@ -221,12 +221,24 @@
   color: #099;
 }
 
+img[data-action=zoom] {
+  cursor: pointer;
+  cursor: -webkit-zoom-in;
+  cursor: -moz-zoom-in;
+}
+
 .zoom-img,
 .zoom-img-wrap {
   position: relative;
   z-index: 666;
   -webkit-transition: all 300ms;
   transition: all 300ms;
+}
+
+img.zoom-img {
+  cursor: pointer;
+  cursor: -webkit-zoom-out;
+  cursor: -moz-zoom-out;
 }
 
 .zoom-overlay {
@@ -257,6 +269,7 @@
 .image-slider-passive, .image-slider-auto {
   width: 90%;
   margin-left: 5%;
+  z-index: auto;
 }
 .image-slider-passive img, .image-slider-auto img {
   padding: 5px;
@@ -264,6 +277,15 @@
 }
 .image-slider-passive .slick-prev:before, .image-slider-passive .slick-next:before, .image-slider-auto .slick-prev:before, .image-slider-auto .slick-next:before {
   color: #8D4801;
+}
+.image-slider-passive.zoomed, .image-slider-auto.zoomed {
+  z-index: 666;
+}
+.image-slider-passive.zoomed .slick-list, .image-slider-auto.zoomed .slick-list {
+  overflow: visible;
+}
+.image-slider-passive .slick-list, .image-slider-auto .slick-list {
+  overflow: hidden;
 }
 
 /* Slider */
