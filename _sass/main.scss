@@ -19,12 +19,12 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
 
 /* 0. ========== Plugin libs ========== */
+@import 'variables'; // 플러그인 css도 바꾸려면 변수 위쪽으로 이동
 @import 'vendor/syntax-highlighting';
 @import 'vendor/zoom';
 @import 'vendor/image-slider';
 @import 'vendor/slick';
 @import 'vendor/slick-theme';
-@import 'variables';
 
 /* 1. ========== Main Template Settings ========== */
 

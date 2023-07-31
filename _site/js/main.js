@@ -111,33 +111,33 @@ $(function() {
 
   // Slick.js : image-slider-passive
   $('.image-slider-passive').slick({
-    dots: true,
+    dots: false,
     infinite: false,
     speed: 300,
     slidesToShow: 3,
-    slidesToScroll: 1,
+    slidesToScroll: 3,
     responsive: [
-        {
-          breakpoint: 1024,
-          settings: {
-            slidesToShow: 3,
-            slidesToScroll: 1,
-            infinite: true,
-            dots: true
-          }
-        },
+        // {
+        //   breakpoint: 1024,
+        //   settings: {
+        //     slidesToShow: 3,
+        //     slidesToScroll: 3,
+        //   }
+        // },
         {
           breakpoint: 600,
           settings: {
+            arrows: false,
             slidesToShow: 2,
-            slidesToScroll: 1
+            slidesToScroll: 2,
           }
         },
         {
           breakpoint: 480,
           settings: {
+            arrows: false,
             slidesToShow: 1,
-            slidesToScroll: 1
+            slidesToScroll: 1,
           }
         }
         // You can unslick at a given breakpoint now by adding:
@@ -148,40 +148,40 @@ $(function() {
 
   // Slick.js : image-slider-auto
   $('.image-slider-auto').slick({
-      dots: true,
+      dots: false,
       infinite: true,
       speed: 500,
       slidesToShow: 3,
       slidesToScroll: 1,
       responsive: [
-        {
-          breakpoint: 1024,
-          settings: {
-            slidesToShow: 3,
-            slidesToScroll: 1,
-            infinite: true,
-            dots: true
-          }
-        },
+        // {
+        //   breakpoint: 1024,
+        //   settings: {
+        //     slidesToShow: 3,
+        //     slidesToScroll: 3,
+        //   }
+        // },
         {
           breakpoint: 600,
           settings: {
+            arrows: false,
             slidesToShow: 2,
-            slidesToScroll: 1
+            slidesToScroll: 1,
           }
         },
         {
           breakpoint: 480,
           settings: {
+            arrows: false,
             slidesToShow: 1,
-            slidesToScroll: 1
+            slidesToScroll: 1,
           }
         }
         // You can unslick at a given breakpoint now by adding:
         // settings: "unslick"
         // instead of a settings object
       ],
-      fade: true,
+      // fade: true,
       autoplay: true,
       autoplaySpeed: 2000,
       cssEase: 'linear'

@@ -1,6 +1,6 @@
 # Site settings
 title: JohnnyPark
-description: The growth diary of Mobile developer JohnnyPark
+description: The growth diary of Software developer JohnnyPark
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pgisung.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -17,7 +17,7 @@ author-email: pgisung@naver.com
 author-github: https://github.com/pgisung
 author-facebook: https://www.facebook.com/pgisung
 author-instagram: https://www.instagram.com/pgisung
-author-linkedin: https://www.linkedin.com/in/jisung-park-a7243527b
+author-linkedin: https://www.linkedin.com/in/지성-박-a7243527b
 #author-twitter: https://www.instagram.com/pgisung
 #author-pinterest: https://github.com/pgisung
 
@@ -39,7 +39,7 @@ author-linkedin: https://www.linkedin.com/in/jisung-park-a7243527b
 github: https://github.com/pgisung
 facebook: https://www.facebook.com/pgisung
 instagram: https://www.instagram.com/pgisung
-linkedin: https://www.linkedin.com/in/jisung-park-a7243527b
+linkedin: https://www.linkedin.com/in/지성-박-a7243527b
 #twitter: https://www.instagram.com/pgisung
 #google-plus: https://www.instagram.com/pgisung
 #pinterest: https://github.com/pgisung

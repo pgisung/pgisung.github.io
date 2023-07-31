@@ -225,6 +225,7 @@
 .zoom-img-wrap {
   position: relative;
   z-index: 666;
+  -webkit-transition: all 300ms;
   transition: all 300ms;
 }
 
@@ -239,6 +240,7 @@
   pointer-events: none;
   filter: "alpha(opacity=0)";
   opacity: 0;
+  -webkit-transition: opacity 300ms;
   transition: opacity 300ms;
 }
 
@@ -252,21 +254,31 @@
   cursor: default;
 }
 
-.image-slider-passive img {
-  padding: 10px;
+.image-slider-passive, .image-slider-auto {
+  width: 90%;
+  margin-left: 5%;
+}
+.image-slider-passive img, .image-slider-auto img {
+  padding: 5px;
   border-radius: 15%;
+}
+.image-slider-passive .slick-prev:before, .image-slider-passive .slick-next:before, .image-slider-auto .slick-prev:before, .image-slider-auto .slick-next:before {
+  color: #8D4801;
 }
 
 /* Slider */
 .slick-slider {
   position: relative;
   display: block;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   -webkit-user-select: none;
   -moz-user-select: none;
+  -ms-user-select: none;
   user-select: none;
   -webkit-touch-callout: none;
   -khtml-user-select: none;
+  -ms-touch-action: pan-y;
   touch-action: pan-y;
   -webkit-tap-highlight-color: transparent;
 }
@@ -290,6 +302,8 @@
 
 .slick-slider .slick-track,
 .slick-slider .slick-list {
+  -webkit-transform: translate3d(0, 0, 0);
+  -ms-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0);
 }
 
@@ -381,6 +395,8 @@
   width: 20px;
   height: 20px;
   padding: 0;
+  -webkit-transform: translate(0, -50%);
+  -ms-transform: translate(0, -50%);
   transform: translate(0, -50%);
   cursor: pointer;
   color: transparent;
@@ -530,7 +546,8 @@
 /* 1. ========== Main Template Settings ========== */
 /* 1.1. ========== Base Settings ========== */
 *, *::after, *::before {
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
 }
 
 html {
@@ -680,6 +697,7 @@ table th {
 
 table tr {
   background-color: #ded5cc;
+  -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
 }
 table tr:nth-child(even) {
@@ -711,12 +729,15 @@ table tr:hover {
   z-index: 1;
   filter: alpha(opacity=0);
   opacity: 0;
-  box-shadow: 2px 5px 20px rgba(0, 0, 0, 0.7);
+  -webkit-box-shadow: 2px 5px 20px rgba(0, 0, 0, 0.7);
+          box-shadow: 2px 5px 20px rgba(0, 0, 0, 0.7);
+  -webkit-transition: all 0.2s ease;
   transition: all 0.2s ease;
 }
 .overlay.show {
   pointer-events: auto;
-  filter: none;
+  -webkit-filter: none;
+          filter: none;
   opacity: 1;
 }
 
@@ -724,6 +745,7 @@ table tr:hover {
   min-height: 100vh;
   position: relative;
   right: 0;
+  -webkit-transition: right 0.35s cubic-bezier(0.565, 1.65, 0.765, 0.9);
   transition: right 0.35s cubic-bezier(0.565, 1.65, 0.765, 0.9);
   background-color: rgba(255, 162, 81, 0.1);
 }
@@ -732,12 +754,18 @@ table tr:hover {
 }
 
 .wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  flex-wrap: wrap;
-  flex: 1 0 auto;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-flex: 1;
+      -ms-flex: 1 0 auto;
+          flex: 1 0 auto;
   width: 1440px;
   max-width: 100%;
   margin: 80px auto 80px;
+  -webkit-transition: all 0.35s ease;
   transition: all 0.35s ease;
 }
 @media screen and (max-width: 480px) {
@@ -768,6 +796,7 @@ table tr:hover {
   color: #8D4801;
   outline: none;
   cursor: pointer;
+  -webkit-transition: all 0.2s ease;
   transition: all 0.2s ease;
 }
 .btn:hover {
@@ -824,7 +853,9 @@ table tr:hover {
   float: left;
   position: absolute;
   top: 50%;
-  transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+          transform: translateY(-50%);
   text-align: center;
 }
 .site-logo a {
@@ -846,7 +877,9 @@ table tr:hover {
   position: relative;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
 }
 .site-nav a {
   position: relative;
@@ -859,13 +892,16 @@ table tr:hover {
   text-decoration: none;
   text-transform: uppercase;
   color: #ffffff;
+  -webkit-transition: all 0.2s ease;
   transition: all 0.2s ease;
 }
 .site-nav a:hover {
   color: rgba(255, 255, 255, 0.7);
 }
 .site-nav.open {
-  transform: translateX(0px);
+  -webkit-transform: translateX(0px);
+      -ms-transform: translateX(0px);
+          transform: translateX(0px);
 }
 
 .nav-toggle, .nav-toggle-close {
@@ -873,6 +909,7 @@ table tr:hover {
   font-size: 15px;
   position: absolute;
   cursor: pointer;
+  -webkit-transition: all 0.25s ease;
   transition: all 0.25s ease;
   z-index: 10;
 }
@@ -883,7 +920,9 @@ table tr:hover {
 .nav-toggle {
   top: 50%;
   right: 45px;
-  transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+          transform: translateY(-50%);
   color: #ffffff;
 }
 
@@ -901,7 +940,9 @@ table tr:hover {
     position: absolute;
     top: 50%;
     left: 15px;
-    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+            transform: translateY(-50%);
     text-align: left;
   }
   .navigation-wrap {
@@ -916,6 +957,7 @@ table tr:hover {
     background-color: rgba(141, 72, 1, 0.8);
     overflow-y: auto;
     z-index: 10;
+    -webkit-transition: right 0.35s cubic-bezier(0.565, 1.65, 0.765, 0.9);
     transition: right 0.35s cubic-bezier(0.565, 1.65, 0.765, 0.9);
   }
   .navigation-wrap.open {
@@ -923,7 +965,9 @@ table tr:hover {
   }
   .site-nav {
     float: none;
-    transform: none;
+    -webkit-transform: none;
+        -ms-transform: none;
+            transform: none;
     top: 0;
     left: 0;
     margin-top: 60px;
@@ -937,6 +981,7 @@ table tr:hover {
     padding: 25px 30px;
     margin: 0;
     border-bottom: 1px solid rgba(31, 42, 51, 0.1);
+    -webkit-transition: all 0.2s ease;
     transition: all 0.2s ease;
   }
   .site-nav a:hover {
@@ -959,6 +1004,7 @@ table tr:hover {
   position: fixed;
   top: 0;
   right: 0;
+  -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
 .search-box.show {
@@ -971,9 +1017,12 @@ table tr:hover {
   position: absolute;
   top: 50%;
   right: 15px;
-  transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+          transform: translateY(-50%);
   font-size: 15px;
   color: #ffffff;
+  -webkit-transition: all 0.2s ease;
   transition: all 0.2s ease;
   cursor: pointer;
   z-index: 10;
@@ -988,7 +1037,19 @@ table tr:hover {
   background-color: #8D4801;
   border: none;
 }
+.search-form ::-webkit-input-placeholder {
+  color: #ffffff;
+  opacity: 1;
+}
 .search-form ::-moz-placeholder {
+  color: #ffffff;
+  opacity: 1;
+}
+.search-form :-ms-input-placeholder {
+  color: #ffffff;
+  opacity: 1;
+}
+.search-form ::-ms-input-placeholder {
   color: #ffffff;
   opacity: 1;
 }
@@ -1023,8 +1084,11 @@ table tr:hover {
   position: absolute;
   top: 50%;
   right: 3px;
-  transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+          transform: translateY(-50%);
   background-color: #5a2e01;
+  -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
   color: #ffffff;
   cursor: pointer;
@@ -1036,7 +1100,8 @@ table tr:hover {
 .search-results-list {
   width: 100%;
   height: 35vh;
-  box-shadow: 0 5px 10px rgba(141, 72, 1, 0.3);
+  -webkit-box-shadow: 0 5px 10px rgba(141, 72, 1, 0.3);
+          box-shadow: 0 5px 10px rgba(141, 72, 1, 0.3);
   margin: 0;
   padding: 40px 15px;
   position: absolute;
@@ -1056,6 +1121,7 @@ table tr:hover {
   font-weight: 400;
   text-decoration: none;
   color: #2d2d2d;
+  -webkit-transition: all 0.2s ease;
   transition: all 0.2s ease;
 }
 .search-results-list li a:hover {
@@ -1064,9 +1130,15 @@ table tr:hover {
 
 /* 3. ========== Hero ========== */
 .hero {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
   position: relative;
   width: 100%;
   min-height: 700px;
@@ -1158,6 +1230,7 @@ table tr:hover {
 .info-social-list li a, .info-social-list li span {
   font-size: 21px;
   color: #000000;
+  -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
 }
 .info-social-list li a:hover, .info-social-list li span:hover {
@@ -1181,6 +1254,8 @@ table tr:hover {
   color: #787878;
 }
 .newsletter-form .c-newsletter-form-group {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
 }
 
@@ -1205,6 +1280,7 @@ table tr:hover {
   cursor: pointer;
   color: #ffffff;
   background-color: #8D4801;
+  -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
 .newsletter-button:hover {
@@ -1242,12 +1318,15 @@ table tr:hover {
   width: calc(33.3333333333% - 30px);
   position: relative;
   display: inline-block;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   margin: 0 0 1.5rem 0;
   background: #ffffff;
-  box-shadow: 0 4px 9px rgba(30, 59, 91, 0.08);
+  -webkit-box-shadow: 0 4px 9px rgba(30, 59, 91, 0.08);
+          box-shadow: 0 4px 9px rgba(30, 59, 91, 0.08);
   border-radius: 8px;
   overflow: hidden;
+  -webkit-transition: all 0.35s ease;
   transition: all 0.35s ease;
   margin-left: -15px;
   margin-right: -15px;
@@ -1267,8 +1346,11 @@ table tr:hover {
   padding-top: 56%;
 }
 .posts:hover {
-  transform: translate(0px, -3px);
-  box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
+  -webkit-transform: translate(0px, -3px);
+      -ms-transform: translate(0px, -3px);
+          transform: translate(0px, -3px);
+  -webkit-box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
+          box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
 }
 .posts:hover .cover, .posts:hover .author-box, .posts:hover .post-share {
   opacity: 1;
@@ -1286,16 +1368,22 @@ table tr:hover {
 
 .post-thumbnail {
   position: relative;
+  -webkit-transition: all 0.7s ease-in-out;
   transition: all 0.7s ease-in-out;
 }
 .post-thumbnail .author-box {
   position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  align-items: flex-end;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
   left: 30px;
   bottom: 20px;
   z-index: 1;
   opacity: 0;
+  -webkit-transition: all 0.35s ease-in-out;
   transition: all 0.35s ease-in-out;
 }
 .post-thumbnail .author-box .author-info {
@@ -1327,7 +1415,9 @@ table tr:hover {
   right: 0;
   bottom: 0;
   opacity: 0;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0, rgba(186, 142, 119, 0.1)), color-stop(40%, transparent), color-stop(60%, transparent), to(rgba(186, 142, 119, 0.6)));
   background: linear-gradient(180deg, rgba(186, 142, 119, 0.1) 0, transparent 40%, transparent 60%, rgba(186, 142, 119, 0.6));
+  -webkit-transition: all 0.15s ease-in-out;
   transition: all 0.15s ease-in-out;
   opacity: 0;
 }
@@ -1343,6 +1433,7 @@ table tr:hover {
 .post-body h2 a {
   text-decoration: none;
   color: #222;
+  -webkit-transition: all 0.2s ease;
   transition: all 0.2s ease;
 }
 .post-body h2 a:hover {
@@ -1359,17 +1450,20 @@ table tr:hover {
   text-decoration: none;
   color: #222;
   font-size: 14px;
+  -webkit-transition: all 0.2s ease;
   transition: all 0.2s ease;
 }
 .post-body .more:hover {
   color: #000000;
-  box-shadow: inset 0 -8px 0 rgba(186, 142, 119, 0.6);
+  -webkit-box-shadow: inset 0 -8px 0 rgba(186, 142, 119, 0.6);
+          box-shadow: inset 0 -8px 0 rgba(186, 142, 119, 0.6);
 }
 
 .post-share {
   position: absolute;
   top: 10px;
   right: 20px;
+  -webkit-transition: all 0.35s ease-in-out;
   transition: all 0.35s ease-in-out;
   opacity: 0;
 }
@@ -1378,10 +1472,13 @@ table tr:hover {
   font-size: 15px;
   padding: 5px;
   color: #ffffff;
+  -webkit-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
 }
 .post-share .share-icon:hover {
-  transform: scale(1.2);
+  -webkit-transform: scale(1.2);
+      -ms-transform: scale(1.2);
+          transform: scale(1.2);
 }
 .post-share .share-twitter:hover {
   color: #55acee;
@@ -1416,7 +1513,8 @@ table tr:hover {
 
 .post {
   width: 100%;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   word-wrap: break-word;
   padding-left: 15px;
   padding-right: 15px;
@@ -1430,9 +1528,15 @@ table tr:hover {
 }
 
 .post-header {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
   position: relative;
   width: 100%;
   height: 100px;
@@ -1488,18 +1592,25 @@ table tr:hover {
 .post-footer .post-footer-list li a {
   color: #5b5b5b;
   text-decoration: none;
+  -webkit-transition: all 0.25s ease;
   transition: all 0.25s ease;
 }
 .post-footer .post-footer-list li a:hover {
   color: #9b9184;
+  -webkit-transition: all 0.25s ease;
   transition: all 0.25s ease;
 }
 .post-footer .post-footer-list li a:hover i {
-  transform: scale(1.2);
-  transform: translateY(-3px);
+  -webkit-transform: scale(1.2);
+      -ms-transform: scale(1.2);
+          transform: scale(1.2);
+  -webkit-transform: translateY(-3px);
+      -ms-transform: translateY(-3px);
+          transform: translateY(-3px);
 }
 .post-footer .post-footer-list li a i {
   padding-right: 10px;
+  -webkit-transition: all 0.25s ease-in-out;
   transition: all 0.25s ease-in-out;
 }
 .post-footer .post-footer-list li a.post-twitter {
@@ -1526,6 +1637,7 @@ table tr:hover {
   margin-right: 10px;
   color: #a79f96;
   text-decoration: none;
+  -webkit-transition: all 0.25s ease;
   transition: all 0.25s ease;
 }
 .post-footer .post-tag a:last-child {
@@ -1533,6 +1645,7 @@ table tr:hover {
 }
 .post-footer .post-tag a:hover {
   color: #5b5b5b;
+  -webkit-transition: all 0.25s ease;
   transition: all 0.25s ease;
 }
 
@@ -1558,9 +1671,15 @@ table tr:hover {
   }
 }
 .post-author {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content: center;
-  align-items: flex-start;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
   padding: 20px;
   margin-bottom: 40px;
   background-color: #f5f6f7;
@@ -1600,11 +1719,13 @@ table tr:hover {
   font-size: 14px;
   margin-right: 5px;
   color: #a79f96;
+  -webkit-transition: all 0.25s ease;
   transition: all 0.25s ease;
 }
 .post-author .post-author-info .post-author-meta a:hover {
   color: #323232;
   opacity: 0.7;
+  -webkit-transition: all 0.25s ease;
   transition: all 0.25s ease;
 }
 
@@ -1639,15 +1760,20 @@ table tr:hover {
   vertical-align: middle;
   overflow: hidden;
   text-overflow: ellipsis;
+  -webkit-transition: all 0.25s;
   transition: all 0.25s;
 }
 
 .prev-page:hover span {
-  transform: translateX(-5px);
+  -webkit-transform: translateX(-5px);
+      -ms-transform: translateX(-5px);
+          transform: translateX(-5px);
 }
 
 .next-page:hover span {
-  transform: translateX(5px);
+  -webkit-transform: translateX(5px);
+      -ms-transform: translateX(5px);
+          transform: translateX(5px);
 }
 
 .comments-area {
@@ -1681,8 +1807,13 @@ table tr:hover {
     font-size: 16px;
   }
   .post-author {
-    flex-direction: column;
-    align-items: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
   }
   .post-author .post-author-image {
     margin: 0 0 10px;
@@ -1710,6 +1841,7 @@ table tr:hover {
   font-size: 21px;
   text-align: center;
   cursor: pointer;
+  -webkit-transition: all 0.25s ease;
   transition: all 0.25s ease;
   right: -100px;
   z-index: 10;
@@ -1743,9 +1875,15 @@ table tr:hover {
 }
 /* 9. ========== Footer Styles ========== */
 .footer-nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
   padding: 30px 15px 0;
   background-color: transparent;
 }
@@ -1758,6 +1896,7 @@ table tr:hover {
   font-weight: 700;
   letter-spacing: 0.8px;
   color: #ffffff;
+  -webkit-transition: all 0.2s ease;
   transition: all 0.2s ease;
 }
 .footer-nav a:last-child {
@@ -1814,6 +1953,7 @@ table tr:hover {
 .social-footer li a {
   text-decoration: none;
   color: #ffffff;
+  -webkit-transition: all 0.2s ease;
   transition: all 0.2s ease;
 }
 
@@ -1832,6 +1972,7 @@ table tr:hover {
 .copyright p a {
   text-decoration: none;
   color: #ffffff;
+  -webkit-transition: all 0.2s ease;
   transition: all 0.2s ease;
 }
 .copyright p a:hover {
@@ -1877,9 +2018,15 @@ table tr:hover {
 }
 
 .page-header {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
   position: relative;
   width: 100%;
   min-height: 700px;
@@ -1934,6 +2081,7 @@ table tr:hover {
   font-size: 14px;
   color: #ffffff;
   background-color: #a79f96;
+  -webkit-transition: all 0.25s ease;
   transition: all 0.25s ease;
 }
 .blog-tags .tags li a:hover {
@@ -1953,6 +2101,7 @@ table tr:hover {
 .tag-list span a {
   font-size: 16px;
   color: #a79f96;
+  -webkit-transition: all 0.25s ease;
   transition: all 0.25s ease;
 }
 .tag-list span:hover a {
@@ -1999,6 +2148,7 @@ table tr:hover {
   outline: none;
   resize: none;
   color: #5b5b5b;
+  -webkit-transition: all 0.25s ease;
   transition: all 0.25s ease;
 }
 .form .form-group .form-input:focus,
