@@ -5,7 +5,8 @@
   background: #f7f7f7;
 
   .highlighter-rouge & {
-    background: rgba(170, 177, 199, 0.15);
+    background: rgba(170, 177, 199, 0.07);
+    border-radius: $allBorderRadius;
   }
 
   .c     { color: #998; font-style: italic } // Comment

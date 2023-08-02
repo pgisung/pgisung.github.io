@@ -20,48 +20,60 @@
     margin: 0;
     &:nth-child(1) {
       a {
-        &:hover {
+        &:before {
           background-color: $githubcolor;
         }
       }
     }
     &:nth-child(2) {
       a {
-        &:hover {
+        &:before {
           background-color: $facebookcolor;
         }
       }
     }
     &:nth-child(3) {
       a {
-        &:hover {
+        &:before {
           background-color: $instagramcolor;
         }
       }
     }
     &:nth-child(4) {
       a {
-        &:hover {
+        &:before {
           background-color: $linkedincolor;
         }
       }
     }
     a {
+      font-size: 21px;
+      color: $black;
       width: 25%;
       float: left;
       text-align: center;
       line-height: 60px;
-    }
-    a, span {
-      font-size: 21px;
-      color: $black;
+      border-radius: 50%;
+      z-index: 1;
+      position: relative;
       transition: all 0.3s ease;
+      &:before {
+        content: '';
+        position: absolute;
+        width: 58px;
+        height: 58px;
+        border-radius: 50%;
+        z-index: -1;
+        left: 50%;
+        transform: translateX(-50%) scale(0);
+        transition: all 0.3s ease;
+      }
       &:hover {
         color: $white;
+        &:before {
+          transform: translateX(-50%) scale(1);
+        }
       }
-    }
-    span {
-      cursor: pointer;
     }
   }
 }
@@ -110,6 +122,8 @@
 .newsletter-form {
   input[type="email"] {
     color: $lightengray;
+    border-top-left-radius: $allBorderRadius;
+    border-bottom-left-radius: $allBorderRadius;
   }
   .c-newsletter-form-group {
     display: flex;
@@ -137,6 +151,8 @@
   cursor: pointer;
   color: $white;
   background-color: $brown;
+  border-top-right-radius: $allBorderRadius;
+  border-bottom-right-radius: $allBorderRadius;
   transition: all 0.3s ease-in-out;
   &:hover {
     background-color: darken($brown, 15%);

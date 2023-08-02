@@ -6,7 +6,7 @@
 
   img {
     padding: 5px;
-    border-radius: 15%;
+    border-radius: $allBorderRadius;
   }
   .slick-prev:before, .slick-next:before {
     color: $brown;

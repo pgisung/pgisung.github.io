@@ -5,7 +5,6 @@ image: aboutme.jpg
 ---
 
 ## <span style="color: brown">**Introduction**</span>
-<br>
 
 #### <span style="color: #8D4801">**What is my name?**</span>
 
@@ -88,14 +87,13 @@ gulp.task('designcycle', function() {
         .pipe(evaluate());
 })
 ```
-1. **To share what I have suffered hard** while develping app
-2. The topic **about development** that I would like to discuss 
+1. **To share what I have suffered hard** while developing app
+2. To discuss the topic **about development** that I would like 
 3. For my eager to want to have **my own area in online**
 
 ---
 
 ## <span style="color: brown">**Experience**</span>
-<br>
 
 #### <span style="color: #8D4801">**LikeLion iOS App School**</span>
 <small>2023-05-22 ~ ing</small>  

@@ -12,9 +12,10 @@
 				font-size: 14px;
 				color: $white;
 				background-color: $lightbrown;
+				border-radius: $allBorderRadius;
 				transition: all .25s ease;
 				&:hover {
-					background-color: #a3acb5;			
+					background-color: $brown;			
 				}
 			}
 		}
@@ -39,7 +40,7 @@
 		}
 		&:hover {
 			a {
-				color: #7c858e;
+				color: $brown;
 				text-decoration: underline;
 			}
 		}
