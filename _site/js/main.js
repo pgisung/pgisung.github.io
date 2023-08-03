@@ -63,7 +63,7 @@ $(function() {
   // $('.btn-close').click(function() {
   //   $('.search-box').removeClass('show');
   // });
-
+  
   // Simple Search Settings
   SimpleJekyllSearch({
     searchInput: document.getElementById('search-input'),
@@ -225,4 +225,24 @@ $(function() {
       cssEase: 'linear'
   });
 
+  // #id로 a태그 앵커 이동할 때 id태그를 중앙으로 위치하도록 이동시킴 (원래는 최상단에 위치함)
+  document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function (e) {
+      e.preventDefault();
+  
+      const targetId = this.getAttribute('href').slice(1); // href에서 # 제거
+      const target = document.getElementById(targetId);
+      if (target) {
+        const offsetTop = target.getBoundingClientRect().top; // target의 뷰포트 최상단부터 타겟요소까지 상대적인 위치 값 : 픽셀
+        const headerOffset = window.innerHeight / 2; // window.innerHeight은 Viewport 높이 : 픽셀
+        // scrollY: 전체 컨텐츠에서 스크롤된 정도 픽셀 값
+  
+        window.scrollBy({
+          top: offsetTop - headerOffset,
+          behavior: 'smooth'
+        });
+      }
+    });
+  });
+  
 });

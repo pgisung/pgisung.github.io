@@ -21,11 +21,11 @@ layout: default
    {% assign author = site.authors[post.author] %}
     <article class="posts">
       {% if post.img %}
-        <a class="post-thumbnail hidden" style="background-image: url({{"/images/pages/" | prepend: site.baseurl | append : post.img}})" href="{{post.url | prepend: site.baseurl}}">
+        <a class="post-thumbnail hidden" style="background-image: url({{"/images/posts/" | prepend: site.baseurl | append : post.img}})" href="{{post.url | prepend: site.baseurl}}">
           {% if author %}
           <div class="author-box">
             <div class="author-image-cover">
-              <div class="author-image-small" style="background-image: url({{"/images/" | prepend: site.baseurl | append: author.author-image}})"></div>
+              <div class="author-image-small" style="background-image: url({{"/images/authors/" | prepend: site.baseurl | append: author.author-image}})"></div>
             </div>
             <div class="author-info">
               <span class="meta">Date: <time datetime="{{ post.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%B %-d, %Y" %}{{ post.date | date: date_format }}</time></span><br>
@@ -35,7 +35,7 @@ layout: default
           {% else %}
           <div class="author-box">
             <div class="author-image-cover">
-              <div class="author-image-small" style="background-image: url({{"/images/" | prepend: site.baseurl | append: site.author-image}})"></div>
+              <div class="author-image-small" style="background-image: url({{"/images/authors/" | prepend: site.baseurl | append: site.author-image}})"></div>
             </div>
             <div class="author-info">
               <span class="meta">Date: <time datetime="{{ post.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%B %-d, %Y" %}{{ post.date | date: date_format }}</time></span><br>

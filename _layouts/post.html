@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="post-header" style="background: url({{"/images/pages/" | prepend: site.baseurl | append : page.img}})">
+<div class="post-header" style="background: url({{"/images/posts/" | prepend: site.baseurl | append : page.img}})">
   <div class="post-header-info">
     <h1 class="post-title">{{ page.title | escape }}</h1>
     <div class="post-meta">
@@ -49,7 +49,7 @@ layout: default
     <div class="post-author">
       {% if author %}
       <div class="post-author-image">
-        <a style="background-image: url({{"/images/" | prepend: site.baseurl | append: author.author-image}})">
+        <a style="background-image: url({{"/images/authors/" | prepend: site.baseurl | append: author.author-image}})">
           <span class="screen-reader-text">{{author.author-name}} Picture</span>
         </a>
       </div>
@@ -81,7 +81,7 @@ layout: default
       </div>
       {% else %}
       <div class="post-author-image">
-        <a style="background-image: url({{"/images/" | prepend: site.baseurl | append: site.author-image}})">
+        <a style="background-image: url({{"/images/authors/" | prepend: site.baseurl | append: site.author-image}})">
           <span class="screen-reader-text">{{site.author-name}} Picture</span>
         </a>
       </div>
