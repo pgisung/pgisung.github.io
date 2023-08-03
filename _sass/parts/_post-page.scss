@@ -131,7 +131,7 @@
         margin-right: 0;
       }
       &:hover {
-        color: #5b5b5b;
+        color: $brown;
         transition: all .25s ease;
       }
     }
@@ -170,7 +170,8 @@
   align-items: flex-start;
   padding: 20px;
   margin-bottom: 40px;
-  background-color: #f5f6f7;
+  background-color: rgba(170, 177, 199, 0.2);
+  border-radius: $allBorderRadius;
 
   .post-author-image {
     margin-right: 20px;
@@ -210,7 +211,7 @@
         color: $lightbrown;
         transition: all .25s ease;
         &:hover {
-          color: $darkgray;
+          color: $brown;
           opacity: 0.7;
           transition: all .25s ease;
         }
@@ -285,7 +286,8 @@
     font-size: 18px;
     text-align: center;
     padding: 15px 0;
-    background-color: #f5f6f7;
+    background-color: rgba(170, 177, 199, 0.2);
+    border-radius: $allBorderRadius;
   }
 }
 

@@ -88,9 +88,9 @@
   width: 100%;
   // 타이틀 고정용 - 필요 없으면 아래 height: 100vh로 변경 (근데 검색화면은 너무커서 그냥 줄여둬도 괜찮을지도...)
   // 필요 없으면 아래 box-shadow 삭제 (근데 구분선이 필요할 것 같은데...)
-  height: 35vh;
-  box-shadow: 0 5px 10px rgba(141, 72, 1, 0.3);
-  // height: 100vh;
+  // height: 35vh;
+  // box-shadow: 0 5px 10px rgba(141, 72, 1, 0.3);
+  height: 100vh;
   margin: 0;
   padding: 40px 15px;
   position: absolute;

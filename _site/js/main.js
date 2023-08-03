@@ -15,7 +15,7 @@ $(function() {
 
   });
 
-  $(".overlay, .search-toggle").click(function() {
+  $(".overlay").click(function() {
     $(".full-page-container, .navigation-wrap").removeClass("open");
     $(".overlay").removeClass("show");
     $(".nav-toggle").html('<i class="fa fa-bars" aria-hidden="true"></i>');
@@ -41,20 +41,58 @@ $(function() {
 
   // Search Box
   $('.search-toggle').click(function() {
+    if ($('.full-page-container').hasClass('open')) {
+      $('.full-page-container').removeClass('open');
+      $('.nav-toggle').html('<i class="fa fa-bars" aria-hidden="true"></i>');
+    }
+    if ($('.overlay').hasClass('show')) {
+      $('.overlay').removeClass('show');
+      $('.nav-toggle').html('<i class="fa fa-bars" aria-hidden="true"></i>');
+    }
+
     $('.search-box').addClass('show');
     $('.navigation-wrap').removeClass('open');
   });
-  $('.btn-close').click(function() {
+  $('.search-results-list, .btn-close').click(function() {
     $('.search-box').removeClass('show');
   });
+  // $('.search-toggle').click(function() {
+  //   $('.search-box').addClass('show');
+  //   $('.navigation-wrap').removeClass('open');
+  // });
+  // $('.btn-close').click(function() {
+  //   $('.search-box').removeClass('show');
+  // });
 
   // Simple Search Settings
   SimpleJekyllSearch({
     searchInput: document.getElementById('search-input'),
     resultsContainer: document.getElementById('results-container'),
     json: '/search.json',
-    searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+    searchResultTemplate: `
+    <li>
+      <div>
+        <a href="{url}">{title}</a>
+      </div>
+      <div>
+        <a href="{url}">{tags}</a>
+      </div>
+      <div>
+        <i class="fa fa-instagram" aria-hidden="true"></i>
+        <a href="{url}">{date}</a>
+      </div>
+      <div>
+        <a href="{url}">{url}</a>
+      </div>
+    </li>
+  `,
+    templateMiddleware: function () {},
     noResultsText: 'No results found'
+    // searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+    // searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
+    // limit: 10,
+    // fuzzy: false, // 검색어와 완전히 일치한 결과 사용 여부 false면 완전히 일치해야함
+    // exclude: ['Welcome']
   })
 
   // Scroll To Top
