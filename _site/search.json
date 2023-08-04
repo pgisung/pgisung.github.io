@@ -5,7 +5,8 @@
       "category" : "",
       "tags"     : "Books, Hobby",
       "url"      : "/2017/10/27/10-best-books-of-all-time/",
-      "date"     : "2017-10-27 18:09:00 +0900"
+      "date"     : "2017-10-27 18:09:00 +0900",
+      "img"      : "/images/posts/17.jpg"
     } ,
   
     {
@@ -13,7 +14,8 @@
       "category" : "",
       "tags"     : "Tour, Music",
       "url"      : "/2017/10/27/that-I-take-with-me-on-tour/",
-      "date"     : "2017-10-27 17:11:00 +0900"
+      "date"     : "2017-10-27 17:11:00 +0900",
+      "img"      : "/images/posts/3.jpg"
     } ,
   
     {
@@ -21,7 +23,8 @@
       "category" : "",
       "tags"     : "Rest, Lifestyle",
       "url"      : "/2017/10/27/how-i-rest-after-the-concerts/",
-      "date"     : "2017-10-27 16:11:00 +0900"
+      "date"     : "2017-10-27 16:11:00 +0900",
+      "img"      : "/images/posts/4.jpg"
     } ,
   
     {
@@ -29,7 +32,8 @@
       "category" : "",
       "tags"     : "Traditions, Books, Morning",
       "url"      : "/2017/10/27/unchanging-traditions/",
-      "date"     : "2017-10-27 12:46:00 +0900"
+      "date"     : "2017-10-27 12:46:00 +0900",
+      "img"      : "/images/posts/5.jpg"
     } ,
   
     {
@@ -37,7 +41,8 @@
       "category" : "",
       "tags"     : "Hotels, Lifestyle",
       "url"      : "/2017/10/27/my-life-in-hotel-rooms/",
-      "date"     : "2017-10-27 11:20:00 +0900"
+      "date"     : "2017-10-27 11:20:00 +0900",
+      "img"      : "/images/posts/6.jpg"
     } ,
   
     {
@@ -45,7 +50,8 @@
       "category" : "",
       "tags"     : "Tips, Creative",
       "url"      : "/2017/10/27/organization-tip-of-the-day/",
-      "date"     : "2017-10-27 10:12:00 +0900"
+      "date"     : "2017-10-27 10:12:00 +0900",
+      "img"      : "/images/posts/7.jpg"
     } ,
   
     {
@@ -53,7 +59,8 @@
       "category" : "",
       "tags"     : "Inspiration, Music, Tips, Guitar",
       "url"      : "/2017/10/27/where-i-seek-inspiration/",
-      "date"     : "2017-10-27 10:11:00 +0900"
+      "date"     : "2017-10-27 10:11:00 +0900",
+      "img"      : "/images/posts/8.jpg"
     } ,
   
     {
@@ -61,7 +68,8 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/2017/10/27/it's-important-to-be-creative/",
-      "date"     : "2017-10-27 10:11:00 +0900"
+      "date"     : "2017-10-27 10:11:00 +0900",
+      "img"      : "/images/posts/9.jpg"
     } ,
   
     {
@@ -69,7 +77,8 @@
       "category" : "",
       "tags"     : "Music, Shopping, Guitar",
       "url"      : "/2017/10/09/how-to-choose-a-good-guitar/",
-      "date"     : "2017-10-09 17:34:00 +0900"
+      "date"     : "2017-10-09 17:34:00 +0900",
+      "img"      : "/images/posts/2.jpg"
     } ,
   
     {
@@ -77,7 +86,8 @@
       "category" : "",
       "tags"     : "jekyll",
       "url"      : "/2017/10/09/welcome-to-jekyll/",
-      "date"     : "2017-10-09 17:33:00 +0900"
+      "date"     : "2017-10-09 17:33:00 +0900",
+      "img"      : "/images/posts/16.jpg"
     } ,
   
     {
@@ -85,7 +95,8 @@
       "category" : "",
       "tags"     : "Rest",
       "url"      : "/2017/10/09/rest-in-the-woods/",
-      "date"     : "2017-10-09 17:33:00 +0900"
+      "date"     : "2017-10-09 17:33:00 +0900",
+      "img"      : "/images/posts/18.jpg"
     } ,
   
     {
@@ -93,7 +104,8 @@
       "category" : "",
       "tags"     : "Rest",
       "url"      : "/2017/10/09/about-the-benefits-of-water/",
-      "date"     : "2017-10-09 17:33:00 +0900"
+      "date"     : "2017-10-09 17:33:00 +0900",
+      "img"      : "/images/posts/19.jpg"
     } 
   
 ]

@@ -70,21 +70,29 @@ $(function() {
     resultsContainer: document.getElementById('results-container'),
     json: '/search.json',
     searchResultTemplate: `
-    <li>
-      <div>
-        <a href="{url}">{title}</a>
-      </div>
-      <div>
-        <a href="{url}">{tags}</a>
-      </div>
-      <div>
-        <i class="fa fa-instagram" aria-hidden="true"></i>
-        <a href="{url}">{date}</a>
-      </div>
-      <div>
-        <a href="{url}">{url}</a>
-      </div>
-    </li>
+      <li>
+        <a href="{url}">
+          <div class="template-box">
+            <div class="template-image">
+              <img src="{img}">
+            </div>
+            <div class="template-info">
+              <div>
+                <i class="fa fa-file-text-o" aria-hidden="true"></i>
+                <p>{title}</p>
+              </div>
+              <div class="template-subinfo">
+                <i class="fa fa-calendar" aria-hidden="true"></i>
+                <p>{date}</p>
+              </div>
+              <div class="template-subinfo">
+                <i class="fa fa-tags" aria-hidden="true"></i>
+                <p>{tags}</p>
+              </div>
+            </div>
+          </div>
+        </a>
+      </li>
   `,
     templateMiddleware: function () {},
     noResultsText: 'No results found'
