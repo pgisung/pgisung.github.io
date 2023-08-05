@@ -53,7 +53,7 @@ $(function() {
     $('.search-box').addClass('show');
     $('.navigation-wrap').removeClass('open');
   });
-  $('.search-results-list, .btn-close').click(function() {
+  $('.btn-close').click(function() {
     $('.search-box').removeClass('show');
   });
   // $('.search-toggle').click(function() {
@@ -94,14 +94,33 @@ $(function() {
         </a>
       </li>
   `,
-    templateMiddleware: function () {},
     noResultsText: 'No results found'
+    // templateMiddleware: function () {},
     // searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
     // searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
     // limit: 10,
     // fuzzy: false, // 검색어와 완전히 일치한 결과 사용 여부 false면 완전히 일치해야함
     // exclude: ['Welcome']
   })
+
+  // 태그 버튼을 이용한 검색 기능 추가
+  var tags = document.querySelectorAll('.search-box .tag');
+  for (var i = 0; i < tags.length; i++) {
+    tags[i].addEventListener('click', function(event) {
+      event.preventDefault();
+      var searchInput = document.querySelector('#search-input');
+      var eventTargetAttr = event.target.getAttribute('href')
+      if (eventTargetAttr) {
+        var searchValue = eventTargetAttr.replace('#', '');
+        searchInput.value = searchValue;
+        var searchEvent = new KeyboardEvent('keyup', {
+          bubbles: true,
+          cancelable: true
+        });
+        searchInput.dispatchEvent(searchEvent);
+      }
+    });
+  }
 
   // Scroll To Top
   $('.top').click(function () {
