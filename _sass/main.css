@@ -920,6 +920,8 @@ h3 {
 
 h4 {
   font-size: 20px;
+  padding-left: 10px;
+  border-left: 3px solid #a79f96;
 }
 
 h5 {
@@ -991,21 +993,8 @@ figure {
 }
 
 hr {
-  display: block;
   margin: 60px 0;
-  text-align: center;
-  font-size: 50px;
-  line-height: 0;
-  letter-spacing: 10px;
-  border: 0;
-}
-hr:before {
-  content: "...";
-  display: inline-block;
-  position: relative;
-  margin-left: 10px;
-  color: rgba(0, 0, 0, 0.8);
-  top: -15px;
+  border: 1px solid #8D4801;
 }
 
 .hidden {
@@ -1536,6 +1525,11 @@ table tr:hover {
   font-size: 14px;
 }
 
+.template-mark {
+  color: #8D4801;
+  font-weight: bold;
+}
+
 /* 3. ========== Hero ========== */
 .hero {
   display: -webkit-box;
@@ -1554,6 +1548,10 @@ table tr:hover {
   background-size: cover !important;
   background-position: center !important;
   background-repeat: no-repeat !important;
+  -webkit-animation: opacity-image 1.5s ease-out;
+          animation: opacity-image 1.5s ease-out;
+  -webkit-animation-fill-mode: both;
+          animation-fill-mode: both;
 }
 .hero::before {
   content: "";
@@ -1573,6 +1571,8 @@ table tr:hover {
   line-height: 1.3;
   color: rgba(141, 72, 1, 0.6);
   text-shadow: 0px 1px 1px rgba(51, 51, 51, 0.1);
+  -webkit-animation: slideup 2s 0.5s ease-out both;
+          animation: slideup 2s 0.5s ease-out both;
 }
 .hero-content .hero-description {
   margin-top: 15px;
@@ -1581,8 +1581,47 @@ table tr:hover {
   line-height: 1.7;
   color: #212121;
   text-shadow: 0px 1px 1px rgba(51, 51, 51, 0.1);
+  -webkit-animation: slideup 2s 1.5s ease-out both;
+          animation: slideup 2s 1.5s ease-out both;
 }
 
+@-webkit-keyframes opacity-image {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes opacity-image {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-webkit-keyframes slideup {
+  0% {
+    opacity: 0;
+    margin-top: 100px;
+  }
+  100% {
+    opacity: 1;
+    margin-top: 0;
+  }
+}
+@keyframes slideup {
+  0% {
+    opacity: 0;
+    margin-top: 100px;
+  }
+  100% {
+    opacity: 1;
+    margin-top: 0;
+  }
+}
 @media screen and (max-width: 720px) {
   .hero {
     min-height: 420px;
@@ -1974,6 +2013,10 @@ table tr:hover {
   background-size: cover !important;
   background-position: center !important;
   background-repeat: no-repeat !important;
+  -webkit-animation: opacity-image 1.5s ease-out;
+          animation: opacity-image 1.5s ease-out;
+  -webkit-animation-fill-mode: both;
+          animation-fill-mode: both;
 }
 .post-header::before {
   content: "";
@@ -1993,6 +2036,8 @@ table tr:hover {
   line-height: 1.3;
   color: #ffffff;
   text-shadow: 0px 1px 1px rgba(51, 51, 51, 0.1);
+  -webkit-animation: slideup 2s 0.5s ease-out both;
+          animation: slideup 2s 0.5s ease-out both;
 }
 .post-header-info .post-meta {
   margin-top: 15px;
@@ -2002,6 +2047,8 @@ table tr:hover {
   text-transform: uppercase;
   color: #ffffff;
   text-shadow: 0px 1px 1px rgba(51, 51, 51, 0.1);
+  -webkit-animation: slideup 2s 1.5s ease-out both;
+          animation: slideup 2s 1.5s ease-out both;
 }
 
 .post-footer .post-footer-list {
@@ -2465,6 +2512,10 @@ table tr:hover {
   background-size: cover !important;
   background-position: center !important;
   background-repeat: no-repeat !important;
+  -webkit-animation: opacity-image 1.5s ease-out;
+          animation: opacity-image 1.5s ease-out;
+  -webkit-animation-fill-mode: both;
+          animation-fill-mode: both;
 }
 .page-header::before {
   content: "";
@@ -2478,6 +2529,8 @@ table tr:hover {
   line-height: 1.3;
   color: #ffffff;
   text-shadow: 0px 1px 1px rgba(51, 51, 51, 0.1);
+  -webkit-animation: slideup 2s 0.5s ease-out both;
+          animation: slideup 2s 0.5s ease-out both;
 }
 
 @media screen and (max-width: 720px) {
@@ -2508,10 +2561,11 @@ table tr:hover {
 }
 .blog-tags .tags li a {
   display: inline-block;
-  padding: 5px 7px;
+  padding: 5px 10px;
   font-size: 14px;
   color: #ffffff;
   background-color: #a79f96;
+  text-decoration: none;
   border-radius: 14px;
   -webkit-transition: all 0.25s ease;
   transition: all 0.25s ease;
@@ -2533,12 +2587,12 @@ table tr:hover {
 .tag-list span a {
   font-size: 16px;
   color: #a79f96;
+  text-decoration: none;
   -webkit-transition: all 0.25s ease;
   transition: all 0.25s ease;
 }
 .tag-list span:hover a {
   color: #8D4801;
-  text-decoration: underline;
 }
 
 /* 12. ========== Page Contact Styles ========== */
@@ -2547,6 +2601,24 @@ table tr:hover {
   margin: 0 auto 40px;
   text-align: center;
   color: #5b5b5b;
+}
+
+.contact-seperator {
+  display: block;
+  margin: 60px 0;
+  text-align: center;
+  font-size: 50px;
+  line-height: 0;
+  letter-spacing: 10px;
+  border: 0;
+}
+.contact-seperator:before {
+  content: "...";
+  display: inline-block;
+  position: relative;
+  margin-left: 10px;
+  color: rgba(0, 0, 0, 0.8);
+  top: -15px;
 }
 
 .form {

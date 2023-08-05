@@ -55,6 +55,14 @@ $(function() {
   });
   $('.btn-close').click(function() {
     $('.search-box').removeClass('show');
+    // 검색창 닫힐 때 이전 검색 기록 초기화
+    var searchInput = document.querySelector('#search-input');
+    searchInput.value = '';
+    var searchEvent = new KeyboardEvent('keyup', {
+      bubbles: true,
+      cancelable: true
+    });
+    searchInput.dispatchEvent(searchEvent);
   });
   // $('.search-toggle').click(function() {
   //   $('.search-box').addClass('show');
@@ -65,8 +73,9 @@ $(function() {
   // });
   
   // Simple Search Settings
-  SimpleJekyllSearch({
-    searchInput: document.getElementById('search-input'),
+  var searchInput = document.getElementById('search-input');
+  var sjs = SimpleJekyllSearch({
+    searchInput: searchInput,
     resultsContainer: document.getElementById('results-container'),
     json: '/search.json',
     searchResultTemplate: `
@@ -94,14 +103,36 @@ $(function() {
         </a>
       </li>
   `,
+    templateMiddleware: function(prop, value, template) {
+      if (prop === 'title' || prop === 'date' || prop === 'tags') {
+        // 검색어
+        var keyword = searchInput.value;
+        // 강조된 단어로 대체
+        var marked = '<span class="template-mark">' + keyword + '</span>';
+        // 원래의 값을 강조된 값으로 대체
+        value = value.replace(new RegExp(keyword, 'gi'), marked);
+      }
+      return value;
+    },
     noResultsText: 'No results found'
-    // templateMiddleware: function () {},
     // searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
     // searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
     // limit: 10,
     // fuzzy: false, // 검색어와 완전히 일치한 결과 사용 여부 false면 완전히 일치해야함
     // exclude: ['Welcome']
   })
+
+  // 검색 내용 초기화 버튼 추가
+  document.querySelector('.btn-remove').addEventListener('click', function(event) {
+    event.preventDefault();
+    var searchInput = document.querySelector('#search-input');
+    searchInput.value = '';
+    var searchEvent = new KeyboardEvent('keyup', {
+      bubbles: true,
+      cancelable: true
+    });
+    searchInput.dispatchEvent(searchEvent);
+  });
 
   // 태그 버튼을 이용한 검색 기능 추가
   var tags = document.querySelectorAll('.search-box .tag');
