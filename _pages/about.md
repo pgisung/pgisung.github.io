@@ -93,21 +93,27 @@ gulp.task('designcycle', function() {
 
 ---
 
-## <span style="color: brown">**Experience**</span>
+## <span style="color: brown">**History**</span>
 
-#### <span style="color: #8D4801">**LikeLion iOS App School**</span>
+#### <span style="color: #8D4801">**Learning in [LikeLion iOS App School][techit-app-school]**</span>
 <small>2023-05-22 ~ ing</small>  
 
-#### <span style="color: #8D4801">**Business trip in Hai Phong, Vietnam**</span>
+#### <span style="color: #8D4801">**Business trip in [LG Display][business-trip] in Hai Phong, Vietnam**</span>
 <small>2021-03-10 ~ 2021-09-03, </small><small>2023-02-22 ~ 2023-04-14</small>  
 
-#### <span style="color: #8D4801">**Work in Hoonlab**</span>
+#### <span style="color: #8D4801">**Trip around Taiwan**</span>
+<small>2023-01-19 ~ 2023-01-30</small>
+
+#### <span style="color: #8D4801">**Work in [Hoonlab][first-company]**</span>
 <small>2020-12-04 ~ 2023-04-17</small>  
 
 #### <span style="color: #8D4801">**Life in Keelung, Taiwan**</span>
 <small>2020-02-29 ~ 2020-06-13</small>  
 
-#### <span style="color: #8D4801">**English Language training in Cebu, Philippines**</span>
+#### <span style="color: #8D4801">**Trip around Taipei, Taiwan**</span>
+<small>2019-12-28 ~ 2020-01-01</small>
+
+#### <span style="color: #8D4801">**English Language training in [SMEAG][english-language-training] in Cebu, Philippines**</span>
 <small>2019-09-14 ~ 2020-02-29</small>  
 
 #### <span style="color: #8D4801">**Trip in Sapporo, Japan**</span>
@@ -119,5 +125,15 @@ gulp.task('designcycle', function() {
 #### <span style="color: #8D4801">**Trip by bicycle from Singapore to Thailand**</span>
 <small>2013-12-12 ~ 2014-01-30</small>  
 
-#### <span style="color: #8D4801">**Majored Computer Multimedia Engineering in Dankook Univ.**</span>
+#### <span style="color: #8D4801">**Majored Computer Multimedia Engineering in [Dankook Univ.][university]**</span>
 <small>2008-03 ~ 2017-02</small>
+
+#### <span style="color: #8D4801">**Graduated [Bukil High School][high-school]**</span>
+<small>2005-03 ~ 2008-02</small>
+
+[techit-app-school]: https://techit.education/school/kdt-app-3rd
+[business-trip]: https://www.lgdisplay.com/kor/company/info/place?type=02
+[english-language-training]: http://www.smeag.com
+[first-company]: http://www.hoonlab.co.kr
+[university]: https://www.dankook.ac.kr/web/kor
+[high-school]: https://www.bugil.hs.kr/jsp/index/index.jsp

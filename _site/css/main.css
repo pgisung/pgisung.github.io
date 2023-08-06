@@ -333,7 +333,7 @@ img.zoom-img {
 
 .image-slider-passive, .image-slider-auto {
   width: 90%;
-  margin-left: 5%;
+  margin: 0 5%;
   z-index: auto;
 }
 .image-slider-passive .slick-prev:before, .image-slider-passive .slick-next:before, .image-slider-auto .slick-prev:before, .image-slider-auto .slick-next:before {
@@ -1045,7 +1045,11 @@ p {
 
 a {
   text-decoration: underline;
-  color: rgba(0, 0, 0, 0.8);
+  color: rgba(141, 72, 1, 0.8);
+}
+
+a:hover {
+  color: rgba(141, 72, 1, 0.5);
 }
 
 img {

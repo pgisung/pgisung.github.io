@@ -62,7 +62,11 @@ p {
 
 a {
   text-decoration: underline;
-  color: rgba(0, 0, 0, 0.8);
+  color: rgba(141, 72, 1, 0.8);
+  // color: rgba(0, 0, 0, 0.8);
+  &:hover {
+    color: rgba(141, 72, 1, 0.3);
+  }
 }
 
 img {

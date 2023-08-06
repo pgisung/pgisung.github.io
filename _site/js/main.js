@@ -77,7 +77,7 @@ $(function() {
   var sjs = SimpleJekyllSearch({
     searchInput: searchInput,
     resultsContainer: document.getElementById('results-container'),
-    json: '/search.json',
+    json: '/assets/search.json',
     searchResultTemplate: `
       <li>
         <a href="{url}">
@@ -207,7 +207,7 @@ $(function() {
 
   // Slick.js : image-slider-passive
   $('.image-slider-passive').slick({
-    dots: false,
+    dots: true,
     infinite: false,
     speed: 300,
     slidesToShow: 3,
