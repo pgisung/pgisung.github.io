@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  My life in hotel rooms
-date:   2017-10-27 11:20
+date:   2017-10-27 11:20:00 +0900
 img: 6.jpg
 tags: [Hotels, Lifestyle]
 author: Natali_Braxton

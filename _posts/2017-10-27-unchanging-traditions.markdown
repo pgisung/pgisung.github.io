@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Unchanging traditions
-date:   2017-10-27 12:46
+date:   2017-10-27 12:46:00 +0900
 img: 5.jpg
 tags: [Traditions, Books, Morning]
 ---

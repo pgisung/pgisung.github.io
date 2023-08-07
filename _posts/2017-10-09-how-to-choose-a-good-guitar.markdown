@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to choose a good guitar
-date: 2017-10-09 17:34
+date: 2017-10-09 17:34:00 +0900
 img: 2.jpg
 tags: [Music, Shopping, Guitar]
 ---

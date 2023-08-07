@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  That I take with me on tour
-date:   2017-10-27 17:11
+date:   2017-10-27 17:11:00 +0900
 img: 3.jpg
 tags: [Tour, Music]
 ---

@@ -2295,6 +2295,8 @@ table tr:hover {
 
 .post-author .post-author-info h4 {
   margin: 0 0 10px;
+  padding: 0;
+  border: none;
 }
 
 .post-author .post-author-info .post-author-bio {

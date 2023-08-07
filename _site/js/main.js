@@ -134,16 +134,17 @@ $(function() {
     searchInput.dispatchEvent(searchEvent);
   });
 
-  // 태그 버튼을 이용한 검색 기능 추가
+  // 태그 버튼을 이용한 검색 기능 추가 by value
   var tags = document.querySelectorAll('.search-box .tag');
   for (var i = 0; i < tags.length; i++) {
     tags[i].addEventListener('click', function(event) {
       event.preventDefault();
       var searchInput = document.querySelector('#search-input');
-      var eventTargetAttr = event.target.getAttribute('href')
-      if (eventTargetAttr) {
-        var searchValue = eventTargetAttr.replace('#', '');
-        searchInput.value = searchValue;
+      // Mark: 원래는 a태그 자체를 타겟으로 값을 가져왔었으나 현재 원인불명으로 a태그가 사라지고 bubble up으로 그안의 span 태그가 눌려서 event를 전달하는 현상이 있어서 가장가까운 a 태그로부터 정보를 가져오도록 수정해둠 추후 근본적인 원인 개선 필요
+      // var eventTargetText = event.target.textContent.replace(/\s*\(\d+\)/, '')
+      var eventTargetText = event.target.closest('a.tag').textContent.replace(/\s*\(\d+\)/, '')
+      if (eventTargetText) {
+        searchInput.value = eventTargetText;
         var searchEvent = new KeyboardEvent('keyup', {
           bubbles: true,
           cancelable: true
@@ -152,6 +153,24 @@ $(function() {
       }
     });
   }
+  // 태그 버튼을 이용한 검색 기능 추가 by href
+  // var tags = document.querySelectorAll('.search-box .tag');
+  // for (var i = 0; i < tags.length; i++) {
+  //   tags[i].addEventListener('click', function(event) {
+  //     event.preventDefault();
+  //     var searchInput = document.querySelector('#search-input');
+  //     var eventTargetAttr = event.target.getAttribute('href')
+  //     if (eventTargetAttr) {
+  //       var searchValue = eventTargetAttr.replace('#', '');
+  //       searchInput.value = searchValue;
+  //       var searchEvent = new KeyboardEvent('keyup', {
+  //         bubbles: true,
+  //         cancelable: true
+  //       });
+  //       searchInput.dispatchEvent(searchEvent);
+  //     }
+  //   });
+  // }
 
   // Scroll To Top
   $('.top').click(function () {
@@ -283,7 +302,7 @@ $(function() {
       cssEase: 'linear'
   });
 
-  // #id로 a태그 앵커 이동할 때 id태그를 중앙으로 위치하도록 이동시킴 (원래는 최상단에 위치함)
+  // #id로 a태그 앵커 이동할 때 id태그를 중앙으로 위치하도록 이동시킴 (원래는 최상단에 위치함) - tags 페이지
   document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     anchor.addEventListener('click', function (e) {
       e.preventDefault();
@@ -302,5 +321,22 @@ $(function() {
       }
     });
   });
-  
+
+  // /tags/#id로 다른 페이지인 tags페이지의 #id로 a태그 앵커 이동할 때 id태그를 중앙으로 위치하도록 이동시킴 (원래는 최상단에 위치함) - post 페이지
+  window.addEventListener('load', () => {
+    const hash = window.location.hash;
+    if (hash) {
+      const targetId = hash.slice(1);
+      const target = document.getElementById(targetId);
+      if (target) {
+        const offsetTop = target.getBoundingClientRect().top;
+        const headerOffset = window.innerHeight / 2;
+        window.scrollBy({
+          top: offsetTop - headerOffset,
+          behavior: 'smooth'
+        });
+      }
+    }
+  });
+
 });

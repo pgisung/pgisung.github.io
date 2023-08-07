@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About the benefits of water
-date: 2017-10-09 17:33
+date: 2017-10-09 17:33:00 +0900
 img: 19.jpg
 tags: Rest
 ---

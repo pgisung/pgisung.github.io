@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Where I seek inspiration
-date:   2017-10-27 10:11
+date:   2017-10-27 10:11:00 +0900
 img: 8.jpg
 tags: [Inspiration, Music, Tips, Guitar]
 ---

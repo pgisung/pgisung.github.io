@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to Jekyll!"
-date: 2017-10-09 17:33
+date: 2017-10-09 17:33:00 +0900
 img: 16.jpg
 tags: jekyll
 ---
