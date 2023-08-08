@@ -111,8 +111,21 @@ figure {
 }
 
 hr {
+  display: block;
   margin: 60px 0;
-  border: 1px solid #8D4801;
+  text-align: center;
+  font-size: 50px;
+  line-height: 0;
+  letter-spacing: 10px;
+  border: 0;
+  &:before {
+    content: "...";
+    display: inline-block;
+    position: relative;
+    margin-left: 10px;
+    color: $brown;
+    top: -15px;
+  }
 }
 
 .hidden {
@@ -130,6 +143,14 @@ table {
   border-width: 1px;
   border-color: #563615;
   border-collapse: collapse;
+  // table border-radius 적용용 코드
+  border-radius: $allBorderRadius;
+  border-style: hidden;
+  box-shadow: 0 0 0 1px #563615;
+  overflow: hidden;
+  &.zoomed {
+    overflow: visible;
+  }
 }
 
 table th {

@@ -15,7 +15,7 @@ My original name is **Jisung Park**. I go by the name of **Johnny** so, you can 
 Well.. That I used to enjoy is a **deep reflection** how I may **improve the performance of process** what I am dealing with and, **making clean code** having appropriate readability. Although it would take so long time merely to think and think,
 
 <div class="image-slider-passive">
-  <img src="images/pages/about-me/hobbies/hobby1.jpg">
+  <img src="images/pages/about-me/hobbies/hobby1.jpg" alt="The author of this blog is reading the book in front of table located in the public area.">
 </div>
 <br>
 On the next hand, I may release my stresses by things that below.
@@ -23,38 +23,38 @@ On the next hand, I may release my stresses by things that below.
 - **listening pop musics**.
   - K-pop, Billboard Hot 100, Youtube cover songs, J.fla
 <div class="image-slider-passive">
-  <img src="images/pages/about-me/hobbies/hobby2.jpg">
+  <img src="images/pages/about-me/hobbies/hobby2.jpg" alt="The author of this blog is listening music on the sofa.">
 </div>
 
 - **watching Netflix**.
   - It doesn't matter what genre it is however, it is important whether the content having proper sequence of story and containing message.
 <div class="image-slider-passive">
-  <img src="images/pages/about-me/hobbies/hobby3.jpg">
+  <img src="images/pages/about-me/hobbies/hobby3.jpg" alt="The author of this blog is watching Netflix by laptop in front of desk.">
 </div>
 
 - that go **singing** to karaoke. (whether the skill is good or not?)
 <div class="image-slider-passive">
-  <img src="images/pages/about-me/hobbies/hobby4.jpg">
+  <img src="images/pages/about-me/hobbies/hobby4.jpg" alt="The author of this blog is singing some song in karaoke.">
 </div>
 
 - there was **playing game**.
   - I had tried to measure how long time can't I feel boring from playing game content. and there was precisely the end.
 
 <div class="image-slider-auto">
-  <img src="images/pages/about-me/games/game1.jpg">
-  <img src="images/pages/about-me/games/game2.jpg">
-  <img src="images/pages/about-me/games/game3.jpg">
-  <img src="images/pages/about-me/games/game4.jpg">
-  <img src="images/pages/about-me/games/game5.jpg">
-  <img src="images/pages/about-me/games/game6.jpg">
-  <img src="images/pages/about-me/games/game7.jpg">
-  <img src="images/pages/about-me/games/game8.jpg">
-  <img src="images/pages/about-me/games/game9.jpg">
-  <img src="images/pages/about-me/games/game10.jpg">
-  <img src="images/pages/about-me/games/game11.jpg">
-  <img src="images/pages/about-me/games/game12.jpg">
-  <img src="images/pages/about-me/games/game13_1.jpg">
-  <img src="images/pages/about-me/games/game13_2.jpg">
+  <img src="images/pages/about-me/games/game1.jpg" alt="The game Uncharted Waters Online">
+  <img src="images/pages/about-me/games/game2.jpg" alt="The game Gersang">
+  <img src="images/pages/about-me/games/game3.jpg" alt="The game Lost Ark">
+  <img src="images/pages/about-me/games/game4.jpg" alt="The game Heroes of The Storm">
+  <img src="images/pages/about-me/games/game5.jpg" alt="The game Blade and Soul">
+  <img src="images/pages/about-me/games/game6.jpg" alt="The game Soul Walker">
+  <img src="images/pages/about-me/games/game7.jpg" alt="The game Pokemon Ultra Sun">
+  <img src="images/pages/about-me/games/game8.jpg" alt="The game Dungeon and Fighter Online">
+  <img src="images/pages/about-me/games/game9.jpg" alt="The game Romance of the Three Kingdoms 13 Power Up Kit">
+  <img src="images/pages/about-me/games/game10.jpg" alt="The game Starcraft">
+  <img src="images/pages/about-me/games/game11.jpg" alt="The game Capitalism 2">
+  <img src="images/pages/about-me/games/game12.jpg" alt="The game Black Desert">
+  <img src="images/pages/about-me/games/game13_1.jpg" alt="The game BrownDust Mobile">
+  <img src="images/pages/about-me/games/game13_2.jpg" alt="The game BrownDust Mobile">
 </div>
 <br>
 #### <span style="color: #8D4801">**What is the aim of this blog?**</span>

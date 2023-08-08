@@ -996,8 +996,21 @@ figure {
 }
 
 hr {
+  display: block;
   margin: 60px 0;
-  border: 1px solid #8D4801;
+  text-align: center;
+  font-size: 50px;
+  line-height: 0;
+  letter-spacing: 10px;
+  border: 0;
+}
+hr:before {
+  content: "...";
+  display: inline-block;
+  position: relative;
+  margin-left: 10px;
+  color: #8D4801;
+  top: -15px;
 }
 
 .hidden {
@@ -1015,6 +1028,14 @@ table {
   border-width: 1px;
   border-color: #563615;
   border-collapse: collapse;
+  border-radius: 14px;
+  border-style: hidden;
+  -webkit-box-shadow: 0 0 0 1px #563615;
+          box-shadow: 0 0 0 1px #563615;
+  overflow: hidden;
+}
+table.zoomed {
+  overflow: visible;
 }
 
 table th {
@@ -2606,24 +2627,6 @@ table tr:hover {
   margin: 0 auto 40px;
   text-align: center;
   color: #5b5b5b;
-}
-
-.contact-seperator {
-  display: block;
-  margin: 60px 0;
-  text-align: center;
-  font-size: 50px;
-  line-height: 0;
-  letter-spacing: 10px;
-  border: 0;
-}
-.contact-seperator:before {
-  content: "...";
-  display: inline-block;
-  position: relative;
-  margin-left: 10px;
-  color: rgba(0, 0, 0, 0.8);
-  top: -15px;
 }
 
 .form {
