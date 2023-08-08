@@ -105,4 +105,4 @@ tags: Impression
 <br>
 <br>
 
-## <span style="color: brown">**앞으로 잘 부탁한다. 블로그야!**</span>
+## <center><span style="color: brown"><b>앞으로 잘 부탁한다. 블로그야!</b></span></center>

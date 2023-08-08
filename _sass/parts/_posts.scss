@@ -59,7 +59,7 @@
     transition: all .35s ease-in-out;
 
     .author-info {
-      font-family: 'Roboto', Arial, Helvetica, sans-serif;;
+      font-family: 'Roboto', Arial, Helvetica, sans-serif;
       margin-left: 10px;
       color: $white;
       letter-spacing: 0.8px;
@@ -103,6 +103,7 @@
     margin: 0 0 15px;
     font-size: 27px;
     font-weight: 400;
+    font-family: 'Gowun Batang', serif;
     a {
       text-decoration: none;
       color: #222;
@@ -114,7 +115,7 @@
   }
 
   p {
-    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    font-family: 'IBM Plex Sans KR', 'Roboto', Arial, Helvetica, sans-serif;
     font-size: 15px;
     line-height: 1.6;
     color: $lightengray;

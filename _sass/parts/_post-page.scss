@@ -50,6 +50,7 @@
     margin: 0;
     font-size: 60px;
     font-weight: 700;
+    font-family: 'Gowun Batang', serif;
     line-height: 1.3;
     color: $white;
     text-shadow: 0px 1px 1px rgba(51, 51, 51, 0.10);
@@ -158,7 +159,8 @@
   .post-footer {
     .post-footer-list {
       li {
-        display: block;
+        // sns요소가 추가되면 가로로 넘어가서 해둔 것 같은데 지금은 보기싫어서 주석
+        // display: block;
         margin-bottom: 10px;
         &:last-child {
           margin-bottom: 0;
