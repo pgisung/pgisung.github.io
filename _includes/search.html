@@ -15,15 +15,25 @@
       </span>
     </div>
   </div>
+  {% capture site_categories %}{% for category in site.categories %}{{ category | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+  {% assign category_words = site_categories | split:',' | sort %}
+  <div class="blog-categories">
+    <ul class="categories clearfix">
+      {% for item in (0..site.categories.size) %}{% unless forloop.last %}
+        {% capture this_word %}{{ category_words[item] | strip_newlines }}{% endcapture %}
+        <li><a href="" class="category">{{ this_word }} <span>({{ site.categories[this_word].size }})</span></a></li>
+      {% endunless %}{% endfor %}
+    </ul>
+  </div>
   {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
   {% assign tag_words = site_tags | split:',' | sort %}
-  <section class="blog-tags">
+  <div class="blog-tags">
     <ul class="tags clearfix">
       {% for item in (0..site.tags.size) %}{% unless forloop.last %}
         {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
         <li><a href="" class="tag">{{ this_word }} <span>({{ site.tags[this_word].size }})</span></a></li>
       {% endunless %}{% endfor %}
     </ul>
-  </section>
+  </div>
   <ul id="results-container" class="search-results-list"></ul>  
 </div> <!-- /.search-box -->

@@ -13,8 +13,9 @@
   8. Pagination Styles
   9. Footer Styles
   10. Page Styles
-  11. Page Tags Styles
-  12. Page Contact Styles
+  11. Page Categories Styles
+  12. Page Tags Styles
+  13. Page Contact Styles
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
 
@@ -1418,7 +1419,6 @@ table tr:hover {
   top: 0;
   right: 0;
   -webkit-transition: all 0.3s ease-in-out;
-  -o-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
 
@@ -1438,18 +1438,27 @@ table tr:hover {
   color: #ffffff;
 }
 
-.search-box .blog-tags {
+.search-box .blog-categories, .search-box .blog-tags {
   width: 100%;
   height: 52px;
   margin: 0;
   padding: 10px;
   position: absolute;
-  top: 60px;
   left: 0;
   bottom: 0;
   overflow-y: auto;
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(141, 72, 1, 0.97)), to(rgba(255, 255, 255, 0.97)));
-  background: linear-gradient(180deg, rgba(141, 72, 1, 0.97), rgba(255, 255, 255, 0.97));
+}
+
+.search-box .blog-categories {
+  top: 60px;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(141, 72, 1, 0.97)), to(rgba(198, 163, 128, 0.97)));
+  background: linear-gradient(180deg, rgba(141, 72, 1, 0.97), rgba(198, 163, 128, 0.97));
+}
+
+.search-box .blog-tags {
+  top: 112px;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(198, 163, 128, 0.97)), to(rgba(255, 255, 255, 0.97)));
+  background: linear-gradient(180deg, rgba(198, 163, 128, 0.97), rgba(255, 255, 255, 0.97));
 }
 
 .search-toggle {
@@ -1555,11 +1564,11 @@ table tr:hover {
 
 .search-results-list {
   width: 100%;
-  height: calc(100vh - 112px);
+  height: calc(100vh - 164px);
   margin: 0;
   padding: 40px 15px;
   position: absolute;
-  top: 112px;
+  top: 164px;
   left: 0;
   bottom: 0;
   text-align: left;
@@ -2216,48 +2225,49 @@ table tr:hover {
 }
 
 .post-footer .post-footer-list li a.post-twitter {
-  color: #55acee;
+  color: #1D9BF0;
 }
 
 .post-footer .post-footer-list li a.post-facebook {
-  color: #3b5999;
+  color: #1877F2;
 }
 
 .post-footer .post-footer-list li a.post-pinterest {
   color: #bd081c;
 }
 
-.post-footer .post-tag {
-  padding-top: 40px;
-  margin-bottom: 40px;
-  border-top: 1px solid #c9c9c9;
-}
-
-.post-footer .post-tag span {
+.post-footer .post-category span, .post-footer .post-tag span {
   font-size: 13px;
   margin-right: 10px;
   color: #5b5b5b;
 }
 
-.post-footer .post-tag a {
+.post-footer .post-category a, .post-footer .post-tag a {
   font-size: 13px;
   margin-right: 10px;
-  color: #a79f96;
+  color: darkseagreen;
   text-decoration: none;
-  -webkit-transition: all .25s ease;
-  -o-transition: all .25s ease;
-  transition: all .25s ease;
+  -webkit-transition: all 0.25s ease;
+  transition: all 0.25s ease;
 }
 
-.post-footer .post-tag a:last-child {
+.post-footer .post-category a:last-child, .post-footer .post-tag a:last-child {
   margin-right: 0;
 }
 
-.post-footer .post-tag a:hover {
+.post-footer .post-category a:hover, .post-footer .post-tag a:hover {
   color: #8D4801;
-  -webkit-transition: all .25s ease;
-  -o-transition: all .25s ease;
-  transition: all .25s ease;
+  -webkit-transition: all 0.25s ease;
+  transition: all 0.25s ease;
+}
+
+.post-footer .post-category {
+  padding-top: 20px;
+  border-top: 1px solid #c9c9c9;
+}
+
+.post-footer .post-tag {
+  margin-bottom: 40px;
 }
 
 .post-content::first-letter,
@@ -2663,7 +2673,70 @@ table tr:hover {
           animation: slideup 2s 0.5s ease-out both;
 }
 
-/* 11. ========== Page Tags Styles ========== */
+/* 11. ========== Page Categories Styles ========== */
+
+.blog-categories {
+  font-family: "Gowun Batang", serif;
+}
+
+.blog-categories .categories {
+  margin: 0 0 40px;
+  padding: 0;
+  list-style: none;
+}
+
+.blog-categories .categories li {
+  float: left;
+  margin: 0 10px 10px 0;
+}
+
+.blog-categories .categories li a {
+  display: inline-block;
+  padding: 5px 10px;
+  font-size: 14px;
+  color: #ffffff;
+  background-color: darkseagreen;
+  text-decoration: none;
+  border-radius: 14px;
+  -webkit-transition: all 0.25s ease;
+  transition: all 0.25s ease;
+}
+
+.blog-categories .categories li a:hover {
+  background-color: #8D4801;
+}
+
+.blog-categories h2 {
+  font-size: 16px;
+  font-weight: 700;
+  font-family: "Gowun Batang", serif;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin: 32px 0;
+}
+
+.category-list {
+  margin-bottom: 5px;
+}
+
+.category-list span a {
+  font-size: 16px;
+  font-weight: 700;
+  color: darkseagreen;
+  text-decoration: none;
+  -webkit-transition: all 0.25s ease;
+  transition: all 0.25s ease;
+}
+
+.category-list span:hover a {
+  color: #8D4801;
+}
+
+/* 12. ========== Page Tags Styles ========== */
+
+.blog-tags {
+  font-family: "Gowun Batang", serif;
+}
 
 .blog-tags .tags {
   margin: 0 0 40px;
@@ -2681,7 +2754,7 @@ table tr:hover {
   padding: 5px 10px;
   font-size: 14px;
   color: #ffffff;
-  background-color: #a79f96;
+  background-color: darkseagreen;
   text-decoration: none;
   border-radius: 14px;
   -webkit-transition: all .25s ease;
@@ -2695,7 +2768,8 @@ table tr:hover {
 
 .blog-tags h2 {
   font-size: 16px;
-  font-weight: 400;
+  font-weight: 700;
+  font-family: "Gowun Batang", serif;
   letter-spacing: 1px;
   text-transform: uppercase;
   margin: 32px 0;
@@ -2703,12 +2777,12 @@ table tr:hover {
 
 .tag-list {
   margin-bottom: 5px;
-  font-family: "Gowun Batang", serif;
 }
 
 .tag-list span a {
   font-size: 16px;
-  color: #a79f96;
+  font-weight: 700;
+  color: darkseagreen;
   text-decoration: none;
   -webkit-transition: all .25s ease;
   -o-transition: all .25s ease;
@@ -2719,7 +2793,7 @@ table tr:hover {
   color: #8D4801;
 }
 
-/* 12. ========== Page Contact Styles ========== */
+/* 13. ========== Page Contact Styles ========== */
 
 .contact-subtitle {
   max-width: 600px;

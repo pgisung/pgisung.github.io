@@ -5,40 +5,26 @@ $gray: #5b5b5b;
 $darkgray: #323232;
 $black: #000000;
 
-$currentbodycolor: rgba(255, 162, 81, 0.1);
-// unused a variable below - used for entire body
-// $originbodycolor: #f5fafc;
-
 // Main colors
+$current-body-color: rgba(255, 162, 81, 0.1);
+
 $brown: #8D4801;
 $brown-highlighted: rgba(141, 72, 1, 0.7);
 $brown-transparency: rgba(182, 162, 145, 0.5);
 $graybrown: #9b9184;
 $lightbrown: #a79f96;
-// $lightbrown: #c9c1b8;
 $lightorange: #b2a894;
-// unused a variable below - just used rgb value
-// $currenthovercolor: #5B2E01;
-
-// $blue: #0078D9;
-// $blue-highlighted: rgba(0, 120, 217, 0.7);
-// $blue-transparency: rgba(206, 230, 255, 0.5);
-// $grayblue: #7b7f90;
-// $lightblue: #bbc3cb;
-// $lightpurple: #999eb5;
-// unused a variable below - just used rgb value
-// $originhovercolor: #004e8d;
 
 $turquoisergba: rgba(186, 142, 119, 0.6);
 $light-turquoisergba: rgba(186, 142, 119, 0.1);
-// $turquoisergba: rgba(0, 197, 217, 0.6);
-// $light-turquoisergba: rgba(0, 197, 217, 0.1);
 
 // social colors
-$githubcolor: #181717;
-$facebookcolor: #1877F2;
-$instagramcolor: #E4405F;
-$linkedincolor: #0A66C2;
+$github-color: #181717;
+$facebook-color: #1877F2;
+$instagram-color: #E4405F;
+$linkedin-color: #0A66C2;
+$twitter-color: #1D9BF0;
+$pinterest-color: #bd081c;
 
-// border-radius
-$allBorderRadius: 14px;
+// common border radius
+$common-border-radius: 14px;

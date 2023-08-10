@@ -95,6 +95,10 @@ $(function() {
                 <p>{date}</p>
               </div>
               <div class="template-subinfo">
+                <i class="fa fa-th-list" aria-hidden="true"></i>
+                <p>{categories}</p>
+              </div>
+              <div class="template-subinfo">
                 <i class="fa fa-tags" aria-hidden="true"></i>
                 <p>{tags}</p>
               </div>
@@ -104,7 +108,7 @@ $(function() {
       </li>
   `,
     templateMiddleware: function(prop, value, template) {
-      if (prop === 'title' || prop === 'date' || prop === 'tags') {
+      if (prop === 'title' || prop === 'date' || prop === 'tags' || prop === 'categories') {
         // 검색어
         var keyword = searchInput.value;
         // 강조된 단어로 대체
@@ -141,7 +145,7 @@ $(function() {
       event.preventDefault();
       var searchInput = document.querySelector('#search-input');
       // Mark: 원래는 a태그 자체를 타겟으로 값을 가져왔었으나 현재 원인불명으로 a태그가 사라지고 bubble up으로 그안의 span 태그가 눌려서 event를 전달하는 현상이 있어서 가장가까운 a 태그로부터 정보를 가져오도록 수정해둠 추후 근본적인 원인 개선 필요
-      // var eventTargetText = event.target.textContent.replace(/\s*\(\d+\)/, '')
+      // var eventTargetText = event.target.textContent.replace(/\s*\(\d+\)/, '' )
       var eventTargetText = event.target.closest('a.tag').textContent.replace(/\s*\(\d+\)/, '')
       if (eventTargetText) {
         searchInput.value = eventTargetText;
@@ -171,6 +175,24 @@ $(function() {
   //     }
   //   });
   // }
+
+  // 카테고리 버튼을 이용한 검색 기능 추가 by value - logic은 바로 위의 태그함수와 동일하므로 수정할 시 둘 다 수정
+  var tags = document.querySelectorAll('.search-box .category');
+  for (var i = 0; i < tags.length; i++) {
+    tags[i].addEventListener('click', function(event) {
+      event.preventDefault();
+      var searchInput = document.querySelector('#search-input');
+      var eventTargetText = event.target.closest('a.category').textContent.replace(/\s*\(\d+\)/, '')
+      if (eventTargetText) {
+        searchInput.value = eventTargetText;
+        var searchEvent = new KeyboardEvent('keyup', {
+          bubbles: true,
+          cancelable: true
+        });
+        searchInput.dispatchEvent(searchEvent);
+      }
+    });
+  }
 
   // Scroll To Top
   $('.top').click(function () {

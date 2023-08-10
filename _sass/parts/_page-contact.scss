@@ -30,7 +30,7 @@
       padding: 8px 10px;
       font-size: 14px;
       border: 2px solid #f2f4fa;
-      border-radius: $allBorderRadius;
+      border-radius: $common-border-radius;
       outline: none;
       resize: none;
       color: $gray;
@@ -43,7 +43,7 @@
       font-weight: 700;
       background-color: $brown;
       color: $white;
-      border-radius: $allBorderRadius;
+      border-radius: $common-border-radius;
       &:hover {
         background-color: darken($brown, 15%);
       }

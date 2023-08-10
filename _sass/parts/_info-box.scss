@@ -21,28 +21,28 @@
     &:nth-child(1) {
       a {
         &:before {
-          background-color: $githubcolor;
+          background-color: $github-color;
         }
       }
     }
     &:nth-child(2) {
       a {
         &:before {
-          background-color: $facebookcolor;
+          background-color: $facebook-color;
         }
       }
     }
     &:nth-child(3) {
       a {
         &:before {
-          background-color: $instagramcolor;
+          background-color: $instagram-color;
         }
       }
     }
     &:nth-child(4) {
       a {
         &:before {
-          background-color: $linkedincolor;
+          background-color: $linkedin-color;
         }
       }
     }
@@ -122,8 +122,8 @@
 .newsletter-form {
   input[type="email"] {
     color: $lightengray;
-    border-top-left-radius: $allBorderRadius;
-    border-bottom-left-radius: $allBorderRadius;
+    border-top-left-radius: $common-border-radius;
+    border-bottom-left-radius: $common-border-radius;
   }
   .c-newsletter-form-group {
     display: flex;
@@ -151,8 +151,8 @@
   cursor: pointer;
   color: $white;
   background-color: $brown;
-  border-top-right-radius: $allBorderRadius;
-  border-bottom-right-radius: $allBorderRadius;
+  border-top-right-radius: $common-border-radius;
+  border-bottom-right-radius: $common-border-radius;
   transition: all 0.3s ease-in-out;
   &:hover {
     background-color: darken($brown, 15%);

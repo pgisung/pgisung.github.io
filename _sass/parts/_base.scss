@@ -15,7 +15,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   &.body-post {
-    background-color: $currentbodycolor;
+    background-color: $current-body-color;
   }
 }
 
@@ -73,7 +73,7 @@ img {
   max-width: 100%;
   height: auto;
   vertical-align: middle;
-  border-radius: $allBorderRadius;
+  border-radius: $common-border-radius;
   border: 1px solid $brown;
 }
 
@@ -144,7 +144,7 @@ table {
   border-color: #563615;
   border-collapse: collapse;
   // table border-radius 적용용 코드
-  border-radius: $allBorderRadius;
+  border-radius: $common-border-radius;
   border-style: hidden;
   box-shadow: 0 0 0 1px #563615;
   overflow: hidden;
@@ -211,7 +211,7 @@ table tr:hover {
   position: relative;
   right: 0;
   transition: right .35s cubic-bezier(0.565, 1.65, 0.765, 0.90);
-  background-color: $currentbodycolor;
+  background-color: $current-body-color;
   &.open {
     right: 250px;
   }

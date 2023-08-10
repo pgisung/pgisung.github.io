@@ -3,6 +3,7 @@ layout: post
 title: 좌충우돌 첫 블로그 제작기
 date: 2023-08-06 20:55:00 +0900
 img: 2023-08-06-The-first-blog-production-session.jpg
+categories: Daily
 tags: Impression
 ---
 문득, 지금 떠오르는 감정을 뭐라고 표현해야 할지 잘 모르겠다.  
@@ -19,7 +20,7 @@ tags: Impression
 
 <div style="text-align: center">
   <a href="https://www.codelion.net/catalog/Q291cnNlTm9kZToydzUy">
-    <small>ⓒ CODE LION</small>
+    <small><i class="fa fa-copyright" aria-hidden="true"></i> CODE LION</small>
   </a>
 </div>
 <br>
@@ -32,7 +33,7 @@ tags: Impression
 
 <div style="text-align: center">
   <a href="https://www.yes24.com/Product/Goods/65069480">
-    <small>ⓒ YES 24</small>
+    <small><i class="fa fa-copyright" aria-hidden="true"></i> YES 24</small>
   </a>
 </div>
 <br>
@@ -49,7 +50,7 @@ tags: Impression
 
 <div style="text-align: center">
   <a href="https://www.inflearn.com/course/반응형-웹사이트-포트폴리오-웹퍼블리싱">
-    <small>ⓒ Coding Works</small>
+    <small><i class="fa fa-copyright" aria-hidden="true"></i> Coding Works</small>
   </a>
 </div>
 <br>
@@ -77,7 +78,7 @@ tags: Impression
 
 <div style="text-align: center">
   <a href="http://jekyllthemes.org">
-    <small>ⓒ Jekyll Themes</small>
+    <small><i class="fa fa-copyright" aria-hidden="true"></i> Jekyll Themes</small>
   </a>
 </div>
 <br>

@@ -102,24 +102,20 @@
         }
 
         &.post-twitter {
-          color: #1D9BF0;
+          color: $twitter-color;
         }
 
         &.post-facebook {
-          color: #1877F2;
+          color: $facebook-color;
         }
 
         &.post-pinterest {
-          color: #bd081c;
+          color: $pinterest-color;
         }
       }
     }
   }
-  .post-tag {
-    padding-top: 40px;
-    margin-bottom: 40px;
-    border-top: 1px solid #c9c9c9;
-
+  .post-category, .post-tag {
     span {
       font-size: 13px;
       margin-right: 10px;      
@@ -129,7 +125,7 @@
     a {
       font-size: 13px;
       margin-right: 10px;
-      color: $lightbrown;
+      color: darkseagreen;
       text-decoration: none;
       transition: all .25s ease;
       &:last-child {
@@ -140,6 +136,13 @@
         transition: all .25s ease;
       }
     }
+  }
+  .post-category {
+    padding-top: 20px;
+    border-top: 1px solid #c9c9c9;
+  }
+  .post-tag {
+    margin-bottom: 40px;
   }
 }
 
@@ -177,7 +180,7 @@
   padding: 20px;
   margin-bottom: 40px;
   background-color: rgba(170, 177, 199, 0.2);
-  border-radius: $allBorderRadius;
+  border-radius: $common-border-radius;
 
   .post-author-image {
     margin-right: 20px;
@@ -295,7 +298,7 @@
     text-align: center;
     padding: 15px 0;
     background-color: rgba(170, 177, 199, 0.2);
-    border-radius: $allBorderRadius;
+    border-radius: $common-border-radius;
   }
 }
 

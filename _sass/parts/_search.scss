@@ -20,17 +20,23 @@
       color: #ffffff;
     }
   }
-  .blog-tags {
+  .blog-categories, .blog-tags {
     width: 100%;
     height: 52px;
     margin: 0;
     padding: 10px;
     position: absolute;
-    top: 60px;
     left: 0;
     bottom: 0;
     overflow-y: auto;
-    background: linear-gradient(180deg, rgba(141, 72, 1, 0.97), rgba(255, 255, 255, 0.97));
+  }
+  .blog-categories {
+    top: 60px;
+    background: linear-gradient(180deg, rgba(141, 72, 1, 0.97), rgba(198, 163, 128, 0.97));
+  }
+  .blog-tags {
+    top: 112px;
+    background: linear-gradient(180deg, rgba(198, 163, 128, 0.97), rgba(255, 255, 255, 0.97));
   }
 }
 
@@ -113,11 +119,12 @@
   // 필요 없으면 아래 box-shadow 삭제 (근데 구분선이 필요할 것 같은데...)
   // height: 35vh;
   // box-shadow: 0 5px 10px rgba(141, 72, 1, 0.3);
-  height: calc(100vh - 112px);
+  // 164px은 가장 위쪽헤더 60px + 카테고리 52px + 태그 52px로 이루어져있다.
+  height: calc(100vh - 164px);
   margin: 0;
   padding: 40px 15px;
   position: absolute;
-  top: 112px;
+  top: 164px;
   left: 0;
   bottom: 0;
   text-align: left;
@@ -127,7 +134,7 @@
   li {
     margin-bottom: 20px;
     border: 1px solid $brown;
-    border-radius: $allBorderRadius;
+    border-radius: $common-border-radius;
     a {
       font-size: 18px;
       font-weight: 400;

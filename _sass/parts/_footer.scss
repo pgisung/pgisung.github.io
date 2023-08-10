@@ -52,22 +52,22 @@
     display: inline;
     &:nth-child(1) {
       a:hover {
-        color: $githubcolor;
+        color: $github-color;
       }
     }
     &:nth-child(2) {
       a:hover {
-        color: $facebookcolor;
+        color: $facebook-color;
       }
     }
     &:nth-child(3) {
       a:hover {
-        color: $instagramcolor;
+        color: $instagram-color;
       }
     }
     &:nth-child(4) {
       a:hover {
-        color: $linkedincolor;
+        color: $linkedin-color;
       }
     }
     &:last-child {

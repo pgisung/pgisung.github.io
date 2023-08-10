@@ -13,8 +13,9 @@
   8. Pagination Styles
   9. Footer Styles
   10. Page Styles
-  11. Page Tags Styles
-  12. Page Contact Styles
+  11. Page Categories Styles
+  12. Page Tags Styles
+  13. Page Contact Styles
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
 
@@ -62,8 +63,11 @@
 /* 10. ========== Page Styles ========== */
 @import 'parts/page';
 
-/* 11. ========== Page Tags Styles ========== */
+/* 11. ========== Page Categories Styles ========== */
+@import 'parts/page-categories';
+
+/* 12. ========== Page Tags Styles ========== */
 @import 'parts/page-tags';
 
-/* 12. ========== Page Contact Styles ========== */
+/* 13. ========== Page Contact Styles ========== */
 @import 'parts/page-contact';
