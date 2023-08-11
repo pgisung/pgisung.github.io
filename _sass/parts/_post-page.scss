@@ -125,14 +125,15 @@
     a {
       font-size: 13px;
       margin-right: 10px;
-      color: darkseagreen;
+      color: darkgreen;
       text-decoration: none;
       transition: all .25s ease;
       &:last-child {
         margin-right: 0;
       }
       &:hover {
-        color: $brown;
+        color: #8E828E;
+        // color: #463D10;
         transition: all .25s ease;
       }
     }
@@ -218,13 +219,41 @@
       margin-top: 10px;
       a {
         font-size: 14px;
-        margin-right: 5px;
         color: $lightbrown;
-        transition: all .25s ease;
+        margin-right: 15px;
+        position: relative;
+        transition: all 0.3s ease;
+        &:nth-child(1):before {
+          background-color: $github-color;
+        }
+        &:nth-child(2):before {
+          background-color: $facebook-color;
+        }
+        &:nth-child(3):before {
+          background-color: $instagram-color;
+        }
+        &:nth-child(4):before {
+          background-color: $linkedin-color;
+        }
+        &:nth-child(5):before {
+          background-color: $brown;
+        }
         &:hover {
-          color: $brown;
-          opacity: 0.7;
-          transition: all .25s ease;
+          color: #fff;
+        }
+        &:before {
+          content: '';
+          position: absolute;
+          width: 28px;
+          height: 28px;
+          border-radius: 50%;
+          z-index: -1;
+          left: 50%;
+          transform: translateX(-50%) scale(0);
+          transition: all 0.3s ease;
+        }
+        &:hover:before {
+          transform: translateX(-50%) scale(1);
         }
       }
     }

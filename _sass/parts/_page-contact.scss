@@ -39,14 +39,5 @@
         border: 2px solid rgba(141, 72, 1, 0.3);
       }
     }
-    .form-btn {
-      font-weight: 700;
-      background-color: $brown;
-      color: $white;
-      border-radius: $common-border-radius;
-      &:hover {
-        background-color: darken($brown, 15%);
-      }
-    }
   }
 }

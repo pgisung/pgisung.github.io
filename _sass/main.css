@@ -1142,21 +1142,21 @@ table tr:hover {
   text-align: center;
   font-family: "Lato", sans-serif;
   font-size: 14px;
+  font-weight: 700;
   line-height: 14px;
   display: inline-block;
   text-decoration: none;
-  border: 1px solid #8D4801;
-  border-radius: 0;
-  background-color: transparent;
-  color: #8D4801;
   outline: none;
+  border: none;
+  border-radius: 14px;
+  color: #ffffff;
+  background-color: darkseagreen;
   cursor: pointer;
-  -webkit-transition: all 0.2s ease;
-  transition: all 0.2s ease;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
 }
 .btn:hover {
-  background-color: #8D4801;
-  color: #ffffff;
+  background-color: #8E828E;
 }
 .btn-middle {
   width: 100%;
@@ -1385,15 +1385,21 @@ table tr:hover {
   bottom: 0;
   overflow-y: auto;
 }
+.search-box .blog-categories .bar-title, .search-box .blog-tags .bar-title {
+  font-weight: 700;
+  color: #ffffff;
+  float: left;
+  margin: 0 10px 10px 0;
+}
 .search-box .blog-categories {
   top: 60px;
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(141, 72, 1, 0.97)), to(rgba(198, 163, 128, 0.97)));
-  background: linear-gradient(180deg, rgba(141, 72, 1, 0.97), rgba(198, 163, 128, 0.97));
+  background: -webkit-gradient(linear, left top, right top, from(rgba(141, 72, 1, 0.97)), to(rgba(198, 163, 128, 0.97)));
+  background: linear-gradient(90deg, rgba(141, 72, 1, 0.97), rgba(198, 163, 128, 0.97));
 }
 .search-box .blog-tags {
   top: 112px;
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(198, 163, 128, 0.97)), to(rgba(255, 255, 255, 0.97)));
-  background: linear-gradient(180deg, rgba(198, 163, 128, 0.97), rgba(255, 255, 255, 0.97));
+  background: -webkit-gradient(linear, left top, right top, from(rgba(198, 163, 128, 0.97)), to(rgba(255, 255, 255, 0.97)));
+  background: linear-gradient(90deg, rgba(198, 163, 128, 0.97), rgba(255, 255, 255, 0.97));
 }
 
 .search-toggle {
@@ -1708,7 +1714,6 @@ table tr:hover {
   float: left;
   text-align: center;
   line-height: 60px;
-  border-radius: 50%;
   z-index: 1;
   position: relative;
   -webkit-transition: all 0.3s ease;
@@ -1769,23 +1774,12 @@ table tr:hover {
 }
 
 .newsletter-button {
-  display: inline-block;
   width: 30%;
   height: 60px;
-  font-size: 14px;
   padding: 20px 0;
-  border: none;
-  outline: none;
-  cursor: pointer;
-  color: #ffffff;
-  background-color: #8D4801;
+  border-radius: 0;
   border-top-right-radius: 14px;
   border-bottom-right-radius: 14px;
-  -webkit-transition: all 0.3s ease-in-out;
-  transition: all 0.3s ease-in-out;
-}
-.newsletter-button:hover {
-  background-color: #412100;
 }
 
 @media only screen and (max-width: 992px) {
@@ -2141,7 +2135,7 @@ table tr:hover {
 .post-footer .post-category a, .post-footer .post-tag a {
   font-size: 13px;
   margin-right: 10px;
-  color: darkseagreen;
+  color: darkgreen;
   text-decoration: none;
   -webkit-transition: all 0.25s ease;
   transition: all 0.25s ease;
@@ -2150,7 +2144,7 @@ table tr:hover {
   margin-right: 0;
 }
 .post-footer .post-category a:hover, .post-footer .post-tag a:hover {
-  color: #8D4801;
+  color: #8E828E;
   -webkit-transition: all 0.25s ease;
   transition: all 0.25s ease;
 }
@@ -2232,16 +2226,48 @@ table tr:hover {
 }
 .post-author .post-author-info .post-author-meta a {
   font-size: 14px;
-  margin-right: 5px;
   color: #a79f96;
-  -webkit-transition: all 0.25s ease;
-  transition: all 0.25s ease;
+  margin-right: 15px;
+  position: relative;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+.post-author .post-author-info .post-author-meta a:nth-child(1):before {
+  background-color: #181717;
+}
+.post-author .post-author-info .post-author-meta a:nth-child(2):before {
+  background-color: #1877F2;
+}
+.post-author .post-author-info .post-author-meta a:nth-child(3):before {
+  background-color: #E4405F;
+}
+.post-author .post-author-info .post-author-meta a:nth-child(4):before {
+  background-color: #0A66C2;
+}
+.post-author .post-author-info .post-author-meta a:nth-child(5):before {
+  background-color: #8D4801;
 }
 .post-author .post-author-info .post-author-meta a:hover {
-  color: #8D4801;
-  opacity: 0.7;
-  -webkit-transition: all 0.25s ease;
-  transition: all 0.25s ease;
+  color: #fff;
+}
+.post-author .post-author-info .post-author-meta a:before {
+  content: "";
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  z-index: -1;
+  left: 50%;
+  -webkit-transform: translateX(-50%) scale(0);
+      -ms-transform: translateX(-50%) scale(0);
+          transform: translateX(-50%) scale(0);
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+.post-author .post-author-info .post-author-meta a:hover:before {
+  -webkit-transform: translateX(-50%) scale(1);
+      -ms-transform: translateX(-50%) scale(1);
+          transform: translateX(-50%) scale(1);
 }
 
 .page-navigation {
@@ -2353,7 +2379,7 @@ table tr:hover {
 .top {
   position: fixed;
   bottom: 20px;
-  color: #666;
+  color: darkseagreen;
   font-size: 21px;
   text-align: center;
   cursor: pointer;
@@ -2370,7 +2396,7 @@ table tr:hover {
   right: 20px;
 }
 .top:hover {
-  color: #8D4801;
+  color: #8E828E;
   opacity: 1;
 }
 
@@ -2601,6 +2627,7 @@ table tr:hover {
   display: inline-block;
   padding: 5px 10px;
   font-size: 14px;
+  font-weight: 700;
   color: #ffffff;
   background-color: darkseagreen;
   text-decoration: none;
@@ -2609,7 +2636,7 @@ table tr:hover {
   transition: all 0.25s ease;
 }
 .blog-categories .categories li a:hover {
-  background-color: #8D4801;
+  background-color: #8E828E;
 }
 .blog-categories h2 {
   font-size: 16px;
@@ -2626,13 +2653,13 @@ table tr:hover {
 .category-list span a {
   font-size: 16px;
   font-weight: 700;
-  color: darkseagreen;
+  color: darkgreen;
   text-decoration: none;
   -webkit-transition: all 0.25s ease;
   transition: all 0.25s ease;
 }
 .category-list span:hover a {
-  color: #8D4801;
+  color: #8E828E;
 }
 
 /* 12. ========== Page Tags Styles ========== */
@@ -2652,6 +2679,7 @@ table tr:hover {
   display: inline-block;
   padding: 5px 10px;
   font-size: 14px;
+  font-weight: 700;
   color: #ffffff;
   background-color: darkseagreen;
   text-decoration: none;
@@ -2660,7 +2688,7 @@ table tr:hover {
   transition: all 0.25s ease;
 }
 .blog-tags .tags li a:hover {
-  background-color: #8D4801;
+  background-color: #8E828E;
 }
 .blog-tags h2 {
   font-size: 16px;
@@ -2677,13 +2705,13 @@ table tr:hover {
 .tag-list span a {
   font-size: 16px;
   font-weight: 700;
-  color: darkseagreen;
+  color: darkgreen;
   text-decoration: none;
   -webkit-transition: all 0.25s ease;
   transition: all 0.25s ease;
 }
 .tag-list span:hover a {
-  color: #8D4801;
+  color: #8E828E;
 }
 
 /* 13. ========== Page Contact Styles ========== */
@@ -2731,13 +2759,4 @@ table tr:hover {
 .form .form-group .form-input:focus,
 .form .form-group .form-textarea:focus {
   border: 2px solid rgba(141, 72, 1, 0.3);
-}
-.form .form-group .form-btn {
-  font-weight: 700;
-  background-color: #8D4801;
-  color: #ffffff;
-  border-radius: 14px;
-}
-.form .form-group .form-btn:hover {
-  background-color: #412100;
 }/*# sourceMappingURL=main.css.map */

@@ -53,7 +53,6 @@
       float: left;
       text-align: center;
       line-height: 60px;
-      border-radius: 50%;
       z-index: 1;
       position: relative;
       transition: all 0.3s ease;
@@ -141,22 +140,12 @@
 }
 
 .newsletter-button {
-  display: inline-block;
   width: 30%;
   height: 60px;
-  font-size: 14px;
   padding: 20px 0;
-  border: none;
-  outline: none;
-  cursor: pointer;
-  color: $white;
-  background-color: $brown;
+  border-radius: 0;
   border-top-right-radius: $common-border-radius;
   border-bottom-right-radius: $common-border-radius;
-  transition: all 0.3s ease-in-out;
-  &:hover {
-    background-color: darken($brown, 15%);
-  }
 }
 
 @media only screen and (max-width: 992px) {

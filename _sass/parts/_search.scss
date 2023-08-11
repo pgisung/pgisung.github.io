@@ -29,14 +29,20 @@
     left: 0;
     bottom: 0;
     overflow-y: auto;
+    .bar-title {
+      font-weight: 700;
+      color: #ffffff;
+      float: left;
+      margin: 0 10px 10px 0;
+    }
   }
   .blog-categories {
     top: 60px;
-    background: linear-gradient(180deg, rgba(141, 72, 1, 0.97), rgba(198, 163, 128, 0.97));
+    background: linear-gradient(90deg, rgba(141, 72, 1, 0.97), rgba(198, 163, 128, 0.97));
   }
   .blog-tags {
     top: 112px;
-    background: linear-gradient(180deg, rgba(198, 163, 128, 0.97), rgba(255, 255, 255, 0.97));
+    background: linear-gradient(90deg, rgba(198, 163, 128, 0.97), rgba(255, 255, 255, 0.97));
   }
 }
 
