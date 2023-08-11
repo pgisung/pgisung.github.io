@@ -11,12 +11,12 @@ permalink: /tags/
   <ul class="tags clearfix">
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-    <li><a href="#{{ this_word | cgi_escape }}" class="tag">{{ this_word }} <span>({{ site.tags[this_word].size }})</span></a></li>
+    <li><a href="#{{ this_word | replace: ' ', '-' | cgi_escape }}" class="tag">{{ this_word }} <span>({{ site.tags[this_word].size }})</span></a></li>
   {% endunless %}{% endfor %}
   </ul>
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-  <h2 id="{{ this_word | cgi_escape }}">{{ this_word }}</h2>
+  <h2 id="{{ this_word | replace: ' ', '-' | cgi_escape }}">{{ this_word }}</h2>
     {% for post in site.tags[this_word] %}{% if post.title != null %}
     <div class="tag-list">
         <span><a href="{{ post.url }}">{{ post.title }}</a></span>
