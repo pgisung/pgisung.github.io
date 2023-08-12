@@ -362,3 +362,11 @@ $(function() {
   });
 
 });
+
+// 카테고리, 태그 나무 그리기
+window.onload = () => {
+  const canvases = document.querySelectorAll('.elements-tree');
+  canvases.forEach(function(canvas) {
+    new TreeManager(canvas);  
+  });
+};

@@ -362,3 +362,32 @@ $(function() {
   });
 
 });
+
+// 카테고리, 태그 나무 그리기
+window.onload = () => {
+  const canvases = document.querySelectorAll('.elements-tree');
+  canvases.forEach(function(canvas) {
+    new TreeManager(canvas);  
+  });
+};
+
+// window.addEventListener('load', () => {
+//   const canvases = document.querySelectorAll('.elements-tree');
+//   canvases.forEach(function(canvas) {
+//     const ctx = canvas.getContext("2d");
+//     const pixelRatio = window.devicePixelRatio > 1 ? 2 : 1;
+
+//     const stageWidth = canvas.parentNode.clientWidth;
+//     const stageHeight = canvas.parentNode.clientWidth / 2;
+//     console.log(stageWidth);
+//     console.log(stageHeight);
+//     console.log(canvas.width);
+//     console.log(canvas.height);
+
+//     canvas.width = stageWidth * pixelRatio;
+//     canvas.height = stageHeight * pixelRatio;
+//     ctx.scale(pixelRatio, pixelRatio);
+
+//     new Tree(ctx, stageWidth / 2, stageHeight);
+//   });
+// });
