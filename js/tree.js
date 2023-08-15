@@ -8,7 +8,7 @@ class TreeManager {
     this.ctx = this.canvas.getContext('2d');
     this.pixelRatio = window.devicePixelRatio > 1 ? 2 : 1;
 
-    window.addEventListener('resize', this.debounce(this.resize.bind(this), 100), false);
+    window.addEventListener('resize', this.debounce(this.resize.bind(this), 500), false);
     this.resize();
 
     new Tree(this.ctx, this.stageWidth / 2, this.stageHeight);
