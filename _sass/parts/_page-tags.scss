@@ -51,4 +51,23 @@
 			}
 		}
 	}
+	.category {
+		background-color: limegreen;
+	}
+	.tag {
+		background-color: yellowgreen;
+	}
+	.category, .tag {
+		display: inline-block;
+		padding: 0px 7px;
+		font-size: 14px;
+		font-weight: 700;
+		color: $white;
+		text-decoration: none;
+		border-radius: $common-border-radius;
+		transition: all .25s ease;
+		&:hover {
+			background-color: #8E828E;			
+		}
+	}
 }

@@ -2661,6 +2661,26 @@ table tr:hover {
 .category-list span:hover a {
   color: #8E828E;
 }
+.category-list .category {
+  background-color: limegreen;
+}
+.category-list .tag {
+  background-color: yellowgreen;
+}
+.category-list .category, .category-list .tag {
+  display: inline-block;
+  padding: 0px 7px;
+  font-size: 14px;
+  font-weight: 700;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 14px;
+  -webkit-transition: all 0.25s ease;
+  transition: all 0.25s ease;
+}
+.category-list .category:hover, .category-list .tag:hover {
+  background-color: #8E828E;
+}
 
 /* 12. ========== Page Tags Styles ========== */
 .blog-tags {
@@ -2712,6 +2732,26 @@ table tr:hover {
 }
 .tag-list span:hover a {
   color: #8E828E;
+}
+.tag-list .category {
+  background-color: limegreen;
+}
+.tag-list .tag {
+  background-color: yellowgreen;
+}
+.tag-list .category, .tag-list .tag {
+  display: inline-block;
+  padding: 0px 7px;
+  font-size: 14px;
+  font-weight: 700;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 14px;
+  -webkit-transition: all 0.25s ease;
+  transition: all 0.25s ease;
+}
+.tag-list .category:hover, .tag-list .tag:hover {
+  background-color: #8E828E;
 }
 
 /* 13. ========== Page Contact Styles ========== */

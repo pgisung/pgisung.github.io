@@ -3,7 +3,6 @@ class TreeManager {
   constructor(canvas) {
     this.canvas = canvas;
     this.canvas.style.width = '100%';
-    this.canvas.style.height = '100%';
 
     this.ctx = this.canvas.getContext('2d');
     this.pixelRatio = window.devicePixelRatio > 1 ? 2 : 1;
@@ -25,11 +24,8 @@ class TreeManager {
   resize() {
     this.stageWidth = this.canvas.parentNode.clientWidth;
     // 뷰포트의 세로사이즈가 너무 크므로 가르사이즈에 비례하여 세로 사이즈도 조절
-    if (this.stageWidth < 600) {
-      this.stageHeight = this.canvas.parentNode.clientWidth * 1.5;
-    } else {
-      this.stageHeight = this.canvas.parentNode.clientWidth * 3 / 4;
-    }
+    this.stageHeight = this.canvas.parentNode.clientWidth * 0.9403;
+    // this.stageHeight = 677;
 
     // 디스플레이 비율에 맞추어 캔버스 사이즈와 비율 조정
     this.canvas.width = this.stageWidth * this.pixelRatio;
@@ -55,6 +51,8 @@ class Tree {
     this.cntDepth = 0; // depth별로 그리기 위해 현재 depth 변수 선언
     this.animation = null; // 현재 동작하는 애니메이션
 
+    this.mobileRatio = this.posX * 2 < 600 ? 0.55 : 1;
+
     this.init();
   }
 
@@ -73,13 +71,17 @@ class Tree {
 
     const len = depth === 0 ? this.random(10, 13) : this.random(0, 11);
 
-    const endX = startX + this.cos(angle) * len * (this.depth - depth);
-    const endY = startY + this.sin(angle) * len * (this.depth - depth);
+    const endX = startX + this.cos(angle) * len * this.mobileRatio * (this.depth - depth);
+    const endY = startY + this.sin(angle) * len * this.mobileRatio * (this.depth - depth);
 
     // depth에 해당하는 위치의 배열에 가지를 추가
     this.branches[depth].push(
       new Branch(startX, startY, endX, endY, this.depth - depth)
     );
+    // 마지막 가지가 생성될 때
+    // if (depth === this.depth - 1) {
+
+    // }
 
     this.createBranch(endX, endY, angle - this.random(15, 23), depth + 1);
     this.createBranch(endX, endY, angle + this.random(15, 23), depth + 1);
