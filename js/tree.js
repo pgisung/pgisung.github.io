@@ -24,13 +24,12 @@ class TreeManager {
 
   resize() {
     this.stageWidth = this.canvas.parentNode.clientWidth;
+    // 뷰포트의 세로사이즈가 너무 크므로 가르사이즈에 비례하여 세로 사이즈도 조절
     if (this.stageWidth < 600) {
       this.stageHeight = this.canvas.parentNode.clientWidth * 1.5;
     } else {
       this.stageHeight = this.canvas.parentNode.clientWidth * 3 / 4;
-      console.log(this.stageWidth);
     }
-    // this.stageHeight = this.canvas.parentNode.clientWidth * 3 / 4;
 
     // 디스플레이 비율에 맞추어 캔버스 사이즈와 비율 조정
     this.canvas.width = this.stageWidth * this.pixelRatio;
@@ -47,7 +46,6 @@ class TreeManager {
 
 class Tree {
   constructor(ctx, posX, posY) {
-    console.log(ctx, posX, posY);
     this.ctx = ctx;
     this.posX = posX;
     this.posY = posY;
