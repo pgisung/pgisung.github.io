@@ -7,6 +7,8 @@ class TreeManager {
     this.ctx = this.canvas.getContext('2d');
     this.pixelRatio = window.devicePixelRatio > 1 ? 2 : 1;
 
+    this.treeCount = 0;
+
     // leaf 나무 잎으로 위치 이동하기 위해 position absolute
     const unorderedLists = document.querySelectorAll('.page-content .categories, .page-content .tags');
     unorderedLists.forEach(function(list) {
@@ -16,17 +18,13 @@ class TreeManager {
     window.addEventListener('resize', this.debounce(this.resize.bind(this), 1000), false);
     this.canvas.addEventListener('click', this.click.bind(this), false);
     this.resize();
-
-    // 생성될 때 나무를 생성하므로 카운트 1
-    this.treeCount = 1;
-    new Tree(this.ctx, this.stageWidth / 2, this.stageHeight);
   }
   
   debounce(func, wait) {
     let timeout;
-    return function() {
-        clearTimeout(timeout);
-        timeout = setTimeout(func, wait);
+    return ( ... args ) => {
+        if (timeout) clearTimeout(timeout);
+        timeout = setTimeout(func, wait, ... args);
     }
   }
 
@@ -51,6 +49,12 @@ class TreeManager {
 
   // click 함수 추가
   click(event) {
+    event.stopPropagation();
+    if (this.currentTree && !this.currentTree.isAnimationCompleted()) {
+      // 현재 진행 중인 Tree 객체의 애니메이션이 완료되지 않았으면 새로운 Tree 객체를 생성하지 않음
+      return;
+    }
+
     // 나무 개수에 따라 캔버스 초기화 해줌
     if (this.treeCount > 4) {
       this.treeCount = 0;
@@ -59,7 +63,7 @@ class TreeManager {
 
     const { clientX } = event;
     this.treeCount += 1;
-    new Tree(this.ctx, clientX - this.canvas.getBoundingClientRect().left, this.stageHeight);
+    this.currentTree = new Tree(this.ctx, clientX - this.canvas.getBoundingClientRect().left, this.stageHeight);
   }
 }
 
@@ -122,29 +126,30 @@ class Tree {
     );
     // leaf 마지막 가지가 생성될 때
     if (depth === this.depth - 1) {
-      this.edgeXs.push(endX);
-      this.edgeYs.push(endY);
-      const randomShortRadius = this.random(1, 2);
-      const randomLongRadius = this.random(3, 4);
-      const randomAngle = this.random(-113, 67)
-      const stemX = endX + this.cos(randomAngle) * this.random(randomShortRadius, randomLongRadius) * this.mobileRatio;
-      const stemY = endY + this.sin(randomAngle) * this.random(randomShortRadius, randomLongRadius) * this.mobileRatio;
-      const centerX = stemX + this.cos(randomAngle) * randomLongRadius * this.mobileRatio;
-      const centerY = stemY + this.sin(randomAngle) * randomLongRadius * this.mobileRatio;
-      this.leaves.push(new Leaf(endX, endY, stemX, stemY, centerX, centerY, randomLongRadius, randomShortRadius, randomAngle));
+      this.createLeaf(endX, endY);
     }
 
     this.createBranch(endX, endY, angle - this.random(15, 23), depth + 1);
     this.createBranch(endX, endY, angle + this.random(15, 23), depth + 1);
   }
 
+  // leaf
+  createLeaf(startX, startY) {
+    this.edgeXs.push(startX);
+    this.edgeYs.push(startY);
+    const randomShortRadius = this.random(1, 2);
+    const randomLongRadius = this.random(3, 4);
+    const randomAngle = this.random(-113, 67)
+    const stemX = startX + this.cos(randomAngle) * this.random(randomShortRadius, randomLongRadius) * this.mobileRatio;
+    const stemY = startY + this.sin(randomAngle) * this.random(randomShortRadius, randomLongRadius) * this.mobileRatio;
+    const centerX = stemX + this.cos(randomAngle) * randomLongRadius * this.mobileRatio;
+    const centerY = stemY + this.sin(randomAngle) * randomLongRadius * this.mobileRatio;
+    this.leaves.push(new Leaf(startX, startY, stemX, stemY, centerX, centerY, randomLongRadius, randomShortRadius, randomAngle));
+  }
+
   draw() {
     // 다 그렸으면 requestAnimationFrame을 중단해 메모리 누수가 없게 함.
     if (this.cntDepth === this.depth) {
-      // 가지 끝에 나뭇잎 그리기
-      for (let k = 0; k < this.leaves.length; k++) {
-        this.leaves[k].draw(this.ctx);
-      }
       cancelAnimationFrame(this.animation);
     }
 
@@ -154,6 +159,12 @@ class Tree {
 
       for (let j = 0; j < this.branches[i].length; j++) {
         pass = this.branches[i][j].draw(this.ctx);
+      }
+      if (i === this.branches.length - 1) {
+        // 가지 끝에 나뭇잎 그리기
+        for (let k = 0; k < this.leaves.length; k++) {
+          this.leaves[k].draw(this.ctx);
+        }
       }
 
       if (!pass) break;
@@ -193,6 +204,10 @@ class Tree {
       this.edgeXs.splice(leafIndex, 1);
       this.edgeYs.splice(leafIndex, 1);
     });
+  }
+
+  isAnimationCompleted() {
+    return this.cntDepth === this.depth;
   }
 }
 

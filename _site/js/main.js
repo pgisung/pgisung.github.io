@@ -138,10 +138,9 @@ $(function() {
     searchInput.dispatchEvent(searchEvent);
   });
 
-  // 태그 버튼을 이용한 검색 기능 추가 by value
-  var tags = document.querySelectorAll('.search-box .tag');
-  for (var i = 0; i < tags.length; i++) {
-    tags[i].addEventListener('click', function(event) {
+  // 태그 버튼을 이용한 검색 기능
+  document.querySelectorAll('.search-box .tag').forEach(tag => {
+    tag.addEventListener('click', function(event) {
       event.preventDefault();
       var searchInput = document.querySelector('#search-input');
       // Mark: 원래는 a태그 자체를 타겟으로 값을 가져왔었으나 현재 원인불명으로 a태그가 사라지고 bubble up으로 그안의 span 태그가 눌려서 event를 전달하는 현상이 있어서 가장가까운 a 태그로부터 정보를 가져오도록 수정해둠 추후 근본적인 원인 개선 필요
@@ -156,30 +155,10 @@ $(function() {
         searchInput.dispatchEvent(searchEvent);
       }
     });
-  }
-  // 태그 버튼을 이용한 검색 기능 추가 by href
-  // var tags = document.querySelectorAll('.search-box .tag');
-  // for (var i = 0; i < tags.length; i++) {
-  //   tags[i].addEventListener('click', function(event) {
-  //     event.preventDefault();
-  //     var searchInput = document.querySelector('#search-input');
-  //     var eventTargetAttr = event.target.getAttribute('href')
-  //     if (eventTargetAttr) {
-  //       var searchValue = eventTargetAttr.replace('#', '');
-  //       searchInput.value = searchValue;
-  //       var searchEvent = new KeyboardEvent('keyup', {
-  //         bubbles: true,
-  //         cancelable: true
-  //       });
-  //       searchInput.dispatchEvent(searchEvent);
-  //     }
-  //   });
-  // }
-
-  // 카테고리 버튼을 이용한 검색 기능 추가 by value - logic은 바로 위의 태그함수와 동일하므로 수정할 시 둘 다 수정
-  var tags = document.querySelectorAll('.search-box .category');
-  for (var i = 0; i < tags.length; i++) {
-    tags[i].addEventListener('click', function(event) {
+  });
+  // 카테고리 버튼을 이용한 검색 기능 - logic은 바로 위의 태그함수와 동일하므로 수정할 시 둘 다 수정
+  document.querySelectorAll('.search-box .category').forEach(category => {
+    category.addEventListener('click', function(event) {
       event.preventDefault();
       var searchInput = document.querySelector('#search-input');
       var eventTargetText = event.target.closest('a.category').textContent.replace(/\s*\(\d+\)/, '')
@@ -192,7 +171,7 @@ $(function() {
         searchInput.dispatchEvent(searchEvent);
       }
     });
-  }
+  });
 
   // Scroll To Top
   $('.top').click(function () {
@@ -361,12 +340,12 @@ $(function() {
     }
   });
 
-});
-
-// 카테고리, 태그 나무 그리기
-window.onload = () => {
-  const canvases = document.querySelectorAll('.elements-tree');
-  canvases.forEach(function(canvas) {
-    new TreeManager(canvas);  
+  // 카테고리, 태그 나무 그리기
+  window.addEventListener('load', () => {
+    const canvases = document.querySelectorAll('.elements-tree');
+    canvases.forEach(function(canvas) {
+      new TreeManager(canvas);  
+    });
   });
-};
+
+});
