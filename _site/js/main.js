@@ -367,6 +367,6 @@ $(function() {
 window.onload = () => {
   const canvases = document.querySelectorAll('.elements-tree');
   canvases.forEach(function(canvas) {
-    new TreeManager(canvas);
+    new TreeManager(canvas);  
   });
 };

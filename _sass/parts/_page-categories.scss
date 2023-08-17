@@ -7,6 +7,12 @@
 		li {
 			float: left;
 			margin: 0 10px 10px 0;
+			// leaf
+			z-index: auto;
+			&:hover {
+				z-index: 1;
+			}
+			// 여기까지 -- leaf
 			a {
 				display: inline-block;
 				padding: 5px 10px;

@@ -2622,6 +2622,10 @@ table tr:hover {
 .blog-categories .categories li {
   float: left;
   margin: 0 10px 10px 0;
+  z-index: auto;
+}
+.blog-categories .categories li:hover {
+  z-index: 1;
 }
 .blog-categories .categories li a {
   display: inline-block;
@@ -2694,6 +2698,10 @@ table tr:hover {
 .blog-tags .tags li {
   float: left;
   margin: 0 10px 10px 0;
+  z-index: auto;
+}
+.blog-tags .tags li:hover {
+  z-index: 1;
 }
 .blog-tags .tags li a {
   display: inline-block;
@@ -2701,7 +2709,7 @@ table tr:hover {
   font-size: 14px;
   font-weight: 700;
   color: #ffffff;
-  background-color: darkseagreen;
+  background-color: mediumseagreen;
   text-decoration: none;
   border-radius: 14px;
   -webkit-transition: all 0.25s ease;

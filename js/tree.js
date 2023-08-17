@@ -7,9 +7,18 @@ class TreeManager {
     this.ctx = this.canvas.getContext('2d');
     this.pixelRatio = window.devicePixelRatio > 1 ? 2 : 1;
 
-    window.addEventListener('resize', this.debounce(this.resize.bind(this), 500), false);
+    // leaf 나무 잎으로 위치 이동하기 위해 position absolute
+    const unorderedLists = document.querySelectorAll('.page-content .categories, .page-content .tags');
+    unorderedLists.forEach(function(list) {
+      list.style.position = 'absolute';  
+    });
+
+    window.addEventListener('resize', this.debounce(this.resize.bind(this), 1000), false);
+    this.canvas.addEventListener('click', this.click.bind(this), false);
     this.resize();
 
+    // 생성될 때 나무를 생성하므로 카운트 1
+    this.treeCount = 1;
     new Tree(this.ctx, this.stageWidth / 2, this.stageHeight);
   }
   
@@ -36,7 +45,21 @@ class TreeManager {
     this.ctx.clearRect(0, 0, this.stageWidth, this.stageHeight);
 
     // 리사이즈시 나무 다시 생성
+    this.treeCount = 1;
     new Tree(this.ctx, this.stageWidth / 2, this.stageHeight);
+  }
+
+  // click 함수 추가
+  click(event) {
+    // 나무 개수에 따라 캔버스 초기화 해줌
+    if (this.treeCount > 4) {
+      this.treeCount = 0;
+      this.ctx.clearRect(0, 0, this.stageWidth, this.stageHeight);
+    }
+
+    const { clientX } = event;
+    this.treeCount += 1;
+    new Tree(this.ctx, clientX - this.canvas.getBoundingClientRect().left, this.stageHeight);
   }
 }
 
@@ -53,6 +76,23 @@ class Tree {
 
     this.mobileRatio = this.posX * 2 < 600 ? 0.55 : 1;
 
+    // leaf
+    this.edgeXs = [];
+    this.edgeYs = [];
+    // this.leafColors = [ 'lightseagreen', 'seagreen', 'darkseagreen' ];
+    this.leafElements = document.querySelectorAll('.page-content .categories li, .page-content .tags li');
+    this.leafElements.forEach((leaf) => {
+      var aTag = leaf.querySelector('a');
+      // aTag.style.borderRadius = '44px 5px';
+      // const colorIndex = this.random(0, this.leafColors.length - 1);
+      // aTag.style.backgroundColor = this.leafColors[colorIndex];
+
+      leaf.style.position = 'absolute';
+      leaf.style.whiteSpace = 'nowrap';
+      leaf.style.transition = 'all 1.5s ease';
+    });
+    this.leaves = [];
+
     this.init();
   }
 
@@ -64,6 +104,8 @@ class Tree {
 
     this.createBranch(this.posX, this.posY, -90, 0);
     this.draw();
+    // leaf
+    this.relocateLeaves();
   }
 
   createBranch(startX, startY, angle, depth) {
@@ -76,12 +118,21 @@ class Tree {
 
     // depth에 해당하는 위치의 배열에 가지를 추가
     this.branches[depth].push(
-      new Branch(startX, startY, endX, endY, this.depth - depth)
+      new Branch(startX, startY, endX, endY, (this.depth - depth) * this.mobileRatio)
     );
-    // 마지막 가지가 생성될 때
-    // if (depth === this.depth - 1) {
-
-    // }
+    // leaf 마지막 가지가 생성될 때
+    if (depth === this.depth - 1) {
+      this.edgeXs.push(endX);
+      this.edgeYs.push(endY);
+      const randomShortRadius = this.random(1, 2);
+      const randomLongRadius = this.random(3, 4);
+      const randomAngle = this.random(-113, 67)
+      const stemX = endX + this.cos(randomAngle) * this.random(randomShortRadius, randomLongRadius) * this.mobileRatio;
+      const stemY = endY + this.sin(randomAngle) * this.random(randomShortRadius, randomLongRadius) * this.mobileRatio;
+      const centerX = stemX + this.cos(randomAngle) * randomLongRadius * this.mobileRatio;
+      const centerY = stemY + this.sin(randomAngle) * randomLongRadius * this.mobileRatio;
+      this.leaves.push(new Leaf(endX, endY, stemX, stemY, centerX, centerY, randomLongRadius, randomShortRadius, randomAngle));
+    }
 
     this.createBranch(endX, endY, angle - this.random(15, 23), depth + 1);
     this.createBranch(endX, endY, angle + this.random(15, 23), depth + 1);
@@ -90,6 +141,10 @@ class Tree {
   draw() {
     // 다 그렸으면 requestAnimationFrame을 중단해 메모리 누수가 없게 함.
     if (this.cntDepth === this.depth) {
+      // 가지 끝에 나뭇잎 그리기
+      for (let k = 0; k < this.leaves.length; k++) {
+        this.leaves[k].draw(this.ctx);
+      }
       cancelAnimationFrame(this.animation);
     }
 
@@ -122,6 +177,23 @@ class Tree {
   random(min, max) {
     return min + Math.floor(Math.random() * (max - min + 1));
   }
+
+  // leaf 카테고리, 태그 잎 위치 재설정
+  relocateLeaves() {
+    if(1 > this.leafElements.length) return;
+    if(1 > this.edgeXs.length) return;
+    if(1 > this.edgeYs.length) return;
+    if(this.edgeXs.length < this.leafElements.length) return;
+    if(this.edgeYs.length < this.leafElements.length) return;
+
+    this.leafElements.forEach((leaf) => {
+      const leafIndex = this.random(0, this.edgeXs.length - 1);
+      leaf.style.left = this.edgeXs[leafIndex] - (leaf.offsetWidth / 2) + 'px';
+      leaf.style.top = this.edgeYs[leafIndex] - (leaf.offsetHeight / 2) + 'px';
+      this.edgeXs.splice(leafIndex, 1);
+      this.edgeYs.splice(leafIndex, 1);
+    });
+  }
 }
 
 class Branch {
@@ -130,10 +202,9 @@ class Branch {
     this.startY = startY;
     this.endX = endX;
     this.endY = endY;
-    this.color = '#8D4801';
     this.lineWidth = lineWidth;
 
-    this.frame = 10; // 가지를 100등분으로 나누기 위한 변수 frame 선언
+    this.frame = 10; // 애니메이션 frame 선언
     this.cntFrame = 0; // 현재 frame
     
     // 가지의 길이를 frame으로 나누어 구간별 길이를 구함
@@ -158,8 +229,67 @@ class Branch {
     ctx.lineTo(this.currentX, this.currentY);
 
     ctx.lineWidth = this.lineWidth;
-    ctx.fillStyle = this.color;
-    ctx.strokeStyle = this.color;
+    var gradient = ctx.createLinearGradient(this.startX, this.startY, this.endX, this.endY);
+    gradient.addColorStop(0, 'rgba(111, 42, 1, 1)');
+    gradient.addColorStop(0.25, 'rgba(141, 72, 1, 1)');
+    gradient.addColorStop(0.5, 'rgba(111, 42, 1, 1)');
+    gradient.addColorStop(0.75, 'rgba(141, 72, 1, 1)');
+    gradient.addColorStop(1, 'rgba(111, 42, 1, 1)');
+    ctx.strokeStyle = gradient;
+
+    ctx.stroke();
+    ctx.closePath();
+
+    this.cntFrame++;
+
+    // 다 안그렸으면 false를 리턴
+    return false;
+  }
+}
+
+class Leaf {
+  constructor(startX, startY, endX, endY, centerX, centerY, longRadius, shortRadius, rotation) {
+    this.startX = startX;
+    this.startY = startY;
+    this.endX = endX;
+    this.endY = endY;
+    this.centerX = centerX;
+    this.centerY = centerY;
+    this.longRadius = longRadius;
+    this.shortRadius = shortRadius;
+    this.rotation = rotation;
+
+    this.frame = 10;
+    this.cntFrame = 0;
+
+    // this.stemLength = Math.sqrt(Math.pow(startX - endX, 2) + Math.pow(startY - endY, 2));
+
+    this.gapAngle = ( 2 * Math.PI ) / this.frame;
+
+    this.currentAngle = 0;
+  }
+
+  draw(ctx) {
+    // 잎을 다 그리면 true 리턴
+    if (this.cntFrame === this.frame) return true;
+
+    ctx.beginPath();
+    
+    this.currentAngle += this.gapAngle;
+
+    ctx.moveTo(this.startX, this.startY);
+    ctx.lineTo(this.endX, this.endY);
+    ctx.ellipse(this.centerX, this.centerY, this.longRadius, this.shortRadius, this.rotation, 0, this.currentAngle);
+
+    var gradient = ctx.createLinearGradient(this.startX, this.startY, this.centerX, this.centerY);
+    gradient.addColorStop(0, 'rgba(34, 139, 34, 0.9)');
+    gradient.addColorStop(0.25, 'rgba(64, 169, 64, 0.8)');
+    gradient.addColorStop(0.5, 'rgba(34, 139, 34, 0.9)');
+    gradient.addColorStop(0.75, 'rgba(64, 169, 64, 0.8)');
+    gradient.addColorStop(1, 'rgba(34, 139, 34, 0.9)');
+    ctx.strokeStyle = gradient;
+    ctx.fillStyle = gradient;
+    ctx.fill();
 
     ctx.stroke();
     ctx.closePath();
