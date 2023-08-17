@@ -50,6 +50,7 @@ class TreeManager {
   // click 함수 추가
   click(event) {
     event.stopPropagation();
+    console.log('133');
     if (this.currentTree && !this.currentTree.isAnimationCompleted()) {
       // 현재 진행 중인 Tree 객체의 애니메이션이 완료되지 않았으면 새로운 Tree 객체를 생성하지 않음
       return;
@@ -162,9 +163,7 @@ class Tree {
       }
       if (i === this.branches.length - 1) {
         // 가지 끝에 나뭇잎 그리기
-        for (let k = 0; k < this.leaves.length; k++) {
-          this.leaves[k].draw(this.ctx);
-        }
+        this.drawAll(this.leaves);
       }
 
       if (!pass) break;
@@ -172,6 +171,38 @@ class Tree {
     }
 
     this.animation = requestAnimationFrame(this.draw.bind(this));
+  }
+  // draw() {
+  //   // 다 그렸으면 requestAnimationFrame을 중단해 메모리 누수가 없게 함.
+  //   if (this.cntDepth === this.depth) {
+  //     cancelAnimationFrame(this.animation);
+  //   }
+
+  //   // depth별로 가지를 그리기
+  //   for (let i = this.cntDepth; i < this.branches.length; i++) {
+  //     let pass = true;
+
+  //     for (let j = 0; j < this.branches[i].length; j++) {
+  //       pass = this.branches[i][j].draw(this.ctx);
+  //     }
+  //     if (i === this.branches.length - 1) {
+  //       // 가지 끝에 나뭇잎 그리기
+  //       for (let k = 0; k < this.leaves.length; k++) {
+  //         this.leaves[k].draw(this.ctx);
+  //       }
+  //     }
+
+  //     if (!pass) break;
+  //     this.cntDepth++;
+  //   }
+
+  //   this.animation = requestAnimationFrame(this.draw.bind(this));
+  // }
+
+  async drawAll(array) {
+    for (const element of array) {
+        await element.draw(this.ctx);
+    }
   }
 
   cos(angle) {
