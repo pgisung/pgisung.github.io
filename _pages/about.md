@@ -15,7 +15,7 @@ My original name is **Jisung Park**. I go by the name of **Johnny** so, you can 
 Well.. That I used to enjoy is a **deep reflection** how I may **improve the performance of process** what I am dealing with and, **making clean code** having appropriate readability. Although it would take so long time merely to think and think,
 
 <div class="image-slider-static">
-  <img src="images/pages/about-me/hobbies/hobby1.jpg" title="Blogger is reading the book in front of table located in the public area." alt="Blogger is reading the book in front of table located in the public area.">
+  <img src="images/pages/about-me/hobbies/reading-book.jpg" title="Blogger is reading the book in front of table located in the public area." alt="Blogger is reading the book in front of table located in the public area.">
 </div>
 <br>
 On the next hand, I may release my stresses by things that below.
@@ -23,38 +23,38 @@ On the next hand, I may release my stresses by things that below.
 - **listening pop musics**.
   - K-pop, Billboard Hot 100, Youtube cover songs, J.fla
 <div class="image-slider-static">
-  <img src="images/pages/about-me/hobbies/hobby2.jpg" title="Blogger is listening music on the sofa." alt="Blogger is listening music on the sofa.">
+  <img src="images/pages/about-me/hobbies/listening-music.jpg" title="Blogger is listening music on the sofa." alt="Blogger is listening music on the sofa.">
 </div>
 
 - **watching Netflix**.
   - It doesn't matter what genre it is however, it is important whether the content having proper sequence of story and containing message.
 <div class="image-slider-static">
-  <img src="images/pages/about-me/hobbies/hobby3.jpg" title="Blogger is watching Netflix by laptop in front of desk." alt="Blogger is watching Netflix by laptop in front of desk.">
+  <img src="images/pages/about-me/hobbies/watching-netflix.jpg" title="Blogger is watching Netflix by laptop in front of desk." alt="Blogger is watching Netflix by laptop in front of desk.">
 </div>
 
 - that go **singing** to karaoke. (whether the skill is good or not?)
 <div class="image-slider-static">
-  <img src="images/pages/about-me/hobbies/hobby4.jpg" title="Blogger is singing some song in karaoke." alt="Blogger is singing some song in karaoke.">
+  <img src="images/pages/about-me/hobbies/singing-song.jpg" title="Blogger is singing some song in karaoke." alt="Blogger is singing some song in karaoke.">
 </div>
 
 - there was **playing game**.
   - I had tried to measure how long time can't I feel boring from playing game content. and there was precisely the end.
 
 <div class="image-slider-auto">
-  <img src="images/pages/about-me/games/game1.jpg" title="The game Uncharted Waters Online" alt="The game Uncharted Waters Online">
-  <img src="images/pages/about-me/games/game2.jpg" title="The game Gersang" alt="The game Gersang">
-  <img src="images/pages/about-me/games/game3.jpg" title="The game Lost Ark" alt="The game Lost Ark">
-  <img src="images/pages/about-me/games/game4.jpg" title="The game Heroes of The Storm" alt="The game Heroes of The Storm">
-  <img src="images/pages/about-me/games/game5.jpg" title="The game Blade and Soul" alt="The game Blade and Soul">
-  <img src="images/pages/about-me/games/game6.jpg" title="The game Soul Walker" alt="The game Soul Walker">
-  <img src="images/pages/about-me/games/game7.jpg" title="The game Pokemon Ultra Sun" alt="The game Pokemon Ultra Sun">
-  <img src="images/pages/about-me/games/game8.jpg" title="The game Dungeon and Fighter Online" alt="The game Dungeon and Fighter Online">
-  <img src="images/pages/about-me/games/game9.jpg" title="The game Romance of the Three Kingdoms 13 Power Up Kit" alt="The game Romance of the Three Kingdoms 13 Power Up Kit">
-  <img src="images/pages/about-me/games/game10.jpg" title="The game Starcraft" alt="The game Starcraft">
-  <img src="images/pages/about-me/games/game11.jpg" title="The game Capitalism 2" alt="The game Capitalism 2">
-  <img src="images/pages/about-me/games/game12.jpg" title="The game Black Desert" alt="The game Black Desert">
-  <img src="images/pages/about-me/games/game13_1.jpg" title="The game BrownDust Mobile" alt="The game BrownDust Mobile">
-  <img src="images/pages/about-me/games/game13_2.jpg" title="The game BrownDust Mobile" alt="The game BrownDust Mobile">
+  <img src="images/pages/about-me/games/uncharted-waters-online.jpg" title="The game Uncharted Waters Online" alt="The game Uncharted Waters Online">
+  <img src="images/pages/about-me/games/gersang.jpg" title="The game Gersang" alt="The game Gersang">
+  <img src="images/pages/about-me/games/lost-ark.jpg" title="The game Lost Ark" alt="The game Lost Ark">
+  <img src="images/pages/about-me/games/heroes-of-the-storm.jpg" title="The game Heroes of The Storm" alt="The game Heroes of The Storm">
+  <img src="images/pages/about-me/games/blade-and-soul.jpg" title="The game Blade and Soul" alt="The game Blade and Soul">
+  <img src="images/pages/about-me/games/soul-walker.jpg" title="The game Soul Walker" alt="The game Soul Walker">
+  <img src="images/pages/about-me/games/pokemon-ultra-sun.jpg" title="The game Pokemon Ultra Sun" alt="The game Pokemon Ultra Sun">
+  <img src="images/pages/about-me/games/dungeon-and-fighter.jpg" title="The game Dungeon and Fighter Online" alt="The game Dungeon and Fighter Online">
+  <img src="images/pages/about-me/games/romance-of-the-three-kingdoms-13-power-up-kit.jpg" title="The game Romance of the Three Kingdoms 13 Power Up Kit" alt="The game Romance of the Three Kingdoms 13 Power Up Kit">
+  <img src="images/pages/about-me/games/starcraft.jpg" title="The game Starcraft" alt="The game Starcraft">
+  <img src="images/pages/about-me/games/capitalism-2.jpg" title="The game Capitalism 2" alt="The game Capitalism 2">
+  <img src="images/pages/about-me/games/black-desert.jpg" title="The game Black Desert" alt="The game Black Desert">
+  <img src="images/pages/about-me/games/browndust-mobile_1.jpg" title="The game BrownDust Mobile" alt="The game BrownDust Mobile">
+  <img src="images/pages/about-me/games/browndust-mobile_2.jpg" title="The game BrownDust Mobile" alt="The game BrownDust Mobile">
 </div>
 <br>
 #### <span style="color: #8D4801">**What is the aim of this blog?**</span>
