@@ -268,21 +268,21 @@ img.zoom-img {
   cursor: default;
 }
 
-.image-slider-passive, .image-slider-auto {
+.image-slider-static, .image-slider-passive, .image-slider-auto {
   width: 90%;
   margin: 0 5%;
   z-index: auto;
 }
-.image-slider-passive .slick-prev:before, .image-slider-passive .slick-next:before, .image-slider-auto .slick-prev:before, .image-slider-auto .slick-next:before {
+.image-slider-static .slick-prev:before, .image-slider-static .slick-next:before, .image-slider-passive .slick-prev:before, .image-slider-passive .slick-next:before, .image-slider-auto .slick-prev:before, .image-slider-auto .slick-next:before {
   color: #8D4801;
 }
-.image-slider-passive.zoomed, .image-slider-auto.zoomed {
+.image-slider-static.zoomed, .image-slider-passive.zoomed, .image-slider-auto.zoomed {
   z-index: 666;
 }
-.image-slider-passive.zoomed .slick-list, .image-slider-auto.zoomed .slick-list {
+.image-slider-static.zoomed .slick-list, .image-slider-passive.zoomed .slick-list, .image-slider-auto.zoomed .slick-list {
   overflow: visible;
 }
-.image-slider-passive .slick-list, .image-slider-auto .slick-list {
+.image-slider-static .slick-list, .image-slider-passive .slick-list, .image-slider-auto .slick-list {
   overflow: hidden;
 }
 

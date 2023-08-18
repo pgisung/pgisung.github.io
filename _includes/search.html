@@ -4,12 +4,12 @@
       <label class="screen-reader-text" for="search-input">Search for Blog</label>
       <input type="text" id="search-input" class="search-field" name="s" placeholder="Type to search...">
     </form>
-    <div class="btn-remove">
+    <div class="btn-remove" title="Remove text to type new text">
       <span class="bt-search-remove">
         <i class="fa fa-eraser" aria-hidden="true"></i>
       </span>
     </div>
-    <div class="btn-close">
+    <div class="btn-close" title="Close search bar">
       <span class="bt-search-close">
         <i class="fa fa-times" aria-hidden="true"></i>
       </span>
@@ -22,7 +22,7 @@
       <span class="bar-title">Categories:</span>
       {% for item in (0..site.categories.size) %}{% unless forloop.last %}
         {% capture this_word %}{{ category_words[item] | strip_newlines }}{% endcapture %}
-        <li><a href="" class="category">{{ this_word }} <span>({{ site.categories[this_word].size }})</span></a></li>
+        <li><a href="" class="category" title="{{ this_word }} category">{{ this_word }} <span>({{ site.categories[this_word].size }})</span></a></li>
       {% endunless %}{% endfor %}
     </ul>
   </div>
@@ -33,7 +33,7 @@
       <span class="bar-title">Tags:</span>
       {% for item in (0..site.tags.size) %}{% unless forloop.last %}
         {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-        <li><a href="" class="tag">{{ this_word }} <span>({{ site.tags[this_word].size }})</span></a></li>
+        <li><a href="" class="tag" title="{{ this_word }} tag">{{ this_word }} <span>({{ site.tags[this_word].size }})</span></a></li>
       {% endunless %}{% endfor %}
     </ul>
   </div>

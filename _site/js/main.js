@@ -80,7 +80,7 @@ $(function() {
     json: '/assets/search.json',
     searchResultTemplate: `
       <li>
-        <a href="{url}">
+        <a href="{url}" title="Navigate to {title} post">
           <div class="template-box">
             <div class="template-image">
               <img src="{img}">
@@ -224,6 +224,24 @@ $(function() {
       $(_this).removeClass("is-loading");
     });
   }
+
+  // Slick.js : image-slider-static
+  $('.image-slider-static').slick({
+    dots: false,
+    arrows: false,
+    infinite: false,
+    slidesToShow: 2,
+    slidesToScroll: 1,
+    responsive: [
+        {
+          breakpoint: 480,
+          settings: {
+            slidesToShow: 1,
+            slidesToScroll: 1,
+          }
+        }
+      ]
+  });
 
   // Slick.js : image-slider-passive
   $('.image-slider-passive').slick({

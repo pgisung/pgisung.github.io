@@ -11,7 +11,7 @@ permalink: /tags/
   <ul class="tags clearfix">
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-    <li><a href="#{{ this_word | replace: ' ', '-' | cgi_escape }}" class="tag">{{ this_word }} <span>({{ site.tags[this_word].size }})</span></a></li>
+    <li><a href="#{{ this_word | replace: ' ', '-' | cgi_escape }}" class="tag" title="Scroll to {{ this_word }} tag">{{ this_word }} <span>({{ site.tags[this_word].size }})</span></a></li>
   {% endunless %}{% endfor %}
   </ul>
   <canvas class="elements-tree"></canvas>
@@ -20,19 +20,19 @@ permalink: /tags/
   <h2 id="{{ this_word | replace: ' ', '-' | cgi_escape }}">{{ this_word }}</h2>
     {% for post in site.tags[this_word] %}{% if post.title != null %}
     <div class="tag-list">
-        <span><a href="{{ post.url }}">{{ post.title }}</a></span>
+        <span><a href="{{ post.url }}" title="Navigate to {{ post.title }} post">{{ post.title }}</a></span>
         <small><span>| {{ post.date | date_to_string }}</span></small>
         {% if post.categories.size >= 1 %}
           <small>| <i class="fa fa-th-list" aria-hidden="true"></i></small>
           {% for category in post.categories %}
-            <a href="{{ site.baseurl }}/categories/#{{category | replace: ' ', '-' }}" class="category">{{ category }}</a>
+            <a href="{{ site.baseurl }}/categories/#{{category | replace: ' ', '-' }}" class="category" title="Navigate to {{ category }} category">{{ category }}</a>
           {% endfor %}
         {% else %}
         {% endif %}
         {% if post.tags.size >= 1 %}
           <small>| <i class="fa fa-tags" aria-hidden="true"></i></i></small>
           {% for tag in post.tags %}
-            <a href="#{{ tag | replace: ' ', '-' | cgi_escape }}" class="tag">{{ tag }}</a>
+            <a href="#{{ tag | replace: ' ', '-' | cgi_escape }}" class="tag" title="Scroll to {{ tag }} tag">{{ tag }}</a>
           {% endfor %}
         {% else %}
         {% endif %}

@@ -29,6 +29,11 @@ class TreeManager {
   }
 
   resize() {
+    if (this.currentTree && !this.currentTree.isAnimationCompleted()) {
+      // 현재 진행 중인 Tree 객체의 애니메이션이 완료되지 않았으면 새로운 Tree 객체를 생성하지 않음
+      return;
+    }
+
     this.stageWidth = this.canvas.parentNode.clientWidth;
     // 뷰포트의 세로사이즈가 너무 크므로 가르사이즈에 비례하여 세로 사이즈도 조절
     this.stageHeight = this.canvas.parentNode.clientWidth * 0.9403;
@@ -43,13 +48,8 @@ class TreeManager {
     this.ctx.clearRect(0, 0, this.stageWidth, this.stageHeight);
 
     // 리사이즈시 나무 다시 생성
-    if (this.currentTree && !this.currentTree.isAnimationCompleted()) {
-      this.treeCount = 0;
-      return;
-    } else {
-      this.treeCount = 1;
-      this.currentTree = new Tree(this.ctx, this.stageWidth / 2, this.stageHeight);
-    }
+    this.treeCount = 1;
+    this.currentTree = new Tree(this.ctx, this.stageWidth / 2, this.stageHeight);
   }
 
   // click 함수 추가
