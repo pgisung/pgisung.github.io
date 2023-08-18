@@ -43,14 +43,18 @@ class TreeManager {
     this.ctx.clearRect(0, 0, this.stageWidth, this.stageHeight);
 
     // 리사이즈시 나무 다시 생성
-    this.treeCount = 1;
-    new Tree(this.ctx, this.stageWidth / 2, this.stageHeight);
+    if (this.currentTree && !this.currentTree.isAnimationCompleted()) {
+      this.treeCount = 0;
+      return;
+    } else {
+      this.treeCount = 1;
+      this.currentTree = new Tree(this.ctx, this.stageWidth / 2, this.stageHeight);
+    }
   }
 
   // click 함수 추가
   click(event) {
     event.stopPropagation();
-    console.log('133');
     if (this.currentTree && !this.currentTree.isAnimationCompleted()) {
       // 현재 진행 중인 Tree 객체의 애니메이션이 완료되지 않았으면 새로운 Tree 객체를 생성하지 않음
       return;
@@ -152,6 +156,8 @@ class Tree {
     // 다 그렸으면 requestAnimationFrame을 중단해 메모리 누수가 없게 함.
     if (this.cntDepth === this.depth) {
       cancelAnimationFrame(this.animation);
+      this.animation = null;
+      return;
     }
 
     // depth별로 가지를 그리기
@@ -163,7 +169,9 @@ class Tree {
       }
       if (i === this.branches.length - 1) {
         // 가지 끝에 나뭇잎 그리기
-        this.drawAll(this.leaves);
+        for (let k = 0; k < this.leaves.length; k++) {
+          pass = this.leaves[k].draw(this.ctx);
+        }
       }
 
       if (!pass) break;
@@ -171,38 +179,6 @@ class Tree {
     }
 
     this.animation = requestAnimationFrame(this.draw.bind(this));
-  }
-  // draw() {
-  //   // 다 그렸으면 requestAnimationFrame을 중단해 메모리 누수가 없게 함.
-  //   if (this.cntDepth === this.depth) {
-  //     cancelAnimationFrame(this.animation);
-  //   }
-
-  //   // depth별로 가지를 그리기
-  //   for (let i = this.cntDepth; i < this.branches.length; i++) {
-  //     let pass = true;
-
-  //     for (let j = 0; j < this.branches[i].length; j++) {
-  //       pass = this.branches[i][j].draw(this.ctx);
-  //     }
-  //     if (i === this.branches.length - 1) {
-  //       // 가지 끝에 나뭇잎 그리기
-  //       for (let k = 0; k < this.leaves.length; k++) {
-  //         this.leaves[k].draw(this.ctx);
-  //       }
-  //     }
-
-  //     if (!pass) break;
-  //     this.cntDepth++;
-  //   }
-
-  //   this.animation = requestAnimationFrame(this.draw.bind(this));
-  // }
-
-  async drawAll(array) {
-    for (const element of array) {
-        await element.draw(this.ctx);
-    }
   }
 
   cos(angle) {
@@ -305,7 +281,7 @@ class Leaf {
     this.shortRadius = shortRadius;
     this.rotation = rotation;
 
-    this.frame = 10;
+    this.frame = 5;
     this.cntFrame = 0;
 
     // this.stemLength = Math.sqrt(Math.pow(startX - endX, 2) + Math.pow(startY - endY, 2));
