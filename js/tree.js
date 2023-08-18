@@ -167,8 +167,8 @@ class Tree {
       for (let j = 0; j < this.branches[i].length; j++) {
         pass = this.branches[i][j].draw(this.ctx);
       }
-      if (i === this.branches.length - 1) {
-        // 가지 끝에 나뭇잎 그리기
+      // 가지 끝에 나뭇잎 그리기
+      if (i === this.branches.length - 1 && pass === true) {
         for (let k = 0; k < this.leaves.length; k++) {
           pass = this.leaves[k].draw(this.ctx);
         }
@@ -281,7 +281,7 @@ class Leaf {
     this.shortRadius = shortRadius;
     this.rotation = rotation;
 
-    this.frame = 5;
+    this.frame = 1;
     this.cntFrame = 0;
 
     // this.stemLength = Math.sqrt(Math.pow(startX - endX, 2) + Math.pow(startY - endY, 2));
