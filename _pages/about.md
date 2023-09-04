@@ -95,8 +95,8 @@ gulp.task('designcycle', function() {
 
 ## <span style="color: brown">**History**</span>
 
-#### <span style="color: #8D4801">**Learning in [LikeLion iOS App School][techit-app-school]**</span>
-<small>2023-05-22 ~ ing</small>  
+#### <span style="color: #8D4801">**Personally studying**</span>
+<small>2023-04-17 ~ ing</small>  
 
 #### <span style="color: #8D4801">**Business trip in [LG Display][business-trip] in Hai Phong, Vietnam**</span>
 <small>2021-03-10 ~ 2021-09-03, </small><small>2023-02-22 ~ 2023-04-14</small>  
@@ -131,7 +131,6 @@ gulp.task('designcycle', function() {
 #### <span style="color: #8D4801">**Graduated [Bukil High School][high-school]**</span>
 <small>2005-03 ~ 2008-02</small>
 
-[techit-app-school]: https://techit.education/school/kdt-app-3rd "Navigate to LikeLion iOS App School"
 [business-trip]: https://www.lgdisplay.com/kor/company/info/place?type=02 "Navigate to LG Display"
 [english-language-training]: http://www.smeag.com "Navigate to SMEAG"
 [first-company]: http://www.hoonlab.co.kr "Navigate to Hoonlab"
