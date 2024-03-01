@@ -2158,18 +2158,6 @@ table tr:hover {
   margin-bottom: 40px;
 }
 
-.post-content::first-letter,
-.post-content > p:first-of-type::first-letter {
-  display: block;
-  height: 40px;
-  margin-top: 10px;
-  margin-right: 10px;
-  float: left;
-  font-size: 55px;
-  color: #8D4801;
-  line-height: 0.6;
-}
-
 @media screen and (max-width: 576px) {
   .post-footer .post-footer-list li {
     margin-bottom: 10px;
@@ -2809,4 +2797,4 @@ table tr:hover {
 .form .form-group .form-input:focus,
 .form .form-group .form-textarea:focus {
   border: 2px solid rgba(141, 72, 1, 0.3);
-}
+}/*# sourceMappingURL=main.css.map */

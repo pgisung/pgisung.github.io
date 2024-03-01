@@ -147,17 +147,18 @@
   }
 }
 
-.post-content::first-letter,
-.post-content>p:first-of-type::first-letter {
-  display: block;
-  height: 40px;
-  margin-top: 10px;
-  margin-right: 10px;
-  float: left;
-  font-size: 55px;
-  color: $brown;
-  line-height: 0.6;
-}
+// 첫 글자만 유난히 강조되서 오히려 보기 안좋음, 나중에 필요할 때 풀어서 쓰자
+// .post-content::first-letter,
+// .post-content>p:first-of-type::first-letter {
+//   display: block;
+//   height: 40px;
+//   margin-top: 10px;
+//   margin-right: 10px;
+//   float: left;
+//   font-size: 55px;
+//   color: $brown;
+//   line-height: 0.6;
+// }
 
 @media screen and (max-width: 576px) {
   .post-footer {
