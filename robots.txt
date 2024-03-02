@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://pgisung.github.io/sitemap.xml
+
+#DaumWebMasterTool:91d16ed5a117512ea7d1df2e878745a2cf97c9f4aba0afea3441b6cd49d6c4f3:Qx4l2dQ/HWA7Wqho+6NBSQ==
