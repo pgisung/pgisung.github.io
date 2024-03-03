@@ -9,6 +9,15 @@
   <meta property='og:title' content='{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}' />
   <meta property='og:description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}'>
   <meta property='og:url' content='https://pgisung.github.io' />
+  // 검색결과 사이트명 변경용 구조화된 WebSite 데이터
+  <script type="application/ld+json">
+    {
+      "@context" : "https://schema.org",
+      "@type" : "WebSite",
+      "name" : "JohnnyPark",
+      "url" : "https://pgisung.github.io"
+    }
+  </script>
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Dancing+Script%7CPT+Serif:400,400i,700%7CLato:400,700%7CRoboto:300,400" rel="stylesheet">

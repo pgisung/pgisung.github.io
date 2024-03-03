@@ -1,18 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-03T15:16:16+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JohnnyPark</title><subtitle>The growth diary of Software developer JohnnyPark</subtitle><entry><title type="html">Git을 시작해보자</title><link href="http://localhost:4000/github/2023/08/26/Starting-Git/" rel="alternate" type="text/html" title="Git을 시작해보자" /><published>2023-08-26T15:29:00+09:00</published><updated>2023-08-26T15:29:00+09:00</updated><id>http://localhost:4000/github/2023/08/26/Starting-Git</id><content type="html" xml:base="http://localhost:4000/github/2023/08/26/Starting-Git/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-03T21:55:36+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JohnnyPark</title><subtitle>The growth diary of Software developer JohnnyPark</subtitle><entry><title type="html">Git을 시작해보자</title><link href="http://localhost:4000/github/2023/08/26/Starting-Git/" rel="alternate" type="text/html" title="Git을 시작해보자" /><published>2023-08-26T15:29:00+09:00</published><updated>2023-08-26T15:29:00+09:00</updated><id>http://localhost:4000/github/2023/08/26/Starting-Git</id><content type="html" xml:base="http://localhost:4000/github/2023/08/26/Starting-Git/"><![CDATA[<blockquote>
   <ol>
     <li><a href="#windows-환경에서-git-설치-방법" title="Navigate to The way to install Git in Windows">Windows 환경에서 Git 설치 방법</a>
 <br /></li>
     <li><a href="#mac-환경에서-git-설치-방법" title="Navigate to The way to install Git in Mac">Mac 환경에서 Git 설치 방법</a>
 <br /></li>
-    <li><a href="#git-환경설정" title="Navigate to Git setting">Git 환경설정</a>
-<br /></li>
+    <li><a href="#git-환경설정" title="Navigate to Git setting">Git 환경설정</a></li>
   </ol>
 </blockquote>
 
-<p><br /></p>
+<hr />
 
 <h4 id="windows-환경에서-git-설치-방법"><span style="color: #8D4801"><strong>Windows 환경에서 Git 설치 방법</strong></span></h4>
-<p>본격적으로 Git을 시작하기에 앞서 나의 개발환경에 Git을 설치해보자</p>
+<p>본격적으로 Git을 시작하기에 앞서 나의 운영체제에 Git을 설치해보자</p>
 <ul>
   <li><strong>설치 파일 다운로드</strong>
 <br />
@@ -23,6 +22,7 @@
   <img src="/images/posts/2023-08-26-Starting-Git/git-official-website-1.png" title="Git official website" alt="Git official website" />
   <img src="/images/posts/2023-08-26-Starting-Git/git-official-website-2.png" title="Download page in Git official website" alt="Download page in Git official website" />
 </div>
+
 <p><br /></p>
 
 <ul>
@@ -56,12 +56,12 @@
         <p><span style="color: #BA8E77"><strong>새로운 워킹디렉토리에 Git을 초기화할 때 default branch의 name을 Git에서 기본값으로 지정하는 명칭으로 할 지 Custom할 지 정하는 곳이다.</strong></span> 오래전 버전에선 해당 옵션이 존재하지 않아서 branch명이 자동으로 기본값으로 지정되던 시기가 있었는데, Git을 잘 모르던 시절에 인터넷 검색에 기대어 사용할 때 원격저장소의 브랜치명은 master로 되어있는데 main브랜치에 push를 해서 동작이 안되고 뭐가 문젠지 모르는 우스운 실수가 나왔었다. (지금은 웃지만… 당시엔 해결을 못해서 엄청난 스트레스였다…) 아무튼 어느 옵션을 선택하든 Git 명령어를 사용할 때 브랜치를 잘 확인하고 사용하자.
 <img src="/images/posts/2023-08-26-Starting-Git/git-setup-6.png" title="Process to install Git on Windows" alt="Process to install Git on Windows" /></p>
       </li>
-      <li>Git bash 명령어를 실행할 수 있는 경로를 설정하는 화면으로 일반적으로 기본값으로 두고 진행하면 된다.
+      <li>Git bash 명령어를 실행할 수 있는 경로를 설정하는 화면으로 일반적으로 기본값으로 두고 진행하면 된다. 
+<img src="/images/posts/2023-08-26-Starting-Git/git-setup-7.png" title="Process to install Git on Windows" alt="Process to install Git on Windows" />
         <ul>
           <li><span style="color: #BA8E77"><strong>Use Git from Git Bash only</strong></span>: 오직 Git bash로만 Git을 사용할 수 있다.</li>
           <li><span style="color: #8D4801"><strong>Git from the command line and also from 3rd-party software</strong></span>: 기본값으로써 Git bash뿐 만 아니라 Windows cmd 창에서도 git 명령어를 사용할 수 있다.</li>
-          <li><span style="color: #BA8E77"><strong>Use Git and optional Unix tools from the Command Prompt</strong></span>: Windows cmd 창에서도 유닉스 도구 명령어를 사용할 수 있다.
-<img src="/images/posts/2023-08-26-Starting-Git/git-setup-7.png" title="Process to install Git on Windows" alt="Process to install Git on Windows" /></li>
+          <li><span style="color: #BA8E77"><strong>Use Git and optional Unix tools from the Command Prompt</strong></span>: Windows cmd 창에서도 유닉스 도구 명령어를 사용할 수 있다.</li>
         </ul>
       </li>
       <li>
@@ -81,19 +81,19 @@
 <img src="/images/posts/2023-08-26-Starting-Git/git-setup-11.png" title="Process to install Git on Windows" alt="Process to install Git on Windows" /></p>
       </li>
       <li>pull 명령어가 성공적으로 실행될 수도 있지만 이력간 충돌로 인해 오류가 생길 수 있다. 이 상황에 대한 동작을 선택할 수 있다.
+<img src="/images/posts/2023-08-26-Starting-Git/git-setup-12.png" title="Process to install Git on Windows" alt="Process to install Git on Windows" />
         <ul>
           <li><span style="color: #BA8E77"><strong>Fast-forward or merge</strong></span>: 브랜치가 생성된 커밋에 따라 순차적으로 분기하는 Fast-forward 방식으로 먼저 병합을 진행하고 동작이 불가능할 경우엔 수동 merge 진행</li>
           <li><span style="color: #BA8E77"><strong>Rebase</strong></span>: 공통 조상 커밋인 base 커밋을 이동시키고 각 커밋들을 순차적으로 줄세우고 동작이 불가능할 경우엔 실패할 수 있음</li>
-          <li><span style="color: #BA8E77"><strong>Only ever fast-forward</strong></span>: 브랜치가 생성된 커밋에 따라 순차적으로 분기하는 Fast-forward 방식으로 무조건 병합을 진행. 동작이 불가능할 경우엔 실패할 수 있음
-<img src="/images/posts/2023-08-26-Starting-Git/git-setup-12.png" title="Process to install Git on Windows" alt="Process to install Git on Windows" /></li>
+          <li><span style="color: #BA8E77"><strong>Only ever fast-forward</strong></span>: 브랜치가 생성된 커밋에 따라 순차적으로 분기하는 Fast-forward 방식으로 무조건 병합을 진행. 동작이 불가능할 경우엔 실패할 수 있음</li>
         </ul>
       </li>
       <li>
-        <p>추가옵션들로써 잘 모른다면 기본값으로 두고 진행한다.
+        <p>Git사용중 자격증명 관리자 추가여부 기본값으로 두고 진행한다.
 <img src="/images/posts/2023-08-26-Starting-Git/git-setup-13.png" title="Process to install Git on Windows" alt="Process to install Git on Windows" /></p>
       </li>
       <li>
-        <p>추가옵션들로써 잘 모른다면 기본값으로 두고 진행한다.
+        <p>파일시스템 캐싱, symbolic link 사용유무이다. 잘 모른다면 기본값으로 두고 진행한다.
 <img src="/images/posts/2023-08-26-Starting-Git/git-setup-14.png" title="Process to install Git on Windows" alt="Process to install Git on Windows" /></p>
       </li>
       <li>
@@ -101,23 +101,101 @@
 <img src="/images/posts/2023-08-26-Starting-Git/git-setup-15.png" title="Process to install Git on Windows" alt="Process to install Git on Windows" /></p>
       </li>
       <li>드디어 Git 설치 완료
-<img src="/images/posts/2023-08-26-Starting-Git/git-setup-completed.png" title="Process to install Git on Windows" alt="Process to install Git on Windows" /></li>
+<img src="/images/posts/2023-08-26-Starting-Git/git-setup-completed.png" title="Process to install Git on Windows" alt="The scene when Git installing completed on Windows" /></li>
     </ol>
   </li>
 </ul>
 
-<p><br />
-<br /></p>
+<p><br /></p>
+
+<ul>
+  <li><strong>설치 확인</strong>
+<br />
+정상적으로 설치가 완료되었는지 확인을 해보자. 시작메뉴에 Git Bash를 포함한 프로그램들이 설치되었음을 확인할 수 있다. 앞으로는 Git Bash를 이용해 버전관리가 가능해졌다.</li>
+</ul>
+
+<div class="image-slider-static">
+  <img src="/images/posts/2023-08-26-Starting-Git/checking-successful-install.png" title="Checking successful install" alt="Checking successful install" />
+</div>
+
+<hr />
 
 <h4 id="mac-환경에서-git-설치-방법"><span style="color: #8D4801"><strong>Mac 환경에서 Git 설치 방법</strong></span></h4>
 
-<p><br />
+<ul>
+  <li><strong>Homebrew 설치</strong>
+<br />
+이미 Homebrew가 설치되어 있다면 이 과정을 생략한다.
+<br />
+<br />
+    <ul>
+      <li>
+        <p>먼저 MacOs용 패키지 관리 앱 Homebrew 공식 웹사이트(<a href="https://brew.sh" title="Navigate to Homebrew official website">https://brew.sh</a>)에 접속하면 확인할 수 있는 설치 명령어를 버튼을 눌러 복사한다.
+<img src="/images/posts/2023-08-26-Starting-Git/homebrew-official-website.png" title="Homebrew official website" alt="Homebrew official website" />
 <br /></p>
+      </li>
+      <li>터미널 또는 iTerm2를 실행하고 복사한 명령어를 붙여넣기해서 실행하면 완료이다. (추가적으로 노트북 계정 비밀번호 입력이 필요할 수 있다.)
+<img src="/images/posts/2023-08-26-Starting-Git/command-to-install-homebrew.png" title="Command to install Homebrew" alt="Command to install Homebrew" />
+        <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>/bin/bash <span class="nt">-c</span> <span class="s2">"</span><span class="si">$(</span>curl <span class="nt">-fsSL</span> https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh<span class="si">)</span><span class="s2">"</span>
+</code></pre></div>        </div>
+        <p><br /></p>
+      </li>
+      <li>터미널 또는 iTerm2에 아래의 명령어를 붙여넣기해서 실행하여 Homebrew가 정상적으로 설치되었는지 확인할 수 있다.
+<img src="/images/posts/2023-08-26-Starting-Git/command-brew-version.png" title="Command to check the version of Homebrew" alt="Command to check the version of Homebrew" />
+        <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>brew <span class="nt">--version</span>
+</code></pre></div>        </div>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<p><br /></p>
+
+<ul>
+  <li>
+    <p><strong>Git 설치</strong>
+<br />
+MacOs에서의 Git설치는 Windows와 비교했을 때 매우 간단하다.</p>
+
+    <ul>
+      <li>터미널 또는 iTerm2에 아래의 명령어를 붙여넣기해서 실행하면 완료이다.
+<img src="/images/posts/2023-08-26-Starting-Git/command-install-git.png" title="Command to install Git" alt="Command to install Git" />
+        <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>brew <span class="nb">install </span>git
+</code></pre></div>        </div>
+        <p><br /></p>
+      </li>
+      <li>터미널 또는 iTerm2에 아래의 명령어를 붙여넣기해서 실행하여 Git이 정상적으로 설치되었는지 확인할 수 있다.
+<img src="/images/posts/2023-08-26-Starting-Git/command-git-version.png" title="Command to check the version of Git" alt="Command to check the version of Git" />
+        <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git <span class="nt">--version</span>
+</code></pre></div>        </div>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
 
 <h4 id="git-환경설정"><span style="color: #8D4801"><strong>Git 환경설정</strong></span></h4>
 
-<p><br />
-<br /></p>
+<details open="">
+  <summary>열린 상태에서 시작</summary>
+<pre>
+내용 1
+내용 2
+내용 3
+</pre>
+</details>
+
+<details>
+  <summary>더보기</summary>
+<pre>
+내용 1
+내용 2
+내용 3
+</pre>
+</details>
+
+<hr />
 
 <h4 id="마무리하며">마무리하며…</h4>]]></content><author><name></name></author><category term="Github" /><category term="Git" /><category term="Github" /><category term="Software Version Management" /><category term="깃" /><category term="깃허브" /><category term="버전관리" /><summary type="html"><![CDATA[Windows / Mac 환경에서 Git 설치 및 환경설정을 해보자.]]></summary></entry><entry><title type="html">Git이란 무엇일까?</title><link href="http://localhost:4000/github/2023/08/19/An-introduction-to-the-principles-of-Git/" rel="alternate" type="text/html" title="Git이란 무엇일까?" /><published>2023-08-19T12:13:00+09:00</published><updated>2023-08-19T12:13:00+09:00</updated><id>http://localhost:4000/github/2023/08/19/An-introduction-to-the-principles-of-Git</id><content type="html" xml:base="http://localhost:4000/github/2023/08/19/An-introduction-to-the-principles-of-Git/"><![CDATA[<blockquote>
   <ol>
@@ -125,12 +203,11 @@
 <br /></li>
     <li><a href="#버전관리란-무엇일까" title="Navigate to Version management">버전관리란 무엇일까?</a>
 <br /></li>
-    <li><a href="#중앙집중형-버전관리와-분산형-버전관리의-차이점" title="Navigate to The difference between Centralized and Distributed version management">중앙집중형 버전관리와 분산형 버전관리의 차이점</a>
-<br /></li>
+    <li><a href="#중앙집중형-버전관리와-분산형-버전관리의-차이점" title="Navigate to The difference between Centralized and Distributed version management">중앙집중형 버전관리와 분산형 버전관리의 차이점</a></li>
   </ol>
 </blockquote>
 
-<p><br /></p>
+<hr />
 
 <h4 id="git의-어원은-무엇일까"><span style="color: #8D4801"><strong>Git의 어원은 무엇일까?</strong></span></h4>
 <p>글을 시작하기 앞서 가장 먼저 궁금했던 질문이었다. SVN이 SubVersioN의 약자이듯이 버전관리와 관련된 영어의 약자라고만 막연히 생각했다 그러나, Linux와 Git의 창시자인 <span style="color: #BA8E77"><strong>Linus Torvalds가 말하길 Linux의 이름을 내 이름과 똑같다는 이유로 정했듯이 Git의 명칭 또한 “모든 프로젝트에 자신의 이름을 명명하는 이기주의자”라는 의미로 사용했다고 한다.</strong></span> 여기서 Git은 본래 영국에서 사용되는 속어로 “고집이 센 사람”, “이기적인 사람” 등의 부정적인 의미를 가진 단어이다.</p>
@@ -139,9 +216,9 @@
   <img src="/images/posts/2023-08-19-An-introduction-to-the-principles-of-Git/statistics-what-is-the-hardest-thing-for-developer.png" title="The statistics what is the hardest thing for developer" alt="The statistics what is the hardest thing for developer" />
 </div>
 <p><br />
-세계적인 개발자도 이름 짓기의 어려움에선 예외가 없었나보다…
-<br />
-<br /></p>
+세계적인 개발자도 이름 짓기의 어려움에선 예외가 없었나보다…</p>
+
+<hr />
 
 <h4 id="버전관리란-무엇일까"><span style="color: #8D4801"><strong>버전관리란 무엇일까?</strong></span></h4>
 <p>그럼 개인적인 궁금증은 해결되었고 그래서 Git은 무엇일까? <span style="color: #BA8E77"><strong>Git은 대표적인 분산형 버전관리 시스템이다.</strong></span> 그렇다면 버전관리란 대체 무엇일까? 사실 데스크톱이든 태블릿이든 가정마다 컴퓨터 하나씩은 대부분 갖고있는 지금 세대의 우리는 이미 버전관리를 경험해봤을 가능성이 높다.</p>
@@ -150,9 +227,9 @@
   <img src="/images/posts/2023-08-19-An-introduction-to-the-principles-of-Git/version-management-example.png" title="Version management example" alt="Version management example" />
 </div>
 <p><br />
-가령 대학시절 팀 발표 과제가 주어졌을 때 누군가가 발표자료를 수정할 때마다 수정 이전의 발표자료와 구분하기 위해 파일명을 다르게 저장했던 행위도 버전관리의 일종이다. 하지만 위의 사진과 같이 파일이름을 정하는 사람도 저장되는 시각도 모두 제각각이다 보니 어떤 파일이 진짜 최종적으로 모든 History를 포함하고 있는 파일인지 구분하기가 무척 어렵다. 이때 사용하는 것이 바로 버전관리 시스템이다. 파일 버전을 좀 더 편리하고 정확하게 관리할 수 있게 도와주는 소프트웨어를 뜻한다. 그럼 분산형 버전관리는 무엇을 뜻할까? 그리고 다른 버전관리와 어떤 차이점이 있을까? 
-<br />
-<br /></p>
+가령 대학시절 팀 발표 과제가 주어졌을 때 누군가가 발표자료를 수정할 때마다 수정 이전의 발표자료와 구분하기 위해 파일명을 다르게 저장했던 행위도 버전관리의 일종이다. 하지만 위의 사진과 같이 파일이름을 정하는 사람도 저장되는 시각도 모두 제각각이다 보니 어떤 파일이 진짜 최종적으로 모든 History를 포함하고 있는 파일인지 구분하기가 무척 어렵다. 이때 사용하는 것이 바로 버전관리 시스템이다. 파일 버전을 좀 더 편리하고 정확하게 관리할 수 있게 도와주는 소프트웨어를 뜻한다. 그럼 분산형 버전관리는 무엇을 뜻할까? 그리고 다른 버전관리와 어떤 차이점이 있을까?</p>
+
+<hr />
 
 <h4 id="중앙집중형-버전관리와-분산형-버전관리의-차이점"><span style="color: #8D4801"><strong>중앙집중형 버전관리와 분산형 버전관리의 차이점</strong></span></h4>
 <p>대표적인 분산형 버전관리 시스템이 Git이라면 그 반대에는 SVN이라는 중앙집중형 버전관리 시스템이 있다. 다음의 테이블을 참고하여 그 특징과 차이점에 대해서 알아보자.</p>
@@ -196,8 +273,7 @@
   </tbody>
 </table>
 
-<p><br />
-<br /></p>
+<hr />
 
 <h4 id="마무리하며">마무리하며…</h4>
 <p>간단하게 Git에 대한 정의를 알아보았다. 근래에 개발자로써 업무를 진행하기 위해서는 Git을 빼놓고 얘기할 수 없다고 해도 과언이 아니다. 그런 의미에서 단순히 명령어만 암기할 게 아니라 Git이 개발자에게 왜 중요한 지 생겨난 배경과 과정을 꼭 한번 짚고 넘어갈 필요성이 있다고 생각한다. 다음 포스트때는 본격적으로 함께 Git을 시작해보자!</p>]]></content><author><name></name></author><category term="Github" /><category term="Git" /><category term="Github" /><category term="Software Version Management" /><category term="깃" /><category term="깃허브" /><category term="버전관리" /><summary type="html"><![CDATA[Git에 입문하기 전에 기본적인 Git의 어원과 정의 그리고 버전관리에 대하여 알아보자.]]></summary></entry><entry><title type="html">좌충우돌 첫 블로그 제작기</title><link href="http://localhost:4000/daily/2023/08/06/The-first-blog-production-session/" rel="alternate" type="text/html" title="좌충우돌 첫 블로그 제작기" /><published>2023-08-06T20:55:00+09:00</published><updated>2023-08-06T20:55:00+09:00</updated><id>http://localhost:4000/daily/2023/08/06/The-first-blog-production-session</id><content type="html" xml:base="http://localhost:4000/daily/2023/08/06/The-first-blog-production-session/"><![CDATA[<p>문득, 지금 떠오르는 감정을 뭐라고 표현해야 할지 잘 모르겠다.<br />
