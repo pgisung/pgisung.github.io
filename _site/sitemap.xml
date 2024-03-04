@@ -4,9 +4,25 @@
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
+        <loc>http://localhost:4000/github/2023/08/28/Essential-terminal-commands/</loc>
+        
+        <lastmod>2023-08-28T10:47:23+09:00</lastmod>
+        
+
+        
+        <changefreq>weekly</changefreq>
+        
+
+        
+        <priority>0.5</priority>
+        
+
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/github/2023/08/26/Getting-Started-with-Git/</loc>
         
-        <lastmod>2023-08-26T15:29:00+09:00</lastmod>
+        <lastmod>2023-08-26T15:29:33+09:00</lastmod>
         
 
         
@@ -22,7 +38,7 @@
     <url>
         <loc>http://localhost:4000/github/2023/08/19/An-introduction-to-the-principles-of-Git/</loc>
         
-        <lastmod>2023-08-19T12:13:00+09:00</lastmod>
+        <lastmod>2023-08-19T12:13:12+09:00</lastmod>
         
 
         
@@ -38,7 +54,7 @@
     <url>
         <loc>http://localhost:4000/daily/2023/08/06/The-first-blog-production-session/</loc>
         
-        <lastmod>2023-08-06T20:55:00+09:00</lastmod>
+        <lastmod>2023-08-06T20:55:01+09:00</lastmod>
         
 
         
@@ -50,5 +66,123 @@
         
 
     </url>
+    
+    
+    
+        
+    
+        
+        <url>
+            <loc>http://localhost:4000/about.html</loc>
+            
+            <lastmod></lastmod>
+            
+
+            
+            <changefreq>weekly</changefreq>
+            
+
+            
+            <priority>0.5</priority>
+            
+
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:4000/categories/</loc>
+            
+            <lastmod></lastmod>
+            
+
+            
+            <changefreq>weekly</changefreq>
+            
+
+            
+            <priority>0.5</priority>
+            
+
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:4000/contact.html</loc>
+            
+            <lastmod></lastmod>
+            
+
+            
+            <changefreq>weekly</changefreq>
+            
+
+            
+            <priority>0.5</priority>
+            
+
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:4000/</loc>
+            
+            <lastmod></lastmod>
+            
+
+            
+            <changefreq>weekly</changefreq>
+            
+
+            
+            <priority>0.5</priority>
+            
+
+        </url>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+        <url>
+            <loc>http://localhost:4000/tags/</loc>
+            
+            <lastmod></lastmod>
+            
+
+            
+            <changefreq>weekly</changefreq>
+            
+
+            
+            <priority>0.5</priority>
+            
+
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:4000/feed.xml</loc>
+            
+            <lastmod></lastmod>
+            
+
+            
+            <changefreq>weekly</changefreq>
+            
+
+            
+            <priority>0.5</priority>
+            
+
+        </url>
+        
     
 </urlset>

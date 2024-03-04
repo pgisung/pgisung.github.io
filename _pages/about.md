@@ -10,7 +10,7 @@ image: about-me.jpg
 
 My original name is **Jisung Park**. I go by the name of **Johnny** so, you can call me **Johnny**.
 
-#### <span style="color: #8D4801">**What am I used to do during spare time?**</span>
+#### <span style="color: #8D4801">**What do I used to do during spare time?**</span>
 
 Well.. That I used to enjoy is a **deep reflection** how I may **improve the performance of process** what I am dealing with and, **making clean code** having appropriate readability. Although it would take so long time merely to think and think,
 
@@ -93,7 +93,7 @@ gulp.task('designcycle', function() {
 
 ---
 
-## <span style="color: brown">**History**</span>
+## <span style="color: brown">**Personal History**</span>
 
 #### <span style="color: #8D4801">**Trip around Hongkong**</span>
 <small>2023-11-29 ~ 2023-12-02</small>
@@ -101,16 +101,13 @@ gulp.task('designcycle', function() {
 #### <span style="color: #8D4801">**Life in Keelung, Taiwan**</span>
 <small>2023-10-30 ~ 2023-12-20</small>
 
-#### <span style="color: #8D4801">**Studying Swift language**</span>
-<small>2023-04-17 ~ 2023-09-04</small>
-
 #### <span style="color: #8D4801">**Business trip in [LG Display][business-trip] in Hai Phong, Vietnam**</span>
 <small>2021-03-10 ~ 2021-09-03, </small><small>2023-02-22 ~ 2023-04-14</small>  
 
 #### <span style="color: #8D4801">**Trip around Taiwan**</span>
 <small>2023-01-19 ~ 2023-01-30</small>
 
-#### <span style="color: #8D4801">**Work in [Hoonlab][first-company]**</span>
+#### <span style="color: #8D4801">**Working in [Hoonlab][first-company]**</span>
 <small>2020-12-04 ~ 2023-04-17</small>  
 
 #### <span style="color: #8D4801">**Life in Keelung, Taiwan**</span>

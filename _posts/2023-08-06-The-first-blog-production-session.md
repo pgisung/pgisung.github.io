@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 좌충우돌 첫 블로그 제작기
-date: 2023-08-06 20:55:00 +0900
+date: 2023-08-06 20:55:01 +0900
 img: 2023-08-06-The-first-blog-production-session.jpg
 categories: Daily
 tags: [ Impression, 첫 블로그, First blog ]
