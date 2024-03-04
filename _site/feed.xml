@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-04T22:45:51+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JohnnyPark</title><subtitle>The growth diary of Software developer JohnnyPark</subtitle><entry><title type="html">필수적인 터미널 명령어를 알아보자</title><link href="http://localhost:4000/github/2023/08/28/Essential-terminal-commands/" rel="alternate" type="text/html" title="필수적인 터미널 명령어를 알아보자" /><published>2023-08-28T10:47:23+09:00</published><updated>2023-08-28T10:47:23+09:00</updated><id>http://localhost:4000/github/2023/08/28/Essential-terminal-commands</id><content type="html" xml:base="http://localhost:4000/github/2023/08/28/Essential-terminal-commands/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-05T03:35:17+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JohnnyPark</title><subtitle>The growth diary of Software developer JohnnyPark</subtitle><entry><title type="html">필수적인 터미널 명령어를 알아보자</title><link href="http://localhost:4000/github/2023/08/28/Essential-terminal-commands/" rel="alternate" type="text/html" title="필수적인 터미널 명령어를 알아보자" /><published>2023-08-28T10:47:23+09:00</published><updated>2023-08-28T10:47:23+09:00</updated><id>http://localhost:4000/github/2023/08/28/Essential-terminal-commands</id><content type="html" xml:base="http://localhost:4000/github/2023/08/28/Essential-terminal-commands/"><![CDATA[<blockquote>
   <ol>
     <li><a href="#cd-명령어" title="Navigate to cd command">cd 명령어</a>
 <br /></li>
@@ -34,8 +34,8 @@
 <hr />
 
 <h4 id="cd-명령어"><span style="color: brown"><strong>cd 명령어</strong></span></h4>
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cd</span> &lt;이동하고자하는 디렉토리 경로&gt;
-<span class="nb">cd</span> .. : 부모 디렉토리로 이동 <span class="o">(</span>한단계 상위 디렉토리<span class="o">)</span>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cd</span> &lt;디렉토리 경로&gt; : 입력한 디렉토리 경로로 이동
+<span class="nb">cd</span> .. : 부모 디렉토리로 이동 <span class="o">(</span>한 단계 상위 디렉토리<span class="o">)</span>
 <span class="nb">cd</span> : 경로를 입력하지 않으면 최상위 디렉토리로 이동
 <span class="nb">cd</span> ~ : 최상위 디렉토리로 이동
 </code></pre></div></div>
@@ -49,10 +49,10 @@
 <hr />
 
 <h4 id="ls-명령어"><span style="color: brown"><strong>ls 명령어</strong></span></h4>
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">ls</span> : 해당 경로안 파일 및 디렉토리들의 리스트 출력
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">ls</span> : 해당 경로 안 파일 및 디렉토리들의 리스트 출력
 <span class="nb">ls</span> <span class="nt">-l</span> : 리스트 자세한 내용과 함께 출력 <span class="o">(</span>long<span class="o">)</span> // 크기, 수정 시간[mtime], 권한 및 소유권
 <span class="nb">ls</span> <span class="nt">-a</span> : 숨겨진 파일 및 디렉토리들을 포함하여 리스트 출력 <span class="o">(</span>all<span class="o">)</span>
-<span class="nb">ls</span> <span class="nt">-S</span> : 파일 크기 순으로 정렬하여 리스트 출력 <span class="o">(</span>size<span class="o">)</span>
+<span class="nb">ls</span> <span class="nt">-S</span> : 파일 크기순으로 정렬하여 리스트 출력 <span class="o">(</span>size<span class="o">)</span>
 <span class="nb">ls</span> <span class="nt">-r</span> : 역순으로 출력, 기본값은 알파벳 순서이다. <span class="o">(</span>reverse<span class="o">)</span>
 <span class="nb">ls</span> <span class="nt">-R</span> : 하위 디렉토리까지 출력 <span class="o">(</span>recursive<span class="o">)</span>
 <span class="nb">ls</span> <span class="nt">-h</span> : 파일 크기 단위[k, m, g]를 표시하여 사람이 보기 좋게 출력 <span class="o">(</span>human<span class="o">)</span>
@@ -63,7 +63,7 @@
   <img src="/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-ls-alh.jpg" title="Terminal command to show the list in the path" alt="Terminal command to show the list in the path" />
 </div>
 <ul>
-  <li><span style="color: #8D4801"><strong>L</strong></span>i<span style="color: #8D4801"><strong>s</strong></span>t의 약자로 현재 디렉토리안 파일 및 디렉토리들의 리스트를 보여주는 명령어이다. ls 명령어로 폴더 리스트를 확인하고 cd 명령어를 이용해 디렉토리를 이동하는 등 매우 자주 쓰인다.</li>
+  <li><span style="color: #8D4801"><strong>L</strong></span>i<span style="color: #8D4801"><strong>s</strong></span>t의 약자로 현재 디렉토리 안 파일 및 디렉토리들의 리스트를 보여주는 명령어이다. ls 명령어로 폴더 리스트를 확인하고 cd 명령어를 이용해 디렉토리를 이동하는 등 매우 자주 쓰인다.</li>
 </ul>
 
 <hr />
@@ -81,9 +81,9 @@
 <hr />
 
 <h4 id="mkdir-명령어"><span style="color: brown"><strong>mkdir 명령어</strong></span></h4>
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">mkdir</span> &lt;만들고자하는 디렉토리명&gt; : 현재 경로에 새로운 디렉토리 생성
-<span class="nb">mkdir</span> <span class="nt">-p</span> &lt;경로&gt;/&lt;만들고자하는 디렉토리명&gt; : 특정 경로에 새로운 디렉토리 생성 <span class="o">(</span>경로상에 존재하지 않는 폴더명이 있으면 생성한다.<span class="o">)</span>
-<span class="nb">mkdir</span> <span class="nt">-m</span> &lt;rwx[예<span class="o">)</span> 755]&gt; &lt;만들고자하는 디렉토리명&gt; : 현재 경로에 접근 권한이 수정된 새로운 디렉토리 생성
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">mkdir</span> &lt;디렉토리명&gt; : 현재 경로에 새로운 디렉토리 생성
+<span class="nb">mkdir</span> <span class="nt">-p</span> &lt;경로&gt;/&lt;디렉토리명&gt; : 특정 경로에 새로운 디렉토리 생성 <span class="o">(</span>경로상에 존재하지 않는 폴더명이 있으면 생성<span class="o">)</span>
+<span class="nb">mkdir</span> <span class="nt">-m</span> &lt;rwx[예<span class="o">)</span> 755]&gt; &lt;디렉토리명&gt; : 현재 경로에 접근 권한이 수정된 새로운 디렉토리 생성
 </code></pre></div></div>
 <div class="image-slider-static">
   <img src="/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-mkdir.jpg" title="Terminal command to make new directories" alt="Terminal command to make new directories" />
@@ -95,7 +95,7 @@
 <hr />
 
 <h4 id="rmdir-명령어"><span style="color: brown"><strong>rmdir 명령어</strong></span></h4>
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">rmdir</span> &lt;지우고자하는 디렉토리명&gt; : 현재 경로에 비어있는 디렉토리 삭제 <span class="o">(</span>디렉토리에 1개 이상의 파일 존재시 삭제 불가능<span class="o">)</span>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">rmdir</span> &lt;디렉토리명&gt; : 현재 경로에 비어있는 디렉토리 삭제 <span class="o">(</span>디렉토리에 1개 이상의 파일 존재 시 삭제 불가능<span class="o">)</span>
 </code></pre></div></div>
 <div class="image-slider-static">
   <img src="/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-rmdir.jpg" title="Terminal command to remove empty directories" alt="Terminal command to remove empty directories" />
@@ -107,24 +107,24 @@
 <hr />
 
 <h4 id="touch-명령어"><span style="color: brown"><strong>touch 명령어</strong></span></h4>
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">touch</span> &lt;만들고자하는 파일명&gt; : 현재 경로에 새로운 빈 파일 생성
-<span class="nb">touch</span> <span class="nt">-a</span> &lt;변경하고자하는 파일명&gt; : 접근 시간[atime]을 현재 시간으로 변경
-<span class="nb">touch</span> <span class="nt">-d</span> &lt;<span class="s1">'YYYY-MM-DD hh:mm:ss'</span><span class="o">&gt;</span> &lt;변경하고자하는 파일명&gt; : 접근 시간[atime]과 수정 시간[mtime]을 특정 시간으로 변경
-<span class="nb">touch</span> <span class="nt">-t</span> &lt;CCYYMMDDhhmm.ss&gt; &lt;변경하고자하는 파일명&gt; : 접근 시간[atime]과 수정 시간[mtime]을 특정 시간으로 변경
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">touch</span> &lt;파일명&gt; : 현재 경로에 새로운 빈 파일 생성
+<span class="nb">touch</span> <span class="nt">-a</span> &lt;파일명&gt; : 접근 시간[atime]을 현재 시각으로 변경
+<span class="nb">touch</span> <span class="nt">-d</span> &lt;<span class="s1">'YYYY-MM-DD hh:mm:ss'</span><span class="o">&gt;</span> &lt;파일명&gt; : 접근 시간[atime]과 수정 시간[mtime]을 특정 시간으로 변경
+<span class="nb">touch</span> <span class="nt">-t</span> &lt;CCYYMMDDhhmm.ss&gt; &lt;파일명&gt; : 접근 시간[atime]과 수정 시간[mtime]을 특정 시간으로 변경
 </code></pre></div></div>
 <div class="image-slider-static">
   <img src="/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-touch.jpg" title="Terminal command to make new empty files" alt="Terminal command to make new empty files" />
 </div>
 <ul>
-  <li>만지다의 뜻을 가진 <span style="color: #8D4801"><strong>touch</strong></span>와 같이 어루만지듯이 파일에 접근 및 수정하고 빈 파일을 생성할 때 쓰인다.</li>
+  <li>‘만지다’라는 뜻을 가진 <span style="color: #8D4801"><strong>touch</strong></span>와 같이 어루만지듯이 파일에 접근 및 수정하고 빈 파일을 생성할 때 쓰인다.</li>
 </ul>
 
 <hr />
 
 <h4 id="rm-명령어"><span style="color: brown"><strong>rm 명령어</strong></span></h4>
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">rm</span> &lt;지우고자하는 디렉토리 또는 파일명&gt; : 현재 경로에 비어있지 않은 디렉토리 및 파일 삭제
-<span class="nb">rm</span> <span class="nt">-r</span> &lt;지우고자하는 디렉토리명&gt; : 현재 경로에 비어있지 않은 디렉토리 및 파일들과 그 하위 디렉토리 및 파일들을 모두 삭제 <span class="o">(</span>recursive<span class="o">)</span>
-<span class="nb">rm</span> <span class="nt">-f</span> &lt;지우고자하는 디렉토리 또는 파일명&gt; : 삭제 명령을 강제로 실행 <span class="o">(</span>force<span class="o">)</span>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">rm</span> &lt;디렉토리 또는 파일명&gt; : 현재 경로에 비어있지 않은 디렉토리 및 파일 삭제
+<span class="nb">rm</span> <span class="nt">-r</span> &lt;디렉토리 또는 파일명&gt; : 현재 경로에 비어있지 않은 디렉토리 및 파일들과 그 하위 디렉토리 및 파일들을 모두 삭제 <span class="o">(</span>recursive<span class="o">)</span>
+<span class="nb">rm</span> <span class="nt">-f</span> &lt;디렉토리 또는 파일명&gt; : 삭제 명령을 강제로 실행 <span class="o">(</span>force<span class="o">)</span>
 </code></pre></div></div>
 <div class="image-slider-static">
   <img src="/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-rm.jpg" title="Terminal command to remove non-empty directories and files" alt="Terminal command to remove non-empty directories and files" />
@@ -136,42 +136,118 @@
 <hr />
 
 <h4 id="mv-명령어"><span style="color: brown"><strong>mv 명령어</strong></span></h4>
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">mv</span> &lt;이동하고자하는 디렉토리 또는 파일의 경로&gt; &lt;이동시킬 경로&gt; : 이동시킬 경로로 디렉토리 및 파일을 이동
-<span class="nb">mv</span> &lt;이동할 디렉토리 또는 파일1&gt; &lt;이동할 디렉토리 또는 파일2&gt; ... &lt;이동시킬 경로&gt; : 복수의 디렉토리 및 파일을 이동
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">mv</span> &lt;디렉토리 또는 파일의 경로&gt; &lt;이동시킬 경로&gt; : 이동시킬 경로로 디렉토리 및 파일을 이동
+<span class="nb">mv</span> &lt;디렉토리 또는 파일1&gt; &lt;디렉토리 또는 파일2&gt; ... &lt;이동시킬 경로&gt; : 복수의 디렉토리 및 파일을 이동
 <span class="nb">mv</span> <span class="k">*</span> &lt;이동시킬 경로&gt; : 현재 경로의 모든 디렉토리 및 파일을 이동
 </code></pre></div></div>
 <div class="image-slider-static">
   <img src="/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-mv.jpg" title="Terminal command to move directories and files" alt="Terminal command to move directories and files" />
 </div>
 <ul>
-  <li><span style="color: #8D4801"><strong>M</strong></span>o<span style="color: #8D4801"><strong>v</strong></span>e의 약자로 디렉토리 및 파일들의 경로를 이동할 때 쓰인다.</li>
+  <li><span style="color: #8D4801"><strong>M</strong></span>o<span style="color: #8D4801"><strong>v</strong></span>e의 약자로 디렉토리 및 파일들의 경로를 이동할 때 쓰인다. 이동시킬 경로에 파일명을 다르게 입력할 경우 파일 이름을 변경할 수 있다.</li>
 </ul>
 
 <hr />
 
 <h4 id="cp-명령어"><span style="color: brown"><strong>cp 명령어</strong></span></h4>
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code></code></pre></div></div>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cp</span> &lt;디렉토리 또는 파일의 경로&gt; &lt;복사시킬 경로&gt; : 복사시킬 경로로 디렉토리 및 파일을 복사
+<span class="nb">cp</span> <span class="nt">-r</span> &lt;디렉토리 또는 파일의 경로&gt; &lt;복사시킬 경로&gt; : 복사시킬 경로로 디렉토리 및 파일들과 그 하위 디렉토리 및 파일들을 모두 복사 <span class="o">(</span>recursive<span class="o">)</span>
+<span class="nb">cp</span> <span class="nt">-f</span> &lt;디렉토리 또는 파일의 경로&gt; &lt;복사시킬 경로&gt; : 복사시킬 경로에 이미 같은 이름을 가진 디렉토리 또는 파일이 존재하더라도 복사 명령을 강제로 실행 <span class="o">(</span>force<span class="o">)</span>
+</code></pre></div></div>
+<div class="image-slider-static">
+  <img src="/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-cp.jpg" title="Terminal command to copy directories and files" alt="Terminal command to copy directories and files" />
+</div>
+<ul>
+  <li><span style="color: #8D4801"><strong>C</strong></span>o<span style="color: #8D4801"><strong>p</strong></span>y의 약자로 디렉토리 및 파일들을 복사할 때 쓰인다.</li>
+</ul>
 
 <hr />
 
 <h4 id="echo-명령어"><span style="color: brown"><strong>echo 명령어</strong></span></h4>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">echo</span> &lt;문자열&gt; : 문자열을 화면에 출력
+<span class="nb">echo</span> &lt;<span class="s2">"특수문자를 포함한 문자열"</span><span class="o">&gt;</span> : 특수문자를 포함한 문자열은 큰따옴표를 사용하여 화면에 출력
+<span class="nb">echo</span> &lt;<span class="s2">"문자열"</span><span class="o">&gt;</span> <span class="o">&gt;</span> &lt;파일명&gt; : 파일이 존재할 경우 문자열을 덮어쓰기로 저장 존재하지 않을 경우 파일 생성
+<span class="nb">echo</span> &lt;<span class="s2">"문자열"</span><span class="o">&gt;</span> <span class="o">&gt;&gt;</span> &lt;파일명&gt; : 파일이 존재할 경우 문자열을 이어서 저장 존재하지 않을 경우 파일 생성
+</code></pre></div></div>
+<div class="image-slider-static">
+  <img src="/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-echo.jpg" title="Terminal command to print out the string" alt="Terminal command to print out the string" />
+</div>
+<ul>
+  <li>‘메아리’라는 뜻을 가진 <span style="color: #8D4801"><strong>echo</strong></span>와 같이 입력한 문자열을 화면에 똑같이 출력할 때 쓰인다. 옵션에 따라 출력 내용을 파일에 입력할 수 있다.</li>
+</ul>
 
 <hr />
 
 <h4 id="cat-명령어"><span style="color: brown"><strong>cat 명령어</strong></span></h4>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cat</span> &lt;텍스트 파일명&gt; : 텍스트 파일 내 문자들을 화면에 출력
+<span class="nb">cat</span> &lt;텍스트 파일명1&gt; &lt;텍스트 파일명2&gt; ... : 여러 개의 텍스트 파일 내 문자들을 순차적으로 모두 화면에 출력
+<span class="nb">cat</span> <span class="nt">-n</span> &lt;텍스트 파일명&gt; : 텍스트 파일 내 문자들을 화면에 line number와 함께 출력
+</code></pre></div></div>
+<div class="image-slider-static">
+  <img src="/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-cat.jpg" title="Terminal command to print out the files" alt="Terminal command to print out the files" />
+</div>
+<ul>
+  <li>Con<span style="color: #8D4801"><strong>cat</strong></span>enate의 약자로 하나 이상의 텍스트 파일을 화면에 출력할 때 쓰인다.</li>
+</ul>
 
 <hr />
 
 <h4 id="less-명령어"><span style="color: brown"><strong>less 명령어</strong></span></h4>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>less &lt;텍스트 파일명&gt; : 텍스트 파일 내 문자들을 터미널 화면에 가득 찰 정도로 일부만 화면에 출력하고 페이지처럼 위아래로 탐색 조회
+</code></pre></div></div>
+<div class="image-slider-static">
+  <img src="/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-less.jpg" title="Terminal command to print out a large size file one screen at a time" alt="Terminal command to print out a large size file one screen at a time" />
+</div>
+<ul>
+  <li>‘적다’라는 뜻을 가진 <span style="color: #8D4801"><strong>less</strong></span>와 같이 텍스트 파일에서 터미널 화면에 가득 찰 정도로 일부만 출력하고 위아래로 탐색할 수 있게 하여 크기가 큰 텍스트 파일을 편리하게 조회할 때 쓰인다.</li>
+</ul>
 
 <hr />
 
 <h4 id="find-명령어"><span style="color: brown"><strong>find 명령어</strong></span></h4>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>find <span class="nb">.</span> <span class="nt">-name</span> &lt;<span class="s1">'디렉토리 또는 파일명'</span><span class="o">&gt;</span> : 현재 디렉토리부터 찾고자 하는 디렉토리 또는 파일 검색
+find <span class="nb">.</span> <span class="nt">-name</span> &lt;<span class="s1">'파일명'</span><span class="o">&gt;</span> <span class="nt">-type</span> f : 현재 디렉토리부터 찾고자 하는 파일만 검색
+find <span class="nb">.</span> <span class="nt">-name</span> &lt;<span class="s1">'디렉토리명'</span><span class="o">&gt;</span> <span class="nt">-type</span> d : 현재 디렉토리부터 찾고자 하는 디렉토리만 검색
+find <span class="nb">.</span> <span class="nt">-name</span> &lt;<span class="s1">'심볼릭링크명'</span><span class="o">&gt;</span> <span class="nt">-type</span> l : 현재 디렉토리부터 찾고자 하는 심볼릭링크만 검색
+find / <span class="nt">-name</span> &lt;<span class="s1">'디렉토리 또는 파일명'</span><span class="o">&gt;</span> : 최상위 디렉토리부터 찾고자 하는 디렉토리 또는 파일 검색
+find / <span class="nt">-name</span> &lt;<span class="s1">'*.특정 확장자'</span><span class="o">&gt;</span> : 최상위 디렉토리부터 특정 확장자를 가진 모든 파일 검색
+find / <span class="nt">-name</span> &lt;<span class="s1">'abc*'</span><span class="o">&gt;</span> : 최상위 디렉토리부터 파일명이 abc로 시작하는 모든 파일 검색
+find / <span class="nt">-name</span> &lt;<span class="s1">'파일명'</span><span class="o">&gt;</span> <span class="nt">-exec</span> &lt;터미널 명령어&gt; <span class="o">{}</span> <span class="se">\;</span> : 최상위 디렉토리부터 찾고자 하는 파일 검색 후 해당 파일에 명령어 실행 <span class="o">(</span>각 파일 별도로 프로세스 실행<span class="o">)</span>
+find / <span class="nt">-name</span> &lt;<span class="s1">'파일명'</span><span class="o">&gt;</span> <span class="nt">-exec</span> &lt;터미널 명령어&gt; <span class="o">{}</span> + : 최상위 디렉토리부터 찾고자 하는 파일 검색 후 해당 파일에 명령어 실행 <span class="o">(</span>전체적으로 한 번만 실행<span class="o">)</span>
+</code></pre></div></div>
+<div class="image-slider-static">
+  <img src="/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-find.jpg" title="Terminal command to search for files on file system" alt="Terminal command to search for files on file system" />
+</div>
+<ul>
+  <li>‘찾는다’라는 뜻을 가진 <span style="color: #8D4801"><strong>find</strong></span>와 같이 파일 시스템에서 파일을 찾을 때 쓰인다. 옵션과 표현식에 따라 사용 방식이 다양하다.</li>
+</ul>
 
 <hr />
 
 <h4 id="터미널-제어-명령어"><span style="color: brown"><strong>터미널 제어 명령어</strong></span></h4>
-<!-- sudo, clear, \, |, ;, &&, ||, history, history | grep [검색할 단어] -->
+<ul>
+  <li><span style="color: #8D4801"><strong>clear 명령어</strong></span>
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>clear : 터미널의 내용을 모두 깔끔하게 지우는 명령어 <span class="o">(</span>iTerm2 기준으로 스크롤을 올리면 이전 내용을 볼 수 있음<span class="o">)</span>
+</code></pre></div>    </div>
+  </li>
+  <li><span style="color: #8D4801"><strong>sudo 명령어</strong></span>
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo</span> &lt;터미널 명령어&gt; : 최상위 권한으로 명령어를 실행함
+</code></pre></div>    </div>
+    <ul>
+      <li><span style="color: #8D4801"><strong>S</strong></span>uper <span style="color: #8D4801"><strong>u</strong></span>ser <span style="color: #8D4801"><strong>do</strong></span>의 약자로 최상위 권한으로 명령어를 실행할 때 쓰인다.</li>
+    </ul>
+  </li>
+  <li><span style="color: #8D4801"><strong>특수문자 \ 사용</strong></span>
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>&lt;터미널 명령어1&gt; <span class="se">\</span>
+<span class="nv">$ </span>&lt;터미널 명령어1&gt; <span class="se">\</span>
+<span class="nv">$ </span>&lt;터미널 명령어1&gt; : 명령어가 한 줄안에 다 못 쓸정도로 길어질 경우 <span class="se">\ </span>문자를 사용하여 다음 줄에 이어서 명령어를 작성할 수 있다.
+</code></pre></div>    </div>
+  </li>
+  <li><span style="color: #8D4801"><strong>특수문자 ; 사용</strong></span>
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>&lt;터미널 명령어1&gt;<span class="p">;</span> &lt;터미널 명령어2&gt;<span class="p">;</span> &lt;터미널 명령어3&gt; : 여러 명령어를 한 줄에 작성할 때 <span class="p">;</span> 문자를 사용하여 연결하면 순차적으로 명령어가 실행된다.
+</code></pre></div>    </div>
+  </li>
+</ul>
 
 <hr />
 
