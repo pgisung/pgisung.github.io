@@ -34,11 +34,6 @@ layout: null
         {% unless page.name == 'style-guide.md' or page.name == '404.html' or page.name == 'sitemap.xml' or page.name == 'search.json' %}
         <url>
             <loc>{{ site.url }}{{ page.url }}</loc>
-            {% if page.lastmod == null %}
-            <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
-            {% else %}
-            <lastmod>{{ page.lastmod | date_to_xmlschema }}</lastmod>
-            {% endif %}
 
             {% if page.sitemap.changefreq == null %}
             <changefreq>weekly</changefreq>
