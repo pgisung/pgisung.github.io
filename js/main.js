@@ -330,7 +330,7 @@ $(function() {
       const target = document.getElementById(targetId);
       if (target) {
         const offsetTop = target.getBoundingClientRect().top; // target의 뷰포트 최상단부터 타겟요소까지 상대적인 위치 값 : 픽셀
-        const headerOffset = window.innerHeight / 2; // window.innerHeight은 Viewport 높이 : 픽셀
+        const headerOffset = window.innerHeight / 8; // window.innerHeight은 Viewport 높이 : 픽셀
         // scrollY: 전체 컨텐츠에서 스크롤된 정도 픽셀 값
   
         window.scrollBy({
@@ -349,7 +349,7 @@ $(function() {
       const target = document.getElementById(targetId);
       if (target) {
         const offsetTop = target.getBoundingClientRect().top;
-        const headerOffset = window.innerHeight / 2;
+        const headerOffset = window.innerHeight / 8;
         window.scrollBy({
           top: offsetTop - headerOffset,
           behavior: 'smooth'

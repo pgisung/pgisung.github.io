@@ -13,6 +13,8 @@ description: Windows / Mac 환경에서 Git 설치 및 환경설정을 해보자
 2. [Mac 환경에서 Git 설치 방법](#mac-환경에서-git-설치-방법 "Navigate to The way to install Git in Mac")
 <br>
 3. [Git 입문하기](#git-입문하기 "Navigate to Getting started with Git")
+<br>
+4. [Git 환경설정](#git-환경설정 "Navigate to Setting environment of Git")
 
 ---
 
@@ -111,17 +113,16 @@ description: Windows / Mac 환경에서 Git 설치 및 환경설정을 해보자
 <br>
 
   - 터미널 또는 iTerm2를 실행하고 복사한 명령어를 붙여넣기해서 실행하면 설치가 진행된다. (추가로 노트북 계정 비밀번호 입력이 필요할 수 있다.)
-<img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/terminal-command-to-install-homebrew.jpg" title="Terminal command to install Homebrew" alt="Terminal command to install Homebrew">
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
-<br>
+<img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/terminal-command-to-install-homebrew.jpg" title="Terminal command to install Homebrew" alt="Terminal command to install Homebrew">
 
   - 아래의 명령어를 실행하여 Homebrew가 정상적으로 설치되었는지 확인할 수 있다.
-<img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/brew-command-version.jpg" title="Homebrew command to check the version of itself" alt="Homebrew command to check the version of itself">
 ```bash
 brew --version
 ```
+<img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/brew-command-version.jpg" title="Homebrew command to check the version of itself" alt="Homebrew command to check the version of itself">
 
 <br>
 
@@ -130,17 +131,16 @@ brew --version
 MacOs에서의 Git 설치는 Windows와 비교했을 때 매우 간단하다.
 
   - 아래의 명령어를 실행하면 설치가 진행된다.
-<img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/brew-command-install-git.jpg" title="Homebrew command to install Git" alt="Homebrew command to install Git">
 ```bash
 brew install git
 ```
-<br>
+<img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/brew-command-install-git.jpg" title="Homebrew command to install Git" alt="Homebrew command to install Git">
 
   - 아래의 명령어를 실행하여 Git이 정상적으로 설치되었는지 확인할 수 있다. 이 명령어는 설치된 Git의 버전 정보를 출력해 준다.
-<img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-command-version.jpg" title="Git command to check the version of itself" alt="Git command to check the version of itself">
 ```bash
 git --version
 ```
+<img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-command-version.jpg" title="Git command to check the version of itself" alt="Git command to check the version of itself">
 
 ---
 
@@ -149,7 +149,7 @@ git --version
 
 - Git의 기본적인 명령 구조는 다음과 같다.
 ```bash
-git 명령어 옵션
+git <명령어> <옵션>
 ```
 
 - 기본적인 명령어의 종류는 아래의 명령을 실행하여 확인할 수 있다.
@@ -167,9 +167,9 @@ git --help
   - <span style="color: #8D4801">**'-&nbsp;-' : 긴 옵션**</span>
   - 명령어별 사용할 수 있는 옵션의 종류는 아래의 명령을 실행하여 확인할 수 있다. 
 ```bash
-git 명령어 --help
+git <명령어> --help
 또는
-git 명령어 --help-option
+git <명령어> --help-option
 ```
   - 다음은 add 명령어의 옵션을 확인한 예시이다.
 <div class="image-slider-static">
@@ -180,53 +180,126 @@ git 명령어 --help-option
 ```bash
 git add .; git commit -m "[Chore] learning git"; git push origin main
 ```
-- 환경설정 명령어
+
+---
+
+#### <span style="color: brown">**Git 환경설정**</span>
 ```bash
-git config 설정변수 "설정값"
+git config <설정변수> <"설정값">
 ```
   - config 명령어를 <span style="color: #8D4801">**처음 실행하면 새로운 config 파일을 생성**</span>한다. 만약 이전에 설정한 <span style="color: #8D4801">**환경파일이 있다면 기존 파일을 수정**</span>한다.
     - config 파일은 <span style="color: #8D4801">**.git 폴더 안에 생성**</span>된다.
-    - 항목명이 .으로 시작하는 항목들은 운영체제의 구분 없이 <span style="color: #8D4801">**숨겨져 있다.**</span>
+    - 항목 이름이 .으로 시작하는 항목들은 운영체제의 구분 없이 <span style="color: #8D4801">**숨겨져 있다.**</span>
     - <span style="color: #8D4801">**Windows**</span>의 경우 메뉴 > 보기 > 숨긴 항목 보기에 체크하면 확인할 수 있다.
     - <span style="color: #8D4801">**Mac**</span>의 경우 command+shift+. 단축키를 사용하여 숨겨진 항목들이 보이게 할 수 있다.
-    - .git 폴더는 <span style="color: #8D4801">**git init**</span> 명령어를 통해 실행 당시 경로안에 만들어진다. <span style="color: #8D4801">**즉, config 파일에 설정한 설정값은 지역적으로 해당 경로 안 저장소에서만 적용된다.**</span>
+    - .git 폴더는 <span style="color: #8D4801">**git init**</span> 명령어를 통해 실행 당시 경로 안에 만들어진다. <span style="color: #8D4801">**즉, config 파일에 설정한 설정값은 지역적으로 해당 경로 안 저장소에서만 적용된다.**</span>
 <div class="image-slider-auto">
   <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/location-of-local-git-directory.jpg" title="Location of local git directory" alt="Location of local git directory">
   <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/location-of-local-git-config-file.jpg" title="Location of local git config file" alt="Location of local git config file">
 </div>
+<br>
 
-- 기존에 설정되어 있던 특정 설정값을 <span style="color: #8D4801">**삭제**</span>할 수 있다.
+- 새로운 설정변수를 <span style="color: #8D4801">**추가**</span>하기 위해서 add 옵션을 사용한다.
 ```bash
-git config --unset 설정변수
+git config --add <새로운 설정변수> <"설정값">
 ```
+  - 설정변수가 잘 추가되었는지 확인하기 위해서 추가하기 전에 설정값 목록을 먼저 확인해 보았다.
+<img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-command-config-list-before-add.jpg" title="The list of values of git config file" alt="The list of values of git config file">
 
-- 사용자 등록
+  - 명령어를 add 옵션과 함께 실행한다.
+<img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-command-config-add.jpg" title="Git command to add variable and value into config file" alt="Git command to add variable and value into config file">
+
+  - 새로운 변수와 값이 잘 추가되었음을 확인할 수 있다.
+<img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-command-config-list-after-add.jpg" title="The list of values of git config file" alt="The list of values of git config file">
+
+<br>
+
+- 기존에 설정되어 있던 특정 설정변수를 <span style="color: #8D4801">**삭제**</span>하기 위해서 unset 옵션을 사용한다.
 ```bash
-git config user.name "사용자 이름"
-git config user.email "사용자 이메일"
+git config --unset <설정변수>
+```
+  - 위의 실습에서 추가한 변수를 삭제해 보자.
+<img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-command-config-unset.jpg" title="Git command to remove variable and value in config file" alt="Git command to remove variable and value into config file">
+
+<br>
+
+- 설정값에 대한 수정이 제대로 완료되었는지 <span style="color: #8D4801">**리스트로 확인**</span>해 볼 수 있다. 전체 설정값이 목록으로 표시된다.
+```bash
+git config --list
+```
+  - 위에서 삭제한 변수가 잘 삭제되었는지 확인해 보자.
+<img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-command-config-list-after-unset.jpg" title="The list of values of git config file" alt="The list of values of git config file">
+
+<br>
+
+- <span style="color: #8D4801">**사용자 등록**</span>
+```bash
+git config user.name <"사용자 이름">
+git config user.email <"사용자 이메일">
 ```
   - .git 폴더 안 config 파일에 사용자 정보가 저장되고 해당 경로 안 저장소에서 작업 시 이 사용자 정보를 사용한다.
 
-- 전역 환경설정 명령어
+<br>
+
+- <span style="color: #8D4801">**전역**</span> 환경설정 옵션
 ```bash
-git config --global 설정변수 "설정값"
+git config --global <설정변수> <"설정값">
 ```
   - <span style="color: #8D4801">**모든 git 작업영역에 대한 환경설정**</span>을 할 수 있는 명령어이다.
   - 이 명령어는 <span style="color: #8D4801">**최상위 User 폴더 안 .gitconfig 파일에 값을 저장**</span>한다.
-<div class="image-slider-auto">
+<div class="image-slider-static">
   <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/location-of-global-git-config-file.jpg" title="Location of global git config file" alt="Location of global git config file">
 </div>
+<br>
 
 - 전역 사용자 등록
 ```bash
-git config --global user.name "사용자 이름"
-git config --global user.email "사용자 이메일"
+git config --global user.name <"사용자 이름">
+git config --global user.email <"사용자 이메일">
 ```
   - 최상위 User 폴더 안 .gitconfig 파일에 사용자 정보가 저장되고 모든 git 작업영역에서 작업 시 이 사용자 정보를 사용한다.
+  
+<br>
 
-- 명령어 alias (단축 명령어)
+- <span style="color: #8D4801">**commit 템플릿 설정**</span>
 ```bash
-git config --global alias.원하는명령어 "명령어 옵션1 옵션2 ..."
+git config --global commit.template <템플릿 파일 경로>
+```
+  - 커밋메시지 템플릿을 변경하는 명령어이다. 커밋메시지 템플릿이란 git commit 명령어 실행 시 <span style="color: #8D4801">**커밋메시지 작성 화면에 특정 양식을 작성**</span>해둔 파일이다.
+<div class="image-slider-static">
+  <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-commit-template.jpg" title="Git commit template" alt="Git commit template">
+</div>
+<br>
+
+- Git이 자동으로 <span style="color: #8D4801">**색상 출력을 사용**</span>하도록 설정한다. 이 값은 터미널이 색상 출력을 지원하는 경우에만 색상을 사용할 수 있다.
+```bash
+git config --global color.ui auto
+```
+<br>
+
+- <span style="color: #8D4801">**자격 증명을 캐시**</span>하는 데 사용되는 도구를 설정한다. 사용자가 반복적인 로그인을 피할 수 있도록 도와준다.
+```bash
+git config --global credential.helper cache
+git config --global credential.helper "cache --timeout=3600" : timeout의 단위는 초 단위이다. 보안을 위해 캐시 보관기간을 추가로 입력할 수 있다. 기본값은 15분이다.
+```
+<br>
+
+- git pull 명령을 실행할 때 rebase를 사용하지 않고 바로 merge를 수행하도록 지정한다. **위의 Windows 환경에서 Git 설치 과정 중 12번 과정과 같다.**
+```bash
+git config --global pull.rebase false
+```
+<br>
+
+- git 저장소를 초기화할 때 브랜치의 기본명칭을 설정할 수 있다. (기본값은 master이다.) **위의 Windows 환경에서 Git 설치 과정 중 6번 과정과 같다.**
+```bash
+git config --global init.defaultBranch <원하는 브랜치명 기본값>
+```
+<br>
+
+
+- <span style="color: #8D4801">**명령어 alias**</span> (단축 명령어)
+```bash
+git config --global <alias.원하는명령어> <"명령어 옵션1 옵션2 ...">
 ```
   - 자주 쓰이는 긴 명령어 및 옵션을 <span style="color: #8D4801">**원하는 명령어로 설정**</span>해두고 설정한 명령어로 git의 기능을 사용할 수 있다.
 
