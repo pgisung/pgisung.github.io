@@ -50,7 +50,7 @@ description: Windows / Mac 환경에서 Git 설치 및 환경설정을 해보자
   1. Git에서 텍스트를 이용한 작업이 필요할 때 사용할 편집기를 지정한다. 다른 외부 편집기를 사용하고 싶다면 직접 지정하고 아니면 기본값으로 두고 진행한다.
   <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-setup-5.png" title="Process to install Git on Windows" alt="Process to install Git on Windows">
 
-  1. <span style="color: #8D4801">**새로운 워킹 디렉토리에 Git을 초기화할 때 default branch의 name을 Git에서 기본값으로 지정하는 명칭으로 할지 Custom할지 정하는 곳이다.**</span> 오래전 버전에선 해당 옵션이 존재하지 않아서 branch명이 자동으로 기본값으로 지정되던 시기가 있었는데, Git을 잘 모르던 시절에 인터넷 검색에 기대어 사용할 때 원격저장소의 브랜치명은 master로 되어있는데 main 브랜치에 push를 해서 동작이 안 되고 뭐가 문젠지 모르는 우스운 실수가 나왔었다. (지금은 웃지만... 당시엔 해결을 못해서 엄청난 스트레스였다...) 아무튼 어느 옵션을 선택하든 Git 명령어를 사용할 때 브랜치를 잘 확인하고 사용하자.
+  1. <span style="color: #8D4801" id="git-setup-6">**새로운 워킹 디렉토리에 Git을 초기화할 때 default branch의 name을 Git에서 기본값으로 지정하는 명칭으로 할지 Custom할지 정하는 곳이다.**</span> 오래전 버전에선 해당 옵션이 존재하지 않아서 branch명이 자동으로 기본값으로 지정되던 시기가 있었는데, Git을 잘 모르던 시절에 인터넷 검색에 기대어 사용할 때 원격저장소의 브랜치명은 master로 되어있는데 main 브랜치에 push를 해서 동작이 안 되고 뭐가 문젠지 모르는 우스운 실수가 나왔었다. (지금은 웃지만... 당시엔 해결을 못해서 엄청난 스트레스였다...) 아무튼 어느 옵션을 선택하든 Git 명령어를 사용할 때 브랜치를 잘 확인하고 사용하자.
   <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-setup-6.png" title="Process to install Git on Windows" alt="Process to install Git on Windows">
 
   1. Git bash 명령어를 실행할 수 있는 경로를 설정하는 화면으로 일반적으로 기본값으로 두고 진행하면 된다. 
@@ -72,7 +72,7 @@ description: Windows / Mac 환경에서 Git 설치 및 환경설정을 해보자
   <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-setup-11.png" title="Process to install Git on Windows" alt="Process to install Git on Windows">
 
   1. pull 명령어가 성공적으로 실행될 수도 있지만 이력 간 충돌로 인해 오류가 생길 수 있다. 이 상황에 대한 동작을 선택할 수 있다.
-  <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-setup-12.png" title="Process to install Git on Windows" alt="Process to install Git on Windows">
+  <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-setup-12.png" title="Process to install Git on Windows" alt="Process to install Git on Windows" id="git-setup-12">
     - <span style="color: #8D4801">**Fast-forward or merge**</span>: 브랜치가 생성된 커밋에 따라 순차적으로 분기하는 Fast-forward 방식으로 먼저 병합을 진행하고 동작이 불가능할 경우엔 수동 merge 진행
     - <span style="color: #8D4801">**Rebase**</span>: 공통 조상 커밋인 base 커밋을 이동시키고 각 커밋들을 순차적으로 줄 세우고 동작이 불가능할 경우엔 실패할 수 있음
     - <span style="color: #8D4801">**Only ever fast-forward**</span>: 브랜치가 생성된 커밋에 따라 순차적으로 분기하는 Fast-forward 방식으로 무조건 병합을 진행. 동작이 불가능할 경우엔 실패할 수 있음
@@ -189,9 +189,11 @@ git config <설정변수> <"설정값">
 ```
   - config 명령어를 <span style="color: #8D4801">**처음 실행하면 새로운 config 파일을 생성**</span>한다. 만약 이전에 설정한 <span style="color: #8D4801">**환경파일이 있다면 기존 파일을 수정**</span>한다.
     - config 파일은 <span style="color: #8D4801">**.git 폴더 안에 생성**</span>된다.
-    - 항목 이름이 .으로 시작하는 항목들은 운영체제의 구분 없이 <span style="color: #8D4801">**숨겨져 있다.**</span>
-    - <span style="color: #8D4801">**Windows**</span>의 경우 메뉴 > 보기 > 숨긴 항목 보기에 체크하면 확인할 수 있다.
-    - <span style="color: #8D4801">**Mac**</span>의 경우 command+shift+. 단축키를 사용하여 숨겨진 항목들이 보이게 할 수 있다.
+    - 항목 이름이 .으로 시작하는 항목들은 운영체제의 구분 없이 <span style="color: #8D4801">**숨겨져 있어서**</span> 일반적인 방법으로는 찾을 수 없다.
+
+      - <span style="color: #8D4801">**Windows**</span>의 경우 메뉴 > 보기 > 숨긴 항목 보기에 체크하면 확인할 수 있다.
+      - <span style="color: #8D4801">**Mac**</span>의 경우 command+shift+. 단축키를 사용하여 숨겨진 항목들이 보이게 할 수 있다.
+      - <span style="color: #8D4801">**경로(path)**</span> 상의 .은 <span style="color: #8D4801">**현재 경로**</span>를 뜻한다. 그러나, <span style="color: #8D4801">**파일 및 디렉토리**</span> 앞의 .은 <span style="color: #8D4801">**숨겨진 파일 및 디렉토리**</span>를 의미한다.
     - .git 폴더는 <span style="color: #8D4801">**git init**</span> 명령어를 통해 실행 당시 경로 안에 만들어진다. <span style="color: #8D4801">**즉, config 파일에 설정한 설정값은 지역적으로 해당 경로 안 저장소에서만 적용된다.**</span>
 <div class="image-slider-auto">
   <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/location-of-local-git-directory.jpg" title="Location of local git directory" alt="Location of local git directory">
@@ -284,13 +286,13 @@ git config --global credential.helper "cache --timeout=3600" : timeout의 단위
 ```
 <br>
 
-- git pull 명령을 실행할 때 rebase를 사용하지 않고 바로 merge를 수행하도록 지정한다. **위의 Windows 환경에서 Git 설치 과정 중 12번 과정과 같다.**
+- git pull 명령을 실행할 때 rebase를 사용하지 않고 바로 merge를 수행하도록 지정한다. **위의 Windows 환경에서 Git 설치 과정 중** [**12번 과정**](#git-setup-12 "Navigate to 6th Process to install Git on Windows")**과 동일한 설정변수이다.**
 ```bash
 git config --global pull.rebase false
 ```
 <br>
 
-- git 저장소를 초기화할 때 브랜치의 기본명칭을 설정할 수 있다. (기본값은 master이다.) **위의 Windows 환경에서 Git 설치 과정 중 6번 과정과 같다.**
+- git 저장소를 초기화할 때 브랜치의 기본명칭을 설정할 수 있다. (기본값은 master이다.) **위의 Windows 환경에서 Git 설치 과정 중** [**6번 과정**](#git-setup-6 "Navigate to 6th Process to install Git on Windows")**과 동일한 설정변수이다.**
 ```bash
 git config --global init.defaultBranch <원하는 브랜치명 기본값>
 ```

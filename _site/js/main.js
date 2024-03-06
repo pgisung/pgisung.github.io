@@ -80,7 +80,7 @@ $(function() {
     json: '/assets/search.json',
     searchResultTemplate: `
       <li>
-        <a href="{url}" title="Navigate to the post">
+        <a href="{url}" title="Navigate to {title} post">
           <div class="template-box">
             <div class="template-image">
               <img src="{img}">
