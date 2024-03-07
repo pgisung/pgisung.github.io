@@ -308,7 +308,7 @@ git config --global <alias.원하는명령어> <"명령어 옵션1 옵션2 ...">
 ---
 
 #### 마무리하며...
-이번 포스트에는 함께 Git을 설치해 보고 어떤 명령어들과 옵션들이 존재하는지 확인해 보았다. 또한 간단한 환경설정을 함께 진행해 보았으며 로컬과 전역 환경설정의 차이점에 대해서 알아보았다. 다음 포스트 때는 터미널 환경에서 Git 사용 시 필수적인 터미널 명령어들에 대해서 알아보자.
+이번 포스트에서는 함께 Git을 설치해 보고 어떤 명령어들과 옵션들이 존재하는지 확인해 보았다. 또한 간단한 환경설정을 함께 진행해 보았으며 로컬과 전역 환경설정의 차이점에 대해서 알아보았다. 다음 포스트 때는 터미널 환경에서 Git 사용 시 필수적인 터미널 명령어들에 대해서 알아보자.
 
 [git-official-website-link]: https://git-scm.com "Navigate to Git official website"
 [homebrew-official-website-link]: https://brew.sh "Navigate to Homebrew official website"
