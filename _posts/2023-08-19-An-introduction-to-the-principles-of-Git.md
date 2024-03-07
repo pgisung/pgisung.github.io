@@ -4,7 +4,7 @@ title: Git이란 무엇일까?
 date: 2023-08-19 12:13:12 +0900
 img: github-logo.png
 categories: Github
-tags: [ Git, Github, Software Version Management, 깃, 깃허브, 버전관리 ]
+tags: [ Git, Github, 깃, 깃허브, Software Version Management, 버전관리 ]
 description: Git에 입문하기 전에 기본적인 Git의 어원과 정의 그리고 버전관리에 대하여 알아보자.
 ---
 

@@ -4,7 +4,7 @@ title: Git을 시작해보자
 date: 2023-08-26 15:29:33 +0900
 img: github-logo.png
 categories: Github
-tags: [ Git, Github, Software Version Management, 깃, 깃허브, 버전관리, Git 설치, Git 환경설정 ]
+tags: [ Git, Github, 깃, 깃허브, Git 설치, Git 환경설정, git config ]
 description: Windows / Mac 환경에서 Git 설치 및 환경설정을 해보자.
 ---
 

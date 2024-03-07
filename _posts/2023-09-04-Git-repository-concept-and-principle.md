@@ -4,17 +4,19 @@ title: Git 저장소 개념과 원리
 date: 2023-09-04 14:11:27 +0900
 img: github-logo.png
 categories: Github
-tags: [ Git, Github, Software Version Management, 깃, 깃허브, 버전관리 ]
+tags: [ Git, Github, 깃, 깃허브, Git 저장소, Git repository, git init, git clone ]
 description: Git 저장소를 생성하고 버전관리 동작 원리를 알아보자.
 ---
 
 > 1. [Git 저장소 생성하기](#git-저장소-생성하기 "Navigate to Initializing Git repository")
 <br>
-2. [.git 디렉토리를 파헤쳐보자](#git-디렉토리를-파헤쳐보자 "Navigate to Let's dig into the .git directory")
+2. [Git 저장소 복제하기](#git-저장소-복제하기 "Navigate to Copying Git repository")
 <br>
-3. [Git 저장소의 구조](#git-저장소의-구조 "Navigate to The structure of git repository")
+3. [.git 디렉토리를 파헤쳐보자](#git-디렉토리를-파헤쳐보자 "Navigate to Let's dig into the .git directory")
 <br>
-4. [Git 저장소 동작 원리](#git-저장소-동작-원리 "Navigate to The principle of git repository")
+4. [Git 저장소의 구조](#git-저장소의-구조 "Navigate to The structure of git repository")
+<br>
+5. [Git 저장소 동작 원리](#git-저장소-동작-원리 "Navigate to The principle of git repository")
 
 ---
 
@@ -33,6 +35,19 @@ git init <경로>
   - ls -a 옵션을 통해 숨겨진 항목을 출력해야만 확인할 수 있다.
 <div class="image-slider-static">
 <img src="{{site.baseurl}}/images/posts/2023-09-04-Git-repository-concept-and-principle/git-command-init.jpg" title="Git command to initialize the directory as git repository" alt="Git command to initialize the directory as git repository">
+</div>
+
+---
+
+#### <span style="color: brown">**Git 저장소 복제하기**</span>
+- 다음으로 이미 존재하는 외부의 저장소를 복제해오는 명령어이다.
+```bash
+git clone <원격저장소 URL> <새 디렉토리명>
+```
+  - clone 명령어를 실행하면 <span style="color: #8D4801">**현재 디렉토리에 원격저장소를 복제한다.**</span> 복제한 디렉토리 안에는 당연히 .git 디렉토리가 존재하며 기존 원격저장소의 이력을 저장하고 있다.
+  - 새 디렉토리명을 입력하지 않으면 원격저장소의 디렉토리 명이 기본값으로 설정된다.
+<div class="image-slider-static">
+<img src="{{site.baseurl}}/images/posts/2023-09-04-Git-repository-concept-and-principle/git-command-clone.jpg" title="Git command to copy the remote directory to local repository" alt="Git command to copy the remote directory to local repository">
 </div>
 
 ---

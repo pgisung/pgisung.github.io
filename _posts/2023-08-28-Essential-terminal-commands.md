@@ -4,7 +4,7 @@ title: 필수적인 터미널 명령어를 알아보자
 date: 2023-08-28 10:47:23 +0900
 img: 2023-08-28-Essential-terminal-commands.jpg
 categories: Github
-tags: [ Git, Github, Terminal commands, 터미널 명령어 ]
+tags: [ Terminal commands, 터미널 명령어 ]
 description: 터미널 환경에서 Git을 사용하기 위해 필수적인 명령어에 무엇이 있는지 그리고 어떻게 사용하는지 알아보자.
 ---
 
