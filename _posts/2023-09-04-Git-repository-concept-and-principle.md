@@ -9,13 +9,9 @@ description: Git 저장소를 생성하고 버전관리 동작 원리를 알아�
 ---
 
 > 1. [Git 저장소 생성하기](#git-저장소-생성하기 "Navigate to Initializing Git repository")
-<br>
 2. [Git 저장소 복제하기](#git-저장소-복제하기 "Navigate to Copying Git repository")
-<br>
 3. [.git 디렉토리를 파헤쳐보자](#git-디렉토리를-파헤쳐보자 "Navigate to Let's dig into the .git directory")
-<br>
 4. [Git 저장소의 구조](#git-저장소의-구조 "Navigate to The structure of git repository")
-<br>
 5. [Git 저장소 동작 원리](#git-저장소-동작-원리 "Navigate to The principle of git repository")
 
 ---
@@ -40,7 +36,7 @@ git init <경로>
 ---
 
 #### <span style="color: brown">**Git 저장소 복제하기**</span>
-- 다음으로 이미 존재하는 외부의 저장소를 복제해오는 명령어이다.
+- 다음으로 이미 존재하는 외부의 저장소를 복제해 오는 명령어이다.
 ```bash
 git clone <원격저장소 URL> <새 디렉토리명>
 ```

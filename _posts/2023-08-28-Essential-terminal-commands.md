@@ -9,33 +9,19 @@ description: 터미널 환경에서 Git을 사용하기 위해 필수적인 명�
 ---
 
 > 1. [cd 명령어](#cd-명령어 "Navigate to cd command")
-<br>
 1. [ls 명령어](#ls-명령어 "Navigate to ls command")
-<br>
 1. [pwd 명령어](#pwd-명령어 "Navigate to pwd command")
-<br>
 1. [mkdir 명령어](#mkdir-명령어 "Navigate to mkdir command")
-<br>
 1. [rmdir 명령어](#rmdir-명령어 "Navigate to rmdir command")
-<br>
 1. [touch 명령어](#touch-명령어 "Navigate to touch command")
-<br>
 1. [rm 명령어](#rm-명령어 "Navigate to rm command")
-<br>
 1. [mv 명령어](#mv-명령어 "Navigate to mv command")
-<br>
 1. [cp 명령어](#cp-명령어 "Navigate to cp command")
-<br>
 1. [echo 명령어](#echo-명령어 "Navigate to echo command")
-<br>
 1. [cat 명령어](#cat-명령어 "Navigate to cat command")
-<br>
 1. [less 명령어](#less-명령어 "Navigate to less command")
-<br>
 1. [find 명령어](#find-명령어 "Navigate to find command")
-<br>
 1. [터미널 제어 명령어](#터미널-제어-명령어 "Navigate to the commands to control a terminal")
-<br>
 
 ---
 

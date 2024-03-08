@@ -5,10 +5,11 @@
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name='description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}'>
-  <meta property='og:image' content='https://pgisung.github.io/images/main/home-banner.jpg' />
+  <!-- SNS용 Open graph 데이터 추가부분 -->
+  <meta property='og:image' content='{% if page.img %}/images/posts{{ page.img | relative_url }}{% elsif page.image %}/images/pages{{ page.image | relative_url }}{% else %}{{ site.url }}/images/main/home-banner.jpg{% endif %}' />
   <meta property='og:title' content='{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}' />
   <meta property='og:description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}'>
-  <meta property='og:url' content='https://pgisung.github.io' />
+  <meta property='og:url' content='{{ page.url | absolute_url }}' />
   <!-- 검색결과 사이트명 변경용 구조화된 WebSite 데이터 -->
   <script type="application/ld+json">
     {

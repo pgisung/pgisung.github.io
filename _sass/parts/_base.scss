@@ -86,7 +86,9 @@ blockquote {
   padding: 10px 0 10px 30px;
   margin: 20px 0;
   font-size: 18px;
-  font-style: italic;
+  // 인용문구를 목차용으로 수정
+  font-weight: bold;
+  // font-style: italic;
   background: rgba(220,235,245,0.2);
   &:last-child {
     margin-bottom: 0;
@@ -96,11 +98,17 @@ blockquote {
     margin: 0;
   }
 
-  a {
+  // 인용문구를 목차용으로 수정
+  ol a {
     color: rgb(40, 116, 74);
     text-decoration: none;
-    font-weight: bold;
-    font-style: normal;
+  }
+  ul a {
+    color: rgb(50, 147, 50);
+    text-decoration: none;
+  }
+  li {
+    margin: 10px 0;
   }
 }
 

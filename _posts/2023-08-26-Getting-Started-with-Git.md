@@ -8,19 +8,21 @@ tags: [ Git, Github, 깃, 깃허브, Git 설치, Git 환경설정, git config ]
 description: Windows / Mac 환경에서 Git 설치 및 환경설정을 해보자.
 ---
 
-> 1. [Windows 환경에서 Git 설치 방법](#windows-환경에서-git-설치-방법 "Navigate to The way to install Git in Windows")
-<br>
+> 1. [Windows 환경에서 Git 설치 방법](#windows-환경에서-git-설치-방법 "Navigate to The way to install Git for Windows")
+- [설치 파일 다운로드](#설치-파일-다운로드 "Navigate to download install file for Windows")
+- [설치](#설치 "Navigate to install Git for Windows")
+- [설치 확인](#설치-확인 "Navigate to check install Git for Windows")
 2. [Mac 환경에서 Git 설치 방법](#mac-환경에서-git-설치-방법 "Navigate to The way to install Git in Mac")
-<br>
+- [Homebrew 설치](#homebrew-설치 "Navigate to install Homebrew")
+- [Git 설치](#git-설치 "Navigate to install Git for Mac")
 3. [Git 입문하기](#git-입문하기 "Navigate to Getting started with Git")
-<br>
 4. [Git 환경설정](#git-환경설정 "Navigate to Setting environment of Git")
 
 ---
 
 #### <span style="color: brown">**Windows 환경에서 Git 설치 방법**</span>
 일단 Git을 시작하기 위해 설치해 보자.
-- **설치 파일 다운로드**
+- <span id="설치-파일-다운로드"></span>**설치 파일 다운로드**
 <br>
 먼저 Git 공식 웹사이트([https://git-scm.com][git-official-website-link])에 접속하여 Windows 용 설치파일을 다운받는다.
 
@@ -31,67 +33,67 @@ description: Windows / Mac 환경에서 Git 설치 및 환경설정을 해보자
 
 <br>
 
-- **설치**
+- <span id="설치"></span>**설치**
 <br>
 다음으로 다운받은 설치파일을 실행하여 설치를 진행한다. 아래는 간단한 설명을 붙인 설치 과정이다.
 
   1. GNU 오픈 소스 라이선스 관련 약관이다. 동의한다면 Next를 누르고 진행한다.
-  <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-setup-1.png" title="Process to install Git on Windows" alt="Process to install Git on Windows">
+  <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-setup-1.png" title="Process to install Git for Windows" alt="Process to install Git for Windows">
   
   1. Git이 설치될 경로이다. 원하는 경로가 따로 있다면 이곳에서 변경하면 된다. 보통은 default 경로로 진행한다.
-  <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-setup-2.png" title="Process to install Git on Windows" alt="Process to install Git on Windows">
+  <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-setup-2.png" title="Process to install Git for Windows" alt="Process to install Git for Windows">
 
   1. 이미 Git의 다양한 컴포넌트에 익숙하신 분들은 필요한 컴포넌트를 추가로 설치할 수 있다. 하지만 초심자는 그대로 Next를 누르고 진행한다.
-  <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-setup-3.png" title="Process to install Git on Windows" alt="Process to install Git on Windows">
+  <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-setup-3.png" title="Process to install Git for Windows" alt="Process to install Git for Windows">
 
   1. Git 프로그램에 대한 시작메뉴 폴더명을 다르게 지정할 수 있으나 그대로 진행하는 것을 추천한다.
-  <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-setup-4.png" title="Process to install Git on Windows" alt="Process to install Git on Windows">
+  <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-setup-4.png" title="Process to install Git for Windows" alt="Process to install Git for Windows">
 
   1. Git에서 텍스트를 이용한 작업이 필요할 때 사용할 편집기를 지정한다. 다른 외부 편집기를 사용하고 싶다면 직접 지정하고 아니면 기본값으로 두고 진행한다.
-  <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-setup-5.png" title="Process to install Git on Windows" alt="Process to install Git on Windows">
+  <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-setup-5.png" title="Process to install Git for Windows" alt="Process to install Git for Windows">
 
   1. <span style="color: #8D4801" id="git-setup-6">**새로운 워킹 디렉토리에 Git을 초기화할 때 default branch의 name을 Git에서 기본값으로 지정하는 명칭으로 할지 Custom할지 정하는 곳이다.**</span> 오래전 버전에선 해당 옵션이 존재하지 않아서 branch명이 자동으로 기본값으로 지정되던 시기가 있었는데, Git을 잘 모르던 시절에 인터넷 검색에 기대어 사용할 때 원격저장소의 브랜치명은 master로 되어있는데 main 브랜치에 push를 해서 동작이 안 되고 뭐가 문젠지 모르는 우스운 실수가 나왔었다. (지금은 웃지만... 당시엔 해결을 못해서 엄청난 스트레스였다...) 아무튼 어느 옵션을 선택하든 Git 명령어를 사용할 때 브랜치를 잘 확인하고 사용하자.
-  <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-setup-6.png" title="Process to install Git on Windows" alt="Process to install Git on Windows">
+  <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-setup-6.png" title="Process to install Git for Windows" alt="Process to install Git for Windows">
 
   1. Git bash 명령어를 실행할 수 있는 경로를 설정하는 화면으로 일반적으로 기본값으로 두고 진행하면 된다. 
-  <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-setup-7.png" title="Process to install Git on Windows" alt="Process to install Git on Windows">
+  <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-setup-7.png" title="Process to install Git for Windows" alt="Process to install Git for Windows">
     - <span style="color: #8D4801">**Use Git from Git Bash only**</span>: 오직 Git bash로만 Git을 사용할 수 있다.
     - <span style="color: #8D4801">**Git from the command line and also from 3rd-party software**</span>: 기본값으로써 Git bash뿐만 아니라 Windows cmd 창에서도 git 명령어를 사용할 수 있다.
     - <span style="color: #8D4801">**Use Git and optional Unix tools from the Command Prompt**</span>: Windows cmd 창에서도 유닉스 도구 명령어를 사용할 수 있다.
 
   1. OpenSSH 패키지를 설치 유무를 선택할 수 있다. 기본값으로 두고 진행한다.
-  <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-setup-8.png" title="Process to install Git on Windows" alt="Process to install Git on Windows">
+  <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-setup-8.png" title="Process to install Git for Windows" alt="Process to install Git for Windows">
 
   1. 서버 간 코드 이력 전송에 관련된 옵션이다. 기본값으로 두고 진행한다.
-  <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-setup-9.png" title="Process to install Git on Windows" alt="Process to install Git on Windows">
+  <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-setup-9.png" title="Process to install Git for Windows" alt="Process to install Git for Windows">
 
   1. 엔딩 라인 처리방식 옵션이다. 기본값으로 두고 진행한다.
-  <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-setup-10.png" title="Process to install Git on Windows" alt="Process to install Git on Windows">
+  <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-setup-10.png" title="Process to install Git for Windows" alt="Process to install Git for Windows">
 
   1. 터미널 에뮬레이터 선택 옵션이다. 기본값으로 두고 진행한다.
-  <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-setup-11.png" title="Process to install Git on Windows" alt="Process to install Git on Windows">
+  <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-setup-11.png" title="Process to install Git for Windows" alt="Process to install Git for Windows">
 
-  1. pull 명령어가 성공적으로 실행될 수도 있지만 이력 간 충돌로 인해 오류가 생길 수 있다. 이 상황에 대한 동작을 선택할 수 있다.
-  <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-setup-12.png" title="Process to install Git on Windows" alt="Process to install Git on Windows" id="git-setup-12">
+  1. <span id="git-setup-12"></span>pull 명령어가 성공적으로 실행될 수도 있지만 이력 간 충돌로 인해 오류가 생길 수 있다. 이 상황에 대한 동작을 선택할 수 있다.
+  <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-setup-12.png" title="Process to install Git for Windows" alt="Process to install Git for Windows">
     - <span style="color: #8D4801">**Fast-forward or merge**</span>: 브랜치가 생성된 커밋에 따라 순차적으로 분기하는 Fast-forward 방식으로 먼저 병합을 진행하고 동작이 불가능할 경우엔 수동 merge 진행
     - <span style="color: #8D4801">**Rebase**</span>: 공통 조상 커밋인 base 커밋을 이동시키고 각 커밋들을 순차적으로 줄 세우고 동작이 불가능할 경우엔 실패할 수 있음
     - <span style="color: #8D4801">**Only ever fast-forward**</span>: 브랜치가 생성된 커밋에 따라 순차적으로 분기하는 Fast-forward 방식으로 무조건 병합을 진행. 동작이 불가능할 경우엔 실패할 수 있음
 
   1. Git 사용 중 자격증명 관리자 추가 여부 기본값으로 두고 진행한다.
-  <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-setup-13.png" title="Process to install Git on Windows" alt="Process to install Git on Windows">
+  <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-setup-13.png" title="Process to install Git for Windows" alt="Process to install Git for Windows">
 
   1. 파일시스템 캐싱, symbolic link 사용 유무이다. 잘 모른다면 기본값으로 두고 진행한다.
-  <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-setup-14.png" title="Process to install Git on Windows" alt="Process to install Git on Windows">
+  <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-setup-14.png" title="Process to install Git for Windows" alt="Process to install Git for Windows">
 
   1. 추가옵션들로써 잘 모른다면 기본값으로 두고 진행한다.
-  <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-setup-15.png" title="Process to install Git on Windows" alt="Process to install Git on Windows">
+  <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-setup-15.png" title="Process to install Git for Windows" alt="Process to install Git for Windows">
 
   1. 드디어 Git 설치 완료
-  <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-setup-completed.png" title="Process to install Git on Windows" alt="The scene when Git installing completed on Windows">
+  <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-setup-completed.png" title="Process to install Git for Windows" alt="The scene when Git installing completed on Windows">
 
 <br>
 
-- **설치 확인**
+- <span id="설치-확인"></span>**설치 확인**
 <br>
 정상적으로 설치가 완료되었는지 확인을 해보자. 시작메뉴에 Git Bash를 포함한 프로그램들이 설치되었음을 확인할 수 있다. 이제 Git을 시작할 준비가 되었다.
 
@@ -103,7 +105,7 @@ description: Windows / Mac 환경에서 Git 설치 및 환경설정을 해보자
 
 #### <span style="color: brown">**Mac 환경에서 Git 설치 방법**</span>
 
-- **Homebrew 설치**
+- <span id="homebrew-설치"></span>**Homebrew 설치**
 <br>
 이미 Homebrew가 설치되어 있다면 이 과정을 생략한다.
 <br>
@@ -126,7 +128,7 @@ brew --version
 
 <br>
 
-- **Git 설치**
+- <span id="git-설치"></span>**Git 설치**
 <br>
 MacOs에서의 Git 설치는 Windows와 비교했을 때 매우 간단하다.
 
@@ -281,18 +283,18 @@ git config --global color.ui auto
 
 - <span style="color: #8D4801">**자격 증명을 캐시**</span>하는 데 사용되는 도구를 설정한다. 사용자가 반복적인 로그인을 피할 수 있도록 도와준다.
 ```bash
-git config --global credential.helper cache
-git config --global credential.helper "cache --timeout=3600" : timeout의 단위는 초 단위이다. 보안을 위해 캐시 보관기간을 추가로 입력할 수 있다. 기본값은 15분이다.
+git config --global credential.helper cache : 캐시 유효기간을 따로 작성하지 않으면 기본값 15분으로 설정된다. 일부 운영체제에서 운영체제의 시스템 캐시 유효기간을 따라가는 경우도 있다.
+git config --global credential.helper "cache --timeout=3600" : timeout의 단위는 초 단위이다. 보안을 위해 임의의 캐시 유효기간을 설정할 수 있다.
 ```
 <br>
 
-- git pull 명령을 실행할 때 rebase를 사용하지 않고 바로 merge를 수행하도록 지정한다. **위의 Windows 환경에서 Git 설치 과정 중** [**12번 과정**](#git-setup-12 "Navigate to 6th Process to install Git on Windows")**과 동일한 설정변수이다.**
+- git pull 명령을 실행할 때 rebase를 사용하지 않고 바로 merge를 수행하도록 지정한다. **위의 Windows 환경에서 Git 설치 과정 중** [**12번 과정**](#git-setup-12 "Navigate to 12th Process to install Git for Windows")**과 동일한 설정변수이다.**
 ```bash
 git config --global pull.rebase false
 ```
 <br>
 
-- git 저장소를 초기화할 때 브랜치의 기본명칭을 설정할 수 있다. (기본값은 master이다.) **위의 Windows 환경에서 Git 설치 과정 중** [**6번 과정**](#git-setup-6 "Navigate to 6th Process to install Git on Windows")**과 동일한 설정변수이다.**
+- git 저장소를 초기화할 때 브랜치의 기본명칭을 설정할 수 있다. (기본값은 master이다.) **위의 Windows 환경에서 Git 설치 과정 중** [**6번 과정**](#git-setup-6 "Navigate to 6th Process to install Git for Windows")**과 동일한 설정변수이다.**
 ```bash
 git config --global init.defaultBranch <원하는 브랜치명 기본값>
 ```

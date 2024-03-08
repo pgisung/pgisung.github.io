@@ -5,6 +5,7 @@ date: 2023-08-06 20:55:01 +0900
 img: 2023-08-06-The-first-blog-production-session.jpg
 categories: Daily
 tags: [ Impression, 첫 블로그, First blog ]
+description: 처음 블로그를 작성하고 순수한 소감을 두서없이 회고해보았다.
 ---
 문득, 지금 떠오르는 감정을 뭐라고 표현해야 할지 잘 모르겠다.  
 언제고 <span style="color: #8D4801">**나만의 공간**</span>을 온라인상에서 갖고 싶었는데 지금까지는 막연하게 생각만 하고

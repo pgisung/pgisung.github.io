@@ -2,6 +2,7 @@
 layout: page
 title: About Me
 image: about-me.jpg
+description: Introduction and simple history about myself
 ---
 
 ## <span style="color: brown">**Introduction**</span>

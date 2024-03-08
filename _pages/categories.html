@@ -2,6 +2,7 @@
 layout: page
 title: Categories
 image: categories.jpg
+description: The page which is listed whole categories
 permalink: /categories/
 ---
 {% capture site_categories %}{% for category in site.categories %}{{ category | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
