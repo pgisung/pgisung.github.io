@@ -31,7 +31,7 @@ layout: null
     {% endfor %}
     
     {% for page in site.pages %}
-        {% unless page.name == 'style-guide.md' or page.name == '404.html' or page.name == 'sitemap.xml' or page.name == 'search.json' %}
+        {% unless page.name == 'style-guide.md' or page.name == '404.html' or page.name == 'sitemap.xml' or page.name == 'search.json' or page.name == 'style.css' %}
         <url>
             <loc>{{ site.url }}{{ page.url }}</loc>
 

@@ -1,17 +1,75 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-08T18:08:46+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JohnnyPark</title><subtitle>The growth diary of Software developer JohnnyPark</subtitle><entry><title type="html">Git 저장소에서 작업하기</title><link href="http://localhost:4000/github/2023/09/11/Working-in-Git-repository/" rel="alternate" type="text/html" title="Git 저장소에서 작업하기" /><published>2023-09-11T06:49:13+09:00</published><updated>2023-09-11T06:49:13+09:00</updated><id>http://localhost:4000/github/2023/09/11/Working-in-Git-repository</id><content type="html" xml:base="http://localhost:4000/github/2023/09/11/Working-in-Git-repository/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-09T11:29:43+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JohnnyPark</title><subtitle>The growth diary of Software developer JohnnyPark</subtitle><entry><title type="html">Git 저장소에서 작업하기</title><link href="http://localhost:4000/github/2023/09/11/Working-in-Git-repository/" rel="alternate" type="text/html" title="Git 저장소에서 작업하기" /><published>2023-09-11T06:49:13+09:00</published><updated>2023-09-11T06:49:13+09:00</updated><id>http://localhost:4000/github/2023/09/11/Working-in-Git-repository</id><content type="html" xml:base="http://localhost:4000/github/2023/09/11/Working-in-Git-repository/"><![CDATA[<blockquote>
   <ol>
-    <li><a href="#windows-환경에서-git-설치-방법" title="Navigate to The way to install Git in Windows">Windows 환경에서 Git 설치 방법</a></li>
-    <li><a href="#mac-환경에서-git-설치-방법" title="Navigate to The way to install Git in Mac">Mac 환경에서 Git 설치 방법</a></li>
+    <li><a href="#간단한-작업-예시를-만들어보자" title="Navigate to Let's make an example for training">간단한 작업 예시를 만들어보자</a></li>
+    <li><a href="#파일-상태-확인하기" title="Navigate to checking file status in Git repository">파일 상태 확인하기</a></li>
+    <li><a href="#파일-추적하기" title="Navigate to tracking in Git repository">파일 추적하기</a></li>
+    <li><a href="#추적하고-싶지-않은-파일-목록" title="Navigate to the list willing to ignore in Git repository">추적하고 싶지 않은 파일 목록</a></li>
   </ol>
 </blockquote>
 
 <hr />
 
-<h4 id="windows-환경에서-git-설치-방법"><span style="color: brown"><strong>Windows 환경에서 Git 설치 방법</strong></span></h4>
+<h4 id="간단한-작업-예시를-만들어보자"><span style="color: brown"><strong>간단한 작업 예시를 만들어보자</strong></span></h4>
+<ul>
+  <li><a href="/github/2023/08/28/Essential-terminal-commands" title="Navigate to 필수적인 터미널 명령어를 알아보자 post">이전 포스트</a>에서 알아봤던 기본적인 터미널 명령어를 이용하여 실습환경을 만들어보자.</li>
+</ul>
+<div class="image-slider-static">
+<img src="/images/posts/2023-09-11-Working-in-Git-repository/making-training-environment-by-terminal-command.jpg" title="Making training environment by terminal command" alt="Making training environment by terminal command" />
+</div>
+
+<ul>
+  <li>간단하게 프로젝트 모양새를 만들어보았다. 이제 Git 저장소 내의 파일들의 상태를 확인해보자.</li>
+</ul>
+<div class="image-slider-static">
+<img src="/images/posts/2023-09-11-Working-in-Git-repository/directory-for-training-git.jpg" title="Directory for training git" alt="Directory for training git" />
+</div>
 
 <hr />
 
-<h4 id="mac-환경에서-git-설치-방법"><span style="color: brown"><strong>Mac 환경에서 Git 설치 방법</strong></span></h4>
+<h4 id="파일-상태-확인하기"><span style="color: brown"><strong>파일 상태 확인하기</strong></span></h4>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git status
+</code></pre></div></div>
+<ul>
+  <li>Git 저장소 내의 <span style="color: #8D4801"><strong>파일들의 상태를 확인하는 명령어</strong></span>이다.</li>
+  <li>Git을 사용하는 동안 정말 많이 사용하게되는 명령어 중 하나이다.</li>
+</ul>
+<div class="image-slider-static">
+<img src="/images/posts/2023-09-11-Working-in-Git-repository/git-command-status.jpg" title="Git command to check file status" alt="Git command to check file status" />
+</div>
+
+<hr />
+
+<h4 id="파일-추적하기"><span style="color: brown"><strong>파일 추적하기</strong></span></h4>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git add
+</code></pre></div></div>
+<ul>
+  <li></li>
+</ul>
+
+<hr />
+
+<h4 id="추적하고-싶지-않은-파일-목록"><span style="color: brown"><strong>추적하고 싶지 않은 파일 목록</strong></span></h4>
+<ul>
+  <li>.gitignore 파일
+    <ul>
+      <li>git은 이 파일에 작성된 <span style="color: #8D4801"><strong>목록들을 추적하지 않는다.</strong></span></li>
+      <li>또 로컬 저장소를 서버로 전송하거나 다른 사람과 공유할 때도 이를 <span style="color: #8D4801"><strong>예외 처리</strong></span>한다.</li>
+      <li>.gitignore 파일을 작성할 때는 <span style="color: #8D4801"><strong>반드시 저장소 폴더의 최상위 디렉토리에 두어야 한다.</strong></span> (.git 디렉토리와 같은 경로)</li>
+      <li>파일안에 # 으로 시작하는 줄은 주석으로 처리된다.</li>
+      <li>와일드카드(*)를 사용하여 패턴을 정의할 수 있다. (셸 글로빙)</li>
+      <li>ex)
+        <ul>
+          <li>dbinfo.php (풀네임)</li>
+          <li>*.obj (해당 확장자를 가진 모든 파일을 제외함)</li>
+          <li>!config.php (이 파일은 제외하면 안 됨)</li>
+          <li>/readme.txt (현재 디렉토리 안에 있는 파일 무시)</li>
+          <li>/pub/ (/pub/ 디렉토리 안의 모든 것을 무시)</li>
+          <li>doc/<em>*/</em>.txt (doc 디렉토리 아래의 모든 .txt 파일 무시)</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <hr />
 
