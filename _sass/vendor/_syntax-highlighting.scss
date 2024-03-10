@@ -7,6 +7,8 @@
   .highlighter-rouge & {
     background: rgba(170, 177, 199, 0.07);
     border-radius: $common-border-radius;
+    // 코드블록 추가된 코드 복사 버튼 위치 설정용
+    position: relative;
   }
 
   .c     { color: #998; font-style: italic } // Comment

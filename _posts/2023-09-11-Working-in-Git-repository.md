@@ -4,7 +4,7 @@ title: Git 저장소에서 작업하기
 date: 2023-09-11 06:49:13 +0900
 img: github-logo.png
 categories: Github
-tags: [ Git, Github, 깃, 깃허브, git status, git add, git ignore ]
+tags: [ Git, Github, 깃, 깃허브, git status, git add, gitignore ]
 description: 생성한 Git 저장소에서 간단한 작업을 해보자. 그리고 그 파일을 추적하고 상태도 확인해 보자.
 ---
 
@@ -76,13 +76,21 @@ git reset HEAD <파일명>
 
 <br>
   
-- ```bash
+```bash
 git restore --staged <파일명>
 ```
   - Stage 상태의 파일을 Unstage 상태로 복구시킨다.
 <div class="image-slider-static">
 <img src="{{site.baseurl}}/images/posts/2023-09-11-Working-in-Git-repository/git-command-restore-staged.jpg" title="Git command to restore to recent commit" alt="Git command to restore to recent commit">
 </div>
+
+---
+
+#### <span style="color: brown">**추적중인 파일 이름 변경하기**</span>
+```bash
+git mv <파일명> <새파일명>
+```
+- Git 저장소 내의 이미 추적중인 파일명을 변경하는 명령어이다.  
 
 ---
 
@@ -112,4 +120,4 @@ git restore --staged <파일명>
 ---
 
 #### 마무리하며...
-이번 포스트에서는 프로젝트 작업을 가정한 디렉토리를 터미널 명령어로 간단하게 생성해 보고 그 파일들의 상태를 직접 확인한 후 추적도 하고 복귀도 시켜보았다. 실제 업무 중 대략 한 개의 기능을 추가하는 동안에 정말 많이 사용하게 될 명령어들이다. 다음 포스트 때는 Git의 알파이자 오메가라고 불러도 과언이 아닐 Commit에 대해서 알아보자.
+이번 포스트에서는 프로젝트 작업을 가정한 디렉토리를 터미널 명령어로 간단하게 생성해 보고 그 파일들의 상태를 직접 확인한 후 추적도 하고 복귀도 시켜보았다. [바로 이전 포스트]({{ site.baseurl }}/github/2023/09/04/Git-repository-concept-and-principle "Navigate to Git 저장소 개념과 원리 post")에서 알아보았던 이론들을 실제로 실습해 본 시간이었는데 결국 모든 코딩은 직접 타이핑을 해보아야 알게 된 이론이 정리가 되므로 꼭 한 번씩 타이핑해 보시길 추천해 드린다. 다음 포스트 때는 Git의 알파이자 오메가라고 불러도 과언이 아닐 Commit에 대해서 알아보자.

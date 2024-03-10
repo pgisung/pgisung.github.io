@@ -29,6 +29,7 @@
 .highlighter-rouge .highlight {
   background: rgba(170, 177, 199, 0.07);
   border-radius: 14px;
+  position: relative;
 }
 .highlight .c {
   color: #998;
@@ -1201,6 +1202,19 @@ table tr:hover {
 ::selection {
   background: rgba(141, 72, 1, 0.7);
   color: #ffffff;
+}
+
+.copy-btn {
+  position: absolute;
+  top: calc(50% - 7px);
+  right: 15px;
+  line-height: 1;
+  -webkit-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+  cursor: pointer;
+}
+.copy-btn:hover {
+  color: rgba(0, 0, 0, 0.2);
 }
 
 /* 2. ========== Header Menu ========== */

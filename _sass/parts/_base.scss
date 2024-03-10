@@ -309,3 +309,16 @@ table tr:hover {
   background: $brown-highlighted;
   color: #ffffff;
 }
+
+// 코드블록 코드 복사 버튼 추가
+.copy-btn {
+  position: absolute;
+  top: calc(50% - 7px);
+  right: 15px;
+  line-height: 1;
+  transition: all 0.2s ease;
+  cursor: pointer;
+  &:hover {
+    color: rgba(0, 0, 0, 0.2);
+  }
+}

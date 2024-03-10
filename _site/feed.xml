@@ -1,4 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-10T21:29:35+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JohnnyPark</title><subtitle>The growth diary of Software developer JohnnyPark</subtitle><entry><title type="html">Git 저장소에서 작업하기</title><link href="http://localhost:4000/github/2023/09/11/Working-in-Git-repository/" rel="alternate" type="text/html" title="Git 저장소에서 작업하기" /><published>2023-09-11T06:49:13+09:00</published><updated>2023-09-11T06:49:13+09:00</updated><id>http://localhost:4000/github/2023/09/11/Working-in-Git-repository</id><content type="html" xml:base="http://localhost:4000/github/2023/09/11/Working-in-Git-repository/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-11T02:19:22+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JohnnyPark</title><subtitle>The growth diary of Software developer JohnnyPark</subtitle><entry><title type="html">Commit이란 무엇일까?</title><link href="http://localhost:4000/github/2023/09/13/What-is-the-commit-on-Git/" rel="alternate" type="text/html" title="Commit이란 무엇일까?" /><published>2023-09-13T12:29:51+09:00</published><updated>2023-09-13T12:29:51+09:00</updated><id>http://localhost:4000/github/2023/09/13/What-is-the-commit-on-Git</id><content type="html" xml:base="http://localhost:4000/github/2023/09/13/What-is-the-commit-on-Git/"><![CDATA[<blockquote>
+  <ol>
+    <li><a href="#commit의-뜻은-무엇일까" title="Navigate to original meaning of commit">Commit의 뜻은 무엇일까?</a></li>
+    <li><a href="#head란-무엇일까" title="Navigate to What is HEAD?">HEAD란 무엇일까?</a></li>
+    <li><a href="#추적하고-싶지-않은-파일-목록" title="Navigate to ">3</a></li>
+    <li><a href="#추적하고-싶지-않은-파일-목록" title="Navigate to ">3</a></li>
+  </ol>
+</blockquote>
+
+<hr />
+
+<h4 id="commit의-뜻은-무엇일까"><span style="color: brown"><strong>Commit의 뜻은 무엇일까?</strong></span></h4>
+<ul>
+  <li>
+    <!-- 네이버사전 이미지 + copyright -->
+  </li>
+</ul>
+
+<hr />
+
+<h4 id="파일-추적하기"><span style="color: brown"><strong>파일 추적하기</strong></span></h4>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git add &lt;옵션&gt; &lt;파일명 1&gt; &lt;파일명 2&gt; ... : add 명령어의 기본 형태
+</code></pre></div></div>
+<ul>
+  <li>Git 저장소 내의 <span style="color: #8D4801"><strong>Unstage 상태의 파일들을 추적하는 명령어</strong></span>이다.</li>
+</ul>
+<div class="image-slider-static">
+<img src="/images/posts/2023-09-11-Working-in-Git-repository/git-command-add.jpg" title="Git command to track the files to commit" alt="Git command to track the files to commit" />
+</div>
+
+<hr />
+
+<h4 id="마무리하며">마무리하며…</h4>
+<p>이번 포스트에서는 . 다음 포스트 때는 .</p>]]></content><author><name></name></author><category term="Github" /><category term="Git" /><category term="Github" /><category term="깃" /><category term="깃허브" /><category term="git status" /><category term="git add" /><category term="git ignore" /><summary type="html"><![CDATA[포도 없는 포도송이는 의미가 없듯이 Commit 없는 Git 또한 의미가 없다. Git의 핵심 요소인 Commit이란 무엇인지 알아보자.]]></summary></entry><entry><title type="html">Git 저장소에서 작업하기</title><link href="http://localhost:4000/github/2023/09/11/Working-in-Git-repository/" rel="alternate" type="text/html" title="Git 저장소에서 작업하기" /><published>2023-09-11T06:49:13+09:00</published><updated>2023-09-11T06:49:13+09:00</updated><id>http://localhost:4000/github/2023/09/11/Working-in-Git-repository</id><content type="html" xml:base="http://localhost:4000/github/2023/09/11/Working-in-Git-repository/"><![CDATA[<blockquote>
   <ol>
     <li><a href="#간단한-작업-예시를-만들어보자" title="Navigate to Let's make an example for training">간단한 작업 예시를 만들어보자</a></li>
     <li><a href="#파일-상태-확인하기" title="Navigate to checking file status in Git repository">파일 상태 확인하기</a></li>
@@ -84,18 +117,23 @@ git add <span class="nb">.</span> : 현재 경로 내의 모든 파일 추적
 
 <p><br /></p>
 
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git restore <span class="nt">--staged</span> &lt;파일명&gt;
+</code></pre></div></div>
 <ul>
-  <li>
-    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git restore <span class="nt">--staged</span> &lt;파일명&gt;
-</code></pre></div>    </div>
-    <ul>
-      <li>Stage 상태의 파일을 Unstage 상태로 복구시킨다.</li>
-    </ul>
-  </li>
+  <li>Stage 상태의 파일을 Unstage 상태로 복구시킨다.</li>
 </ul>
 <div class="image-slider-static">
 <img src="/images/posts/2023-09-11-Working-in-Git-repository/git-command-restore-staged.jpg" title="Git command to restore to recent commit" alt="Git command to restore to recent commit" />
 </div>
+
+<hr />
+
+<h4 id="추적중인-파일-이름-변경하기"><span style="color: brown"><strong>추적중인 파일 이름 변경하기</strong></span></h4>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git <span class="nb">mv</span> &lt;파일명&gt; &lt;새파일명&gt;
+</code></pre></div></div>
+<ul>
+  <li>Git 저장소 내의 이미 추적중인 파일명을 변경하는 명령어이다.</li>
+</ul>
 
 <hr />
 
@@ -135,7 +173,7 @@ git add <span class="nb">.</span> : 현재 경로 내의 모든 파일 추적
 <hr />
 
 <h4 id="마무리하며">마무리하며…</h4>
-<p>이번 포스트에서는 프로젝트 작업을 가정한 디렉토리를 터미널 명령어로 간단하게 생성해 보고 그 파일들의 상태를 직접 확인한 후 추적도 하고 복귀도 시켜보았다. 실제 업무 중 대략 한 개의 기능을 추가하는 동안에 정말 많이 사용하게 될 명령어들이다. 다음 포스트 때는 Git의 알파이자 오메가라고 불러도 과언이 아닐 Commit에 대해서 알아보자.</p>]]></content><author><name></name></author><category term="Github" /><category term="Git" /><category term="Github" /><category term="깃" /><category term="깃허브" /><category term="git status" /><category term="git add" /><category term="git ignore" /><summary type="html"><![CDATA[생성한 Git 저장소에서 간단한 작업을 해보자. 그리고 그 파일을 추적하고 상태도 확인해 보자.]]></summary></entry><entry><title type="html">Git 저장소 개념과 원리</title><link href="http://localhost:4000/github/2023/09/04/Git-repository-concept-and-principle/" rel="alternate" type="text/html" title="Git 저장소 개념과 원리" /><published>2023-09-04T14:11:27+09:00</published><updated>2023-09-04T14:11:27+09:00</updated><id>http://localhost:4000/github/2023/09/04/Git-repository-concept-and-principle</id><content type="html" xml:base="http://localhost:4000/github/2023/09/04/Git-repository-concept-and-principle/"><![CDATA[<blockquote>
+<p>이번 포스트에서는 프로젝트 작업을 가정한 디렉토리를 터미널 명령어로 간단하게 생성해 보고 그 파일들의 상태를 직접 확인한 후 추적도 하고 복귀도 시켜보았다. <a href="/github/2023/09/04/Git-repository-concept-and-principle" title="Navigate to Git 저장소 개념과 원리 post">바로 이전 포스트</a>에서 알아보았던 이론들을 실제로 실습해 본 시간이었는데 결국 모든 코딩은 직접 타이핑을 해보아야 알게 된 이론이 정리가 되므로 꼭 한 번씩 타이핑해 보시길 추천해 드린다. 다음 포스트 때는 Git의 알파이자 오메가라고 불러도 과언이 아닐 Commit에 대해서 알아보자.</p>]]></content><author><name></name></author><category term="Github" /><category term="Git" /><category term="Github" /><category term="깃" /><category term="깃허브" /><category term="git status" /><category term="git add" /><category term="gitignore" /><summary type="html"><![CDATA[생성한 Git 저장소에서 간단한 작업을 해보자. 그리고 그 파일을 추적하고 상태도 확인해 보자.]]></summary></entry><entry><title type="html">Git 저장소 개념과 원리</title><link href="http://localhost:4000/github/2023/09/04/Git-repository-concept-and-principle/" rel="alternate" type="text/html" title="Git 저장소 개념과 원리" /><published>2023-09-04T14:11:27+09:00</published><updated>2023-09-04T14:11:27+09:00</updated><id>http://localhost:4000/github/2023/09/04/Git-repository-concept-and-principle</id><content type="html" xml:base="http://localhost:4000/github/2023/09/04/Git-repository-concept-and-principle/"><![CDATA[<blockquote>
   <ol>
     <li><a href="#git-저장소-생성하기" title="Navigate to Initializing Git repository">Git 저장소 생성하기</a></li>
     <li><a href="#git-저장소-복제하기" title="Navigate to Copying Git repository">Git 저장소 복제하기</a></li>

@@ -366,4 +366,43 @@ $(function() {
     });
   });
 
+  // 코드블록 코드 복사 버튼 추가
+  window.addEventListener('load', function() {
+    var codeBlocks = document.querySelectorAll('pre code');
+    
+    codeBlocks.forEach(function(codeBlock) {
+        var button = document.createElement('span');
+        button.className = 'copy-btn';
+        button.innerHTML = '<i class="fa fa-clone" aria-hidden="true"></i>';
+        button.title = 'Copy to clipboard';
+        
+        codeBlock.parentNode.appendChild(button);
+        
+        button.addEventListener('click', function() {
+            navigator.clipboard.writeText(codeBlock.innerText)
+                .then(function() {
+                    console.log('코드가 복사되었습니다.');
+                    // 성공적으로 복사된 후 3초 후에 원래 상태로 되돌림
+                    setTimeout(function() {
+                        button.innerHTML = '<i class="fa fa-clone" aria-hidden="true"></i>';
+                        button.title = 'Copy to clipboard';
+                        button.style.pointerEvents = 'auto';
+                    }, 3000);
+                    // 아이콘 변경, 클릭 불가 및 숨김 설정
+                    button.innerHTML = '<i class="fa fa-check" aria-hidden="true"></i>';
+                    button.title = '';
+                    button.style.pointerEvents = 'none';
+                })
+                .catch(function(err) {
+                    console.error('코드 복사에 실패했습니다.', err);
+                });
+        });
+    });
+  });
+
+  // 일단 우클릭은 막아놓자.
+  document.addEventListener('contextmenu', function(e) {
+    e.preventDefault();
+  });
+
 });
