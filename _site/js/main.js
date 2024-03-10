@@ -80,7 +80,7 @@ $(function() {
     json: '/assets/search.json',
     searchResultTemplate: `
       <li>
-        <a href="{url}" title="Navigate to {title} post">
+        <a href="{url}" title="Navigate to {subject} post">
           <div class="template-box">
             <div class="template-image">
               <img src="{img}">
@@ -401,8 +401,8 @@ $(function() {
   });
 
   // 일단 우클릭은 막아놓자.
-  document.addEventListener('contextmenu', function(e) {
-    e.preventDefault();
-  });
+  // document.addEventListener('contextmenu', function(e) {
+  //   e.preventDefault();
+  // });
 
 });
