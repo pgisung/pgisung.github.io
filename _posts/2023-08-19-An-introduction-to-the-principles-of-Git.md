@@ -8,7 +8,7 @@ tags: [ Git, Github, 깃, 깃허브, Software Version Management, 버전관리 ]
 description: Git에 입문하기 전에 기본적인 Git의 어원과 정의 그리고 버전관리에 대하여 알아보자.
 ---
 
-> 1. [Git의 어원은 무엇일까?](#git의-어원은-무엇일까 "Navigate to original meaning of Git")
+> 1. [Git의 어원은 무엇일까?](#git의-어원은-무엇일까 "Navigate to Original meaning of Git")
 2. [버전관리란 무엇일까?](#버전관리란-무엇일까 "Navigate to Version management")
 3. [중앙집중형 버전관리와 분산형 버전관리의 차이점](#중앙집중형-버전관리와-분산형-버전관리의-차이점 "Navigate to The difference between Centralized and Distributed version management")
 

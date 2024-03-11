@@ -9,14 +9,14 @@ description: Windows / Mac 환경에서 Git 설치 및 환경설정을 해보자
 ---
 
 > 1. [Windows 환경에서 Git 설치 방법](#windows-환경에서-git-설치-방법 "Navigate to The way to install Git for Windows")
-- [설치 파일 다운로드](#설치-파일-다운로드 "Navigate to download install file for Windows")
-- [설치](#설치 "Navigate to install Git for Windows")
-- [설치 확인](#설치-확인 "Navigate to check install Git for Windows")
-2. [Mac 환경에서 Git 설치 방법](#mac-환경에서-git-설치-방법 "Navigate to The way to install Git in Mac")
-- [Homebrew 설치](#homebrew-설치 "Navigate to install Homebrew")
-- [Git 설치](#git-설치 "Navigate to install Git for Mac")
+- [설치 파일 다운로드](#설치-파일-다운로드 "Navigate to Downloading install file for Windows")
+- [설치](#설치 "Navigate to Installing Git for Windows")
+- [설치 확인](#설치-확인 "Navigate to Checking to install Git for Windows")
+2. [Mac 환경에서 Git 설치 방법](#mac-환경에서-git-설치-방법 "Navigate to The way to install Git for Mac")
+- [Homebrew 설치](#homebrew-설치 "Navigate to Installing Homebrew")
+- [Git 설치](#git-설치 "Navigate to Installing Git for Mac")
 3. [Git 입문하기](#git-입문하기 "Navigate to Getting started with Git")
-4. [Git 환경설정](#git-환경설정 "Navigate to Setting environment of Git")
+4. [Git 환경설정](#git-환경설정 "Navigate to Setting environment for Git")
 
 ---
 

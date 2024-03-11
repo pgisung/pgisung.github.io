@@ -21,7 +21,7 @@ description: 터미널 환경에서 Git을 사용하기 위해 필수적인 명�
 1. [cat 명령어](#cat-명령어 "Navigate to cat command")
 1. [less 명령어](#less-명령어 "Navigate to less command")
 1. [find 명령어](#find-명령어 "Navigate to find command")
-1. [터미널 제어 명령어](#터미널-제어-명령어 "Navigate to the commands to control a terminal")
+1. [터미널 제어 명령어](#터미널-제어-명령어 "Navigate to The commands to control a terminal")
 
 ---
 

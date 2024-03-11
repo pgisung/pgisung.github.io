@@ -9,9 +9,10 @@ description: 생성한 Git 저장소에서 간단한 작업을 해보자. 그리
 ---
 
 > 1. [간단한 작업 예시를 만들어보자](#간단한-작업-예시를-만들어보자 "Navigate to Let's make an example for training")
-2. [파일 상태 확인하기](#파일-상태-확인하기 "Navigate to checking file status in Git repository")
-3. [파일 추적하기](#파일-추적하기 "Navigate to tracking in Git repository")
-4. [추적하고 싶지 않은 파일 목록](#추적하고-싶지-않은-파일-목록 "Navigate to the list willing to ignore in Git repository")
+2. [파일 상태 확인하기](#파일-상태-확인하기 "Navigate to Checking file status in Git repository")
+3. [파일 추적하기](#파일-추적하기 "Navigate to Tracking in Git repository")
+4. [추적중인 파일 이름 변경하기](#추적중인-파일-이름-변경하기 "Navigate to Changing the name of file which is already staged in Git repository")
+5. [추적하고 싶지 않은 파일 목록](#추적하고-싶지-않은-파일-목록 "Navigate to The list willing to ignore in Git repository")
 
 ---
 
@@ -90,7 +91,22 @@ git restore --staged <파일명>
 ```bash
 git mv <파일명> <새파일명>
 ```
-- Git 저장소 내의 이미 추적중인 파일명을 변경하는 명령어이다.  
+- 터미널 명령어인 mv와 같이 파일명을 바꾸는 명령어로써 주된 목적은 Git 저장소 내의 이미 추적중인 파일명을 변경하는 명령어이다.
+<div class="image-slider-static">
+<img src="{{site.baseurl}}/images/posts/2023-09-11-Working-in-Git-repository/git-command-mv.jpg" title="Git command to change the name of file which is already staged" alt="Git command to change the name of file which is already staged">
+</div>
+
+<br>
+
+```bash
+mv <파일명> <새파일명>
+git rm <파일명>
+git add <새파일명>
+```
+- 풀어서 작성하면 위와 같이 작성할 수 있다. Git 명령어를 사용하지않고 그냥 파일명을 변경하면 기존의 추적중이던 파일명은 삭제 상태가 되고 새로운 파일명은 추가된 상태가 되므로 삭제 상태의 파일명 이력은 지우고 추가된 상태의 새로운 파일명은 다시 추적하면 똑같은 동작을 한다.
+<div class="image-slider-static">
+<img src="{{site.baseurl}}/images/posts/2023-09-11-Working-in-Git-repository/example-that showing-same-result-with-git-mv-command.jpg" title="Example that showing same result with git mv command" alt="Example that showing same result with git mv command">
+</div>
 
 ---
 
