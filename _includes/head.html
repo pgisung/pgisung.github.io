@@ -10,13 +10,20 @@
   <meta property='og:title' content='{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}' />
   <meta property='og:description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}'>
   <meta property='og:url' content='{{ page.url | absolute_url }}' />
-  <!-- 검색결과 사이트명 변경용 구조화된 WebSite 데이터 -->
+  <!-- Structed WebSite data -->
   <script type="application/ld+json">
     {
       "@context" : "https://schema.org",
       "@type" : "WebSite",
       "name" : "JohnnyPark",
-      "url" : "https://pgisung.github.io"
+      "url" : "https://pgisung.github.io",
+      "author" : "JisungPark",
+      "description" : "The growth diary of Software developer JohnnyPark",
+      "image" : "https://pgisung.github.io/images/main/home-banner.jpg",
+      "publisher" : "JisungPark",
+      "keywords" : ["Software Developer", "Git", "Java", "C#"],
+      "inLanguage" : ["Korean", "English"],
+      "datePublished" : "2023-05-22 22:44:03 +0900"
     }
   </script>
 
