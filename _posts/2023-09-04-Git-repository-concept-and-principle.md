@@ -29,9 +29,7 @@ git init <경로>
     - <span style="color: #8D4801">**Mac**</span>의 경우 command+shift+. 단축키를 사용하여 숨겨진 항목들이 보이게 할 수 있다.
     - <span style="color: #8D4801">**경로(path)**</span> 상의 .은 <span style="color: #8D4801">**현재 경로**</span>를 뜻한다. 그러나, <span style="color: #8D4801">**파일 및 디렉토리**</span> 앞의 .은 <span style="color: #8D4801">**숨겨진 파일 및 디렉토리**</span>를 의미한다.
   - ls -a 옵션을 통해 숨겨진 항목을 출력해야만 확인할 수 있다.
-<div class="image-slider-static">
 <img src="{{site.baseurl}}/images/posts/2023-09-04-Git-repository-concept-and-principle/git-command-init.jpg" title="Git command to initialize the directory as git repository" alt="Git command to initialize the directory as git repository">
-</div>
 
 ---
 
@@ -42,9 +40,7 @@ git clone <원격저장소 URL> <새 디렉토리명>
 ```
   - clone 명령어를 실행하면 <span style="color: #8D4801">**현재 디렉토리에 원격저장소를 복제한다.**</span> 복제한 디렉토리 안에는 당연히 .git 디렉토리가 존재하며 기존 원격저장소의 이력을 저장하고 있다.
   - 새 디렉토리명을 입력하지 않으면 원격저장소의 디렉토리 명이 기본값으로 설정된다.
-<div class="image-slider-static">
 <img src="{{site.baseurl}}/images/posts/2023-09-04-Git-repository-concept-and-principle/git-command-clone.jpg" title="Git command to copy the remote directory to local repository" alt="Git command to copy the remote directory to local repository">
-</div>
 
 ---
 

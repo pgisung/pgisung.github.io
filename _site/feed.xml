@@ -1,33 +1,65 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-12T00:03:51+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JohnnyPark</title><subtitle>The growth diary of Software developer JohnnyPark</subtitle><entry><title type="html">Commit이란 무엇일까?</title><link href="http://localhost:4000/github/2023/09/13/What-is-the-commit-on-Git/" rel="alternate" type="text/html" title="Commit이란 무엇일까?" /><published>2023-09-13T12:29:51+09:00</published><updated>2023-09-13T12:29:51+09:00</updated><id>http://localhost:4000/github/2023/09/13/What-is-the-commit-on-Git</id><content type="html" xml:base="http://localhost:4000/github/2023/09/13/What-is-the-commit-on-Git/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-12T22:13:17+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JohnnyPark</title><subtitle>The growth diary of Software developer JohnnyPark</subtitle><entry><title type="html">Commit이란 무엇일까?</title><link href="http://localhost:4000/github/2023/09/13/What-is-the-commit-on-Git/" rel="alternate" type="text/html" title="Commit이란 무엇일까?" /><published>2023-09-13T12:29:51+09:00</published><updated>2023-09-13T12:29:51+09:00</updated><id>http://localhost:4000/github/2023/09/13/What-is-the-commit-on-Git</id><content type="html" xml:base="http://localhost:4000/github/2023/09/13/What-is-the-commit-on-Git/"><![CDATA[<blockquote>
   <ol>
-    <li><a href="#commit의-뜻은-무엇일까" title="Navigate to Original meaning of commit">Commit의 뜻은 무엇일까?</a></li>
-    <li><a href="#head란-무엇일까" title="Navigate to What is HEAD?">HEAD란 무엇일까?</a></li>
-    <li><a href="#Snapshot-기반-접근-방식" title="Navigate to Snapshot-based approach">Snapshot 기반 접근 방식</a></li>
-    <li><a href="#Commit-명령어" title="Navigate to Commit command">Commit 명령어</a></li>
-    <li><a href="#Commit-명령어" title="Navigate to Commit command">Commit 명령어</a></li>
+    <li><a href="#commit이란-무엇일까" title="Navigate to What is commit?">Commit이란 무엇일까?</a></li>
+    <li><a href="#commit-해보기" title="Navigate to Let's commit">Commit 해보기</a></li>
+    <li><a href="#commit을-확인해보자" title="Navigate to Why don't we check the commit logs">Commit을 확인해보자</a></li>
   </ol>
 </blockquote>
 
 <hr />
 
-<h4 id="commit의-뜻은-무엇일까"><span style="color: brown"><strong>Commit의 뜻은 무엇일까?</strong></span></h4>
+<h4 id="commit이란-무엇일까"><span style="color: brown"><strong>Commit이란 무엇일까?</strong></span></h4>
+<ul>
+  <li>들어본적은 있는 단어였으나 어떤 의미로 Git에서 사용되는 지는 몰랐었다. 그래서 사전을 한번 찾아보았는데 가장 가까운 의미는 “~을 적어 두다”로 보인다. 즉, Git에서 commit이란 <span style="color: #8D4801"><strong>Stage 상태의 파일내용들을 적어 두는 행위</strong></span>를 뜻한다.</li>
+</ul>
+<div class="image-slider-static">
+  <img src="/images/posts/2023-09-13-What-is-the-commit-on-Git/commit-in-naver-dictionary.jpg" title="Definition of commit in Naver dictionary" alt="Definition of commit in Naver dictionary" />
+</div>
+
+<center>
+  <a href="https://en.dict.naver.com/#/entry/enko/4dd1c73ab1734e23861c8dacd2b2bc72" title="Navigate to Naver dictionary">
+    <small><i class="fa fa-copyright" aria-hidden="true"></i>네이버 사전</small>
+  </a>
+</center>
+<p><br /></p>
+
 <ul>
   <li>
-    <!-- 네이버사전 이미지 + copyright -->
+    <p><span id="head란-무엇일까"></span><strong>HEAD란 무엇일까?</strong></p>
+
+    <ul>
+      <li>HEAD는 한마디로 <span style="color: #8D4801"><strong>commit을 가리키고 있는 참조 포인터</strong></span>이다. 포인터하면 생각나는게 c언어인 것 같다. 대학생시절 처음엔 비교적 재밌게 프로그래밍 수업을 듣던 학생들도 포인터 개념에서 많이 포기를 하고 전과를 하거나 코딩 자체에 관심을 잃고 졸업 후 다른 방향의 직업을 생각나게하는 악명높은 문법이었다. 아무튼 본론으로 돌아와서… 포인터의 문어적 의미 그대로 “무언가를 가리키고 있다.”라고 생각하면 되는데 Git에서는 그 가리키고 있는 것이 commit이라고 생각하면 된다.</li>
+      <li>아래의 예시에서 볼 수 있듯이 <span style="color: #8D4801"><strong>HEAD는 기본적으로 마지막 commit 위치 (commit이 변화한 최종 위치)</strong></span>를 가리키고 있다.
+<img src="/images/posts/2023-09-13-What-is-the-commit-on-Git/example-of-head.jpg" title="" alt="" />
+<br /></li>
+    </ul>
+  </li>
+  <li>
+    <p><span id="snapshot-기반-접근-방식"></span><strong>Snapshot 기반 접근 방식</strong></p>
+
+    <ul>
+      <li></li>
+    </ul>
   </li>
 </ul>
 
 <hr />
 
-<h4 id="파일-추적하기"><span style="color: brown"><strong>파일 추적하기</strong></span></h4>
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git add &lt;옵션&gt; &lt;파일명 1&gt; &lt;파일명 2&gt; ... : add 명령어의 기본 형태
+<h4 id="commit-해보기"><span style="color: brown"><strong>Commit 해보기</strong></span></h4>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
 </code></pre></div></div>
 <ul>
-  <li>Git 저장소 내의 <span style="color: #8D4801"><strong>Unstage 상태의 파일들을 추적하는 명령어</strong></span>이다.</li>
+  <li><img src="/images/posts/2023-09-13-What-is-the-commit-on-Git/" title="" alt="" /></li>
 </ul>
-<div class="image-slider-static">
-<img src="/images/posts/2023-09-11-Working-in-Git-repository/git-command-add.jpg" title="Git command to track the files to commit" alt="Git command to track the files to commit" />
-</div>
+
+<hr />
+
+<h4 id="commit을-확인해보자"><span style="color: brown"><strong>Commit을 확인해보자</strong></span></h4>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+</code></pre></div></div>
+<ul>
+  <li><img src="/images/posts/2023-09-13-What-is-the-commit-on-Git/" title="" alt="" /></li>
+</ul>
 
 <hr />
 
@@ -46,18 +78,15 @@
 
 <h4 id="간단한-작업-예시를-만들어보자"><span style="color: brown"><strong>간단한 작업 예시를 만들어보자</strong></span></h4>
 <ul>
-  <li><a href="/github/2023/08/28/Essential-terminal-commands" title="Navigate to 필수적인 터미널 명령어를 알아보자 post">이전 포스트</a>에서 알아봤던 기본적인 터미널 명령어를 이용하여 실습환경을 만들어보자.</li>
+  <li>
+    <p><a href="/github/2023/08/28/Essential-terminal-commands" title="Navigate to 필수적인 터미널 명령어를 알아보자 post">이전 포스트</a>에서 알아봤던 기본적인 터미널 명령어를 이용하여 실습환경을 만들어보자.
+<img src="/images/posts/2023-09-11-Working-in-Git-repository/making-training-environment-by-terminal-command.jpg" title="Making training environment by terminal command" alt="Making training environment by terminal command" /></p>
+  </li>
+  <li>
+    <p>간단하게 프로젝트 모양새를 만들어보았다. 이제 Git 저장소 내의 파일들의 상태를 확인해 보자.
+<img src="/images/posts/2023-09-11-Working-in-Git-repository/directory-for-training-git.jpg" title="Directory for training git" alt="Directory for training git" /></p>
+  </li>
 </ul>
-<div class="image-slider-static">
-<img src="/images/posts/2023-09-11-Working-in-Git-repository/making-training-environment-by-terminal-command.jpg" title="Making training environment by terminal command" alt="Making training environment by terminal command" />
-</div>
-
-<ul>
-  <li>간단하게 프로젝트 모양새를 만들어보았다. 이제 Git 저장소 내의 파일들의 상태를 확인해 보자.</li>
-</ul>
-<div class="image-slider-static">
-<img src="/images/posts/2023-09-11-Working-in-Git-repository/directory-for-training-git.jpg" title="Directory for training git" alt="Directory for training git" />
-</div>
 
 <hr />
 
@@ -66,11 +95,9 @@
 </code></pre></div></div>
 <ul>
   <li>Git 저장소 내의 <span style="color: #8D4801"><strong>파일들의 상태를 확인하는 명령어</strong></span>이다.</li>
-  <li>Git을 사용하는 동안 정말 많이 사용하게 되는 명령어 중 하나이다.</li>
+  <li>Git을 사용하는 동안 정말 많이 사용하게 되는 명령어 중 하나이다.
+<img src="/images/posts/2023-09-11-Working-in-Git-repository/git-command-status.jpg" title="Git command to check file status" alt="Git command to check file status" /></li>
 </ul>
-<div class="image-slider-static">
-<img src="/images/posts/2023-09-11-Working-in-Git-repository/git-command-status.jpg" title="Git command to check file status" alt="Git command to check file status" />
-</div>
 
 <hr />
 
@@ -80,11 +107,9 @@ git add <span class="nb">.</span> : 현재 경로 내의 모든 파일 추적
 </code></pre></div></div>
 <ul>
   <li>Git 저장소 내의 <span style="color: #8D4801"><strong>Unstage 상태의 파일들을 추적하는 명령어</strong></span>이다.</li>
-  <li>새로 추가, 생성된 파일들뿐만 아니라 기존에 add 되어서 Stage 상태였던 파일들이 Modified 되어서 Unstage 상태가 된 경우 또한 모두 추적한다.</li>
+  <li>새로 추가, 생성된 파일들뿐만 아니라 기존에 add 되어서 Stage 상태였던 파일들이 Modified 되어서 Unstage 상태가 된 경우 또한 모두 추적한다.
+<img src="/images/posts/2023-09-11-Working-in-Git-repository/git-command-add.jpg" title="Git command to track the files to commit" alt="Git command to track the files to commit" /></li>
 </ul>
-<div class="image-slider-static">
-<img src="/images/posts/2023-09-11-Working-in-Git-repository/git-command-add.jpg" title="Git command to track the files to commit" alt="Git command to track the files to commit" />
-</div>
 
 <p><br /></p>
 
@@ -94,13 +119,11 @@ git add <span class="nb">.</span> : 현재 경로 내의 모든 파일 추적
     <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git <span class="nb">rm</span> <span class="nt">-cached</span> &lt;파일명&gt;
 </code></pre></div>    </div>
     <ul>
-      <li><span style="color: #8D4801"><strong>파일을 추적한 후 commit 하지 않은 상태에서 바로 삭제할 때 사용할 수 있다.</strong></span> 해당 파일을 이미 한 번이라도 commit 했다면 이전 commit 기준으로 해당 파일의 삭제 또한 변화된 이력으로 간주하기 때문에 파일이 여전히 tracked 상태인 것을 확인할 수 있다.</li>
+      <li><span style="color: #8D4801"><strong>파일을 추적한 후 commit 하지 않은 상태에서 바로 삭제할 때 사용할 수 있다.</strong></span> 해당 파일을 이미 한 번이라도 commit 했다면 이전 commit 기준으로 해당 파일의 삭제 또한 변화된 이력으로 간주하기 때문에 파일이 여전히 tracked 상태인 것을 확인할 수 있다.
+<img src="/images/posts/2023-09-11-Working-in-Git-repository/git-command-rm-cached.jpg" title="Git command to remove cached files" alt="Git command to remove cached files" /></li>
     </ul>
   </li>
 </ul>
-<div class="image-slider-static">
-<img src="/images/posts/2023-09-11-Working-in-Git-repository/git-command-rm-cached.jpg" title="Git command to remove cached files" alt="Git command to remove cached files" />
-</div>
 
 <p><br /></p>
 
@@ -109,24 +132,20 @@ git add <span class="nb">.</span> : 현재 경로 내의 모든 파일 추적
     <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git reset HEAD &lt;파일명&gt;
 </code></pre></div>    </div>
     <ul>
-      <li>현재 HEAD가 가리키는 commit 이력의 상태로 파일의 이력을 되돌려서 Unstage 상태로 만들 수 있다.</li>
+      <li>현재 HEAD가 가리키는 commit 이력의 상태로 파일의 이력을 되돌려서 Unstage 상태로 만들 수 있다.
+<img src="/images/posts/2023-09-11-Working-in-Git-repository/git-command-reset-HEAD.jpg" title="Git command to reset to HEAD commit" alt="Git command to reset to HEAD commit" /></li>
     </ul>
   </li>
 </ul>
-<div class="image-slider-static">
-<img src="/images/posts/2023-09-11-Working-in-Git-repository/git-command-reset-HEAD.jpg" title="Git command to reset to HEAD commit" alt="Git command to reset to HEAD commit" />
-</div>
 
 <p><br /></p>
 
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git restore <span class="nt">--staged</span> &lt;파일명&gt;
 </code></pre></div></div>
 <ul>
-  <li>Stage 상태의 파일을 Unstage 상태로 복구시킨다.</li>
+  <li>Stage 상태의 파일을 Unstage 상태로 복구시킨다.
+<img src="/images/posts/2023-09-11-Working-in-Git-repository/git-command-restore-staged.jpg" title="Git command to restore to recent commit" alt="Git command to restore to recent commit" /></li>
 </ul>
-<div class="image-slider-static">
-<img src="/images/posts/2023-09-11-Working-in-Git-repository/git-command-restore-staged.jpg" title="Git command to restore to recent commit" alt="Git command to restore to recent commit" />
-</div>
 
 <hr />
 
@@ -134,11 +153,9 @@ git add <span class="nb">.</span> : 현재 경로 내의 모든 파일 추적
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git <span class="nb">mv</span> &lt;파일명&gt; &lt;새 파일명&gt;
 </code></pre></div></div>
 <ul>
-  <li>터미널 명령어인 mv와 같이 파일명을 바꾸는 명령어로써 주된 목적은 Git 저장소 내의 이미 추적 중인 파일명을 변경하는 명령어이다.</li>
+  <li>터미널 명령어인 mv와 같이 파일명을 바꾸는 명령어로써 주된 목적은 Git 저장소 내의 이미 추적 중인 파일명을 변경하는 명령어이다.
+<img src="/images/posts/2023-09-11-Working-in-Git-repository/git-command-mv.jpg" title="Git command to change the name of file which is already staged" alt="Git command to change the name of file which is already staged" /></li>
 </ul>
-<div class="image-slider-static">
-<img src="/images/posts/2023-09-11-Working-in-Git-repository/git-command-mv.jpg" title="Git command to change the name of file which is already staged" alt="Git command to change the name of file which is already staged" />
-</div>
 
 <p><br /></p>
 
@@ -147,11 +164,9 @@ git <span class="nb">rm</span> &lt;파일명&gt;
 git add &lt;새 파일명&gt;
 </code></pre></div></div>
 <ul>
-  <li>풀어서 작성하면 위와 같이 작성할 수 있다. Git 명령어를 사용하지 않고 그냥 파일명을 변경하면 기존의 추적 중이던 파일명은 삭제 상태가 되고 새로운 파일명은 추가된 상태가 되므로 삭제 상태의 파일명 이력은 지우고 추가된 상태의 새로운 파일명은 다시 추적하면 똑같은 동작을 한다.</li>
+  <li>풀어서 작성하면 위와 같이 작성할 수 있다. Git 명령어를 사용하지 않고 그냥 파일명을 변경하면 기존의 추적 중이던 파일명은 삭제 상태가 되고 새로운 파일명은 추가된 상태가 되므로 삭제 상태의 파일명 이력은 지우고 추가된 상태의 새로운 파일명은 다시 추적하면 똑같은 동작을 한다.
+<img src="/images/posts/2023-09-11-Working-in-Git-repository/example-that showing-same-result-with-git-mv-command.jpg" title="Example that showing same result with git mv command" alt="Example that showing same result with git mv command" /></li>
 </ul>
-<div class="image-slider-static">
-<img src="/images/posts/2023-09-11-Working-in-Git-repository/example-that showing-same-result-with-git-mv-command.jpg" title="Example that showing same result with git mv command" alt="Example that showing same result with git mv command" />
-</div>
 
 <hr />
 
@@ -171,22 +186,15 @@ git add &lt;새 파일명&gt;
           <li><span style="color: #8D4801"><strong>!</strong></span>index.html (이 파일은 제외하면 안 됨)</li>
           <li><span style="color: #8D4801"><strong>/</strong></span>404.html (현재 디렉토리 안에 있는 파일 무시)</li>
           <li><span style="color: #8D4801"><strong>/</strong></span>_site<span style="color: #8D4801"><strong>/</strong></span> (/_site/ 디렉토리 안의 모든 것을 무시)</li>
-          <li>image<span style="color: #8D4801"><strong>/**/*</strong></span>.gif (image 디렉토리 아래의 모든 .gif 파일 무시)</li>
+          <li>image<span style="color: #8D4801"><strong>/**/*</strong></span>.gif (image 디렉토리 아래의 모든 .gif 파일 무시)
+<img src="/images/posts/2023-09-11-Working-in-Git-repository/making-gitlignore-file-by-terminal-command.jpg" title="Making gitlignore file by terminal command" alt="Making gitlignore file by terminal command" /></li>
         </ul>
       </li>
     </ul>
   </li>
+  <li>vim 에디터를 이용하여 .gitignore 파일에 무시할 파일들을 추가하는 예시이다.
+<img src="/images/posts/2023-09-11-Working-in-Git-repository/setting-gitignore-file-by-vim-editor.jpg" title="Setting gitignore file by vim editor" alt="Setting gitignore file by vim editor" /></li>
 </ul>
-<div class="image-slider-static">
-<img src="/images/posts/2023-09-11-Working-in-Git-repository/making-gitlignore-file-by-terminal-command.jpg" title="Making gitlignore file by terminal command" alt="Making gitlignore file by terminal command" />
-</div>
-
-<ul>
-  <li>vim 에디터를 이용하여 .gitignore 파일에 무시할 파일들을 추가하는 예시이다.</li>
-</ul>
-<div class="image-slider-static">
-<img src="/images/posts/2023-09-11-Working-in-Git-repository/setting-gitignore-file-by-vim-editor.jpg" title="Setting gitignore file by vim editor" alt="Setting gitignore file by vim editor" />
-</div>
 
 <hr />
 
@@ -220,13 +228,11 @@ git add &lt;새 파일명&gt;
           <li><span style="color: #8D4801"><strong>경로(path)</strong></span> 상의 .은 <span style="color: #8D4801"><strong>현재 경로</strong></span>를 뜻한다. 그러나, <span style="color: #8D4801"><strong>파일 및 디렉토리</strong></span> 앞의 .은 <span style="color: #8D4801"><strong>숨겨진 파일 및 디렉토리</strong></span>를 의미한다.</li>
         </ul>
       </li>
-      <li>ls -a 옵션을 통해 숨겨진 항목을 출력해야만 확인할 수 있다.</li>
+      <li>ls -a 옵션을 통해 숨겨진 항목을 출력해야만 확인할 수 있다.
+<img src="/images/posts/2023-09-04-Git-repository-concept-and-principle/git-command-init.jpg" title="Git command to initialize the directory as git repository" alt="Git command to initialize the directory as git repository" /></li>
     </ul>
   </li>
 </ul>
-<div class="image-slider-static">
-<img src="/images/posts/2023-09-04-Git-repository-concept-and-principle/git-command-init.jpg" title="Git command to initialize the directory as git repository" alt="Git command to initialize the directory as git repository" />
-</div>
 
 <hr />
 
@@ -237,13 +243,11 @@ git add &lt;새 파일명&gt;
 </code></pre></div>    </div>
     <ul>
       <li>clone 명령어를 실행하면 <span style="color: #8D4801"><strong>현재 디렉토리에 원격저장소를 복제한다.</strong></span> 복제한 디렉토리 안에는 당연히 .git 디렉토리가 존재하며 기존 원격저장소의 이력을 저장하고 있다.</li>
-      <li>새 디렉토리명을 입력하지 않으면 원격저장소의 디렉토리 명이 기본값으로 설정된다.</li>
+      <li>새 디렉토리명을 입력하지 않으면 원격저장소의 디렉토리 명이 기본값으로 설정된다.
+<img src="/images/posts/2023-09-04-Git-repository-concept-and-principle/git-command-clone.jpg" title="Git command to copy the remote directory to local repository" alt="Git command to copy the remote directory to local repository" /></li>
     </ul>
   </li>
 </ul>
-<div class="image-slider-static">
-<img src="/images/posts/2023-09-04-Git-repository-concept-and-principle/git-command-clone.jpg" title="Git command to copy the remote directory to local repository" alt="Git command to copy the remote directory to local repository" />
-</div>
 
 <hr />
 
@@ -448,11 +452,9 @@ git add &lt;새 파일명&gt;
 <span class="nb">cd</span> ~ : 최상위 디렉토리로 이동
 </code></pre></div></div>
 <ul>
-  <li><span style="color: #8D4801"><strong>C</strong></span>hange <span style="color: #8D4801"><strong>D</strong></span>irectory의 약자로 작업할 디렉토리간 이동에 쓰이는 명령어이다. 매우 자주 쓰인다.</li>
+  <li><span style="color: #8D4801"><strong>C</strong></span>hange <span style="color: #8D4801"><strong>D</strong></span>irectory의 약자로 작업할 디렉토리간 이동에 쓰이는 명령어이다. 매우 자주 쓰인다.
+<img src="/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-cd.jpg" title="Terminal command to change directory" alt="Terminal command to change directory" /></li>
 </ul>
-<div class="image-slider-static">
-  <img src="/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-cd.jpg" title="Terminal command to change directory" alt="Terminal command to change directory" />
-</div>
 
 <hr />
 
@@ -468,11 +470,9 @@ git add &lt;새 파일명&gt;
 <span class="nb">ls</span> <span class="nt">-lc</span> : 자세한 내용에 수정 시간[mtime] 대신 변경 시간[ctime]을 출력
 </code></pre></div></div>
 <ul>
-  <li><span style="color: #8D4801"><strong>L</strong></span>i<span style="color: #8D4801"><strong>s</strong></span>t의 약자로 현재 디렉토리 안 파일 및 디렉토리들의 리스트를 보여주는 명령어이다. ls 명령어로 폴더 리스트를 확인하고 cd 명령어를 이용해 디렉토리를 이동하는 등 매우 자주 쓰인다.</li>
+  <li><span style="color: #8D4801"><strong>L</strong></span>i<span style="color: #8D4801"><strong>s</strong></span>t의 약자로 현재 디렉토리 안 파일 및 디렉토리들의 리스트를 보여주는 명령어이다. ls 명령어로 폴더 리스트를 확인하고 cd 명령어를 이용해 디렉토리를 이동하는 등 매우 자주 쓰인다.
+<img src="/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-ls-alh.jpg" title="Terminal command to show the list in the path" alt="Terminal command to show the list in the path" /></li>
 </ul>
-<div class="image-slider-static">
-  <img src="/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-ls-alh.jpg" title="Terminal command to show the list in the path" alt="Terminal command to show the list in the path" />
-</div>
 
 <hr />
 
@@ -480,11 +480,9 @@ git add &lt;새 파일명&gt;
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">pwd</span> : 현재 디렉토리의 절대경로를 출력
 </code></pre></div></div>
 <ul>
-  <li><span style="color: #8D4801"><strong>P</strong></span>rint <span style="color: #8D4801"><strong>W</strong></span>orking <span style="color: #8D4801"><strong>D</strong></span>irectory의 약자로 현재 디렉토리의 경로를 확인할 때 쓰인다.</li>
+  <li><span style="color: #8D4801"><strong>P</strong></span>rint <span style="color: #8D4801"><strong>W</strong></span>orking <span style="color: #8D4801"><strong>D</strong></span>irectory의 약자로 현재 디렉토리의 경로를 확인할 때 쓰인다.
+<img src="/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-pwd.jpg" title="Terminal command to print working directory" alt="Terminal command to print working directory" /></li>
 </ul>
-<div class="image-slider-static">
-  <img src="/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-pwd.jpg" title="Terminal command to print working directory" alt="Terminal command to print working directory" />
-</div>
 
 <hr />
 
@@ -494,11 +492,9 @@ git add &lt;새 파일명&gt;
 <span class="nb">mkdir</span> <span class="nt">-m</span> &lt;rwx[예<span class="o">)</span> 755]&gt; &lt;디렉토리명&gt; : 현재 경로에 접근 권한이 수정된 새로운 디렉토리 생성
 </code></pre></div></div>
 <ul>
-  <li><span style="color: #8D4801"><strong>M</strong></span>a<span style="color: #8D4801"><strong>k</strong></span>e <span style="color: #8D4801"><strong>Dir</strong></span>ectories의 약자로 현재 경로에 새로운 디렉토리들을 생성할 때 쓰인다.</li>
+  <li><span style="color: #8D4801"><strong>M</strong></span>a<span style="color: #8D4801"><strong>k</strong></span>e <span style="color: #8D4801"><strong>Dir</strong></span>ectories의 약자로 현재 경로에 새로운 디렉토리들을 생성할 때 쓰인다.
+<img src="/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-mkdir.jpg" title="Terminal command to make new directories" alt="Terminal command to make new directories" /></li>
 </ul>
-<div class="image-slider-static">
-  <img src="/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-mkdir.jpg" title="Terminal command to make new directories" alt="Terminal command to make new directories" />
-</div>
 
 <hr />
 
@@ -506,11 +502,9 @@ git add &lt;새 파일명&gt;
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">rmdir</span> &lt;디렉토리명&gt; : 현재 경로에 비어있는 디렉토리 삭제 <span class="o">(</span>디렉토리에 1개 이상의 파일 존재 시 삭제 불가능<span class="o">)</span>
 </code></pre></div></div>
 <ul>
-  <li><span style="color: #8D4801"><strong>R</strong></span>e<span style="color: #8D4801"><strong>m</strong></span>ove <span style="color: #8D4801"><strong>Dir</strong></span>ectories의 약자로 현재 경로에 비어있는 디렉토리들을 삭제할 때 쓰인다.</li>
+  <li><span style="color: #8D4801"><strong>R</strong></span>e<span style="color: #8D4801"><strong>m</strong></span>ove <span style="color: #8D4801"><strong>Dir</strong></span>ectories의 약자로 현재 경로에 비어있는 디렉토리들을 삭제할 때 쓰인다.
+<img src="/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-rmdir.jpg" title="Terminal command to remove empty directories" alt="Terminal command to remove empty directories" /></li>
 </ul>
-<div class="image-slider-static">
-  <img src="/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-rmdir.jpg" title="Terminal command to remove empty directories" alt="Terminal command to remove empty directories" />
-</div>
 
 <hr />
 
@@ -521,11 +515,9 @@ git add &lt;새 파일명&gt;
 <span class="nb">touch</span> <span class="nt">-t</span> &lt;CCYYMMDDhhmm.ss&gt; &lt;파일명&gt; : 접근 시간[atime]과 수정 시간[mtime]을 특정 시간으로 변경
 </code></pre></div></div>
 <ul>
-  <li>‘만지다’라는 뜻을 가진 <span style="color: #8D4801"><strong>touch</strong></span>와 같이 어루만지듯이 파일에 접근 및 수정하고 빈 파일을 생성할 때 쓰인다.</li>
+  <li>‘만지다’라는 뜻을 가진 <span style="color: #8D4801"><strong>touch</strong></span>와 같이 어루만지듯이 파일에 접근 및 수정하고 빈 파일을 생성할 때 쓰인다.
+<img src="/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-touch.jpg" title="Terminal command to make new empty files" alt="Terminal command to make new empty files" /></li>
 </ul>
-<div class="image-slider-static">
-  <img src="/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-touch.jpg" title="Terminal command to make new empty files" alt="Terminal command to make new empty files" />
-</div>
 
 <hr />
 
@@ -535,11 +527,9 @@ git add &lt;새 파일명&gt;
 <span class="nb">rm</span> <span class="nt">-f</span> &lt;디렉토리 또는 파일명&gt; : 삭제 명령을 강제로 실행 <span class="o">(</span>force<span class="o">)</span>
 </code></pre></div></div>
 <ul>
-  <li><span style="color: #8D4801"><strong>R</strong></span>e<span style="color: #8D4801"><strong>m</strong></span>ove의 약자로 현재 경로에 비어있지 않은 디렉토리 및 파일들을 삭제할 때 쓰인다.</li>
+  <li><span style="color: #8D4801"><strong>R</strong></span>e<span style="color: #8D4801"><strong>m</strong></span>ove의 약자로 현재 경로에 비어있지 않은 디렉토리 및 파일들을 삭제할 때 쓰인다.
+<img src="/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-rm.jpg" title="Terminal command to remove non-empty directories and files" alt="Terminal command to remove non-empty directories and files" /></li>
 </ul>
-<div class="image-slider-static">
-  <img src="/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-rm.jpg" title="Terminal command to remove non-empty directories and files" alt="Terminal command to remove non-empty directories and files" />
-</div>
 
 <hr />
 
@@ -549,11 +539,9 @@ git add &lt;새 파일명&gt;
 <span class="nb">mv</span> <span class="k">*</span> &lt;이동시킬 경로&gt; : 현재 경로의 모든 디렉토리 및 파일을 이동
 </code></pre></div></div>
 <ul>
-  <li><span style="color: #8D4801"><strong>M</strong></span>o<span style="color: #8D4801"><strong>v</strong></span>e의 약자로 디렉토리 및 파일들의 경로를 이동할 때 쓰인다. 이동시킬 경로에 파일명을 다르게 입력할 경우 파일 이름을 변경할 수 있다.</li>
+  <li><span style="color: #8D4801"><strong>M</strong></span>o<span style="color: #8D4801"><strong>v</strong></span>e의 약자로 디렉토리 및 파일들의 경로를 이동할 때 쓰인다. 이동시킬 경로에 파일명을 다르게 입력할 경우 파일 이름을 변경할 수 있다.
+<img src="/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-mv.jpg" title="Terminal command to move directories and files" alt="Terminal command to move directories and files" /></li>
 </ul>
-<div class="image-slider-static">
-  <img src="/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-mv.jpg" title="Terminal command to move directories and files" alt="Terminal command to move directories and files" />
-</div>
 
 <hr />
 
@@ -563,11 +551,9 @@ git add &lt;새 파일명&gt;
 <span class="nb">cp</span> <span class="nt">-f</span> &lt;디렉토리 또는 파일의 경로&gt; &lt;복사시킬 경로&gt; : 복사시킬 경로에 이미 같은 이름을 가진 디렉토리 또는 파일이 존재하더라도 복사 명령을 강제로 실행 <span class="o">(</span>force<span class="o">)</span>
 </code></pre></div></div>
 <ul>
-  <li><span style="color: #8D4801"><strong>C</strong></span>o<span style="color: #8D4801"><strong>p</strong></span>y의 약자로 디렉토리 및 파일들을 복사할 때 쓰인다.</li>
+  <li><span style="color: #8D4801"><strong>C</strong></span>o<span style="color: #8D4801"><strong>p</strong></span>y의 약자로 디렉토리 및 파일들을 복사할 때 쓰인다.
+<img src="/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-cp.jpg" title="Terminal command to copy directories and files" alt="Terminal command to copy directories and files" /></li>
 </ul>
-<div class="image-slider-static">
-  <img src="/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-cp.jpg" title="Terminal command to copy directories and files" alt="Terminal command to copy directories and files" />
-</div>
 
 <hr />
 
@@ -578,11 +564,9 @@ git add &lt;새 파일명&gt;
 <span class="nb">echo</span> &lt;<span class="s2">"문자열"</span><span class="o">&gt;</span> <span class="o">&gt;&gt;</span> &lt;파일명&gt; : 파일이 존재할 경우 문자열을 이어서 저장 존재하지 않을 경우 파일 생성
 </code></pre></div></div>
 <ul>
-  <li>‘메아리’라는 뜻을 가진 <span style="color: #8D4801"><strong>echo</strong></span>와 같이 입력한 문자열을 화면에 똑같이 출력할 때 쓰인다. 옵션에 따라 출력 내용을 파일에 입력할 수 있다.</li>
+  <li>‘메아리’라는 뜻을 가진 <span style="color: #8D4801"><strong>echo</strong></span>와 같이 입력한 문자열을 화면에 똑같이 출력할 때 쓰인다. 옵션에 따라 출력 내용을 파일에 입력할 수 있다.
+<img src="/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-echo.jpg" title="Terminal command to print out the string" alt="Terminal command to print out the string" /></li>
 </ul>
-<div class="image-slider-static">
-  <img src="/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-echo.jpg" title="Terminal command to print out the string" alt="Terminal command to print out the string" />
-</div>
 
 <hr />
 
@@ -592,11 +576,9 @@ git add &lt;새 파일명&gt;
 <span class="nb">cat</span> <span class="nt">-n</span> &lt;텍스트 파일명&gt; : 텍스트 파일 내 문자들을 화면에 line number와 함께 출력
 </code></pre></div></div>
 <ul>
-  <li>Con<span style="color: #8D4801"><strong>cat</strong></span>enate의 약자로 하나 이상의 텍스트 파일을 화면에 출력할 때 쓰인다.</li>
+  <li>Con<span style="color: #8D4801"><strong>cat</strong></span>enate의 약자로 하나 이상의 텍스트 파일을 화면에 출력할 때 쓰인다.
+<img src="/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-cat.jpg" title="Terminal command to print out the files" alt="Terminal command to print out the files" /></li>
 </ul>
-<div class="image-slider-static">
-  <img src="/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-cat.jpg" title="Terminal command to print out the files" alt="Terminal command to print out the files" />
-</div>
 
 <hr />
 
@@ -604,11 +586,9 @@ git add &lt;새 파일명&gt;
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>less &lt;텍스트 파일명&gt; : 텍스트 파일 내 문자들을 터미널 화면에 가득 찰 정도로 일부만 화면에 출력하고 페이지처럼 위아래로 탐색 조회
 </code></pre></div></div>
 <ul>
-  <li>‘적다’라는 뜻을 가진 <span style="color: #8D4801"><strong>less</strong></span>와 같이 텍스트 파일에서 터미널 화면에 가득 찰 정도로 일부만 출력하고 위아래로 탐색할 수 있게 하여 크기가 큰 텍스트 파일을 편리하게 조회할 때 쓰인다.</li>
+  <li>‘적다’라는 뜻을 가진 <span style="color: #8D4801"><strong>less</strong></span>와 같이 텍스트 파일에서 터미널 화면에 가득 찰 정도로 일부만 출력하고 위아래로 탐색할 수 있게 하여 크기가 큰 텍스트 파일을 편리하게 조회할 때 쓰인다.
+<img src="/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-less.jpg" title="Terminal command to print out a large size file one screen at a time" alt="Terminal command to print out a large size file one screen at a time" /></li>
 </ul>
-<div class="image-slider-static">
-  <img src="/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-less.jpg" title="Terminal command to print out a large size file one screen at a time" alt="Terminal command to print out a large size file one screen at a time" />
-</div>
 
 <hr />
 
@@ -624,11 +604,9 @@ find / <span class="nt">-name</span> &lt;<span class="s1">'파일명'</span><spa
 find / <span class="nt">-name</span> &lt;<span class="s1">'파일명'</span><span class="o">&gt;</span> <span class="nt">-exec</span> &lt;터미널 명령어&gt; <span class="o">{}</span> + : 최상위 디렉토리부터 찾고자 하는 파일 검색 후 해당 파일에 명령어 실행 <span class="o">(</span>전체적으로 한 번만 실행<span class="o">)</span>
 </code></pre></div></div>
 <ul>
-  <li>‘찾는다’라는 뜻을 가진 <span style="color: #8D4801"><strong>find</strong></span>와 같이 파일 시스템에서 파일을 찾을 때 쓰인다. 옵션과 표현식에 따라 사용 방식이 다양하다.</li>
+  <li>‘찾는다’라는 뜻을 가진 <span style="color: #8D4801"><strong>find</strong></span>와 같이 파일 시스템에서 파일을 찾을 때 쓰인다. 옵션과 표현식에 따라 사용 방식이 다양하다.
+<img src="/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-find.jpg" title="Terminal command to search for files on file system" alt="Terminal command to search for files on file system" /></li>
 </ul>
-<div class="image-slider-static">
-  <img src="/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-find.jpg" title="Terminal command to search for files on file system" alt="Terminal command to search for files on file system" />
-</div>
 
 <hr />
 
@@ -863,13 +841,8 @@ MacOs에서의 Git 설치는 Windows와 비교했을 때 매우 간단하다.</p
   <li>기본적인 명령어의 종류는 아래의 명령을 실행하여 확인할 수 있다.
     <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git <span class="nt">--help</span>
 </code></pre></div>    </div>
+    <p><img src="/images/posts/2023-08-26-Starting-Git/git-command-help.jpg" title="Git command to check the significant commands in itself" alt="Git command to check the significant commands in itself" /></p>
   </li>
-</ul>
-<div class="image-slider-static">
-  <img src="/images/posts/2023-08-26-Starting-Git/git-command-help.jpg" title="Git command to check the significant commands in itself" alt="Git command to check the significant commands in itself" />
-</div>
-
-<ul>
   <li>
     <p>명령어 사용 시 옵션의 종류는 다음과 같다.</p>
 
@@ -883,15 +856,10 @@ MacOs에서의 Git 설치는 Windows와 비교했을 때 매우 간단하다.</p
 git &lt;명령어&gt; <span class="nt">--help-option</span>
 </code></pre></div>        </div>
       </li>
-      <li>다음은 add 명령어의 옵션을 확인한 예시이다.</li>
+      <li>다음은 add 명령어의 옵션을 확인한 예시이다.
+<img src="/images/posts/2023-08-26-Starting-Git/git-command-add-help-option.jpg" title="Git command to check the options of add command" alt="Git command to check the options of add command" /></li>
     </ul>
   </li>
-</ul>
-<div class="image-slider-static">
-  <img src="/images/posts/2023-08-26-Starting-Git/git-command-add-help-option.jpg" title="Git command to check the options of add command" alt="Git command to check the options of add command" />
-</div>
-
-<ul>
   <li>또한 명령어 사용 시 <span style="color: #8D4801"><strong>세미콜론(;)</strong></span>을 이용하여 여러 개의 명령어를 한 줄에 사용이 가능하다.
     <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git add .<span class="p">;</span> git commit <span class="nt">-m</span> <span class="s2">"[Chore] learning git"</span><span class="p">;</span> git push origin main
 </code></pre></div>    </div>
@@ -994,13 +962,12 @@ git config user.email &lt;<span class="s2">"사용자 이메일"</span><span cla
 </code></pre></div>    </div>
     <ul>
       <li><span style="color: #8D4801"><strong>모든 git 작업영역에 대한 환경설정</strong></span>을 할 수 있는 명령어이다.</li>
-      <li>이 명령어는 <span style="color: #8D4801"><strong>최상위 User 폴더 안 .gitconfig 파일에 값을 저장</strong></span>한다.</li>
+      <li>이 명령어는 <span style="color: #8D4801"><strong>최상위 User 폴더 안 .gitconfig 파일에 값을 저장</strong></span>한다.
+<img src="/images/posts/2023-08-26-Starting-Git/location-of-global-git-config-file.jpg" title="Location of global git config file" alt="Location of global git config file" /></li>
     </ul>
   </li>
 </ul>
-<div class="image-slider-static">
-  <img src="/images/posts/2023-08-26-Starting-Git/location-of-global-git-config-file.jpg" title="Location of global git config file" alt="Location of global git config file" />
-</div>
+
 <p><br /></p>
 
 <ul>
@@ -1021,13 +988,12 @@ git config <span class="nt">--global</span> user.email &lt;<span class="s2">"사
     <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git config <span class="nt">--global</span> commit.template &lt;템플릿 파일 경로&gt;
 </code></pre></div>    </div>
     <ul>
-      <li>커밋메시지 템플릿을 변경하는 명령어이다. 커밋메시지 템플릿이란 git commit 명령어 실행 시 <span style="color: #8D4801"><strong>커밋메시지 작성 화면에 특정 양식을 작성</strong></span>해둔 파일이다.</li>
+      <li>커밋메시지 템플릿을 변경하는 명령어이다. 커밋메시지 템플릿이란 git commit 명령어 실행 시 <span style="color: #8D4801"><strong>커밋메시지 작성 화면에 특정 양식을 작성</strong></span>해둔 파일이다.
+<img src="/images/posts/2023-08-26-Starting-Git/git-commit-template.jpg" title="Git commit template" alt="Git commit template" /></li>
     </ul>
   </li>
 </ul>
-<div class="image-slider-static">
-  <img src="/images/posts/2023-08-26-Starting-Git/git-commit-template.jpg" title="Git commit template" alt="Git commit template" />
-</div>
+
 <p><br /></p>
 
 <ul>

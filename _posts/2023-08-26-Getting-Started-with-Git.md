@@ -158,9 +158,7 @@ git <명령어> <옵션>
 ```bash
 git --help
 ```
-<div class="image-slider-static">
-  <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-command-help.jpg" title="Git command to check the significant commands in itself" alt="Git command to check the significant commands in itself">
-</div>
+<img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-command-help.jpg" title="Git command to check the significant commands in itself" alt="Git command to check the significant commands in itself">
 
 - 명령어 사용 시 옵션의 종류는 다음과 같다.
 
@@ -174,9 +172,7 @@ git <명령어> --help
 git <명령어> --help-option
 ```
   - 다음은 add 명령어의 옵션을 확인한 예시이다.
-<div class="image-slider-static">
-  <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-command-add-help-option.jpg" title="Git command to check the options of add command" alt="Git command to check the options of add command">
-</div>
+<img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-command-add-help-option.jpg" title="Git command to check the options of add command" alt="Git command to check the options of add command">
 
 - 또한 명령어 사용 시 <span style="color: #8D4801">**세미콜론(;)**</span>을 이용하여 여러 개의 명령어를 한 줄에 사용이 가능하다.
 ```bash
@@ -251,9 +247,8 @@ git config --global <설정변수> <"설정값">
 ```
   - <span style="color: #8D4801">**모든 git 작업영역에 대한 환경설정**</span>을 할 수 있는 명령어이다.
   - 이 명령어는 <span style="color: #8D4801">**최상위 User 폴더 안 .gitconfig 파일에 값을 저장**</span>한다.
-<div class="image-slider-static">
-  <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/location-of-global-git-config-file.jpg" title="Location of global git config file" alt="Location of global git config file">
-</div>
+<img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/location-of-global-git-config-file.jpg" title="Location of global git config file" alt="Location of global git config file">
+
 <br>
 
 - 전역 사용자 등록
@@ -270,9 +265,8 @@ git config --global user.email <"사용자 이메일">
 git config --global commit.template <템플릿 파일 경로>
 ```
   - 커밋메시지 템플릿을 변경하는 명령어이다. 커밋메시지 템플릿이란 git commit 명령어 실행 시 <span style="color: #8D4801">**커밋메시지 작성 화면에 특정 양식을 작성**</span>해둔 파일이다.
-<div class="image-slider-static">
-  <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-commit-template.jpg" title="Git commit template" alt="Git commit template">
-</div>
+<img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-commit-template.jpg" title="Git commit template" alt="Git commit template">
+
 <br>
 
 - Git이 자동으로 <span style="color: #8D4801">**색상 출력을 사용**</span>하도록 설정한다. 이 값은 터미널이 색상 출력을 지원하는 경우에만 색상을 사용할 수 있다.

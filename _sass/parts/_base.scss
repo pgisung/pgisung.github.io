@@ -79,6 +79,10 @@ img {
 
 li {
   margin: 0 0 15px;
+  // 마크다운 리스트안에 종속된 이미지가 글과 너무 딱 붙어있다. 조금 넓히자
+  img {
+    margin-top: 1em;
+  }
 }
 
 blockquote {

@@ -968,6 +968,9 @@ img {
 li {
   margin: 0 0 15px;
 }
+li img {
+  margin-top: 1em;
+}
 
 blockquote {
   border-left: 3px solid #a79f96;

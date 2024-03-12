@@ -401,8 +401,8 @@ $(function() {
   });
 
   // 일단 우클릭은 막아놓자.
-  document.addEventListener('contextmenu', function(e) {
-    e.preventDefault();
-  });
+  // document.addEventListener('contextmenu', function(e) {
+  //   e.preventDefault();
+  // });
 
 });
