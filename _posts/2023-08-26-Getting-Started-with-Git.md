@@ -288,18 +288,23 @@ git config --global credential.helper "cache --timeout=3600" : timeout의 단위
 ```
 <br>
 
-- git pull 명령을 실행할 때 rebase를 사용하지 않고 바로 merge를 수행하도록 지정한다. **위의 Windows 환경에서 Git 설치 과정 중** [**12번 과정**](#git-setup-12 "Navigate to 12th Process to install Git for Windows")**과 동일한 설정변수이다.**
+- <span style="color: #8D4801">**git pull 명령을 실행할 때 rebase**</span>를 사용하지 않고 바로 merge를 수행하도록 지정한다. **위의 Windows 환경에서 Git 설치 과정 중** [**12번 과정**](#git-setup-12 "Navigate to 12th Process to install Git for Windows")**과 동일한 설정변수이다.**
 ```bash
 git config --global pull.rebase false
 ```
 <br>
 
-- git 저장소를 초기화할 때 브랜치의 기본명칭을 설정할 수 있다. (기본값은 master이다.) **위의 Windows 환경에서 Git 설치 과정 중** [**6번 과정**](#git-setup-6 "Navigate to 6th Process to install Git for Windows")**과 동일한 설정변수이다.**
+- git 저장소를 초기화할 때 <span style="color: #8D4801">**브랜치의 기본명칭**</span>을 설정할 수 있다. (기본값은 master이다.) **위의 Windows 환경에서 Git 설치 과정 중** [**6번 과정**](#git-setup-6 "Navigate to 6th Process to install Git for Windows")**과 동일한 설정변수이다.**
 ```bash
 git config --global init.defaultBranch <원하는 브랜치명 기본값>
 ```
 <br>
 
+- <span style="color: #8D4801">**commit 메시지를 작성**</span>할 때 vim 이외의 <span style="color: #8D4801">**다른 에디터**</span>를 설정할 수 있다.
+```bash
+git config --global core.editor <에디터 경로>
+```
+<br>
 
 - <span style="color: #8D4801">**명령어 alias**</span> (단축 명령어)
 ```bash

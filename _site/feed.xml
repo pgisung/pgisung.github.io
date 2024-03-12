@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-11T20:45:51+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JohnnyPark</title><subtitle>The growth diary of Software developer JohnnyPark</subtitle><entry><title type="html">Commit이란 무엇일까?</title><link href="http://localhost:4000/github/2023/09/13/What-is-the-commit-on-Git/" rel="alternate" type="text/html" title="Commit이란 무엇일까?" /><published>2023-09-13T12:29:51+09:00</published><updated>2023-09-13T12:29:51+09:00</updated><id>http://localhost:4000/github/2023/09/13/What-is-the-commit-on-Git</id><content type="html" xml:base="http://localhost:4000/github/2023/09/13/What-is-the-commit-on-Git/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-12T00:03:51+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JohnnyPark</title><subtitle>The growth diary of Software developer JohnnyPark</subtitle><entry><title type="html">Commit이란 무엇일까?</title><link href="http://localhost:4000/github/2023/09/13/What-is-the-commit-on-Git/" rel="alternate" type="text/html" title="Commit이란 무엇일까?" /><published>2023-09-13T12:29:51+09:00</published><updated>2023-09-13T12:29:51+09:00</updated><id>http://localhost:4000/github/2023/09/13/What-is-the-commit-on-Git</id><content type="html" xml:base="http://localhost:4000/github/2023/09/13/What-is-the-commit-on-Git/"><![CDATA[<blockquote>
   <ol>
     <li><a href="#commit의-뜻은-무엇일까" title="Navigate to Original meaning of commit">Commit의 뜻은 무엇일까?</a></li>
     <li><a href="#head란-무엇일까" title="Navigate to What is HEAD?">HEAD란 무엇일까?</a></li>
-    <li><a href="#추적하고-싶지-않은-파일-목록" title="Navigate to ">3</a></li>
-    <li><a href="#추적하고-싶지-않은-파일-목록" title="Navigate to ">3</a></li>
+    <li><a href="#Snapshot-기반-접근-방식" title="Navigate to Snapshot-based approach">Snapshot 기반 접근 방식</a></li>
+    <li><a href="#Commit-명령어" title="Navigate to Commit command">Commit 명령어</a></li>
+    <li><a href="#Commit-명령어" title="Navigate to Commit command">Commit 명령어</a></li>
   </ol>
 </blockquote>
 
@@ -31,7 +32,7 @@
 <hr />
 
 <h4 id="마무리하며">마무리하며…</h4>
-<p>이번 포스트에서는 . 다음 포스트 때는 .</p>]]></content><author><name></name></author><category term="Github" /><category term="Git" /><category term="Github" /><category term="깃" /><category term="깃허브" /><category term="git status" /><category term="git add" /><category term="git ignore" /><summary type="html"><![CDATA[포도 없는 포도송이는 의미가 없듯이 Commit 없는 Git 또한 의미가 없다. Git의 핵심 요소인 Commit이란 무엇인지 알아보자.]]></summary></entry><entry><title type="html">Git 저장소에서 작업하기</title><link href="http://localhost:4000/github/2023/09/11/Working-in-Git-repository/" rel="alternate" type="text/html" title="Git 저장소에서 작업하기" /><published>2023-09-11T06:49:13+09:00</published><updated>2023-09-11T06:49:13+09:00</updated><id>http://localhost:4000/github/2023/09/11/Working-in-Git-repository</id><content type="html" xml:base="http://localhost:4000/github/2023/09/11/Working-in-Git-repository/"><![CDATA[<blockquote>
+<p>이번 포스트에서는 . 다음 포스트 때는 .</p>]]></content><author><name></name></author><category term="Github" /><category term="Git" /><category term="Github" /><category term="깃" /><category term="깃허브" /><category term="git commit" /><category term="git log" /><category term="git show" /><category term="git diff" /><summary type="html"><![CDATA[포도 없는 포도송이는 의미가 없듯이 Commit 없는 Git 또한 의미가 없다. Git의 핵심 요소인 Commit이란 무엇인지 알아보자.]]></summary></entry><entry><title type="html">Git 저장소에서 작업하기</title><link href="http://localhost:4000/github/2023/09/11/Working-in-Git-repository/" rel="alternate" type="text/html" title="Git 저장소에서 작업하기" /><published>2023-09-11T06:49:13+09:00</published><updated>2023-09-11T06:49:13+09:00</updated><id>http://localhost:4000/github/2023/09/11/Working-in-Git-repository</id><content type="html" xml:base="http://localhost:4000/github/2023/09/11/Working-in-Git-repository/"><![CDATA[<blockquote>
   <ol>
     <li><a href="#간단한-작업-예시를-만들어보자" title="Navigate to Let's make an example for training">간단한 작업 예시를 만들어보자</a></li>
     <li><a href="#파일-상태-확인하기" title="Navigate to Checking file status in Git repository">파일 상태 확인하기</a></li>
@@ -129,11 +130,11 @@ git add <span class="nb">.</span> : 현재 경로 내의 모든 파일 추적
 
 <hr />
 
-<h4 id="추적중인-파일-이름-변경하기"><span style="color: brown"><strong>추적중인 파일 이름 변경하기</strong></span></h4>
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git <span class="nb">mv</span> &lt;파일명&gt; &lt;새파일명&gt;
+<h4 id="추적-중인-파일-이름-변경하기"><span style="color: brown"><strong>추적 중인 파일 이름 변경하기</strong></span></h4>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git <span class="nb">mv</span> &lt;파일명&gt; &lt;새 파일명&gt;
 </code></pre></div></div>
 <ul>
-  <li>터미널 명령어인 mv와 같이 파일명을 바꾸는 명령어로써 주된 목적은 Git 저장소 내의 이미 추적중인 파일명을 변경하는 명령어이다.</li>
+  <li>터미널 명령어인 mv와 같이 파일명을 바꾸는 명령어로써 주된 목적은 Git 저장소 내의 이미 추적 중인 파일명을 변경하는 명령어이다.</li>
 </ul>
 <div class="image-slider-static">
 <img src="/images/posts/2023-09-11-Working-in-Git-repository/git-command-mv.jpg" title="Git command to change the name of file which is already staged" alt="Git command to change the name of file which is already staged" />
@@ -141,12 +142,12 @@ git add <span class="nb">.</span> : 현재 경로 내의 모든 파일 추적
 
 <p><br /></p>
 
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">mv</span> &lt;파일명&gt; &lt;새파일명&gt;
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">mv</span> &lt;파일명&gt; &lt;새 파일명&gt;
 git <span class="nb">rm</span> &lt;파일명&gt;
-git add &lt;새파일명&gt;
+git add &lt;새 파일명&gt;
 </code></pre></div></div>
 <ul>
-  <li>풀어서 작성하면 위와 같이 작성할 수 있다. Git 명령어를 사용하지않고 그냥 파일명을 변경하면 기존의 추적중이던 파일명은 삭제 상태가 되고 새로운 파일명은 추가된 상태가 되므로 삭제 상태의 파일명 이력은 지우고 추가된 상태의 새로운 파일명은 다시 추적하면 똑같은 동작을 한다.</li>
+  <li>풀어서 작성하면 위와 같이 작성할 수 있다. Git 명령어를 사용하지 않고 그냥 파일명을 변경하면 기존의 추적 중이던 파일명은 삭제 상태가 되고 새로운 파일명은 추가된 상태가 되므로 삭제 상태의 파일명 이력은 지우고 추가된 상태의 새로운 파일명은 다시 추적하면 똑같은 동작을 한다.</li>
 </ul>
 <div class="image-slider-static">
 <img src="/images/posts/2023-09-11-Working-in-Git-repository/example-that showing-same-result-with-git-mv-command.jpg" title="Example that showing same result with git mv command" alt="Example that showing same result with git mv command" />
@@ -1041,13 +1042,18 @@ git config <span class="nt">--global</span> credential.helper <span class="s2">"
 </code></pre></div>    </div>
     <p><br /></p>
   </li>
-  <li>git pull 명령을 실행할 때 rebase를 사용하지 않고 바로 merge를 수행하도록 지정한다. <strong>위의 Windows 환경에서 Git 설치 과정 중</strong> <a href="#git-setup-12" title="Navigate to 12th Process to install Git for Windows"><strong>12번 과정</strong></a><strong>과 동일한 설정변수이다.</strong>
+  <li><span style="color: #8D4801"><strong>git pull 명령을 실행할 때 rebase</strong></span>를 사용하지 않고 바로 merge를 수행하도록 지정한다. <strong>위의 Windows 환경에서 Git 설치 과정 중</strong> <a href="#git-setup-12" title="Navigate to 12th Process to install Git for Windows"><strong>12번 과정</strong></a><strong>과 동일한 설정변수이다.</strong>
     <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git config <span class="nt">--global</span> pull.rebase <span class="nb">false</span>
 </code></pre></div>    </div>
     <p><br /></p>
   </li>
-  <li>git 저장소를 초기화할 때 브랜치의 기본명칭을 설정할 수 있다. (기본값은 master이다.) <strong>위의 Windows 환경에서 Git 설치 과정 중</strong> <a href="#git-setup-6" title="Navigate to 6th Process to install Git for Windows"><strong>6번 과정</strong></a><strong>과 동일한 설정변수이다.</strong>
+  <li>git 저장소를 초기화할 때 <span style="color: #8D4801"><strong>브랜치의 기본명칭</strong></span>을 설정할 수 있다. (기본값은 master이다.) <strong>위의 Windows 환경에서 Git 설치 과정 중</strong> <a href="#git-setup-6" title="Navigate to 6th Process to install Git for Windows"><strong>6번 과정</strong></a><strong>과 동일한 설정변수이다.</strong>
     <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git config <span class="nt">--global</span> init.defaultBranch &lt;원하는 브랜치명 기본값&gt;
+</code></pre></div>    </div>
+    <p><br /></p>
+  </li>
+  <li><span style="color: #8D4801"><strong>commit 메시지를 작성</strong></span>할 때 vim 이외의 <span style="color: #8D4801"><strong>다른 에디터</strong></span>를 설정할 수 있다.
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git config <span class="nt">--global</span> core.editor &lt;에디터 경로&gt;
 </code></pre></div>    </div>
     <p><br /></p>
   </li>

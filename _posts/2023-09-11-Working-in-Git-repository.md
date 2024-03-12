@@ -87,11 +87,11 @@ git restore --staged <파일명>
 
 ---
 
-#### <span style="color: brown">**추적중인 파일 이름 변경하기**</span>
+#### <span style="color: brown">**추적 중인 파일 이름 변경하기**</span>
 ```bash
-git mv <파일명> <새파일명>
+git mv <파일명> <새 파일명>
 ```
-- 터미널 명령어인 mv와 같이 파일명을 바꾸는 명령어로써 주된 목적은 Git 저장소 내의 이미 추적중인 파일명을 변경하는 명령어이다.
+- 터미널 명령어인 mv와 같이 파일명을 바꾸는 명령어로써 주된 목적은 Git 저장소 내의 이미 추적 중인 파일명을 변경하는 명령어이다.
 <div class="image-slider-static">
 <img src="{{site.baseurl}}/images/posts/2023-09-11-Working-in-Git-repository/git-command-mv.jpg" title="Git command to change the name of file which is already staged" alt="Git command to change the name of file which is already staged">
 </div>
@@ -99,11 +99,11 @@ git mv <파일명> <새파일명>
 <br>
 
 ```bash
-mv <파일명> <새파일명>
+mv <파일명> <새 파일명>
 git rm <파일명>
-git add <새파일명>
+git add <새 파일명>
 ```
-- 풀어서 작성하면 위와 같이 작성할 수 있다. Git 명령어를 사용하지않고 그냥 파일명을 변경하면 기존의 추적중이던 파일명은 삭제 상태가 되고 새로운 파일명은 추가된 상태가 되므로 삭제 상태의 파일명 이력은 지우고 추가된 상태의 새로운 파일명은 다시 추적하면 똑같은 동작을 한다.
+- 풀어서 작성하면 위와 같이 작성할 수 있다. Git 명령어를 사용하지 않고 그냥 파일명을 변경하면 기존의 추적 중이던 파일명은 삭제 상태가 되고 새로운 파일명은 추가된 상태가 되므로 삭제 상태의 파일명 이력은 지우고 추가된 상태의 새로운 파일명은 다시 추적하면 똑같은 동작을 한다.
 <div class="image-slider-static">
 <img src="{{site.baseurl}}/images/posts/2023-09-11-Working-in-Git-repository/example-that showing-same-result-with-git-mv-command.jpg" title="Example that showing same result with git mv command" alt="Example that showing same result with git mv command">
 </div>
