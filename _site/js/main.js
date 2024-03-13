@@ -348,12 +348,15 @@ $(function() {
       const targetId = hash.slice(1);
       const target = document.getElementById(targetId);
       if (target) {
-        const offsetTop = target.getBoundingClientRect().top;
-        const headerOffset = window.innerHeight / 8;
-        window.scrollBy({
-          top: offsetTop - headerOffset,
-          behavior: 'smooth'
-        });
+        // 페이지가 로드된 후에 요소의 offsetTop 값을 가져온다. - 로드가 완료되기 전엔 항상 0
+        window.setTimeout(() => {
+          const offsetTop = target.getBoundingClientRect().top;
+          const headerOffset = window.innerHeight / 8;
+          window.scrollBy({
+            top: offsetTop - headerOffset,
+            behavior: 'smooth'
+          });
+        }, 0);
       }
     }
   });

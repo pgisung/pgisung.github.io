@@ -260,7 +260,7 @@ git config --global user.email <"사용자 이메일">
   
 <br>
 
-- <span style="color: #8D4801">**commit 템플릿 설정**</span>
+- <span style="color: #8D4801" id="git-config-commit-template">**commit 템플릿 설정**</span>
 ```bash
 git config --global commit.template <템플릿 파일 경로>
 ```
@@ -294,7 +294,7 @@ git config --global init.defaultBranch <원하는 브랜치명 기본값>
 ```
 <br>
 
-- <span style="color: #8D4801">**commit 메시지를 작성**</span>할 때 vim 이외의 <span style="color: #8D4801">**다른 에디터**</span>를 설정할 수 있다.
+- <span style="color: #8D4801" id="git-config-core-editor">**commit 메시지를 작성**</span>할 때 vim 이외의 <span style="color: #8D4801">**다른 에디터**</span>를 설정할 수 있다.
 ```bash
 git config --global core.editor <에디터 경로>
 ```

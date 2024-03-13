@@ -1,16 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-12T22:13:17+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JohnnyPark</title><subtitle>The growth diary of Software developer JohnnyPark</subtitle><entry><title type="html">Commit이란 무엇일까?</title><link href="http://localhost:4000/github/2023/09/13/What-is-the-commit-on-Git/" rel="alternate" type="text/html" title="Commit이란 무엇일까?" /><published>2023-09-13T12:29:51+09:00</published><updated>2023-09-13T12:29:51+09:00</updated><id>http://localhost:4000/github/2023/09/13/What-is-the-commit-on-Git</id><content type="html" xml:base="http://localhost:4000/github/2023/09/13/What-is-the-commit-on-Git/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-13T23:13:55+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JohnnyPark</title><subtitle>The growth diary of Software developer JohnnyPark</subtitle><entry><title type="html">Commit이란 무엇일까?</title><link href="http://localhost:4000/github/2023/09/13/What-is-the-commit-on-Git/" rel="alternate" type="text/html" title="Commit이란 무엇일까?" /><published>2023-09-13T12:29:51+09:00</published><updated>2023-09-13T12:29:51+09:00</updated><id>http://localhost:4000/github/2023/09/13/What-is-the-commit-on-Git</id><content type="html" xml:base="http://localhost:4000/github/2023/09/13/What-is-the-commit-on-Git/"><![CDATA[<blockquote>
   <ol>
-    <li><a href="#commit이란-무엇일까" title="Navigate to What is commit?">Commit이란 무엇일까?</a></li>
-    <li><a href="#commit-해보기" title="Navigate to Let's commit">Commit 해보기</a></li>
-    <li><a href="#commit을-확인해보자" title="Navigate to Why don't we check the commit logs">Commit을 확인해보자</a></li>
+    <li><a href="#commit이란-무엇일까" title="Navigate to What is commit?">Commit이란 무엇일까?</a>
+      <ul>
+        <li><a href="#head란-무엇일까" title="Navigate to What is HEAD?">HEAD란 무엇일까?</a></li>
+        <li><a href="#snapshot-기반-접근-방식" title="Navigate to Snapshot based approach">Snapshot 기반 접근 방식</a></li>
+      </ul>
+    </li>
+    <li><a href="#commit-해보기" title="Navigate to Let's commit">Commit 해보기</a>
+      <ul>
+        <li><a href="#commit-메시지" title="Navigate to Commit message">Commit 메시지</a></li>
+        <li><a href="#commit-메시지-수정" title="Navigate to Commit message amend">Commit 메시지 수정</a></li>
+      </ul>
+    </li>
+    <li><a href="#commit을-확인해보자" title="Navigate to Why don't we check the commit logs">Commit을 확인해보자</a>
+      <ul>
+        <li><a href="#commit-id" title="Navigate to Commit ID">Commit ID</a></li>
+      </ul>
+    </li>
   </ol>
 </blockquote>
 
 <hr />
 
+<h4 id="들어가기-전에">들어가기 전에</h4>
+<ul>
+  <li>필자는 Github를 포도농장에 비유하곤 한다. 그러면 각 유저들의 로컬 저장소를 하나의 포도나무라고 보고 Branch는 포도송이, Commit은 포도알이라고 생각하면 무언가 딱 맞다는 느낌이 들었었다. 코드를 포도라고 생각하면 코딩이 좀 더 맛있게 느껴질지도…? 각설하고 본론으로 들어가보자…
+<img src="/images/posts/2023-09-13-What-is-the-commit-on-Git/compare-github-to-grape.webp" title="Compare github to grape" alt="Compare github to grape" /></li>
+</ul>
+
+<hr />
+
 <h4 id="commit이란-무엇일까"><span style="color: brown"><strong>Commit이란 무엇일까?</strong></span></h4>
 <ul>
-  <li>들어본적은 있는 단어였으나 어떤 의미로 Git에서 사용되는 지는 몰랐었다. 그래서 사전을 한번 찾아보았는데 가장 가까운 의미는 “~을 적어 두다”로 보인다. 즉, Git에서 commit이란 <span style="color: #8D4801"><strong>Stage 상태의 파일내용들을 적어 두는 행위</strong></span>를 뜻한다.</li>
+  <li>들어본적은 있는 단어였으나 어떤 의미로 Git에서 사용되는 지는 몰랐었다. 그래서 사전을 한번 찾아보았는데 가장 가까운 의미는 “~을 적어 두다”로 보인다. 즉, Git에서 commit이란 당시 <span style="color: #8D4801"><strong>Stage 영역의 파일내용들을 적어 두는 행위</strong></span>를 뜻한다.</li>
 </ul>
 <div class="image-slider-static">
   <img src="/images/posts/2023-09-13-What-is-the-commit-on-Git/commit-in-naver-dictionary.jpg" title="Definition of commit in Naver dictionary" alt="Definition of commit in Naver dictionary" />
@@ -30,15 +52,23 @@
     <ul>
       <li>HEAD는 한마디로 <span style="color: #8D4801"><strong>commit을 가리키고 있는 참조 포인터</strong></span>이다. 포인터하면 생각나는게 c언어인 것 같다. 대학생시절 처음엔 비교적 재밌게 프로그래밍 수업을 듣던 학생들도 포인터 개념에서 많이 포기를 하고 전과를 하거나 코딩 자체에 관심을 잃고 졸업 후 다른 방향의 직업을 생각나게하는 악명높은 문법이었다. 아무튼 본론으로 돌아와서… 포인터의 문어적 의미 그대로 “무언가를 가리키고 있다.”라고 생각하면 되는데 Git에서는 그 가리키고 있는 것이 commit이라고 생각하면 된다.</li>
       <li>아래의 예시에서 볼 수 있듯이 <span style="color: #8D4801"><strong>HEAD는 기본적으로 마지막 commit 위치 (commit이 변화한 최종 위치)</strong></span>를 가리키고 있다.
-<img src="/images/posts/2023-09-13-What-is-the-commit-on-Git/example-of-head.jpg" title="" alt="" />
-<br /></li>
+<img src="/images/posts/2023-09-13-What-is-the-commit-on-Git/example-of-head.jpg" title="HEAD in git log" alt="HEAD in git log" /></li>
+      <li>아직 commit이 없는 경우엔 HEAD 또한 존재하지 않는다. 최소한 <span style="color: #8D4801"><strong>한 번 이상 commit을 실행해야 HEAD가 생성</strong></span>된다. HEAD가 가리키고 있는 commit의 hash값은 다음과 같은 경로에 해당 브랜치명으로 저장이 된다.
+<img src="/images/posts/2023-09-13-What-is-the-commit-on-Git/location-of-head-information-in-git-directory.jpg" title="Location of the information which commit HEAD is pointing" alt="Location of the information which commit HEAD is pointing" /></li>
     </ul>
   </li>
+</ul>
+
+<p><br /></p>
+
+<ul>
   <li>
     <p><span id="snapshot-기반-접근-방식"></span><strong>Snapshot 기반 접근 방식</strong></p>
 
     <ul>
-      <li></li>
+      <li>Git의 각 커밋에는 커밋이 이루어진 당시 전체 프로젝트의 snapshot에 대한 참조가 포함되어 있다. commit을 실행하면 <span style="color: #8D4801"><strong>HEAD가 가리키고 있는 commit의 snapshot과 현재 Stage area를 비교하여 새로운 commit을 생성</strong></span>한다.</li>
+      <li>Git은 이 Snapshot 기반 접근 방식을 사용하기 때문에 <span style="color: #8D4801"><strong>전체 파일의 여러 복사본을 저장하는 대신 스냅샷 간의 차이점만 저장하면 되므로 변경 사항과 기록을 효율적으로 관리</strong></span>할 수 있다. (빠른 속도, 적은 용량 사용)
+<img src="/images/posts/2023-09-13-What-is-the-commit-on-Git/principle-of-git-commit-snapshot.webp" title="The principle of git commit snapshot" alt="The principle of git commit snapshot" /></li>
     </ul>
   </li>
 </ul>
@@ -46,19 +76,203 @@
 <hr />
 
 <h4 id="commit-해보기"><span style="color: brown"><strong>Commit 해보기</strong></span></h4>
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git commit
 </code></pre></div></div>
 <ul>
-  <li><img src="/images/posts/2023-09-13-What-is-the-commit-on-Git/" title="" alt="" /></li>
+  <li>commit 명령어를 실행하면 위에서 알아봤듯이 HEAD commit의 snapshot과 Stage area를 비교하여 <span style="color: #8D4801"><strong>새로운 commit 객체를 생성</strong></span>한다. 그리고 <span style="color: #8D4801"><strong>commit이 완료되면 Stage area는 비워진다.</strong></span></li>
+  <li>실제로 실행해보면 <span style="color: #8D4801"><strong>바로 commit이 완료되는 것이 아니라 vim 에디터(또는 core.editor로 설정한 다른 에디터)가 출력</strong></span>되는 것을 확인할 수 있다. commit 메시지를 작성해야 하기 때문이다. 아래에서 간단한 사용법을 알아보자. (<a href="/github/2023/08/26/Getting-Started-with-Git/#git-config-core-editor" title="Navigate to Setting environment for Git">Git 환경설정 中 core 에디터</a>)
+<img src="/images/posts/2023-09-13-What-is-the-commit-on-Git/git-command-commit.jpg" title="Git command to commit" alt="Git command to commit" /></li>
+</ul>
+
+<p><br /></p>
+
+<ul>
+  <li><span id="commit-메시지"></span><strong>Commit 메시지</strong>
+    <ul>
+      <li>각각의 commit에 대한 정보를 입력할 수 있다.</li>
+      <li>만약 commit.template을 작성해뒀다면 vim 화면에 함께 출력된다. (<a href="/github/2023/08/26/Getting-Started-with-Git/#git-config-commit-template" title="Navigate to Setting environment for Git">Git 환경설정 中 commit 템플릿</a>)</li>
+      <li><span style="color: #8D4801"><strong>Git은 기본적으로 commit 명령어를 실행할 때 반드시 commit 메시지를 작성해야 한다.</strong></span></li>
+      <li>
+        <table>
+          <thead>
+            <tr>
+              <th style="text-align: center">간단한 vim 에디터 사용법</th>
+              <th style="text-align: center">명령어</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td style="text-align: center">내용 편집</td>
+              <td style="text-align: center"><strong>ESC -&gt; :i</strong></td>
+            </tr>
+            <tr>
+              <td style="text-align: center">저장</td>
+              <td style="text-align: center"><strong>ESC -&gt; :w</strong></td>
+            </tr>
+            <tr>
+              <td style="text-align: center">에디터 종료</td>
+              <td style="text-align: center"><strong>ESC -&gt; :q</strong></td>
+            </tr>
+            <tr>
+              <td style="text-align: center">저장 후 에디터 종료</td>
+              <td style="text-align: center"><strong>ESC -&gt; :wq</strong></td>
+            </tr>
+            <tr>
+              <td style="text-align: center">느낌표는 강제로 실행을 뜻한다</td>
+              <td style="text-align: center"><strong>ESC -&gt; :q!</strong></td>
+            </tr>
+          </tbody>
+        </table>
+      </li>
+      <li><img src="/images/posts/2023-09-13-What-is-the-commit-on-Git/editing-commit-message-by-vim-editor.jpg" title="Editing commit message by vim editor" alt="Editing commit message by vim editor" /></li>
+    </ul>
+  </li>
+</ul>
+
+<p><br /></p>
+
+<ul>
+  <li><span style="color: red"><strong>만약 실습 도중 실수할 상황에 대비하여 몇 가지 복귀 명령어들을 미리 알아보자.</strong></span></li>
+  <li>
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git checkout <span class="nt">--</span> &lt;파일명&gt;
+git restore &lt;파일명&gt;
+</code></pre></div>    </div>
+    <ul>
+      <li>잘못 수정한 파일을 바로 이전 커밋으로 즉, 수정 전 상태로 되돌리는 명령어들이다. checkout 명령어는 restore 명령어가 존재하기 전 과거에 사용하던 방법으로 되도록이면 <span style="color: #8D4801"><strong>restore 명령어 사용을 추천</strong></span>한다. (checkout 명령어는 다른 용도와 목적으로 사용된다.)
+<img src="/images/posts/2023-09-13-What-is-the-commit-on-Git/git-command-restore.jpg" title="Git command to restore the file" alt="Git command to restore the file" /></li>
+    </ul>
+  </li>
+</ul>
+
+<p><br /></p>
+
+<ul>
+  <li><strong>파일 추적과 커밋을 동시에 실행하는 옵션</strong>
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git commit <span class="nt">-a</span>
+</code></pre></div>    </div>
+    <ul>
+      <li>
+        <p>“git add .; git commit” 명령어와 동일한 동작을 한다. commit 작성을 좀 더 편리하게 만들어주는 명령어이지만 <span style="color: #8D4801"><strong>자동으로 모든 수정사항을 추적</strong></span>하기 때문에 만약에 <span style="color: #8D4801"><strong>당장 commit을 원치 않았던 수정사항들이 존재한다면 문제가 발생하므로 유의하여 사용</strong></span>해야 한다.
+<img src="/images/posts/2023-09-13-What-is-the-commit-on-Git/git-command-commit-a.jpg" title="Git command to commit with option automatically adding all files before committing" alt="Git command to commit with option automatically adding all files before committing" /></p>
+      </li>
+      <li>
+        <p>이 명령어는 <span style="color: #8D4801"><strong>이미 tracked 상태인 파일에만 사용</strong></span>할 수 있다. 즉, Untracked 상태의 파일이 존재할 경우 명령어 실행에 실패한다.
+<img src="/images/posts/2023-09-13-What-is-the-commit-on-Git/git-command-commit-a-when-it-is-failed.jpg" title="Git command to commit with option automatically adding all files before committing when it is failed" alt="Git command to commit with option automatically adding all files before committing when it is failed" /></p>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<p><br /></p>
+
+<ul>
+  <li><strong>에디터를 사용하지 않는 간이 commit 메시지 작성 옵션</strong>
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git commit <span class="nt">-m</span> &lt;<span class="s2">"commit 메시지"</span><span class="o">&gt;</span>
+</code></pre></div>    </div>
+    <ul>
+      <li>commit 메시지를 작성 후 명령어 실행시 에디터가 실행되지 않고 바로 commit이 진행된다. <span style="color: #8D4801"><strong>필자의 경우 매우 자주 사용하는 commit 방법이다. 혼자서 개발하는 작은 프로젝트의 경우 대부분의 commit을 이 옵션으로 작성하게 되는 것 같다.</strong></span>
+<img src="/images/posts/2023-09-13-What-is-the-commit-on-Git/git-command-commit-m.jpg" title="Git command to commit without displaying editor" alt="Git command to commit without displaying editor" /></li>
+    </ul>
+  </li>
+</ul>
+
+<p><br /></p>
+
+<ul>
+  <li>다음과 같이 <strong>혼용</strong>할 수도 있다.
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git commit <span class="nt">-am</span> &lt;<span class="s2">"commit 메시지"</span><span class="o">&gt;</span>
+</code></pre></div>    </div>
+    <ul>
+      <li>자동으로 파일을 추적하고 commit을 실행하는데 에디터가 실행되지 않고 작성한 commit 메시지로 바로 commit이 진행된다. 여러 작업을 한번에 묶어서 처리하기 때문에 아마 <span style="color: #8D4801"><strong>가장 짧게 commit을 작성하는 방법</strong></span>일 것이다.
+<img src="/images/posts/2023-09-13-What-is-the-commit-on-Git/git-command-commit-am.jpg" title="Git command to commit with both options those a and m" alt="Git command to commit with both options those a and m" /></li>
+    </ul>
+  </li>
+</ul>
+
+<p><br /></p>
+
+<ul>
+  <li>가능하면 추천하고 싶진 않지만 만약 필요하다면 commit 메시지가 없는 <strong>빈 메시지의 커밋을 생성</strong>하는 방법도 있다.
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git commit <span class="nt">--allow-empty-message</span> <span class="nt">-m</span> <span class="s2">""</span>
+</code></pre></div>    </div>
+    <p><img src="/images/posts/2023-09-13-What-is-the-commit-on-Git/git-command-allow-empty-message-m.jpg" title="Git command to commit with option that allowing empty message" alt="Git command to commit with option that allowing empty message" /></p>
+  </li>
+</ul>
+
+<p><br /></p>
+
+<ul>
+  <li><span id="commit-메시지-수정"></span><strong>Commit 메시지 수정</strong>
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git commit <span class="nt">--amend</span>
+</code></pre></div>    </div>
+    <ul>
+      <li><span style="color: #8D4801"><strong>마지막 commit에 대한 수정 명령어</strong></span>로 메시지 수정뿐만 아니라 해당 commit에 새롭게 추가하고싶은 파일 또한 추가할 수 있다. 마지막 commit이 아닌 commit을 수정하고 싶다면 rebase 등 복잡한 과정을 거쳐야 한다.</li>
+      <li>
+        <p><span style="color: red"><strong>주의해야할 점은 기존 commit의 해시 코드가 바뀐다</strong></span>는 것이다. 해시 코드는 commit의 ID라고 생각하면 되는데 아래에서 알아볼 예정이다.</p>
+
+        <ul>
+          <li>만약 수정 전의 commit을 push를 통해 이미 원격 저장소에 전송한 상태라면 정상적인 방법으로는 원격 저장소에 다시 전송할 수가 없다. (<span style="color: red"><strong>git push -f를 통해 강제로 전송</strong></span>해야 한다.)</li>
+        </ul>
+
+        <ol>
+          <li>
+            <p>명령어 실행 전
+<img src="/images/posts/2023-09-13-What-is-the-commit-on-Git/git-log-before-amended.jpg" title="Git log before the last commit amended" alt="Git log before the last commit amended" /></p>
+          </li>
+          <li>
+            <p>명령어 실행
+<img src="/images/posts/2023-09-13-What-is-the-commit-on-Git/git-command-commit-amend.jpg" title="Git command to amend the last commit" alt="Git command to amend the last commit" /></p>
+          </li>
+          <li>
+            <p>명령어 실행 후
+<img src="/images/posts/2023-09-13-What-is-the-commit-on-Git/git-log-after-amended.jpg" title="Git log after the last commit amended" alt="Git log after the last commit amended" /></p>
+          </li>
+        </ol>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<p><br /></p>
+
+<ul>
+  <li><strong>commit 메시지를 작성할 때 파일간 또는 커밋간 차이를 참조</strong>할 수 있도록 도와주는 옵션도 있다.
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git commit <span class="nt">-v</span>
+</code></pre></div>    </div>
+    <ul>
+      <li>사실 “git log -p” 명령어를 이용하면 어떤 commit이든지 diff를 확인할 수 있다. 다만, “git commit”과 “git commit -v”의 차이점은 <span style="color: #8D4801"><strong>에디터에서 commit 메시지를 작성할 때 diff 내역을 눈으로 확인할 수 있게 디스플레이 해주는 것</strong></span> 뿐이다.
+<img src="/images/posts/2023-09-13-What-is-the-commit-on-Git/git-command-commit-v.jpg" title="Git command to commit with option that showing diff between files or commits into vim editor" alt="Git command to commit with option that showing diff between files or commits into vim editor" /></li>
+    </ul>
+  </li>
 </ul>
 
 <hr />
 
 <h4 id="commit을-확인해보자"><span style="color: brown"><strong>Commit을 확인해보자</strong></span></h4>
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git log
 </code></pre></div></div>
 <ul>
-  <li><img src="/images/posts/2023-09-13-What-is-the-commit-on-Git/" title="" alt="" /></li>
+  <li>
+    <p>commit 기록들의 목록을 최신 commit 기록부터 내림차순으로 출력한다.</p>
+
+    <ul>
+      <li>Git은 분산형 버전관리 도구이므로 개인의 컴퓨터에 설정한 시간 정보를 바탕으로 commit 기록을 작성한다. <span style="color: #8D4801"><strong>작업 중인 컴퓨터가 다른 국가 및 지역의 시간이나 잘못된 시간으로 설정되어 있을 경우도 있으므로 commit 기록의 시간은 무조건적으로 신용할 수 없다.</strong></span></li>
+    </ul>
+  </li>
+</ul>
+
+<p><br /></p>
+
+<ul>
+  <li>
+    <p><span id="commit-id"></span><strong>Commit ID</strong></p>
+
+    <ul>
+      <li>문어적 표현 그대로 <span style="color: #8D4801"><strong>특정 commit을 가리키는 Identifier(고유 식별자)</strong></span>이다. 이 ID를 기준으로 각 커밋을 구별하고 버전관리에 필요한 동작들을 수행할 수 있다.</li>
+      <li><span style="color: #8D4801"><strong>Git의 commit ID는 SHA-1(Secure Hash Algorithm-1)이라는 해시 알고리즘을 채택</strong></span>하고 있다. 과거에는 안전함을 슬로건으로 내걸었으나 현재는 안전하진 않고 단지 레거시 코드들과의 호환성을 위해 채택하고 있다고 전해진다. 이 알고리즘은 데이터를 고정된 크기의 해시 값으로 변환하는 알고리즘으로 40자리의 hexa 값으로 이루어진 중복되지 않는 commit ID를 생성한다.</li>
+      <li>버전관리를 위해 commit ID를 사용할 때 40자리의 16진수는 정말 큰 숫자이므로 앞자리 문자들이 바뀔 경우는 거의 없으므로 <span style="color: #8D4801"><strong>편의상 앞에서 7자리~10자리까지의 문자만 사용</strong></span>하더라도 충분히 중복되지 않게 사용할 수 있다.</li>
+    </ul>
+  </li>
 </ul>
 
 <hr />
@@ -984,7 +1198,7 @@ git config <span class="nt">--global</span> user.email &lt;<span class="s2">"사
 <p><br /></p>
 
 <ul>
-  <li><span style="color: #8D4801"><strong>commit 템플릿 설정</strong></span>
+  <li><span style="color: #8D4801" id="git-config-commit-template"><strong>commit 템플릿 설정</strong></span>
     <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git config <span class="nt">--global</span> commit.template &lt;템플릿 파일 경로&gt;
 </code></pre></div>    </div>
     <ul>
@@ -1018,7 +1232,7 @@ git config <span class="nt">--global</span> credential.helper <span class="s2">"
 </code></pre></div>    </div>
     <p><br /></p>
   </li>
-  <li><span style="color: #8D4801"><strong>commit 메시지를 작성</strong></span>할 때 vim 이외의 <span style="color: #8D4801"><strong>다른 에디터</strong></span>를 설정할 수 있다.
+  <li><span style="color: #8D4801" id="git-config-core-editor"><strong>commit 메시지를 작성</strong></span>할 때 vim 이외의 <span style="color: #8D4801"><strong>다른 에디터</strong></span>를 설정할 수 있다.
     <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git config <span class="nt">--global</span> core.editor &lt;에디터 경로&gt;
 </code></pre></div>    </div>
     <p><br /></p>
