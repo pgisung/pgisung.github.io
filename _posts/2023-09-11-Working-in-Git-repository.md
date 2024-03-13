@@ -37,10 +37,12 @@ git status
 
 #### <span style="color: brown">**파일 추적하기**</span>
 ```bash
-git add <옵션> <파일명 1> <파일명 2> ... : add 명령어의 기본 형태
-git add . : 현재 경로 내의 모든 파일 추적
+git add <옵션> <파일명 1> <파일명 2> ...
 ```
-- Git 저장소 내의 <span style="color: #8D4801">**Unstage 상태의 파일들을 추적하는 명령어**</span>이다.
+```bash
+git add .
+```
+- Git 저장소 내의 <span style="color: #8D4801">**Unstage 상태의 파일들을 추적하는 명령어**</span>이다. 경로에 "."을 사용할 경우 현재 경로 내의 모든 파일을 추적한다.
 - 새로 추가, 생성된 파일들뿐만 아니라 기존에 add 되어서 Stage 상태였던 파일들이 Modified 되어서 Unstage 상태가 된 경우 또한 모두 추적한다.
 <img src="{{site.baseurl}}/images/posts/2023-09-11-Working-in-Git-repository/git-command-add.jpg" title="Git command to track the files to commit" alt="Git command to track the files to commit">
 

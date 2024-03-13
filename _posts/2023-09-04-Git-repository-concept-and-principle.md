@@ -36,10 +36,10 @@ git init <경로>
 #### <span style="color: brown">**Git 저장소 복제하기**</span>
 - 다음으로 이미 존재하는 외부의 저장소를 복제해 오는 명령어이다.
 ```bash
-git clone <원격저장소 URL> <새 디렉토리명>
+git clone <원격 저장소 URL> <새 디렉토리명>
 ```
-  - clone 명령어를 실행하면 <span style="color: #8D4801">**현재 디렉토리에 원격저장소를 복제한다.**</span> 복제한 디렉토리 안에는 당연히 .git 디렉토리가 존재하며 기존 원격저장소의 이력을 저장하고 있다.
-  - 새 디렉토리명을 입력하지 않으면 원격저장소의 디렉토리 명이 기본값으로 설정된다.
+  - clone 명령어를 실행하면 <span style="color: #8D4801">**현재 디렉토리에 원격 저장소를 복제한다.**</span> 복제한 디렉토리 안에는 당연히 .git 디렉토리가 존재하며 기존 원격 저장소의 이력을 저장하고 있다.
+  - 새 디렉토리명을 입력하지 않으면 원격 저장소의 디렉토리 명이 기본값으로 설정된다.
 <img src="{{site.baseurl}}/images/posts/2023-09-04-Git-repository-concept-and-principle/git-command-clone.jpg" title="Git command to copy the remote directory to local repository" alt="Git command to copy the remote directory to local repository">
 
 ---

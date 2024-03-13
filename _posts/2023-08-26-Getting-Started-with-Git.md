@@ -52,7 +52,7 @@ description: Windows / Mac 환경에서 Git 설치 및 환경설정을 해보자
   1. Git에서 텍스트를 이용한 작업이 필요할 때 사용할 편집기를 지정한다. 다른 외부 편집기를 사용하고 싶다면 직접 지정하고 아니면 기본값으로 두고 진행한다.
   <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-setup-5.png" title="Process to install Git for Windows" alt="Process to install Git for Windows">
 
-  1. <span style="color: #8D4801" id="git-setup-6">**새로운 워킹 디렉토리에 Git을 초기화할 때 default branch의 name을 Git에서 기본값으로 지정하는 명칭으로 할지 Custom할지 정하는 곳이다.**</span> 오래전 버전에선 해당 옵션이 존재하지 않아서 branch명이 자동으로 기본값으로 지정되던 시기가 있었는데, Git을 잘 모르던 시절에 인터넷 검색에 기대어 사용할 때 원격저장소의 브랜치명은 master로 되어있는데 main 브랜치에 push를 해서 동작이 안 되고 뭐가 문젠지 모르는 우스운 실수가 나왔었다. (지금은 웃지만... 당시엔 해결을 못해서 엄청난 스트레스였다...) 아무튼 어느 옵션을 선택하든 Git 명령어를 사용할 때 브랜치를 잘 확인하고 사용하자.
+  1. <span style="color: #8D4801" id="git-setup-6">**새로운 워킹 디렉토리에 Git을 초기화할 때 default branch의 name을 Git에서 기본값으로 지정하는 명칭으로 할지 Custom할지 정하는 곳이다.**</span> 오래전 버전에선 해당 옵션이 존재하지 않아서 branch명이 자동으로 기본값으로 지정되던 시기가 있었는데, Git을 잘 모르던 시절에 인터넷 검색에 기대어 사용할 때 원격 저장소의 브랜치명은 master로 되어있는데 main 브랜치에 push를 해서 동작이 안 되고 뭐가 문젠지 모르는 우스운 실수가 나왔었다. (지금은 웃지만... 당시엔 해결을 못해서 엄청난 스트레스였다...) 아무튼 어느 옵션을 선택하든 Git 명령어를 사용할 때 브랜치를 잘 확인하고 사용하자.
   <img src="{{site.baseurl}}/images/posts/2023-08-26-Starting-Git/git-setup-6.png" title="Process to install Git for Windows" alt="Process to install Git for Windows">
 
   1. Git bash 명령어를 실행할 수 있는 경로를 설정하는 화면으로 일반적으로 기본값으로 두고 진행하면 된다. 
@@ -168,7 +168,8 @@ git --help
   - 명령어별 사용할 수 있는 옵션의 종류는 아래의 명령을 실행하여 확인할 수 있다. 
 ```bash
 git <명령어> --help
-또는
+```
+```bash
 git <명령어> --help-option
 ```
   - 다음은 add 명령어의 옵션을 확인한 예시이다.
@@ -277,9 +278,15 @@ git config --global color.ui auto
 
 - <span style="color: #8D4801">**자격 증명을 캐시**</span>하는 데 사용되는 도구를 설정한다. 사용자가 반복적인 로그인을 피할 수 있도록 도와준다.
 ```bash
-git config --global credential.helper cache : 캐시 유효기간을 따로 작성하지 않으면 기본값 15분으로 설정된다. 일부 운영체제에서 운영체제의 시스템 캐시 유효기간을 따라가는 경우도 있다.
-git config --global credential.helper "cache --timeout=3600" : timeout의 단위는 초 단위이다. 보안을 위해 임의의 캐시 유효기간을 설정할 수 있다.
+git config --global credential.helper cache
 ```
+  - 캐시 유효기간을 따로 작성하지 않으면 기본값 15분으로 설정된다. 일부 운영체제에서 운영체제의 시스템 캐시 유효기간을 따라가는 경우도 있다.
+
+- ```bash
+git config --global credential.helper "cache --timeout=3600"
+```
+  - timeout의 단위는 초 단위이다. 보안을 위해 임의의 캐시 유효기간을 설정할 수 있다.
+  
 <br>
 
 - <span style="color: #8D4801">**git pull 명령을 실행할 때 rebase**</span>를 사용하지 않고 바로 merge를 수행하도록 지정한다. **위의 Windows 환경에서 Git 설치 과정 중** [**12번 과정**](#git-setup-12 "Navigate to 12th Process to install Git for Windows")**과 동일한 설정변수이다.**
