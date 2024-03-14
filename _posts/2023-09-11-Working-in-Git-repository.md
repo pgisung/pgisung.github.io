@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Git 저장소에서 작업하기
+title: 5. Git 저장소에서 작업하기
 date: 2023-09-11 06:49:13 +0900
 img: github-logo.png
 categories: Github

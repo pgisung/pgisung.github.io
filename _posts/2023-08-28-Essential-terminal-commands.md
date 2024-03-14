@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 필수적인 터미널 명령어를 알아보자
+title: 3. 필수적인 터미널 명령어를 알아보자
 date: 2023-08-28 10:47:23 +0900
 img: 2023-08-28-Essential-terminal-commands.jpg
 categories: Github

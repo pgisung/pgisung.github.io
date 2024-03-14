@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Commit이란 무엇일까?
+title: 6. Commit이란 무엇일까?
 date: 2023-09-13 12:29:51 +0900
 img: github-logo.png
 categories: Github

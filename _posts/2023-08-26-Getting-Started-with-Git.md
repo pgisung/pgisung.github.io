@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Git을 시작해보자
+title: 2. Git을 시작해보자
 date: 2023-08-26 15:29:33 +0900
 img: github-logo.png
 categories: Github
