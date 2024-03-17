@@ -17,7 +17,7 @@ description: 생성한 Git 저장소에서 간단한 작업을 해보자. 그리
 ---
 
 #### <span style="color: brown">**간단한 작업 예시를 만들어보자**</span>
-- [이전 포스트]({{ site.baseurl }}/github/2023/08/28/Essential-terminal-commands "Navigate to 필수적인 터미널 명령어를 알아보자 post")에서 알아봤던 기본적인 터미널 명령어를 이용하여 실습환경을 만들어보자.
+- [이전 포스트]({{ site.baseurl }}/github/2023/08/28/Essential-terminal-commands "Navigate to 3. 필수적인 터미널 명령어를 알아보자 post")에서 알아봤던 기본적인 터미널 명령어를 이용하여 실습환경을 만들어보자.
 <img src="{{site.baseurl}}/images/posts/2023-09-11-Working-in-Git-repository/making-training-environment-by-terminal-command.jpg" title="Making training environment by terminal command" alt="Making training environment by terminal command">
 
 - 간단하게 프로젝트 모양새를 만들어보았다. 이제 Git 저장소 내의 파일들의 상태를 확인해 보자.
@@ -116,4 +116,4 @@ git add <새 파일명>
 ---
 
 #### 마무리하며...
-이번 포스트에서는 프로젝트 작업을 가정한 디렉토리를 터미널 명령어로 간단하게 생성해 보고 그 파일들의 상태를 직접 확인한 후 추적도 하고 복귀도 시켜보았다. [바로 이전 포스트]({{ site.baseurl }}/github/2023/09/04/Git-repository-concept-and-principle "Navigate to Git 저장소 개념과 원리 post")에서 알아보았던 이론들을 실제로 실습해 본 시간이었는데 결국 모든 코딩은 직접 타이핑을 해보아야 알게 된 이론이 정리가 되므로 꼭 한 번씩 타이핑해 보시길 추천해 드린다. 다음 포스트에서는 Git의 알파이자 오메가라고 불러도 과언이 아닐 Commit에 대해서 알아보자.
+이번 포스트에서는 프로젝트 작업을 가정한 디렉토리를 터미널 명령어로 간단하게 생성해 보고 그 파일들의 상태를 직접 확인한 후 추적도 하고 복귀도 시켜보았다. [바로 이전 포스트]({{ site.baseurl }}/github/2023/09/04/Git-repository-concept-and-principle "Navigate to 4. Git 저장소 개념과 원리 post")에서 알아보았던 이론들을 실제로 실습해 본 시간이었는데 결국 모든 코딩은 직접 타이핑을 해보아야 알게 된 이론이 정리가 되므로 꼭 한 번씩 타이핑해 보시길 추천해 드린다. 다음 포스트에서는 Git의 알파이자 오메가라고 불러도 과언이 아닐 Commit에 대해서 알아보자.
