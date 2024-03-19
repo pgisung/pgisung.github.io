@@ -97,6 +97,9 @@ git restore <파일명>
 ```bash
 git commit -a
 ```
+```bash
+git commit --all
+```
   - "git add .; git commit" 명령어와 동일한 동작을 한다. commit 작성을 좀 더 편리하게 만들어주는 명령어이지만 <span style="color: #8D4801">**자동으로 모든 수정 사항을 추적**</span>하기 때문에 만약에 <span style="color: #8D4801">**당장 commit을 원치 않았던 수정 사항들이 존재한다면 문제가 발생하므로 유의하여 사용**</span>해야 한다.
 <img src="{{site.baseurl}}/images/posts/2023-09-13-What-is-the-commit-on-Git/git-command-commit-a.jpg" title="Git command to commit with option automatically adding all files before committing" alt="Git command to commit with option automatically adding all files before committing">
 
@@ -108,6 +111,9 @@ git commit -a
 - **에디터를 사용하지 않는 간이 commit 메시지 작성 옵션**
 ```bash
 git commit -m <"commit 메시지">
+```
+```bash
+git commit --message <"commit 메시지">
 ```
   - commit 메시지를 작성 후 명령어 실행 시 에디터가 실행되지 않고 바로 commit이 진행된다. <span style="color: #8D4801">**필자의 경우 매우 자주 사용하는 commit 방법이다. 혼자서 개발하는 작은 프로젝트의 경우 대부분의 commit을 이 옵션으로 작성하게 되는 것 같다.**</span>
 <img src="{{site.baseurl}}/images/posts/2023-09-13-What-is-the-commit-on-Git/git-command-commit-m.jpg" title="Git command to commit without displaying editor" alt="Git command to commit without displaying editor">
@@ -154,6 +160,9 @@ git commit --amend
 - **commit 메시지를 작성할 때 파일 간 또는 커밋간 차이를 참조**할 수 있도록 도와주는 옵션도 있다.
 ```bash
 git commit -v
+```
+```bash
+git commit --verbose
 ```
   - 사실 "git log -p" 명령어를 이용하면 어떤 commit이든지 diff를 확인할 수 있다. 다만, "git commit"과 "git commit -v"의 차이점은 <span style="color: #8D4801">**에디터에서 commit 메시지를 작성할 때 diff 내용을 눈으로 확인할 수 있게 디스플레이해주는 것**</span> 뿐이다.
 <img src="{{site.baseurl}}/images/posts/2023-09-13-What-is-the-commit-on-Git/git-command-commit-v.jpg" title="Git command to commit with option that showing diff between files or commits into vim editor" alt="Git command to commit with option that showing diff between files or commits into vim editor">

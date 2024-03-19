@@ -1,4 +1,64 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-18T01:41:53+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JohnnyPark</title><subtitle>The growth diary of Software developer JohnnyPark</subtitle><entry><title type="html">7. 원격 저장소와 Commit 주고받기</title><link href="http://localhost:4000/github/2023/09/20/Transfering-commit-with-remote-repository/" rel="alternate" type="text/html" title="7. 원격 저장소와 Commit 주고받기" /><published>2023-09-20T08:31:44+09:00</published><updated>2023-09-20T08:31:44+09:00</updated><id>http://localhost:4000/github/2023/09/20/Transfering-commit-with-remote-repository</id><content type="html" xml:base="http://localhost:4000/github/2023/09/20/Transfering-commit-with-remote-repository/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-18T23:42:52+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JohnnyPark</title><subtitle>The growth diary of Software developer JohnnyPark</subtitle><entry><title type="html">8. Branch란 무엇일까?</title><link href="http://localhost:4000/github/2023/09/27/What-is-the-branch-on-Git/" rel="alternate" type="text/html" title="8. Branch란 무엇일까?" /><published>2023-09-27T19:33:29+09:00</published><updated>2023-09-27T19:33:29+09:00</updated><id>http://localhost:4000/github/2023/09/27/What-is-the-branch-on-Git</id><content type="html" xml:base="http://localhost:4000/github/2023/09/27/What-is-the-branch-on-Git/"><![CDATA[<blockquote>
+  <ol>
+    <li><a href="#" title="Navigate to ">Branch를 알아보자</a>
+      <ul>
+        <li>어원 설명 + 백업 후 작업의 비효율성 설명</li>
+        <li>Default branch</li>
+        <li>Local branch</li>
+        <li>Tracking branch
+          <ul>
+            <li>Upstream tracking</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li><a href="#" title="Navigate to ">Branch 관리하기</a>
+      <ul>
+        <li>Branch 생성하기</li>
+        <li>Branch 명명 규칙</li>
+        <li>Branch 정보 확인하기 ( 브랜치 해시 )</li>
+        <li>Tracking branch 복사</li>
+        <li>Upstream 연결</li>
+        <li>Branch 삭제하기</li>
+      </ul>
+    </li>
+    <li><a href="#" title="Navigate to ">Branch간 이동하기</a>
+      <ul>
+        <li>HEAD 포인터
+          <ul>
+            <li>AHEAD, BHEAD</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ol>
+</blockquote>
+
+<hr />
+
+<h4 id="들어가기-전에">들어가기 전에</h4>
+<ul>
+  <li></li>
+</ul>
+
+<hr />
+
+<h4><span style="color: brown"><em>**</em></span></h4>
+<ul>
+  <li></li>
+</ul>
+
+<hr />
+
+<h4 id="-1"><span style="color: brown"><em>**</em></span></h4>
+<ul>
+  <li></li>
+</ul>
+
+<hr />
+
+<h4 id="마무리하며">마무리하며…</h4>
+<p>이번 포스트에서는 . 다음 포스트에서는 .</p>]]></content><author><name></name></author><category term="Github" /><category term="Git" /><category term="Github" /><category term="깃" /><category term="깃허브" /><category term="git branch" /><category term="git rev-parse" /><category term="git checkout" /><category term="git switch" /><category term="AHEAD" /><category term="BHEAD" /><summary type="html"><![CDATA[Git에서 branch가 갖는 의미를 알아보자. 그리고 branch를 관리하고 branch간 또는 이력간 HEAD를 이동시키며]]></summary></entry><entry><title type="html">7. 원격 저장소와 Commit 주고받기</title><link href="http://localhost:4000/github/2023/09/20/Transfering-commit-with-remote-repository/" rel="alternate" type="text/html" title="7. 원격 저장소와 Commit 주고받기" /><published>2023-09-20T08:31:44+09:00</published><updated>2023-09-20T08:31:44+09:00</updated><id>http://localhost:4000/github/2023/09/20/Transfering-commit-with-remote-repository</id><content type="html" xml:base="http://localhost:4000/github/2023/09/20/Transfering-commit-with-remote-repository/"><![CDATA[<blockquote>
   <ol>
     <li><a href="#원격-저장소-생성하기" title="Navigate to Creating remote repository">원격 저장소 생성하기</a>
       <ul>
@@ -170,6 +230,8 @@
   <li>
     <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git remote <span class="nt">-v</span>
 </code></pre></div>    </div>
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git remote <span class="nt">--verbose</span>
+</code></pre></div>    </div>
     <ul>
       <li>원격 저장소의 이름과 URL을 목록으로 출력한다. 
 <img src="/images/posts/2023-09-20-Transfering-commit-with-remote-repository/git-command-remote-v.webp" title="Git command to display list of name and URL for remote repositorie" alt="Git command to display list of name and URL for remote repositorie" /></li>
@@ -287,11 +349,14 @@
 
 <ul>
   <li>
-    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git push <span class="nt">-d</span> &lt;원격 저장소 이름&gt; &lt;로컬 브랜치 이름&gt;
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git push <span class="nt">-d</span> &lt;원격 저장소 이름&gt; &lt;브랜치 이름&gt;
+</code></pre></div>    </div>
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git push <span class="nt">--delete</span> &lt;원격 저장소 이름&gt; &lt;브랜치 이름&gt;
 </code></pre></div>    </div>
     <ul>
-      <li>더 이상 필요하지 않은 로컬 브랜치를 원격 저장소에서 삭제하는 옵션이다.</li>
-      <li><span style="color: #8D4801"><strong>원격 저장소에서 해당 로컬 브랜치를 다시 복구할 수 없으므로 신중하게 사용해야 한다.</strong></span></li>
+      <li>더 이상 필요하지 않은 브랜치를 원격 저장소에서 삭제하는 옵션이다.</li>
+      <li>브랜치의 종류(로컬 또는 추적)에 상관없이 삭제할 수 있다.</li>
+      <li><span style="color: #8D4801"><strong>원격 저장소에서 해당 브랜치를 다시 복구할 수 없으므로 신중하게 사용해야 한다.</strong></span></li>
     </ul>
 
     <ol>
@@ -344,6 +409,8 @@
   <li>
     <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git push <span class="nt">-f</span> &lt;원격 저장소 이름&gt; &lt;로컬 브랜치 이름&gt;
 </code></pre></div>    </div>
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git push <span class="nt">--force</span> &lt;원격 저장소 이름&gt; &lt;로컬 브랜치 이름&gt;
+</code></pre></div>    </div>
     <ul>
       <li>강제로 전송을 실행하는 옵션이다.</li>
       <li>이미 push한 적이 있는 commit을 amend 했거나 rebase, cherry-pick 등의 명령어 사용으로 <span style="color: #8D4801"><strong>기존 commit의 해시값이 변경되었을 경우</strong></span> 이 옵션을 통해 push 해야하는데 이런 경우엔 <span style="color: #8D4801"><strong>매우 주의해야 한다.</strong></span></li>
@@ -371,6 +438,8 @@
 <ul>
   <li>
     <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git push <span class="nt">-u</span> &lt;원격 저장소 이름&gt; &lt;로컬 브랜치 이름&gt;
+</code></pre></div>    </div>
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git push <span class="nt">--set-upstream</span> &lt;원격 저장소 이름&gt; &lt;로컬 브랜치 이름&gt;
 </code></pre></div>    </div>
     <ul>
       <li>로컬 브랜치의 데이터를 원격 저장소로 전송하면서, <span style="color: #8D4801"><strong>해당 로컬 브랜치의 추적 브랜치를 설정하는 옵션이다.</strong></span></li>
@@ -456,6 +525,8 @@
   <li>
     <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git pull <span class="nt">-f</span> &lt;원격 저장소 이름&gt; &lt;로컬 브랜치 이름&gt;
 </code></pre></div>    </div>
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git pull <span class="nt">--force</span> &lt;원격 저장소 이름&gt; &lt;로컬 브랜치 이름&gt;
+</code></pre></div>    </div>
     <ul>
       <li>원격 저장소의 데이터로 로컬 브랜치를 강제로 덮어쓰는 옵션이다. 덮어쓴다고 하지만 원격 저장소에 존재하지 않는 로컬 브랜치의 파일들이 삭제되거나 하진 않는다. 다만, 로컬 브랜치와 원격 저장소 양쪽에 존재하는 파일의 경우 원격 저장소의 최신 commit으로 로컬 브랜치의 파일들이 덮어씌워진다.</li>
     </ul>
@@ -509,6 +580,8 @@
 <ul>
   <li>
     <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git fetch <span class="nt">-p</span> &lt;원격 저장소 이름&gt;
+</code></pre></div>    </div>
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git fetch <span class="nt">--prune</span> &lt;원격 저장소 이름&gt;
 </code></pre></div>    </div>
     <ul>
       <li>원격 저장소의 데이터를 추적 브랜치로 가져오면서 원격 저장소에 더 이상 존재하지 않는 추적 브랜치를 로컬 저장소에서 제거하는 옵션이다.</li>
@@ -729,6 +802,8 @@
   <li><strong>파일 추적과 커밋을 동시에 실행하는 옵션</strong>
     <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git commit <span class="nt">-a</span>
 </code></pre></div>    </div>
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git commit <span class="nt">--all</span>
+</code></pre></div>    </div>
     <ul>
       <li>
         <p>“git add .; git commit” 명령어와 동일한 동작을 한다. commit 작성을 좀 더 편리하게 만들어주는 명령어이지만 <span style="color: #8D4801"><strong>자동으로 모든 수정 사항을 추적</strong></span>하기 때문에 만약에 <span style="color: #8D4801"><strong>당장 commit을 원치 않았던 수정 사항들이 존재한다면 문제가 발생하므로 유의하여 사용</strong></span>해야 한다.
@@ -747,6 +822,8 @@
 <ul>
   <li><strong>에디터를 사용하지 않는 간이 commit 메시지 작성 옵션</strong>
     <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git commit <span class="nt">-m</span> &lt;<span class="s2">"commit 메시지"</span><span class="o">&gt;</span>
+</code></pre></div>    </div>
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git commit <span class="nt">--message</span> &lt;<span class="s2">"commit 메시지"</span><span class="o">&gt;</span>
 </code></pre></div>    </div>
     <ul>
       <li>commit 메시지를 작성 후 명령어 실행 시 에디터가 실행되지 않고 바로 commit이 진행된다. <span style="color: #8D4801"><strong>필자의 경우 매우 자주 사용하는 commit 방법이다. 혼자서 개발하는 작은 프로젝트의 경우 대부분의 commit을 이 옵션으로 작성하게 되는 것 같다.</strong></span>
@@ -817,6 +894,8 @@
 <ul>
   <li><strong>commit 메시지를 작성할 때 파일 간 또는 커밋간 차이를 참조</strong>할 수 있도록 도와주는 옵션도 있다.
     <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git commit <span class="nt">-v</span>
+</code></pre></div>    </div>
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git commit <span class="nt">--verbose</span>
 </code></pre></div>    </div>
     <ul>
       <li>사실 “git log -p” 명령어를 이용하면 어떤 commit이든지 diff를 확인할 수 있다. 다만, “git commit”과 “git commit -v”의 차이점은 <span style="color: #8D4801"><strong>에디터에서 commit 메시지를 작성할 때 diff 내용을 눈으로 확인할 수 있게 디스플레이해주는 것</strong></span> 뿐이다.

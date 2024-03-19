@@ -4,7 +4,7 @@ title: 7. 원격 저장소와 Commit 주고받기
 date: 2023-09-20 08:31:44 +0900
 img: github-logo.png
 categories: Github
-tags: [ Git, Github, 깃, 깃허브, personal access tokens, git remote, git push, git pull, git fetch]
+tags: [ Git, Github, 깃, 깃허브, personal access tokens, git remote, git push, git pull, git fetch ]
 description: Github에 접속하여 원격 저장소를 생성해 보자. 기록해 둔 commit을 원격 저장소로 전송하고 다시 로컬 저장소에 내려받아 보자.
 ---
 
@@ -124,6 +124,9 @@ git remote
 - ```bash
 git remote -v
 ```
+```bash
+git remote --verbose
+```
   - 원격 저장소의 이름과 URL을 목록으로 출력한다. 
 <img src="{{site.baseurl}}/images/posts/2023-09-20-Transfering-commit-with-remote-repository/git-command-remote-v.webp" title="Git command to display list of name and URL for remote repositorie" alt="Git command to display list of name and URL for remote repositorie">
 
@@ -204,10 +207,14 @@ git push <원격 저장소 이름> <로컬 브랜치 이름>
 <br>
 
 - ```bash
-git push -d <원격 저장소 이름> <로컬 브랜치 이름>
+git push -d <원격 저장소 이름> <브랜치 이름>
 ```
-  - 더 이상 필요하지 않은 로컬 브랜치를 원격 저장소에서 삭제하는 옵션이다.
-  - <span style="color: #8D4801">**원격 저장소에서 해당 로컬 브랜치를 다시 복구할 수 없으므로 신중하게 사용해야 한다.**</span>
+```bash
+git push --delete <원격 저장소 이름> <브랜치 이름>
+```
+  - 더 이상 필요하지 않은 브랜치를 원격 저장소에서 삭제하는 옵션이다.
+  - 브랜치의 종류(로컬 또는 추적)에 상관없이 삭제할 수 있다.
+  - <span style="color: #8D4801">**원격 저장소에서 해당 브랜치를 다시 복구할 수 없으므로 신중하게 사용해야 한다.**</span>
 
   1. 명령어 실행 전
 <img src="{{site.baseurl}}/images/posts/2023-09-20-Transfering-commit-with-remote-repository/before-git-command-push-d.webp" title="Remote repository in Github before git command push -d" alt="Remote repository in Github before git command push -d" width="30%" style="display: block; margin: 0 auto; margin-top: 1em;">
@@ -239,6 +246,9 @@ git push --tags <원격 저장소 이름> <로컬 브랜치 이름>
 - ```bash
 git push -f <원격 저장소 이름> <로컬 브랜치 이름>
 ```
+```bash
+git push --force <원격 저장소 이름> <로컬 브랜치 이름>
+```
   - 강제로 전송을 실행하는 옵션이다.
   - 이미 push한 적이 있는 commit을 amend 했거나 rebase, cherry-pick 등의 명령어 사용으로 <span style="color: #8D4801">**기존 commit의 해시값이 변경되었을 경우**</span> 이 옵션을 통해 push 해야하는데 이런 경우엔 <span style="color: #8D4801">**매우 주의해야 한다.**</span>
 
@@ -255,6 +265,9 @@ git push -f <원격 저장소 이름> <로컬 브랜치 이름>
 
 - ```bash
 git push -u <원격 저장소 이름> <로컬 브랜치 이름>
+```
+```bash
+git push --set-upstream <원격 저장소 이름> <로컬 브랜치 이름>
 ```
   - 로컬 브랜치의 데이터를 원격 저장소로 전송하면서, <span style="color: #8D4801">**해당 로컬 브랜치의 추적 브랜치를 설정하는 옵션이다.**</span>
 
@@ -308,6 +321,9 @@ git pull --allow-unrelated-histories <원격 저장소 이름> <로컬 브랜치
 - ```bash
 git pull -f <원격 저장소 이름> <로컬 브랜치 이름>
 ```
+```bash
+git pull --force <원격 저장소 이름> <로컬 브랜치 이름>
+```
   - 원격 저장소의 데이터로 로컬 브랜치를 강제로 덮어쓰는 옵션이다. 덮어쓴다고 하지만 원격 저장소에 존재하지 않는 로컬 브랜치의 파일들이 삭제되거나 하진 않는다. 다만, 로컬 브랜치와 원격 저장소 양쪽에 존재하는 파일의 경우 원격 저장소의 최신 commit으로 로컬 브랜치의 파일들이 덮어씌워진다.
 
   1. 명령어 실행 전
@@ -340,6 +356,9 @@ git fetch <원격 저장소 이름> <로컬 브랜치 이름>
 
 - ```bash
 git fetch -p <원격 저장소 이름>
+```
+```bash
+git fetch --prune <원격 저장소 이름>
 ```
   - 원격 저장소의 데이터를 추적 브랜치로 가져오면서 원격 저장소에 더 이상 존재하지 않는 추적 브랜치를 로컬 저장소에서 제거하는 옵션이다.
 
