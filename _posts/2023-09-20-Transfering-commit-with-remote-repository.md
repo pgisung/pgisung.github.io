@@ -270,6 +270,13 @@ git push -u <원격 저장소 이름> <로컬 브랜치 이름>
 git push --set-upstream <원격 저장소 이름> <로컬 브랜치 이름>
 ```
   - 로컬 브랜치의 데이터를 원격 저장소로 전송하면서, <span style="color: #8D4801">**해당 로컬 브랜치의 추적 브랜치를 설정하는 옵션이다.**</span>
+  - **이름이 다른 브랜치**
+    - 일반적으로 로컬 저장소의 브랜치와 원격 저장소의 브랜치 이름은 동일하게 사용한다.
+    - 하지만 동일한 이름을 사용하기 어려운 상황이 존재한다. 원격 저장소에는 타 개발자 또한 접근할 수 있기 때문에 만약 타 개발자가 나와 동일한 브랜치 이름을 사용하고 업로드한 경우 내 브랜치를 전송할 때 충돌이 생긴다.
+    - <span style="color: #8D4801">**"로컬 브랜치 이름" 대신에 "로컬 브랜치 이름:원격 저장소에서 사용할 로컬 브랜치의 이름" 형태**</span>로 이름을 작성하면 서로 다른 이름의 로컬 브랜치와 원격 브랜치를 수동으로 연결할 수 있다. 즉, 원격 저장소에서만 사용될 새로운 이름을 로컬 브랜치에게 부여할 수 있다.
+    - ```bash
+    git push -u <원격 저장소 이름> <로컬 브랜치 이름:원격 저장소에서 사용할 로컬 브랜치의 이름>
+    ```
 
   1. 명령어 실행 전
 <img src="{{site.baseurl}}/images/posts/2023-09-20-Transfering-commit-with-remote-repository/before-git-command-push-u.webp" title="Remote repository in Github before git command push -u" alt="Remote repository in Github before git command push -u">
