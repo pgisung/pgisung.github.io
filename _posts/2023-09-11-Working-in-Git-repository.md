@@ -95,7 +95,7 @@ git add <새 파일명>
 ---
 
 #### <span style="color: brown">**추적하고 싶지 않은 파일 목록**</span>
-- .gitignore 파일
+- **.gitignore 파일**
   - git은 이 파일에 작성된 <span style="color: #8D4801">**목록들을 추적하지 않는다.**</span>
   - 또 로컬 저장소를 서버로 전송하거나 다른 사람과 공유할 때도 이를 <span style="color: #8D4801">**예외 처리**</span>한다.
   - .gitignore 파일을 작성할 때는 <span style="color: #8D4801">**반드시 저장소 폴더의 최상위 디렉토리에 두어야 한다.**</span> (.git 디렉토리와 같은 경로)
