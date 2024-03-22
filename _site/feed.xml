@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-22T23:21:46+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JohnnyPark</title><subtitle>The growth diary of Software developer JohnnyPark</subtitle><entry><title type="html">9. 작업 상태를 스택에 임시 저장하기</title><link href="http://localhost:4000/github/2023/10/12/Temporary-saving-of-working-status-to-stack/" rel="alternate" type="text/html" title="9. 작업 상태를 스택에 임시 저장하기" /><published>2023-10-12T14:11:02+09:00</published><updated>2023-10-12T14:11:02+09:00</updated><id>http://localhost:4000/github/2023/10/12/Temporary-saving-of-working-status-to-stack</id><content type="html" xml:base="http://localhost:4000/github/2023/10/12/Temporary-saving-of-working-status-to-stack/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-23T00:10:28+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JohnnyPark</title><subtitle>The growth diary of Software developer JohnnyPark</subtitle><entry><title type="html">9. 작업 상태를 스택에 임시 저장하기</title><link href="http://localhost:4000/github/2023/10/12/Temporary-saving-of-working-status-to-stack/" rel="alternate" type="text/html" title="9. 작업 상태를 스택에 임시 저장하기" /><published>2023-10-12T14:11:02+09:00</published><updated>2023-10-12T14:11:02+09:00</updated><id>http://localhost:4000/github/2023/10/12/Temporary-saving-of-working-status-to-stack</id><content type="html" xml:base="http://localhost:4000/github/2023/10/12/Temporary-saving-of-working-status-to-stack/"><![CDATA[<blockquote>
   <ol>
     <li><a href="#" title="Navigate to ">1</a></li>
     <li><a href="#" title="Navigate to ">2</a></li>
@@ -24,10 +24,39 @@
 <h4 id="마무리하며">마무리하며…</h4>
 <p>이번 포스트에서는 . 다음 포스트에서는 .</p>]]></content><author><name></name></author><category term="Github" /><category term="Git" /><category term="Github" /><category term="깃" /><category term="깃허브" /><category term="git stash" /><category term="git clean" /><summary type="html"><![CDATA[작업 영역의 상태를 임시 저장하고 다시 불러와 보자. 그리고 작업 영역을 깔끔하게 청소도 해보자.]]></summary></entry><entry><title type="html">8. Branch란 무엇일까?</title><link href="http://localhost:4000/github/2023/09/27/What-is-the-branch-on-Git/" rel="alternate" type="text/html" title="8. Branch란 무엇일까?" /><published>2023-09-27T19:33:29+09:00</published><updated>2023-09-27T19:33:29+09:00</updated><id>http://localhost:4000/github/2023/09/27/What-is-the-branch-on-Git</id><content type="html" xml:base="http://localhost:4000/github/2023/09/27/What-is-the-branch-on-Git/"><![CDATA[<blockquote>
   <ol>
-    <li><a href="#branch를-알아보자" title="Navigate to Let's learn what is the branch">Branch를 알아보자</a></li>
-    <li><a href="#branch-관리하기" title="Navigate to Managing branch">Branch 관리하기</a></li>
-    <li><a href="#branch-정보-확인하기" title="Navigate to Checking branch list">Branch 정보 확인하기</a></li>
-    <li><a href="#branch-간-이동하기" title="Navigate to Switching between branch">Branch 간 이동하기</a></li>
+    <li><a href="#branch를-알아보자" title="Navigate to Let's learn what is the branch">Branch를 알아보자</a>
+      <ul>
+        <li><a href="#branch의-필요성" title="Navigate to Necessity of branch">Branch의 필요성</a></li>
+        <li><a href="#branch의-종류" title="Navigate to Kind of branch">Branch의 종류</a></li>
+      </ul>
+    </li>
+    <li><a href="#branch-관리하기" title="Navigate to Managing branch">Branch 관리하기</a>
+      <ul>
+        <li><a href="#branch-생성하기" title="Navigate to Creating branch">Branch 생성하기</a></li>
+        <li><a href="#branch-명명-규칙" title="Navigate to Branch naming rule">Branch 명명 규칙</a></li>
+        <li><a href="#upstream-연결" title="Navigate to Connecting upstream">Upstream 연결</a></li>
+        <li><a href="#branch-삭제하기" title="Navigate to Deleting branch">Branch 삭제하기</a></li>
+      </ul>
+    </li>
+    <li><a href="#branch-정보-확인하기" title="Navigate to Checking branch list">Branch 정보 확인하기</a>
+      <ul>
+        <li><a href="#브랜치-해시" title="Navigate to Branch hash">브랜치 해시</a></li>
+        <li><a href="#로컬-브랜치-목록보기" title="Navigate to Checking list of local branch">로컬 브랜치 목록보기</a></li>
+        <li><a href="#로컬-저장소의-추적-브랜치-목록보기" title="Navigate to Checking list of tracking branch">로컬 저장소의 추적 브랜치 목록보기</a></li>
+        <li><a href="#원격-브랜치-목록보기" title="Navigate to Checking list of remote branch">원격 브랜치 목록보기</a></li>
+        <li><a href="#모든-브랜치-목록보기" title="Navigate to Checking list of all branch">모든 브랜치 목록보기</a></li>
+        <li><a href="#브랜치-병합-여부-확인하기" title="Navigate to Checking branches if merged">브랜치 병합 여부 확인하기</a></li>
+      </ul>
+    </li>
+    <li><a href="#branch-간-이동하기" title="Navigate to Switching between branch">Branch 간 이동하기</a>
+      <ul>
+        <li><a href="#파일-체크아웃" title="Navigate to Checkout to file">파일 체크아웃</a></li>
+        <li><a href="#이전-브랜치" title="Navigate to Last branch">이전 브랜치</a></li>
+        <li><a href="#head-포인터" title="Navigate to HEAD pointer">HEAD 포인터</a></li>
+        <li><a href="#브랜치-새로-생성하면서-이동하기" title="Navigate to Creating branch and Switching to the branch">브랜치 새로 생성하면서 이동하기</a></li>
+        <li><a href="#커밋으로-이동하기" title="Navigate to Switching to commit">커밋으로 이동하기</a></li>
+      </ul>
+    </li>
   </ol>
 </blockquote>
 
@@ -45,10 +74,9 @@
 <hr />
 
 <h4 id="branch를-알아보자"><span style="color: brown"><strong>Branch를 알아보자</strong></span></h4>
-<ul>
-  <li>Branch 단어는 나뭇가지, 지사, 분점, 둘 이상으로 나뉘다의 뜻이 있다. 단어의 뜻과 같이 <span style="color: #8D4801"><strong>Git의 branch 또한 저장공간을 나누는 데 실제 저장공간이 나누어지는 것은 아니며 가상의 저장공간이 생성</strong></span>되는 느낌이다.
-<img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/branch-in-naver-dictionary.jpg" title="Definition of branch in Naver dictionary" alt="Definition of branch in Naver dictionary" /></li>
-</ul>
+<p>Branch 단어는 나뭇가지, 지사, 분점, 둘 이상으로 나뉘다의 뜻이 있다. 단어의 뜻과 같이 <span style="color: #8D4801"><strong>Git의 branch 또한 저장공간을 나누는 데 실제 저장공간이 나누어지는 것은 아니며 가상의 저장공간이 생성</strong></span>되는 느낌이다.</p>
+
+<center><img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/branch-in-naver-dictionary.jpg" title="Definition of branch in Naver dictionary" alt="Definition of branch in Naver dictionary" /></center>
 
 <center>
   <a href="https://dict.naver.com/dict.search?query=branch&amp;from=tsearch" title="Navigate to Naver dictionary">
@@ -57,51 +85,43 @@
 </center>
 <p><br /></p>
 
-<ul>
-  <li>
-    <p><strong>Branch의 필요성</strong>
-<img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/difference-while-working-in-file-system-between-no-version-management-and-Git.webp" title="Difference while working in file system between no version management and Git" alt="Difference while working in file system between no version management and Git" /></p>
+<h5 id="branch의-필요성"><strong>Branch의 필요성</strong></h5>
+<center><img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/difference-while-working-in-file-system-between-no-version-management-and-Git.webp" title="Difference while working in file system between no version management and Git" alt="Difference while working in file system between no version management and Git" /></center>
 
-    <ul>
-      <li>우리는 사실 이미 문서를 작성할 때 브랜치를 나눠서 진행하는 작업을 알게 모르게 해왔다. 수정해야 할 작업이 생겼을 때 원래의 프로젝트를 아무 조치 없이 그냥 수정했다간 실수를 복구하기가 너무 어렵기 때문에 원래의 프로젝트를 복사하여 백업해 두고 새로운 사본에 작업을 진행했었다. 하지만 이런 방식은 매번 수정할 때마다 사본이 통째로 생성되어 저장공간이 많이 낭비될 뿐만 아니라 향후 각각의 작업을 병합하는 것 또한 어려워진다. <span style="color: #8D4801"><strong>Git의 branch는 실질적인 working directory가 단 한 곳이며 공통 조상 커밋을 기준으로 변화된 커밋만 따로 저장하면 되므로 훨씬 더 효율적</strong></span>이다.</li>
-    </ul>
-  </li>
+<ul>
+  <li>우리는 사실 이미 문서를 작성할 때 브랜치를 나눠서 진행하는 작업을 알게 모르게 해왔다. 수정해야 할 작업이 생겼을 때 원래의 프로젝트를 아무 조치 없이 그냥 수정했다간 실수를 복구하기가 너무 어렵기 때문에 원래의 프로젝트를 복사하여 백업해 두고 새로운 사본에 작업을 진행했었다. 하지만 이런 방식은 매번 수정할 때마다 사본이 통째로 생성되어 저장공간이 많이 낭비될 뿐만 아니라 향후 각각의 작업을 병합하는 것 또한 어려워진다. <span style="color: #8D4801"><strong>Git의 branch는 실질적인 working directory가 단 한 곳이며 공통 조상 커밋을 기준으로 변화된 커밋만 따로 저장하면 되므로 훨씬 더 효율적</strong></span>이다.</li>
 </ul>
 
 <p><br /></p>
 
-<ul>
-  <li>
-    <p><strong>Branch의 종류</strong>
-<img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/image-that-showing-kind-of-branch.webp" title="Image that showing kind of branch" alt="Image that showing kind of branch" width="70%" /></p>
+<h5 id="branch의-종류"><strong>Branch의 종류</strong></h5>
+<center><img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/image-that-showing-kind-of-branch.webp" title="Image that showing kind of branch" alt="Image that showing kind of branch" width="70%" /></center>
 
+<ul>
+  <li><strong>Default branch</strong>
     <ul>
-      <li><strong>Default branch</strong>
+      <li>당연하게도 Git에서 작업을 하려면 최소한 한 개 이상의 브랜치가 필요하다. 그러므로 <span style="color: #8D4801"><strong>Git은 저장소가 초기화될 때 무조건 Default branch를 한 개 생성</strong></span>한다.</li>
+    </ul>
+  </li>
+  <li><span style="color: dodgerblue"><strong>Local branch</strong></span>
+    <ul>
+      <li>말 그대로 <span style="color: #8D4801"><strong>로컬 환경</strong></span>에서 작업할 때의 브랜치이다.</li>
+    </ul>
+  </li>
+  <li><span style="color: red"><strong>Remote branch</strong></span>
+    <ul>
+      <li><span style="color: #8D4801"><strong>원격 저장소에 존재하는 브랜치</strong></span>를 Remote branch라고 한다. 내가 추적 브랜치를 통해 업로드한 원격 브랜치도 있지만 <span style="color: #8D4801"><strong>타 개발자 및 사용자가 해당 원격 저장소 안에 생성한 브랜치 또한 모두 포함하여 원격 브랜치</strong></span>라고 한다.</li>
+      <li>원격 브랜치의 이름은 일반적으로 <span style="color: #8D4801"><strong>&lt;원격 저장소 이름/로컬 브랜치 이름&gt;</strong></span>의 형태를 보인다.</li>
+      <li>원격 저장소와 연결된 로컬 저장소에서 새로운 브랜치를 생성하더라도 자동으로 원격 브랜치가 생성되지는 않는다. 또한, 원격 저장소에 새로운 브랜치가 등록되더라도 자동으로 로컬 브랜치가 생성되는 것은 아니다. 그러므로 <span style="color: #8D4801"><strong>별도의 명령어를 실행하여 저장소를 동기화</strong></span>해야 한다.</li>
+    </ul>
+  </li>
+  <li><span style="color: darkorange"><strong>Tracking branch</strong></span>
+    <ul>
+      <li><span style="color: #8D4801"><strong>로컬 브랜치와 원격 브랜치를 중재하는 다리</strong></span> 역할을 하는 브랜치이다. 로컬 브랜치와 원격 브랜치와는 다르게 브랜치 간의 “관계”를 표현하는 브랜치라고 말할 수 있다.</li>
+      <li>“git clone” 명령어로 원격 저장소를 복제할 때 저장소에 등록된 tracking branch들을 자동으로 함께 설정한다. (모든 브랜치 정보를 다 가져오진 않고 필요한 브랜치의 정보만 가져온다.)</li>
+      <li><span style="color: limegreen"><strong>Upstream tracking</strong></span>
         <ul>
-          <li>당연하게도 Git에서 작업을 하려면 최소한 한 개 이상의 브랜치가 필요하다. 그러므로 <span style="color: #8D4801"><strong>Git은 저장소가 초기화될 때 무조건 Default branch를 한 개 생성</strong></span>한다.</li>
-        </ul>
-      </li>
-      <li><span style="color: dodgerblue"><strong>Local branch</strong></span>
-        <ul>
-          <li>말 그대로 <span style="color: #8D4801"><strong>로컬 환경</strong></span>에서 작업할 때의 브랜치이다.</li>
-        </ul>
-      </li>
-      <li><span style="color: red"><strong>Remote branch</strong></span>
-        <ul>
-          <li><span style="color: #8D4801"><strong>원격 저장소에 존재하는 브랜치</strong></span>를 Remote branch라고 한다. 내가 추적 브랜치를 통해 업로드한 원격 브랜치도 있지만 <span style="color: #8D4801"><strong>타 개발자 및 사용자가 해당 원격 저장소 안에 생성한 브랜치 또한 모두 포함하여 원격 브랜치</strong></span>라고 한다.</li>
-          <li>원격 브랜치의 이름은 일반적으로 <span style="color: #8D4801"><strong>&lt;원격 저장소 이름/로컬 브랜치 이름&gt;</strong></span>의 형태를 보인다.</li>
-          <li>원격 저장소와 연결된 로컬 저장소에서 새로운 브랜치를 생성하더라도 자동으로 원격 브랜치가 생성되지는 않는다. 또한, 원격 저장소에 새로운 브랜치가 등록되더라도 자동으로 로컬 브랜치가 생성되는 것은 아니다. 그러므로 <span style="color: #8D4801"><strong>별도의 명령어를 실행하여 저장소를 동기화</strong></span>해야 한다.</li>
-        </ul>
-      </li>
-      <li><span style="color: darkorange"><strong>Tracking branch</strong></span>
-        <ul>
-          <li><span style="color: #8D4801"><strong>로컬 브랜치와 원격 브랜치를 중재하는 다리</strong></span> 역할을 하는 브랜치이다. 로컬 브랜치와 원격 브랜치와는 다르게 브랜치 간의 “관계”를 표현하는 브랜치라고 말할 수 있다.</li>
-          <li>“git clone” 명령어로 원격 저장소를 복제할 때 저장소에 등록된 tracking branch들을 자동으로 함께 설정한다. (모든 브랜치 정보를 다 가져오진 않고 필요한 브랜치의 정보만 가져온다.)</li>
-          <li><span style="color: limegreen"><strong>Upstream tracking</strong></span>
-            <ul>
-              <li><span style="color: #8D4801"><strong>Git에서 Upstream은 위(서버)로 흐르는 브랜치의 추적을 표현한 말</strong></span>이다. 로컬 저장소의 브랜치와 원격 저장소의 브랜치는 업로드할 수 있도록 연결되어 있다. 이러한 연결을 Upstream tracking이라고 한다.</li>
-            </ul>
-          </li>
+          <li><span style="color: #8D4801"><strong>Git에서 Upstream은 위(서버)로 흐르는 브랜치의 추적을 표현한 말</strong></span>이다. 로컬 저장소의 브랜치와 원격 저장소의 브랜치는 업로드할 수 있도록 연결되어 있다. 이러한 연결을 Upstream tracking이라고 한다.</li>
         </ul>
       </li>
     </ul>
@@ -111,259 +131,206 @@
 <hr />
 
 <h4 id="branch-관리하기"><span style="color: brown"><strong>Branch 관리하기</strong></span></h4>
+<h5 id="branch-생성하기"><strong>Branch 생성하기</strong></h5>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git branch &lt;브랜치 이름&gt; <span class="o">(</span>커밋 해시값<span class="o">)</span>
+</code></pre></div></div>
 <ul>
-  <li><strong>Branch 생성하기</strong>
-    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git branch &lt;브랜치 이름&gt; <span class="o">(</span>커밋 해시값<span class="o">)</span>
-</code></pre></div>    </div>
-    <ul>
-      <li>새 브랜치를 생성하면 처음에는 <span style="color: #8D4801"><strong>브랜치 포인터</strong></span>만 있는 브랜치가 생성된다.</li>
-      <li>브랜치를 생성할 때 일반적으로 마지막 commit을 가리키고 있는 HEAD를 기준으로 생성된다. 그러나 <span style="color: #8D4801"><strong>직접 커밋 해시값을 입력할 경우 해당 commit을 기준으로 브랜치가 생성</strong></span>된다.</li>
-    </ul>
-
-    <ol>
-      <li>
-        <p>명령어 실행 전
+  <li>새 브랜치를 생성하면 처음에는 <span style="color: #8D4801"><strong>브랜치 포인터</strong></span>만 있는 브랜치가 생성된다.</li>
+  <li>
+    <p>브랜치를 생성할 때 일반적으로 마지막 commit을 가리키고 있는 HEAD를 기준으로 생성된다. 그러나 <span style="color: #8D4801"><strong>직접 커밋 해시값을 입력할 경우 해당 commit을 기준으로 브랜치가 생성</strong></span>된다.</p>
+  </li>
+  <li>
+    <p>명령어 실행 전
 <img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/before-git-command-branch-name.webp" title="Branch list before git command branch &lt;new branch name&gt;" alt="Branch list before git command branch &lt;new branch name&gt;" /></p>
-      </li>
-      <li>
-        <p>명령어 실행
+  </li>
+  <li>
+    <p>명령어 실행
 <img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/git-command-branch-name.webp" title="Git command to create new branch" alt="Git command to create new branch" /></p>
-      </li>
-      <li>
-        <p>명령어 실행 후
-<img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/after-git-command-branch-name.webp" title="Branch list after git command branch &lt;new branch name&gt;" alt="Branch list after git command branch &lt;new branch name&gt;" /></p>
-      </li>
-    </ol>
   </li>
+  <li>명령어 실행 후
+<img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/after-git-command-branch-name.webp" title="Branch list after git command branch &lt;new branch name&gt;" alt="Branch list after git command branch &lt;new branch name&gt;" /></li>
 </ul>
 
 <p><br /></p>
 
+<h5 id="branch-명명-규칙"><strong>Branch 명명 규칙</strong></h5>
 <ul>
-  <li><strong>Branch 명명 규칙</strong>
-    <ul>
-      <li>브랜치 이름은 알파벳과 숫자, 밑줄(_), 하이픈(-)으로 시작할 수 있다.</li>
-      <li>브랜치 이름에는 빈칸이나 공백 문자, 대부분의 특수문자를 사용할 수 없다.</li>
-      <li>아스키 제어 문자는 포함할 수 없고 유니코드 문자는 포함할 수 있다.</li>
-      <li>Git은 브랜치 이름의 대소문자를 구별하여 다른 문자로 취급한다.</li>
-      <li>일부 Git 호스팅 서비스 및 운영 체제에는 브랜치 이름의 길이 제한이 있을 수 있다. 일반적으로 최대 255자 이내로 작성하는 것이 좋다.</li>
-      <li>브랜치 이름은 중복해서 사용하지 않아야 한다.</li>
-    </ul>
-  </li>
+  <li>브랜치 이름은 알파벳과 숫자, 밑줄(_), 하이픈(-)으로 시작할 수 있다.</li>
+  <li>브랜치 이름에는 빈칸이나 공백 문자, 대부분의 특수문자를 사용할 수 없다.</li>
+  <li>아스키 제어 문자는 포함할 수 없고 유니코드 문자는 포함할 수 있다.</li>
+  <li>Git은 브랜치 이름의 대소문자를 구별하여 다른 문자로 취급한다.</li>
+  <li>일부 Git 호스팅 서비스 및 운영 체제에는 브랜치 이름의 길이 제한이 있을 수 있다. 일반적으로 최대 255자 이내로 작성하는 것이 좋다.</li>
+  <li>브랜치 이름은 중복해서 사용하지 않아야 한다.</li>
 </ul>
 
 <p><br /></p>
 
+<h5 id="upstream-연결"><strong>Upstream 연결</strong></h5>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git branch <span class="nt">-u</span> &lt;원격 저장소 이름/브랜치 이름&gt;
+</code></pre></div></div>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git branch <span class="nt">--set-upstream-to</span> &lt;원격 저장소 이름/브랜치 이름&gt;
+</code></pre></div></div>
 <ul>
-  <li><strong>Upstream 연결</strong>
-    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git branch <span class="nt">-u</span> &lt;원격 저장소 이름/브랜치 이름&gt;
-</code></pre></div>    </div>
-    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git branch <span class="nt">--set-upstream-to</span> &lt;원격 저장소 이름/브랜치 이름&gt;
-</code></pre></div>    </div>
-    <ul>
-      <li>기존에 <span style="color: #8D4801"><strong>로컬에 존재하는 브랜치를 해당 원격 브랜치로 업스트림 연결</strong></span>할 수 있다.</li>
-      <li><span style="color: #8D4801"><strong>연결하고자 하는 로컬 브랜치로 이동 후</strong></span> 명령어를 실행하여야 한다.</li>
-      <li>해당 원격 브랜치가 <span style="color: #8D4801"><strong>원격 저장소에 존재하지 않을 경우</strong></span> 명령어를 실행할 수 없다. 원격 저장소에 해당 원격 브랜치가 존재함에도 명령어 실행이 안 될 경우 “git fetch 원격 저장소 이름” 명령어를 통해서 원격 저장소 정보를 가져와야 한다.</li>
-    </ul>
-
-    <ol>
-      <li>
-        <p>명령어 실행 전
+  <li>기존에 <span style="color: #8D4801"><strong>로컬에 존재하는 브랜치를 해당 원격 브랜치로 업스트림 연결</strong></span>할 수 있다.</li>
+  <li><span style="color: #8D4801"><strong>연결하고자 하는 로컬 브랜치로 이동 후</strong></span> 명령어를 실행하여야 한다.</li>
+  <li>
+    <p>해당 원격 브랜치가 <span style="color: #8D4801"><strong>원격 저장소에 존재하지 않을 경우</strong></span> 명령어를 실행할 수 없다. 원격 저장소에 해당 원격 브랜치가 존재함에도 명령어 실행이 안 될 경우 “git fetch 원격 저장소 이름” 명령어를 통해서 원격 저장소 정보를 가져와야 한다.</p>
+  </li>
+  <li>
+    <p>명령어 실행 전
 <img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/before-git-command-branch-u.webp" title="Branch list before git command branch -u" alt="Branch list before git command branch -u" /></p>
-      </li>
-      <li>
-        <p>명령어 실행
+  </li>
+  <li>
+    <p>명령어 실행
 <img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/git-command-branch-u.webp" title="Git command to make upstream tracking for exist local and remote branches" alt="Git command to make upstream tracking for exist local and remote branches" /></p>
-      </li>
-      <li>
-        <p>명령어 실행 후
-<img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/after-git-command-branch-u.webp" title="Branch list after git command branch -u" alt="Branch list after git command branch -u" /></p>
-      </li>
-    </ol>
   </li>
+  <li>명령어 실행 후
+<img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/after-git-command-branch-u.webp" title="Branch list after git command branch -u" alt="Branch list after git command branch -u" /></li>
 </ul>
 
 <p><br /></p>
 
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git checkout <span class="nt">-t</span> &lt;원격 저장소 이름/브랜치 이름&gt;
+</code></pre></div></div>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git checkout <span class="nt">--track</span> &lt;원격 저장소 이름/브랜치 이름&gt;
+</code></pre></div></div>
 <ul>
+  <li><span style="color: #8D4801"><strong>해당 브랜치 이름의 로컬 브랜치를 생성하며 이동하고 해당 원격 브랜치로 업스트림 연결</strong></span>까지 한다.</li>
+  <li><span style="color: #8D4801"><strong>해당 브랜치 이름의 로컬 브랜치가 존재하지 않을 경우</strong></span>에만 실행할 수 있다.</li>
   <li>
-    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git checkout <span class="nt">-t</span> &lt;원격 저장소 이름/브랜치 이름&gt;
-</code></pre></div>    </div>
-    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git checkout <span class="nt">--track</span> &lt;원격 저장소 이름/브랜치 이름&gt;
-</code></pre></div>    </div>
-    <ul>
-      <li><span style="color: #8D4801"><strong>해당 브랜치 이름의 로컬 브랜치를 생성하며 이동하고 해당 원격 브랜치로 업스트림 연결</strong></span>까지 한다.</li>
-      <li><span style="color: #8D4801"><strong>해당 브랜치 이름의 로컬 브랜치가 존재하지 않을 경우</strong></span>에만 실행할 수 있다.</li>
-      <li>해당 원격 브랜치가 <span style="color: #8D4801"><strong>원격 저장소에 존재하지 않을 경우</strong></span> 명령어를 실행할 수 없다. 원격 저장소에 해당 원격 브랜치가 존재함에도 명령어 실행이 안 될 경우 “git fetch 원격 저장소 이름” 명령어를 통해서 원격 저장소 정보를 가져와야 한다.</li>
-    </ul>
-
-    <ol>
-      <li>
-        <p>명령어 실행 전
+    <p>해당 원격 브랜치가 <span style="color: #8D4801"><strong>원격 저장소에 존재하지 않을 경우</strong></span> 명령어를 실행할 수 없다. 원격 저장소에 해당 원격 브랜치가 존재함에도 명령어 실행이 안 될 경우 “git fetch 원격 저장소 이름” 명령어를 통해서 원격 저장소 정보를 가져와야 한다.</p>
+  </li>
+  <li>
+    <p>명령어 실행 전
 <img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/before-git-command-checkout-t.webp" title="Branch list before git command checkout -t" alt="Branch list before git command checkout -t" /></p>
-      </li>
-      <li>
-        <p>명령어 실행
+  </li>
+  <li>
+    <p>명령어 실행
 <img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/git-command-checkout-t.webp" title="Git command to make new local branch and upstream tracking moreover checkout to the new local branch" alt="Git command to make new local branch and upstream tracking moreover checkout to the new local branch" /></p>
-      </li>
-      <li>
-        <p>명령어 실행 후
-<img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/after-git-command-checkout-t.webp" title="Branch list after git command checkout -t" alt="Branch list after git command checkout -t" /></p>
-      </li>
-    </ol>
   </li>
+  <li>명령어 실행 후
+<img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/after-git-command-checkout-t.webp" title="Branch list after git command checkout -t" alt="Branch list after git command checkout -t" /></li>
 </ul>
 
 <p><br /></p>
 
-<ul>
-  <li><strong>Branch 삭제하기</strong>
-    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git branch <span class="nt">-d</span> &lt;브랜치 이름&gt;
-</code></pre></div>    </div>
-    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git branch <span class="nt">--delete</span> &lt;브랜치 이름&gt;
-</code></pre></div>    </div>
-    <ul>
-      <li>브랜치의 <span style="color: #8D4801"><strong>일반적인 삭제 방법</strong></span>이다. Working directory에 작업한 기록이 없고 Stage area가 깨끗하게 비어 있을 때만 명령어가 실행된다. 또한 병합되지 않은 commit이 존재할 경우 브랜치를 삭제할 수 없다.</li>
-    </ul>
-
-    <ol>
-      <li>
-        <p>명령어 실행 전
-<img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/before-git-command-branch-d.webp" title="Branch list before git command branch -d" alt="Branch list before git command branch -d" /></p>
-      </li>
-      <li>
-        <p>명령어 실행
-<img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/git-command-branch-d.webp" title="Git command to delete the branch" alt="Git command to delete the branch" /></p>
-      </li>
-      <li>
-        <p>명령어 실행 후
-<img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/after-git-command-branch-d.webp" title="Branch list after git command branch -d" alt="Branch list after git command branch -d" /></p>
-      </li>
-    </ol>
-  </li>
-</ul>
-
-<p><br /></p>
-
+<h5 id="branch-삭제하기"><strong>Branch 삭제하기</strong></h5>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git branch <span class="nt">-d</span> &lt;브랜치 이름&gt;
+</code></pre></div></div>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git branch <span class="nt">--delete</span> &lt;브랜치 이름&gt;
+</code></pre></div></div>
 <ul>
   <li>
-    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git branch <span class="nt">-D</span> &lt;브랜치 이름&gt;
-</code></pre></div>    </div>
-    <ul>
-      <li>병합되지 않은 commit이 존재하는 브랜치를 <span style="color: #8D4801"><strong>강제로 삭제</strong></span>할 수 있다.</li>
-    </ul>
+    <p>브랜치의 <span style="color: #8D4801"><strong>일반적인 삭제 방법</strong></span>이다. Working directory에 작업한 기록이 없고 Stage area가 깨끗하게 비어 있을 때만 명령어가 실행된다. 또한 병합되지 않은 commit이 존재할 경우 브랜치를 삭제할 수 없다.</p>
+  </li>
+  <li>
+    <p>명령어 실행 전
+<img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/before-git-command-branch-d.webp" title="Branch list before git command branch -d" alt="Branch list before git command branch -d" /></p>
+  </li>
+  <li>
+    <p>명령어 실행
+<img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/git-command-branch-d.webp" title="Git command to delete the branch" alt="Git command to delete the branch" /></p>
+  </li>
+  <li>
+    <p>명령어 실행 후
+<img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/after-git-command-branch-d.webp" title="Branch list after git command branch -d" alt="Branch list after git command branch -d" /></p>
+  </li>
+</ul>
 
-    <ol>
-      <li>
-        <p>명령어 실행 전
+<p><br /></p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git branch <span class="nt">-D</span> &lt;브랜치 이름&gt;
+</code></pre></div></div>
+<ul>
+  <li>
+    <p>병합되지 않은 commit이 존재하는 브랜치를 <span style="color: #8D4801"><strong>강제로 삭제</strong></span>할 수 있다.</p>
+  </li>
+  <li>
+    <p>명령어 실행 전
 <img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/before-git-command-branch-capital-letter-d.webp" title="Branch list before git command branch -D" alt="Branch list before git command branch -D" /></p>
-      </li>
-      <li>
-        <p>명령어 실행
+  </li>
+  <li>
+    <p>명령어 실행
 <img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/git-command-branch-capital-letter-d.webp" title="Git command to force to delete the branch" alt="Git command to force to delete the branch" /></p>
-      </li>
-      <li>
-        <p>명령어 실행 후
+  </li>
+  <li>
+    <p>명령어 실행 후
 <img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/after-git-command-branch-capital-letter-d.webp" title="Branch list after git command branch -D" alt="Branch list after git command branch -D" /></p>
-      </li>
-    </ol>
   </li>
 </ul>
 
 <hr />
 
 <h4 id="branch-정보-확인하기"><span style="color: brown"><strong>Branch 정보 확인하기</strong></span></h4>
+<h5 id="브랜치-해시"><strong>브랜치 해시</strong></h5>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git rev-parse &lt;브랜치 이름&gt;
+</code></pre></div></div>
 <ul>
-  <li><strong>브랜치 해시</strong>
-    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git rev-parse &lt;브랜치 이름&gt;
-</code></pre></div>    </div>
-    <ul>
-      <li>해당 <span style="color: #8D4801"><strong>브랜치 포인터가 가리키는 커밋 해시값을 확인</strong></span>할 수 있다.
+  <li>해당 <span style="color: #8D4801"><strong>브랜치 포인터가 가리키는 커밋 해시값을 확인</strong></span>할 수 있다.
 <img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/git-command-rev-parse.webp" title="Git command to show commit hash value for the branch pointer" alt="Git command to show commit hash value for the branch pointer" /></li>
-    </ul>
-  </li>
 </ul>
 
 <p><br /></p>
 
+<h5 id="로컬-브랜치-목록보기"><strong>로컬 브랜치 목록보기</strong></h5>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git branch
+</code></pre></div></div>
 <ul>
-  <li><strong>로컬 브랜치 목록보기</strong>
-    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git branch
-</code></pre></div>    </div>
-    <ul>
-      <li>모든 <span style="color: #8D4801"><strong>로컬 브랜치를 목록</strong></span>으로 볼 수 있다.
+  <li>모든 <span style="color: #8D4801"><strong>로컬 브랜치를 목록</strong></span>으로 볼 수 있다.
 <img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/git-command-branch.webp" title="Git command to show list of local branch" alt="Git command to show list of local branch" /></li>
-    </ul>
-  </li>
 </ul>
 
 <p><br /></p>
 
+<h5 id="로컬-저장소의-추적-브랜치-목록보기"><strong>로컬 저장소의 추적 브랜치 목록보기</strong></h5>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git branch <span class="nt">-vv</span>
+</code></pre></div></div>
 <ul>
-  <li><strong>로컬 저장소의 추적 브랜치 목록보기</strong>
-    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git branch <span class="nt">-vv</span>
-</code></pre></div>    </div>
-    <ul>
-      <li><span style="color: #8D4801"><strong>로컬 저장소의 모든 추적 브랜치를 목록</strong></span>으로 볼 수 있다.
+  <li><span style="color: #8D4801"><strong>로컬 저장소의 모든 추적 브랜치를 목록</strong></span>으로 볼 수 있다.
 <img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/git-command-branch-vv.webp" title="Git command to show list of tracking branch in local repository" alt="Git command to show list of tracking branch in local repository" /></li>
-    </ul>
-  </li>
 </ul>
 
 <p><br /></p>
 
+<h5 id="원격-브랜치-목록보기"><strong>원격 브랜치 목록보기</strong></h5>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git branch <span class="nt">-r</span>
+</code></pre></div></div>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git branch <span class="nt">--remotes</span>
+</code></pre></div></div>
 <ul>
-  <li><strong>원격 브랜치 목록보기</strong>
-    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git branch <span class="nt">-r</span>
-</code></pre></div>    </div>
-    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git branch <span class="nt">--remotes</span>
-</code></pre></div>    </div>
-    <ul>
-      <li>모든 <span style="color: #8D4801"><strong>원격 브랜치를 목록</strong></span>으로 볼 수 있다.
+  <li>모든 <span style="color: #8D4801"><strong>원격 브랜치를 목록</strong></span>으로 볼 수 있다.
 <img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/git-command-branch-r.webp" title="Git command to show list of remote branch" alt="Git command to show list of remote branch" /></li>
-    </ul>
-  </li>
 </ul>
 
 <p><br /></p>
 
+<h5 id="모든-브랜치-목록보기"><strong>모든 브랜치 목록보기</strong></h5>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git branch <span class="nt">-a</span>
+</code></pre></div></div>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git branch <span class="nt">--all</span>
+</code></pre></div></div>
 <ul>
-  <li><strong>모든 브랜치 목록보기</strong>
-    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git branch <span class="nt">-a</span>
-</code></pre></div>    </div>
-    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git branch <span class="nt">--all</span>
-</code></pre></div>    </div>
-    <ul>
-      <li><span style="color: #8D4801"><strong>모든 브랜치를 목록</strong></span>으로 볼 수 있다.
+  <li><span style="color: #8D4801"><strong>모든 브랜치를 목록</strong></span>으로 볼 수 있다.
 <img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/git-command-branch-a.webp" title="Git command to show list of all branch" alt="Git command to show list of all branch" /></li>
-    </ul>
-  </li>
 </ul>
 
 <p><br /></p>
 
+<h5 id="브랜치-병합-여부-확인하기"><strong>브랜치 병합 여부 확인하기</strong></h5>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git branch <span class="nt">--merged</span>
+</code></pre></div></div>
 <ul>
-  <li><strong>브랜치 병합 여부 확인하기</strong>
-    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git branch <span class="nt">--merged</span>
-</code></pre></div>    </div>
-    <ul>
-      <li><span style="color: #8D4801"><strong>병합한 브랜치</strong></span>를 목록으로 볼 수 있다. 병합한 브랜치는 <span style="color: #8D4801"><strong>애스터리스크(*) 기호</strong></span>로 표시된다.
+  <li><span style="color: #8D4801"><strong>병합한 브랜치</strong></span>를 목록으로 볼 수 있다. 병합한 브랜치는 <span style="color: #8D4801"><strong>애스터리스크(*) 기호</strong></span>로 표시된다.
 <img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/git-command-branch-merged.webp" title="Git command to show list of merged local branch" alt="Git command to show list of merged local branch" /></li>
-    </ul>
-  </li>
 </ul>
 
 <p><br /></p>
 
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git branch <span class="nt">--no-merged</span>
+</code></pre></div></div>
 <ul>
-  <li>
-    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git branch <span class="nt">--no-merged</span>
-</code></pre></div>    </div>
-    <ul>
-      <li><span style="color: #8D4801"><strong>병합하지 않은 브랜치</strong></span>를 목록으로 볼 수 있다.
+  <li><span style="color: #8D4801"><strong>병합하지 않은 브랜치</strong></span>를 목록으로 볼 수 있다.
 <img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/git-command-branch-no-merged.webp" title="Git command to show list of unmerged local branch" alt="Git command to show list of unmerged local branch" /></li>
-    </ul>
-  </li>
 </ul>
 
 <hr />
@@ -381,109 +348,93 @@
 
 <p><br /></p>
 
+<h5 id="파일-체크아웃"><strong>파일 체크아웃</strong></h5>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git checkout <span class="nt">--</span> &lt;파일 이름&gt;
+</code></pre></div></div>
 <ul>
-  <li><strong>파일 체크아웃</strong>
-    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git checkout <span class="nt">--</span> &lt;파일 이름&gt;
-</code></pre></div>    </div>
-    <ul>
-      <li>브랜치뿐만 아니라 <span style="color: #8D4801"><strong>파일로도 checkout</strong></span> 할 수 있다.</li>
-      <li>Working directory에 작업한 기록이 존재하고 Stage area에 commit 되지 않은 기록이 존재할 경우, 마치 마지막 commit 기준으로 <span style="color: #8D4801"><strong>파일을 복원하는 것과 같이 동작</strong></span>한다.
+  <li>브랜치뿐만 아니라 <span style="color: #8D4801"><strong>파일로도 checkout</strong></span> 할 수 있다.</li>
+  <li>Working directory에 작업한 기록이 존재하고 Stage area에 commit 되지 않은 기록이 존재할 경우, 마치 마지막 commit 기준으로 <span style="color: #8D4801"><strong>파일을 복원하는 것과 같이 동작</strong></span>한다.
 <img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/git-command-checkout-file.webp" title="Git command to checkout to the file" alt="Git command to checkout to the file" /></li>
-    </ul>
-  </li>
 </ul>
 
 <p><br /></p>
 
+<h5 id="이전-브랜치"><strong>이전 브랜치</strong></h5>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git switch -
+</code></pre></div></div>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git checkout -
+</code></pre></div></div>
 <ul>
-  <li><strong>이전 브랜치</strong>
-    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git switch -
-</code></pre></div>    </div>
-    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git checkout -
-</code></pre></div>    </div>
-    <ul>
-      <li>리눅스에서 대시(-) 기호는 이전 디렉토리를 의미한다. 이 명령어는 <span style="color: #8D4801"><strong>이전 브랜치로의 이동</strong></span>을 뜻한다.
+  <li>리눅스에서 대시(-) 기호는 이전 디렉토리를 의미한다. 이 명령어는 <span style="color: #8D4801"><strong>이전 브랜치로의 이동</strong></span>을 뜻한다.
 <img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/git-command-switch--.webp" title="Git command to switch to last branch" alt="Git command to switch to last branch" /></li>
-    </ul>
-  </li>
 </ul>
 
 <p><br /></p>
 
-<ul>
-  <li><strong>HEAD 포인터</strong>
-    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git switch <span class="nt">--detach</span> HEAD^^^
+<h5 id="head-포인터"><strong>HEAD 포인터</strong></h5>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git switch <span class="nt">--detach</span> HEAD^^^
 git switch <span class="nt">--detach</span> HEAD~~~
 git switch <span class="nt">--detach</span> HEAD~3
-</code></pre></div>    </div>
-    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git checkout HEAD^^^
+</code></pre></div></div>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git checkout HEAD^^^
 git checkout HEAD~~~
 git checkout HEAD~3
-</code></pre></div>    </div>
-    <ul>
-      <li>
-        <p>HEAD 포인터를 기준으로 상대적 위치 이동 명령어이다. <span style="color: #8D4801"><strong>캐럿(^) 또는 물결(~) 기호</strong></span>를 사용하여 commit의 상대적 위치를 지정할 수 있다. <span style="color: #8D4801"><strong>기호의 숫자만큼 이전 commit으로 이동</strong></span>한다. <span style="color: #8D4801"><strong>물결(~) 기호를 이용할 경우 기호 1개와 원하는 이동량만큼의 숫자 입력만으로</strong></span> 이동할 수 있다.
+</code></pre></div></div>
+<ul>
+  <li>
+    <p>HEAD 포인터를 기준으로 상대적 위치 이동 명령어이다. <span style="color: #8D4801"><strong>캐럿(^) 또는 물결(~) 기호</strong></span>를 사용하여 commit의 상대적 위치를 지정할 수 있다. <span style="color: #8D4801"><strong>기호의 숫자만큼 이전 commit으로 이동</strong></span>한다. <span style="color: #8D4801"><strong>물결(~) 기호를 이용할 경우 기호 1개와 원하는 이동량만큼의 숫자 입력만으로</strong></span> 이동할 수 있다.
 <img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/git-command-switch-detach-head.webp" title="Git command to switch back for number of steps from HEAD pointer" alt="Git command to switch back for number of steps from HEAD pointer" /></p>
-      </li>
-      <li><span style="color: #8D4801"><strong>BEHIND</strong></span>
-        <ul>
-          <li><span style="color: #8D4801">로컬 저장소로 내려받지 않은 commit이 존재하는 상태</span>이다.</li>
-          <li>보통 다른 개발자가 코드를 수정하고 먼저 commit 하여 원격 저장소의 commit이 자신의 로컬 저장소보다 더 최신 상태인 것을 뜻한다.</li>
-        </ul>
-      </li>
-      <li><span style="color: #8D4801"><strong>AHEAD</strong></span>
-        <ul>
-          <li><span style="color: #8D4801">서버로 전송되지 않은 로컬 commit이 존재하는 상태</span>이다.</li>
-          <li>보통 업로드되어 있는 서버의 commit 개수보다 로컬 저장소의 HEAD 포인터를 기준으로 로컬 브랜치에 존재하는 commit의 개수가 많은 상태를 뜻한다.
-<img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/branches-in-remote-repository-in-github.webp" title="Branches in remote repository in Github" alt="Branches in remote repository in Github" /></li>
-        </ul>
-      </li>
-    </ul>
   </li>
-</ul>
-
-<p><br /></p>
-
-<ul>
-  <li><strong>브랜치 새로 생성하면서 이동하기</strong>
-    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git switch <span class="nt">-c</span> &lt;브랜치 이름&gt;
-</code></pre></div>    </div>
-    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git switch <span class="nt">--create</span> &lt;브랜치 이름&gt;
-</code></pre></div>    </div>
-    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git checkout <span class="nt">-b</span> &lt;브랜치 이름&gt;
-</code></pre></div>    </div>
+  <li><span style="color: #8D4801"><strong>BEHIND</strong></span>
     <ul>
-      <li>&lt;브랜치 이름&gt; 뒤에 <span style="color: #8D4801"><strong>&lt;원격 저장소 이름/브랜치 이름&gt;</strong></span> 를 추가할 경우 <span style="color: #8D4801"><strong>업스트림 설정까지 동시에 진행</strong></span>할 수 있다.</li>
+      <li><span style="color: #8D4801">로컬 저장소로 내려받지 않은 commit이 존재하는 상태</span>이다.</li>
+      <li>보통 다른 개발자가 코드를 수정하고 먼저 commit 하여 원격 저장소의 commit이 자신의 로컬 저장소보다 더 최신 상태인 것을 뜻한다.</li>
     </ul>
-
-    <ol>
-      <li>
-        <p>명령어 실행 전
-<img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/before-git-command-switch-c.webp" title="Branch list before git switch -c" alt="Branch list before git switch -c" /></p>
-      </li>
-      <li>
-        <p>명령어 실행
-<img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/git-command-switch-c.webp" title="Git command to create new branch and to switch to the branch" alt="Git command to create new branch and to switch to the branch" /></p>
-      </li>
-      <li>
-        <p>명령어 실행 후
-<img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/after-git-command-switch-c.webp" title="Branch list after git switch -c" alt="Branch list after git switch -c" /></p>
-      </li>
-    </ol>
+  </li>
+  <li><span style="color: #8D4801"><strong>AHEAD</strong></span>
+    <ul>
+      <li><span style="color: #8D4801">서버로 전송되지 않은 로컬 commit이 존재하는 상태</span>이다.</li>
+      <li>보통 업로드되어 있는 서버의 commit 개수보다 로컬 저장소의 HEAD 포인터를 기준으로 로컬 브랜치에 존재하는 commit의 개수가 많은 상태를 뜻한다.
+<img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/branches-in-remote-repository-in-github.webp" title="Branches in remote repository in Github" alt="Branches in remote repository in Github" /></li>
+    </ul>
   </li>
 </ul>
 
 <p><br /></p>
 
+<h5 id="브랜치-새로-생성하면서-이동하기"><strong>브랜치 새로 생성하면서 이동하기</strong></h5>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git switch <span class="nt">-c</span> &lt;브랜치 이름&gt;
+</code></pre></div></div>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git switch <span class="nt">--create</span> &lt;브랜치 이름&gt;
+</code></pre></div></div>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git checkout <span class="nt">-b</span> &lt;브랜치 이름&gt;
+</code></pre></div></div>
 <ul>
-  <li><strong>커밋으로 이동하기</strong>
-    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git switch <span class="nt">--detach</span> &lt;커밋 해시값&gt;
-</code></pre></div>    </div>
-    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git checkout &lt;커밋 해시값&gt;
-</code></pre></div>    </div>
-    <p><img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/git-command-switch-detach-commit-hash-value.webp" title="Git command to switch to the commit" alt="Git command to switch to the commit" /></p>
+  <li>
+    <p>&lt;브랜치 이름&gt; 뒤에 <span style="color: #8D4801"><strong>&lt;원격 저장소 이름/브랜치 이름&gt;</strong></span> 를 추가할 경우 <span style="color: #8D4801"><strong>업스트림 설정까지 동시에 진행</strong></span>할 수 있다.</p>
+  </li>
+  <li>
+    <p>명령어 실행 전
+<img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/before-git-command-switch-c.webp" title="Branch list before git switch -c" alt="Branch list before git switch -c" /></p>
+  </li>
+  <li>
+    <p>명령어 실행
+<img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/git-command-switch-c.webp" title="Git command to create new branch and to switch to the branch" alt="Git command to create new branch and to switch to the branch" /></p>
+  </li>
+  <li>
+    <p>명령어 실행 후
+<img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/after-git-command-switch-c.webp" title="Branch list after git switch -c" alt="Branch list after git switch -c" /></p>
   </li>
 </ul>
+
+<p><br /></p>
+
+<h5 id="커밋으로-이동하기"><strong>커밋으로 이동하기</strong></h5>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git switch <span class="nt">--detach</span> &lt;커밋 해시값&gt;
+</code></pre></div></div>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git checkout &lt;커밋 해시값&gt;
+</code></pre></div></div>
+<p><img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/git-command-switch-detach-commit-hash-value.webp" title="Git command to switch to the commit" alt="Git command to switch to the commit" /></p>
 
 <hr />
 
