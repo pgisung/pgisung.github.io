@@ -16,10 +16,13 @@ description: Git의 branch가 무엇인지 알아보자. 그리고 branch를 관
 ---
 
 #### 들어가기 전에
-- Branch는 Git에서 commit만큼이나 중요한 핵심 요소이다. commit이 Git의 내용물이라고 하면 branch는 일종의 포장과 같다고 볼 수 있는데 이 두 요소의 개념만 확실히 잡아둬도 Git의 원리를 좀 더 쉽게 이해할 수 있다.
-<img src="{{site.baseurl}}/images/posts/2023-09-27-What-is-the-branch-on-Git/commits-and-branches.webp" title="Example image for several commits and branches" alt="Example image for several commits and branches" width="70%" style="display: block; margin: 0 auto; margin-top: 1em;">
+Branch는 Git에서 commit만큼이나 중요한 핵심 요소이다. commit이 Git의 내용물이라고 하면 branch는 일종의 포장과 같다고 볼 수 있는데 이 두 요소의 개념만 확실히 잡아둬도 Git의 원리를 좀 더 쉽게 이해할 수 있다.
 
-- <span style="color: #8D4801">**Git 공부를 할 때 헷갈리는 것 중의 하나가 동일한 기능을 하는 여러 개의 다른 명령어**</span>라고 생각하는데 이번 포스트에서의 <span style="color: #8D4801">**checkout**</span>과 <span style="color: #8D4801">**switch**</span>가 그러하다. 과거엔 switch라는 명령어가 존재하지 않았고 checkout 명령어가 너무 여러 가지의 기능들을 모두 수행하고 있었는데, 그로 인해 Git에 새로 입문하는 사람들에게 어려움을 주었었다. "이 명령어는 이것도 하고 저것도 하는데 그래서 이건 대체 무슨 명령어인가?" 하는 모호성도 존재했고... 그래서 그런지 최근엔 restore, switch 등 명령어들이 하나하나의 세분된 명령어들로써 등장했고 그러다 보니 동일한 기능을 하는 명령어들이 많아진 것이다. (새로운 명령어를 추가했다 하더라도 과거의 명령어인 checkout을 여전히 사용 중인 사람들이 많기 때문에 당장 명령어의 기능을 수정하거나 삭제할 순 없다.) <span style="color: #8D4801">**개인적인 생각으론 어느 한쪽을 골라야만 한다면 필자는 가장 최근에 추가된 명령어를 사용**</span>한다. 왜냐하면 동일한 기능을 함에도 새로 명령어를 추가했다는 것은 <span style="color: #8D4801">**Git의 개발자들에게도 분명한 이유와 의도가 있기 때문**</span>이다.
+<center><img src="{{site.baseurl}}/images/posts/2023-09-27-What-is-the-branch-on-Git/commits-and-branches.webp" title="Example image for several commits and branches" alt="Example image for several commits and branches" width="70%"></center>
+
+<br>
+
+<span style="color: #8D4801">**Git 공부를 할 때 헷갈리는 것 중의 하나가 동일한 기능을 하는 여러 개의 다른 명령어**</span>라고 생각하는데 이번 포스트에서의 <span style="color: #8D4801">**checkout**</span>과 <span style="color: #8D4801">**switch**</span>가 그러하다. 과거엔 switch라는 명령어가 존재하지 않았고 checkout 명령어가 너무 여러 가지의 기능들을 모두 수행하고 있었는데, 그로 인해 Git에 새로 입문하는 사람들에게 어려움을 주었었다. "이 명령어는 이것도 하고 저것도 하는데 그래서 이건 대체 무슨 명령어인가?" 하는 모호성도 존재했고... 그래서 그런지 최근엔 restore, switch 등 명령어들이 하나하나의 세분된 명령어들로써 등장했고 그러다 보니 동일한 기능을 하는 명령어들이 많아진 것이다. (새로운 명령어를 추가했다 하더라도 과거의 명령어인 checkout을 여전히 사용 중인 사람들이 많기 때문에 당장 명령어의 기능을 수정하거나 삭제할 순 없다.) <span style="color: #8D4801">**개인적인 생각으론 어느 한쪽을 골라야만 한다면 필자는 가장 최근에 추가된 명령어를 사용**</span>한다. 왜냐하면 동일한 기능을 함에도 새로 명령어를 추가했다는 것은 <span style="color: #8D4801">**Git의 개발자들에게도 분명한 이유와 의도가 있기 때문**</span>이다.
 
 ---
 
@@ -42,7 +45,7 @@ description: Git의 branch가 무엇인지 알아보자. 그리고 branch를 관
 <br>
 
 - **Branch의 종류**
-<img src="{{site.baseurl}}/images/posts/2023-09-27-What-is-the-branch-on-Git/image-that-showing-kind-of-branch.webp" title="" alt="" width="70%" style="display: block; margin: 0 auto; margin-top: 1em;">
+<img src="{{site.baseurl}}/images/posts/2023-09-27-What-is-the-branch-on-Git/image-that-showing-kind-of-branch.webp" title="Image that showing kind of branch" alt="Image that showing kind of branch" width="70%">
 
   - **Default branch**
     - 당연하게도 Git에서 작업을 하려면 최소한 한 개 이상의 브랜치가 필요하다. 그러므로 <span style="color: #8D4801">**Git은 저장소가 초기화될 때 무조건 Default branch를 한 개 생성**</span>한다.
