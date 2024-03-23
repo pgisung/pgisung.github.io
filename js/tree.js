@@ -164,14 +164,30 @@ class Tree {
     for (let i = this.cntDepth; i < this.branches.length; i++) {
       let pass = true;
 
+      const promises = [];
       for (let j = 0; j < this.branches[i].length; j++) {
-        pass = this.branches[i][j].draw(this.ctx);
+        promises.push(new Promise(() => {
+          pass = this.branches[i][j].draw(this.ctx);
+        }));
       }
+
+      Promise.all(promises)
+        .catch(error => {
+            console.error("class Tree draw 에러 발생:", error);
+        });
       // 가지 끝에 나뭇잎 그리기
       if (i === this.branches.length - 1 && pass === true) {
+        const promises = [];
         for (let k = 0; k < this.leaves.length; k++) {
-          pass = this.leaves[k].draw(this.ctx);
+          promises.push(new Promise(() => {
+            pass = this.leaves[k].draw(this.ctx);
+          }));
         }
+
+        Promise.all(promises)
+          .catch(error => {
+              console.error("class Tree draw 에러 발생:", error);
+          });
       }
 
       if (!pass) break;
@@ -204,13 +220,21 @@ class Tree {
     if(this.edgeXs.length < this.leafElements.length) return;
     if(this.edgeYs.length < this.leafElements.length) return;
 
+    const promises = [];
     this.leafElements.forEach((leaf) => {
-      const leafIndex = this.random(0, this.edgeXs.length - 1);
-      leaf.style.left = this.edgeXs[leafIndex] - (leaf.offsetWidth / 2) + 'px';
-      leaf.style.top = this.edgeYs[leafIndex] - (leaf.offsetHeight / 2) + 'px';
-      this.edgeXs.splice(leafIndex, 1);
-      this.edgeYs.splice(leafIndex, 1);
+      promises.push(new Promise(() => {
+        const leafIndex = this.random(0, this.edgeXs.length - 1);
+        leaf.style.left = this.edgeXs[leafIndex] - (leaf.offsetWidth / 2) + 'px';
+        leaf.style.top = this.edgeYs[leafIndex] - (leaf.offsetHeight / 2) + 'px';
+        this.edgeXs.splice(leafIndex, 1);
+        this.edgeYs.splice(leafIndex, 1);
+      }));
     });
+
+    Promise.all(promises)
+      .catch(error => {
+          console.error("relocateLeaves 에러 발생:", error);
+      });
   }
 
   isAnimationCompleted() {
@@ -281,7 +305,7 @@ class Leaf {
     this.shortRadius = shortRadius;
     this.rotation = rotation;
 
-    this.frame = 1;
+    this.frame = 10;
     this.cntFrame = 0;
 
     // this.stemLength = Math.sqrt(Math.pow(startX - endX, 2) + Math.pow(startY - endY, 2));

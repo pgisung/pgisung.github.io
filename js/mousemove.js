@@ -129,7 +129,7 @@ function doFallingAnimation() {
 
   Promise.all(promises)
     .catch(error => {
-        console.error("에러 발생:", error);
+        console.error("doFallingAnimation 에러 발생:", error);
     });
 }
 
