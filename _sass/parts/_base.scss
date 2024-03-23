@@ -338,7 +338,14 @@ table tr:hover {
   }
 }
 
-// 커서 추가
 * {
-  cursor: url(../assets/cursors/nat70.cur), auto !important;
+  // 커서 추가
+  cursor: url(../assets/cursors/nat70.cur), auto;
+  // 드래그 비활성화
+  user-select: none;
+}
+
+*[style*="cursor: pointer"],
+a {
+  cursor: pointer !important;
 }

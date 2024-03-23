@@ -1,4 +1,5 @@
-const ELEMENTS=33;
+const ELEMENT="🍂";
+const ELEMENTS=20;
 const BEGIN_FZ="20px";
 const BEGIN_OPACITY=1;
 const DEFAULT_WIDTH=800;
@@ -12,21 +13,27 @@ var sleft=sdown=0;
 var ele=new Array(); //element
 var elex=new Array();
 var eley=new Array();
-var elev=new Array();
+var elev=new Array(); // 프레임수라고 생각하자 1이상이면 보이는 것 0이면 안보이는 것
 
 // 창이 로드될 때 요소 설정
 window.addEventListener('load', function() {
   if (document.getElementById) {
-    var mat; //material
+    var box;
     for (var i=0; i<ELEMENTS; i++) {
-      mat = document.createElement("div");
-      mat.textContent = "🍂";
-      mat.style.position = "absolute";
-      mat.style.zIndex = "999";
-      document.body.appendChild(ele[i]=mat);
+      box = document.createElement("div");
+      box.textContent = ELEMENT;
+      box.style.position = "absolute";
+      box.style.left = "0";
+      box.style.top = "0";
+      box.style.zIndex = "999";
+      box.style.visibility="hidden";
+      // box.style.webkitUserSelect = "none";
+      // box.style.MozUserSelect = "none";
+      // box.style.msUserSelect = "none";
+      // box.style.userSelect = "none";
+      document.body.appendChild(ele[i]=box);
     }
     set_screen_size();
-    doRecursiveMouseMoveEffect();
   }
 });
 
@@ -43,10 +50,8 @@ window.addEventListener('mousemove', function(e) {
   }
 });
 
-window.addEventListener('resize', set_screen_size);
-window.addEventListener('scroll', set_scroll);
-
 // 창의 크기값(swide, shigh)을 가져와서 사용을 위해 갖고있는다.
+window.addEventListener('resize', set_screen_size);
 function set_screen_size() {
   var sw_min=Number.MAX_SAFE_INTEGER;
   var sh_min=Number.MAX_SAFE_INTEGER;
@@ -70,6 +75,7 @@ function set_screen_size() {
   shigh=sh_min;
 }
 
+window.addEventListener('scroll', set_scroll);
 function set_scroll() {
   if (typeof(window.pageYOffset)=='number') {
     sleft=window.pageXOffset;
@@ -89,61 +95,71 @@ function set_scroll() {
   }
 }
 
-function doRecursiveMouseMoveEffect() {
-  var i;
+const intervalCreateElement = setInterval(() => {
+  doCreateElement();
+}, 333);
+
+function doCreateElement() {
   if (Math.abs(x-ox)>1 || Math.abs(y-oy)>1) {
     ox=x;
     oy=y;
-    for (i=0; i<ELEMENTS; i++) if (!elev[i]) {
+    for (var i=0; i<ELEMENTS; i++) if (!elev[i]) {
       ele[i].style.left=(elex[i]=x)+"px";
       ele[i].style.top=(eley[i]=y+1)+"px";
       ele[i].style.fontSize = BEGIN_FZ;
       ele[i].style.opacity = BEGIN_OPACITY;
       ele[i].style.visibility="visible";
-      elev[i]=100;
-      // doCreateElement(i);
+      elev[i]=50;
       break;
     }
   }
-  for (i=0; i<ELEMENTS; i++) {
-    if (elev[i]) doFallingEffect(i);
-  }
-  setTimeout("doRecursiveMouseMoveEffect()", 40);
 }
 
-// 마우스 무브 이펙트 요소 생성시 반복문안에 딜레이 추가하는건데 일단 봉인
-// function doCreateElement(i) {
-//   setTimeout(function() {
-//     ele[i].style.left = (elex[i] = x) + "px";
-//     ele[i].style.top = (eley[i] = y + 1) + "px";
-//     ele[i].style.fontSize = BEGIN_FZ;
-//     ele[i].style.opacity = BEGIN_OPACITY;
-//     ele[i].style.visibility = "visible";
-//     elev[i] = 100;
-//   }, i * 10); // 각 작업 간의 간격 (10 ms)
-// }
+const intervalFallingAnimation = setInterval(() => {
+  doFallingAnimation();
+}, 40);
+
+function doFallingAnimation() {
+  const promises = [];
+  for (let i=0; i<ELEMENTS; i++) {
+    promises.push(new Promise(() => {
+      doFallingEffect(i);
+    }));
+  }
+
+  Promise.all(promises)
+    .catch(error => {
+        console.error("에러 발생:", error);
+    });
+}
 
 function doFallingEffect(i) {
+  // 프레임수가 0이 되면 빠져나감
+  if (--elev[i] <= 0) {
+    ele[i].style.visibility="hidden";
+    elev[i]=0;
+    return;
+  }
+
+  // 요소의 위치, 투명도, 사이즈가 이미 사라진 것과 다름없을 경우 빠져나감
+  if (eley[i]>=shigh+sdown || ele[i].style.opacity === 0 || ele[i].style.fontSize < 2) {
+    ele[i].style.visibility="hidden";
+    elev[i]=0;
+    return;
+  }
+
   var currentFontSize = parseFloat(window.getComputedStyle(ele[i]).fontSize);
 
-  if (--elev[i]) {
-    elex[i]+=(i%5-2)/5;
-    eley[i]+=1+Math.random()*3;
-    if (eley[i]<shigh+sdown) {
-      ele[i].style.left=elex[i]+"px";
-      ele[i].style.top=eley[i]+"px";
-      ele[i].style.opacity -= 0.01;
+  // 좌표 연산부
+  elex[i]+=(i%5-2)/5;
+  eley[i]+=1+Math.random()*3;
 
-      if (elev[i] % 10 === 0 && currentFontSize > 1) {
-        ele[i].style.fontSize = (currentFontSize - 1) + 'px';
-      }
-    }
-    else {
-      ele[i].style.visibility="hidden";
-      elev[i]=0;
-    }
-  }
-  else {
-    ele[i].style.visibility="hidden";
+  // css 입력부
+  ele[i].style.left=elex[i]+"px";
+  ele[i].style.top=eley[i]+"px";
+  ele[i].style.opacity -= 0.02;
+
+  if (elev[i] % 10 === 0 && currentFontSize > 3) {
+    ele[i].style.fontSize = (currentFontSize - 2) + 'px';
   }
 }
