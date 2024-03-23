@@ -305,7 +305,7 @@ class Leaf {
     this.shortRadius = shortRadius;
     this.rotation = rotation;
 
-    this.frame = 10;
+    this.frame = 1;
     this.cntFrame = 0;
 
     // this.stemLength = Math.sqrt(Math.pow(startX - endX, 2) + Math.pow(startY - endY, 2));
