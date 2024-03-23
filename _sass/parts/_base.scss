@@ -337,3 +337,8 @@ table tr:hover {
     color: rgba(0, 0, 0, 0.2);
   }
 }
+
+// 커서 추가
+* {
+  cursor: url(../assets/cursors/nat70.cur), auto !important;
+}

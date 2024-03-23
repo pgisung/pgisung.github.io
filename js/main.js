@@ -24,8 +24,8 @@ $(function() {
   $(window).on("resize", function() {
     var e = $(this);
     if (e.width() >= 991) {
+      $(".full-page-container, .navigation-wrap").removeClass("open");
       $(".overlay").removeClass("show");
-      $(".full-page-container").removeClass("open");
       $(".nav-toggle").html('<i class="fa fa-bars" aria-hidden="true"></i>');
     }
   });

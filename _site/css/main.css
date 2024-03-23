@@ -1230,6 +1230,10 @@ table tr:hover {
   color: rgba(0, 0, 0, 0.2);
 }
 
+* {
+  cursor: url(../assets/cursors/nat70.cur), auto !important;
+}
+
 /* 2. ========== Header Menu ========== */
 .site-header {
   top: 0;
