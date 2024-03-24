@@ -1,5 +1,5 @@
 const ELEMENT="🍂";
-const ELEMENTS=20;
+const ELEMENTS=5;
 const BEGIN_FZ="20px";
 const BEGIN_OPACITY=1;
 const DEFAULT_WIDTH=800;
@@ -117,7 +117,7 @@ function doCreateElement() {
 
 const intervalFallingAnimation = setInterval(() => {
   doFallingAnimation();
-}, 40);
+}, 25);
 
 function doFallingAnimation() {
   const promises = [];
@@ -142,7 +142,7 @@ function doFallingEffect(i) {
   }
 
   // 요소의 위치, 투명도, 사이즈가 이미 사라진 것과 다름없을 경우 빠져나감
-  if (eley[i]>=shigh+sdown || ele[i].style.opacity === 0 || ele[i].style.fontSize < 2) {
+  if (eley[i]>=shigh+sdown || ele[i].style.opacity <= 0 || ele[i].style.fontSize < 2) {
     ele[i].style.visibility="hidden";
     elev[i]=0;
     return;
