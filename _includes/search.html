@@ -1,4 +1,4 @@
-<div class="search-box">
+<div class="search-box" aria-modal="true" role="dialog">
   <div class="wrapper-content">
     <form class="search-form">
       <label class="screen-reader-text" for="search-input">Search for Blog</label>
@@ -19,7 +19,7 @@
   {% assign category_words = site_categories | split:',' | sort %}
   <div class="blog-categories">
     <ul class="categories clearfix">
-      <span class="bar-title">Categories:</span>
+      <a href="{{ site.url }}/categories" class="bar-title" title="Navigate to Categories page">Categories:</a>
       {% for item in (0..site.categories.size) %}{% unless forloop.last %}
         {% capture this_word %}{{ category_words[item] | strip_newlines }}{% endcapture %}
         <li><a href="" class="category" title="{{ this_word }} category">{{ this_word }} <span>({{ site.categories[this_word].size }})</span></a></li>
@@ -30,7 +30,7 @@
   {% assign tag_words = site_tags | split:',' | sort %}
   <div class="blog-tags">
     <ul class="tags clearfix">
-      <span class="bar-title">Tags:</span>
+      <a href="{{ site.url }}/tags" class="bar-title" title="Navigate to Tags page">Tags:</a>
       {% for item in (0..site.tags.size) %}{% unless forloop.last %}
         {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
         <li><a href="" class="tag" title="{{ this_word }} tag">{{ this_word }} <span>({{ site.tags[this_word].size }})</span></a></li>

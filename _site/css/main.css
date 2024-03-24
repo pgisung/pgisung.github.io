@@ -1105,7 +1105,7 @@ table tr:hover {
   left: 0;
   bottom: 0;
   pointer-events: none;
-  background: transparent;
+  background: rgba(0, 0, 0, 0.5);
   z-index: 1;
   filter: alpha(opacity=0);
   opacity: 0;
@@ -1119,6 +1119,13 @@ table tr:hover {
   -webkit-filter: none;
           filter: none;
   opacity: 1;
+}
+.overlay.open {
+  pointer-events: auto;
+  -webkit-filter: none;
+          filter: none;
+  opacity: 1;
+  z-index: 420;
 }
 
 .full-page-container {
@@ -1156,10 +1163,7 @@ table tr:hover {
 
 .wrapper-content {
   position: relative;
-  width: 1440px;
-  max-width: 100%;
-  margin: 0 auto;
-  padding: 0 15px;
+  width: 100%;
 }
 
 .btn {
@@ -1285,7 +1289,7 @@ a {
   top: 0;
   left: 0;
   width: 100%;
-  z-index: 100;
+  z-index: 10;
   height: 60px;
   position: fixed;
   background-color: #8D4801;
@@ -1296,6 +1300,7 @@ a {
   float: left;
   position: absolute;
   top: 50%;
+  left: 15px;
   -webkit-transform: translateY(-50%);
       -ms-transform: translateY(-50%);
           transform: translateY(-50%);
@@ -1382,7 +1387,6 @@ a {
   .site-logo {
     position: absolute;
     top: 50%;
-    left: 15px;
     -webkit-transform: translateY(-50%);
         -ms-transform: translateY(-50%);
             transform: translateY(-50%);
@@ -1440,20 +1444,24 @@ a {
 }
 /* 2.1 ========== Search Box ========== */
 .search-box {
-  width: 100%;
-  height: 60px;
-  opacity: 0;
-  visibility: hidden;
+  width: 80%;
+  height: 80%;
+  display: none;
   position: fixed;
-  top: 0;
-  right: 0;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  overflow: hidden;
+  border: 1px solid #8D4801;
+  border-radius: 14px;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
 .search-box.show {
-  opacity: 1;
-  visibility: visible;
-  z-index: 100;
+  display: block;
+  z-index: 666;
 }
 .search-box.show .wrapper-content ::-moz-selection {
   background: rgba(250, 181, 112, 0.7);
@@ -1479,15 +1487,18 @@ a {
   float: left;
   margin: 0 10px 10px 0;
 }
+.search-box .blog-categories .bar-title:hover, .search-box .blog-tags .bar-title:hover {
+  color: green;
+}
 .search-box .blog-categories {
   top: 60px;
-  background: -webkit-gradient(linear, left top, right top, from(rgba(141, 72, 1, 0.97)), to(rgba(198, 163, 128, 0.97)));
-  background: linear-gradient(90deg, rgba(141, 72, 1, 0.97), rgba(198, 163, 128, 0.97));
+  background: -webkit-gradient(linear, left top, right top, from(#8D4801), to(rgb(198, 163, 128)));
+  background: linear-gradient(90deg, #8D4801, rgb(198, 163, 128));
 }
 .search-box .blog-tags {
   top: 112px;
-  background: -webkit-gradient(linear, left top, right top, from(rgba(198, 163, 128, 0.97)), to(rgba(255, 255, 255, 0.97)));
-  background: linear-gradient(90deg, rgba(198, 163, 128, 0.97), rgba(255, 255, 255, 0.97));
+  background: -webkit-gradient(linear, left top, right top, from(rgb(198, 163, 128)), to(#ffffff));
+  background: linear-gradient(90deg, rgb(198, 163, 128), #ffffff);
 }
 
 .search-toggle {
@@ -1544,7 +1555,6 @@ a {
 .search-field {
   height: 60px;
   width: 100%;
-  margin-left: -20px;
   padding: 0 20px;
   font-size: 16px;
   outline: none;
@@ -1559,10 +1569,7 @@ a {
   line-height: 40px;
   text-align: center;
   position: absolute;
-  top: 50%;
-  -webkit-transform: translateY(-50%);
-      -ms-transform: translateY(-50%);
-          transform: translateY(-50%);
+  top: 10px;
   background-color: #5a2e01;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
@@ -1570,30 +1577,29 @@ a {
   cursor: pointer;
 }
 .btn-remove:hover, .btn-close:hover {
-  background-color: #412100;
+  background-color: black;
 }
 
 .btn-remove {
-  right: 45px;
+  right: 52px;
 }
 
 .btn-close {
-  right: 3px;
+  right: 10px;
 }
 
 .search-results-list {
   width: 100%;
-  height: calc(100vh - 164px);
+  height: calc(100% - 164px);
   margin: 0;
-  padding: 40px 15px;
+  padding: 15px 15px;
   position: absolute;
   top: 164px;
   left: 0;
-  bottom: 0;
   text-align: left;
   list-style: none;
   overflow-y: auto;
-  background-color: rgba(255, 255, 255, 0.97);
+  background-color: #ffffff;
 }
 .search-results-list li {
   margin-bottom: 20px;
@@ -1659,6 +1665,210 @@ a {
   font-weight: bold;
 }
 
+@media screen and (max-width: 480px) {
+  .search-box {
+    width: 100%;
+    height: 100%;
+    border-radius: 0;
+  }
+}
+/* .search-box {
+  width: 100%;
+  height: 60px;
+  opacity: 0;
+  visibility: hidden;
+  // 타이틀 고정용 - 필요 없으면 아래 position: absolute로 변경
+  position: fixed;
+  // position: absolute;
+  top: 0;
+  right: 0;
+  transition: all 0.3s ease-in-out;
+
+  &.show {
+    opacity: 1;
+    visibility: visible;
+    z-index: 666;
+    .wrapper-content ::selection {
+      background: rgba(250, 181, 112, 0.7);
+      color: #ffffff;
+    }
+  }
+  .blog-categories, .blog-tags {
+    width: 100%;
+    height: 52px;
+    margin: 0;
+    padding: 10px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    overflow-y: auto;
+    .bar-title {
+      font-weight: 700;
+      color: #ffffff;
+      float: left;
+      margin: 0 10px 10px 0;
+    }
+  }
+  .blog-categories {
+    top: 60px;
+    background: linear-gradient(90deg, rgba(141, 72, 1, 0.97), rgba(198, 163, 128, 0.97));
+  }
+  .blog-tags {
+    top: 112px;
+    background: linear-gradient(90deg, rgba(198, 163, 128, 0.97), rgba(255, 255, 255, 0.97));
+  }
+}
+
+.search-toggle {
+  position: absolute;
+  top: 50%;
+  right: 15px;
+  transform: translateY(-50%);
+  font-size: 15px;
+  color: $white;
+  transition: all 0.2s ease;
+  cursor: pointer;
+  z-index: 10;
+  &:hover {
+    color: rgba(255, 255, 255, 0.7);
+  }
+}
+
+.search-form {
+  input[type="text"] {
+    font-size: 14px;
+    color: $white;
+    background-color: $brown;
+    border: none;
+  }
+  ::placeholder {
+      color: $white;
+      opacity: 1;
+  }
+
+  :-ms-input-placeholder {
+    color: $white;
+  }
+
+  ::-ms-input-placeholder {
+    color: $white;
+  }
+}
+
+.search-field {
+  height: 60px;
+  width: 100%;
+  margin-left: -20px;
+  padding: 0 20px;
+  font-size: 16px;
+  outline: none;
+}
+
+.btn-remove, .btn-close {
+  display: block;
+  width: 40px;
+  height: 40px;
+  font-size: 15px;
+  border-radius: 50%;
+  line-height: 40px;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: darken($brown, 10%);
+  transition: all 0.3s ease-in-out;
+  color: $white;
+  cursor: pointer;
+  &:hover {
+    background-color: darken($brown, 15%);
+  }
+}
+
+.btn-remove {
+  right: 45px;
+}
+
+.btn-close {
+  right: 3px;
+}
+
+.search-results-list {
+  width: 100%;
+  // 타이틀 고정용 - 필요 없으면 아래 height: 100vh로 변경 (근데 검색화면은 너무커서 그냥 줄여둬도 괜찮을지도...)
+  // 필요 없으면 아래 box-shadow 삭제 (근데 구분선이 필요할 것 같은데...)
+  // height: 35vh;
+  // box-shadow: 0 5px 10px rgba(141, 72, 1, 0.3);
+  // 164px은 가장 위쪽헤더 60px + 카테고리 52px + 태그 52px로 이루어져있다.
+  height: calc(100vh - 164px);
+  margin: 0;
+  padding: 40px 15px;
+  position: absolute;
+  top: 164px;
+  left: 0;
+  bottom: 0;
+  text-align: left;
+  list-style: none;
+  overflow-y: auto;
+  background-color: rgba(255, 255, 255, 0.97);
+  li {
+    margin-bottom: 20px;
+    border: 1px solid $brown;
+    border-radius: $common-border-radius;
+    a {
+      font-size: 18px;
+      font-weight: 400;
+      text-decoration: none;
+    }
+  }
+}
+
+.template-box {
+  display: flex;
+}
+
+.template-image {
+  padding: 10px;
+  border-right: 1px solid $brown;
+  flex-basis: 120px;
+  flex-shrink: 1;
+  img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+}
+
+.template-info {
+  padding: 20px;
+  flex-shrink: 4;
+  text-decoration: none;
+  color: #2d2d2d;
+  transition: all 0.3s ease;
+  div {
+    i {
+      display: inline-block;
+      margin-right: 10px;
+    }
+    p {
+      display: inline-block;
+      margin: 0;
+      font-family: 'Gowun Batang', serif;
+    }
+  }
+  &:hover div p {
+    text-decoration: underline;
+  }
+}
+
+.template-subinfo {
+  font-size: 14px;
+}
+
+.template-mark {
+  color: $brown;
+  font-weight: bold;
+} */
 /* 3. ========== Hero ========== */
 .hero {
   display: -webkit-box;
@@ -1730,7 +1940,7 @@ a {
   width: 100%;
   min-height: 60px;
   background-color: #ffffff;
-  padding: 0 0 60px;
+  padding: 0 15px 60px 15px;
 }
 
 .info-social {
@@ -1837,7 +2047,7 @@ a {
 
 @media only screen and (max-width: 992px) {
   .info-box {
-    padding: 40px 0;
+    padding: 40px 15px;
   }
   .info-social, .info-newsletter {
     width: 100%;
@@ -2429,6 +2639,8 @@ a {
   right: -100px;
   z-index: 10;
   opacity: 0.5;
+  border: 3px solid darkseagreen;
+  border-radius: 14px;
 }
 .top i {
   line-height: 0;
@@ -2439,6 +2651,7 @@ a {
 .top:hover {
   color: #8E828E;
   opacity: 1;
+  border-color: #8E828E;
 }
 
 /* 8. ========== Pagination Styles ========== */

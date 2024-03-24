@@ -26,7 +26,7 @@ window.addEventListener('load', function() {
       box.style.left = "0";
       box.style.top = "0";
       box.style.zIndex = "999";
-      box.style.visibility="hidden";
+      box.style.display="none";
       // box.style.webkitUserSelect = "none";
       // box.style.MozUserSelect = "none";
       // box.style.msUserSelect = "none";
@@ -108,7 +108,7 @@ function doCreateElement() {
       ele[i].style.top=(eley[i]=y+1)+"px";
       ele[i].style.fontSize = BEGIN_FZ;
       ele[i].style.opacity = BEGIN_OPACITY;
-      ele[i].style.visibility="visible";
+      ele[i].style.display="block";
       elev[i]=50;
       break;
     }
@@ -136,14 +136,14 @@ function doFallingAnimation() {
 function doFallingEffect(i) {
   // 프레임수가 0이 되면 빠져나감
   if (--elev[i] <= 0) {
-    ele[i].style.visibility="hidden";
+    ele[i].style.display="none";
     elev[i]=0;
     return;
   }
 
   // 요소의 위치, 투명도, 사이즈가 이미 사라진 것과 다름없을 경우 빠져나감
   if (eley[i]>=shigh+sdown || ele[i].style.opacity <= 0 || ele[i].style.fontSize < 2) {
-    ele[i].style.visibility="hidden";
+    ele[i].style.display="none";
     elev[i]=0;
     return;
   }
