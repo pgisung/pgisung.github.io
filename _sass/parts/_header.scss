@@ -85,7 +85,7 @@
     right: -260px;
     bottom: 0;
     left: auto;
-    background-color: rgba(141, 72, 1, 0.8);
+    background-color: rgba(141, 72, 1, 0.95);
     overflow-y: auto;
     z-index: 10;
     transition: right .35s ease;
@@ -130,6 +130,28 @@
     top: 50%;
     transform: translateY(-50%);
     z-index: 10;
+    transition: all 0.3s ease;
+    &:before {
+      content: '';
+      position: absolute;
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      background-color: $white;
+      z-index: -1;
+      top: -13px;
+      left: 8px;
+      transform: translateX(-50%) scale(0);
+      transition: all 0.3s ease;
+    }
+    &:hover {
+      span {
+        background-color: $brown;
+      }
+      &:before {
+        transform: translateX(-50%) scale(1);
+      }
+    }
     span {
       position: absolute;
       height: 2px;

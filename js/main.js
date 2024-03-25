@@ -8,13 +8,18 @@ $(function() {
   });
 
   $(".overlay").click(function() {
-    doResetHeader();
+    $(".nav-toggle, .navigation-wrap").removeClass("open");
+    $(".overlay").removeClass("nav search");
+
+    // 검색 모달도 닫아야함
+    doCloseSearchBox();
   });
 
   $(window).on("resize", function() {
     var e = $(this);
     if (e.width() >= 991) {
-      doResetHeader();
+      $(".nav-toggle, .navigation-wrap").removeClass("open");
+      $(".overlay").removeClass("nav");
     }
   });
 
@@ -40,18 +45,12 @@ $(function() {
     // 모달 on시 body 스크롤 막기
     document.body.style.overflowY = 'hidden';
     // 입력창에 포커스 추가
-    document.getElementById("search-input").focus();
+    if (window.innerWidth > 480) {
+      document.getElementById("search-input").focus();
+    }
   });
   // Search Box Close button
   $('.btn-close').click(doCloseSearchBox);
-
-  function doResetHeader() {
-    $(".nav-toggle, .navigation-wrap").removeClass("open");
-    $(".overlay").removeClass("nav search");
-
-    // 검색 모달도 닫아야함
-    doCloseSearchBox();
-  }
 
   function doCloseSearchBox() {
     $(".search-box").removeClass("show");
@@ -134,7 +133,9 @@ $(function() {
     });
     searchInput.dispatchEvent(searchEvent);
     // 입력창에 포커스 추가
-    document.getElementById("search-input").focus();
+    if (window.innerWidth > 480) {
+      document.getElementById("search-input").focus();
+    }
   });
 
   // 태그 버튼을 이용한 검색 기능
@@ -154,7 +155,9 @@ $(function() {
         searchInput.dispatchEvent(searchEvent);
       }
       // 입력창에 포커스 추가
-      document.getElementById("search-input").focus();
+      if (window.innerWidth > 480) {
+        document.getElementById("search-input").focus();
+      }
     });
   });
   // 카테고리 버튼을 이용한 검색 기능 - logic은 바로 위의 태그함수와 동일하므로 수정할 시 둘 다 수정
@@ -172,7 +175,9 @@ $(function() {
         searchInput.dispatchEvent(searchEvent);
       }
       // 입력창에 포커스 추가
-      document.getElementById("search-input").focus();
+      if (window.innerWidth > 480) {
+        document.getElementById("search-input").focus();
+      }
     });
   });
 

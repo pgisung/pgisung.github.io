@@ -247,12 +247,7 @@ table tr:hover {
 .full-page-container {
   min-height: 100vh;
   position: relative;
-  // right: 0;
-  // transition: right .35s cubic-bezier(0.565, 1.65, 0.765, 0.90);
   background-color: $current-body-color;
-  // &.open {
-  //   right: 250px;
-  // }
 }
 
 .wrapper {
