@@ -22,6 +22,7 @@ window.addEventListener('load', function() {
     for (var i=0; i<ELEMENTS; i++) {
       box = document.createElement("div");
       box.textContent = ELEMENT;
+      box.style.float = "left";
       box.style.position = "absolute";
       box.style.left = "0";
       box.style.top = "0";

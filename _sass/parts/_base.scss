@@ -223,21 +223,23 @@ table tr:hover {
   left: 0;
   bottom: 0;
   pointer-events: none;
-  background: rgba(0, 0, 0, 0.5);
+  background: transparent;
   z-index: 1;
   filter: alpha(opacity=0);
   opacity: 0;
   box-shadow: 2px 5px 20px rgba(0, 0, 0, 0.7);
   transition: all .2s ease;
-  &.show {
+  &.nav {
     pointer-events: auto;
     filter: none;
     opacity: 1;
+    background: transparent;
   }
-  &.open {
+  &.search {
     pointer-events: auto;
     filter: none;
     opacity: 1;
+    background: rgba(0, 0, 0, 0.5);
     z-index: 420;
   }
 }
@@ -245,12 +247,12 @@ table tr:hover {
 .full-page-container {
   min-height: 100vh;
   position: relative;
-  right: 0;
-  transition: right .35s cubic-bezier(0.565, 1.65, 0.765, 0.90);
+  // right: 0;
+  // transition: right .35s cubic-bezier(0.565, 1.65, 0.765, 0.90);
   background-color: $current-body-color;
-  &.open {
-    right: 250px;
-  }
+  // &.open {
+  //   right: 250px;
+  // }
 }
 
 .wrapper {

@@ -3,42 +3,18 @@ $(function() {
 
   // Nav Menu
   $(".nav-toggle").click(function() {
-
-    $(".full-page-container, .navigation-wrap").toggleClass("open");
-    if ($(".full-page-container").hasClass("open")) {
-      $(".nav-toggle").html('<i class="fa fa-times" aria-hidden="true"></i>');
-    } else {
-      $(".full-page-container, .navigation-wrap").removeClass("open");
-      $(".nav-toggle").html('<i class="fa fa-bars" aria-hidden="true"></i>');
-    };
-    $(".overlay").toggleClass("show");
-
+    $(".nav-toggle, .navigation-wrap").toggleClass("open");
+    $(".overlay").toggleClass("nav");
   });
 
   $(".overlay").click(function() {
-    $(".full-page-container, .navigation-wrap").removeClass("open");
-    if ($(".overlay").hasClass("show")) {
-      $(".overlay").removeClass("show");
-    } else if ($(".overlay").hasClass("open")) {
-      $(".overlay").removeClass("open");
-    }
-    $(".nav-toggle").html('<i class="fa fa-bars" aria-hidden="true"></i>');
-    // 검색 모달도 닫아야함
-    doCloseModal();
+    doResetHeader();
   });
 
   $(window).on("resize", function() {
     var e = $(this);
     if (e.width() >= 991) {
-      $(".full-page-container, .navigation-wrap").removeClass("open");
-      if ($(".overlay").hasClass("show")) {
-        $(".overlay").removeClass("show");
-      } else if ($(".overlay").hasClass("open")) {
-        $(".overlay").removeClass("open");
-      }
-      $(".nav-toggle").html('<i class="fa fa-bars" aria-hidden="true"></i>');
-      // 검색 모달도 닫아야함
-      doCloseModal();
+      doResetHeader();
     }
   });
 
@@ -53,48 +29,45 @@ $(function() {
 
   // Search Box
   $('.search-toggle').click(function() {
-    if ($('.full-page-container').hasClass('open')) {
-      $('.full-page-container').removeClass('open');
-      $('.nav-toggle').html('<i class="fa fa-bars" aria-hidden="true"></i>');
-    }
-    if ($('.overlay').hasClass('show')) {
-      $('.overlay').removeClass('show');
-      $('.nav-toggle').html('<i class="fa fa-bars" aria-hidden="true"></i>');
-    }
+    // 검색창 출력시 nav화면은 초기화 해야함
+    $(".nav-toggle, .navigation-wrap").removeClass("open");
+    $(".overlay").removeClass("nav");
 
-    $('.search-box').addClass('show');
-    $('.navigation-wrap').removeClass('open');
+    // 검색창 출력
+    $('.search-box').addClass('show');    
     // 모달 on시 body 다른 항목 click 막기
-    $(".overlay").toggleClass("open");
+    $(".overlay").addClass("search");
     // 모달 on시 body 스크롤 막기
     document.body.style.overflowY = 'hidden';
     // 입력창에 포커스 추가
     document.getElementById("search-input").focus();
   });
-  $('.btn-close').click(doCloseModal);
+  // Search Box Close button
+  $('.btn-close').click(doCloseSearchBox);
 
-  function doCloseModal() {
-    $('.search-box').removeClass('show');
+  function doResetHeader() {
+    $(".nav-toggle, .navigation-wrap").removeClass("open");
+    $(".overlay").removeClass("nav search");
+
+    // 검색 모달도 닫아야함
+    doCloseSearchBox();
+  }
+
+  function doCloseSearchBox() {
+    $(".search-box").removeClass("show");
     // 검색창 닫힐 때 이전 검색 기록 초기화
-    var searchInput = document.querySelector('#search-input');
-    searchInput.value = '';
-    var searchEvent = new KeyboardEvent('keyup', {
+    var searchInput = document.querySelector("#search-input");
+    searchInput.value = "";
+    var searchEvent = new KeyboardEvent("keyup", {
       bubbles: true,
       cancelable: true
     });
     searchInput.dispatchEvent(searchEvent);
     // 모달 off시 body 다른 항목 click 다시 열기
-    $(".overlay").removeClass("open");
+    $(".overlay").removeClass("search");
     // 모달 off시 body 스크롤 다시 열기
-    document.body.style.overflowY = 'auto';
+    document.body.style.overflowY = "auto";
   }
-  // $('.search-toggle').click(function() {
-  //   $('.search-box').addClass('show');
-  //   $('.navigation-wrap').removeClass('open');
-  // });
-  // $('.btn-close').click(function() {
-  //   $('.search-box').removeClass('show');
-  // });
   
   // Simple Search Settings
   var searchInput = document.getElementById('search-input');
