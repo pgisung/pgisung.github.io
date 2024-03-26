@@ -195,7 +195,13 @@ git remote prune <원격 저장소 이름>
 ```bash
 git push <원격 저장소 이름> <로컬 브랜치 이름>
 ```
-- 로컬 브랜치의 데이터를 원격 저장소로 전송하는 명령어이다.
+- 로컬 브랜치의 데이터를 <span style="color: #8D4801">**원격 저장소로 전송**</span>하는 명령어이다.
+- "로컬 브랜치 이름" 대신 <span style="color: #8D4801">**"태그 이름"을 사용할 경우 태그 정보를 전송**</span>할 수 있다. 
+- **이름이 다른 태그**
+  - <span style="color: #8D4801">**"태그 이름:원격 저장소에서 사용할 태그 이름" 형태**</span>로 이름을 작성하면 로컬 태그를 다른 이름으로 원격 저장소에 전송할 수 있다.
+  - ```bash
+  git push <원격 저장소 이름> <태그 이름:원격 저장소에서 사용할 태그 이름>
+  ```
 - <span style="color: #8D4801">**다른 개발자들과 협업 중일 경우 영향을 줄 수 있으므로 신중하게 사용해야 한다.**</span>
 
 - 명령어 실행 전
@@ -210,20 +216,19 @@ git push <원격 저장소 이름> <로컬 브랜치 이름>
 <br>
 
 ```bash
-git push -d <원격 저장소 이름> <브랜치 이름>
+git push -d <원격 저장소 이름> <레퍼런스 이름>
 ```
 ```bash
-git push --delete <원격 저장소 이름> <브랜치 이름>
+git push --delete <원격 저장소 이름> <레퍼런스 이름>
 ```
-- 더 이상 필요하지 않은 브랜치를 원격 저장소에서 삭제하는 옵션이다.
-- 브랜치의 종류(로컬 또는 추적)에 상관없이 삭제할 수 있다.
-- <span style="color: #8D4801">**원격 저장소에서 해당 브랜치를 다시 복구할 수 없으므로 신중하게 사용해야 한다.**</span>
+- 더 이상 필요하지 않은 레퍼런스(브랜치, 태그 등)를 원격 저장소에서 삭제하는 옵션이다.
+- <span style="color: #8D4801">**원격 저장소에서 해당 레퍼런스(브랜치, 태그 등)를 다시 복구할 수 없으므로 신중하게 사용해야 한다.**</span>
 
 - 명령어 실행 전
 <img src="{{site.baseurl}}/images/posts/2023-09-20-Transfering-commit-with-remote-repository/before-git-command-push-d.webp" title="Remote repository in Github before git command push -d" alt="Remote repository in Github before git command push -d" width="30%">
 
 - 명령어 실행
-<img src="{{site.baseurl}}/images/posts/2023-09-20-Transfering-commit-with-remote-repository/git-command-push-d.webp" title="Git command to remove unnecessary local branch in remote repository" alt="Git command to remove unnecessary local branch in remote repository">
+<img src="{{site.baseurl}}/images/posts/2023-09-20-Transfering-commit-with-remote-repository/git-command-push-d.webp" title="Git command to remove unnecessary references in remote repository" alt="Git command to remove unnecessary references in remote repository">
 
 - 명령어 실행 후
 <img src="{{site.baseurl}}/images/posts/2023-09-20-Transfering-commit-with-remote-repository/after-git-command-push-d.webp" title="Remote repository in Github after git command push -d" alt="Remote repository in Github after git command push -d" width="30%">
@@ -231,7 +236,7 @@ git push --delete <원격 저장소 이름> <브랜치 이름>
 <br>
 
 ```bash
-git push --tags <원격 저장소 이름> <로컬 브랜치 이름>
+git push --tags <원격 저장소 이름>
 ```
 - 로컬 저장소에 있는 <span style="color: #8D4801">**모든 태그**</span>를 원격 저장소로 전송하는 옵션이다. 기본적으로 옵션 없는 "git push" 명령어로는 태그를 원격 저장소로 전송하지 않는다. 그러므로 태그를 전송해야 할 때 이 옵션을 사용할 수 있다.
 
@@ -352,6 +357,10 @@ git pull --force <원격 저장소 이름> <로컬 브랜치 이름>
 git fetch <원격 저장소 이름> <로컬 브랜치 이름>
 ```
 - <span style="color: #8D4801">**원격 저장소의 데이터를 추적 브랜치로 가져오는 명령어**</span>이다.
+- "로컬 브랜치 이름"을 입력하지 않을 경우 <span style="color: #8D4801">**원격 저장소의 모든 브랜치 정보**</span>를 가져올 수 있다. 다수의 개발자와 협업할 경우 먼저 fetch를 한 후 차례차례 브랜치를 병합한 후에 작업을 진행해야 한다.
+- ```bash
+git fetch <원격 저장소 이름>
+```
 
 - 명령어 실행 전
 <img src="{{site.baseurl}}/images/posts/2023-09-20-Transfering-commit-with-remote-repository/before-git-command-fetch.webp" title="Log result before git command fetch" alt="Log result before git command fetch">
@@ -370,13 +379,13 @@ git fetch -p <원격 저장소 이름>
 ```bash
 git fetch --prune <원격 저장소 이름>
 ```
-- 원격 저장소의 데이터를 추적 브랜치로 가져오면서 <span style="color: #8D4801">**원격 저장소에 더 이상 존재하지 않는 추적 브랜치를 로컬 저장소에서 제거**</span>하는 옵션이다.
+- 원격 저장소의 모든 브랜치 정보를 가져오면서 <span style="color: #8D4801">**원격 저장소에 더 이상 존재하지 않는 추적 브랜치를 로컬 저장소에서 제거**</span>하는 옵션이다.
 
 - 명령어 실행 전
 <img src="{{site.baseurl}}/images/posts/2023-09-20-Transfering-commit-with-remote-repository/before-git-command-fetch-p.webp" title="Git all branches list before git command fetch -p" alt="Git all branches list before git command fetch -p">
 
 - 명령어 실행
-<img src="{{site.baseurl}}/images/posts/2023-09-20-Transfering-commit-with-remote-repository/git-command-fetch-p.webp" title="Git command to remove tracking branches which doesn't exist for now and to bring datas to tracking branch" alt="Git command to remove tracking branches which doesn't exist for now and to bring datas to tracking branch">
+<img src="{{site.baseurl}}/images/posts/2023-09-20-Transfering-commit-with-remote-repository/git-command-fetch-p.webp" title="Git command to remove tracking branches which doesn't exist for now and bring all branch datas" alt="Git command to remove tracking branches which doesn't exist for now and bring all branch datas">
 
 - 명령어 실행 후
 <img src="{{site.baseurl}}/images/posts/2023-09-20-Transfering-commit-with-remote-repository/after-git-command-fetch-p.webp" title="Git all branches list after git command fetch -p" alt="Git all branches list after git command fetch -p">
