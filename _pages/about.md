@@ -96,6 +96,9 @@ gulp.task('designcycle', function() {
 
 ## <span style="color: brown">**Personal History**</span>
 
+#### <span style="color: #8D4801">**Trip around Laos**</span>
+<small>2024-04-06 ~ 2024-04-11</small>
+
 #### <span style="color: #8D4801">**Trip around Hongkong**</span>
 <small>2023-11-29 ~ 2023-12-02</small>
 
