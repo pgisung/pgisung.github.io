@@ -3,12 +3,12 @@ $(function() {
 
   // Nav Menu
   $(".nav-toggle").click(function() {
-    $(".nav-toggle, .navigation-wrap").toggleClass("open");
+    $(".nav-toggle, .full-page-container, .navigation-wrap").toggleClass("open");
     $(".overlay").toggleClass("nav");
   });
 
   $(".overlay").click(function() {
-    $(".nav-toggle, .navigation-wrap").removeClass("open");
+    $(".nav-toggle, .full-page-container, .navigation-wrap").removeClass("open");
     $(".overlay").removeClass("nav search");
 
     // 검색 모달도 닫아야함
@@ -18,7 +18,7 @@ $(function() {
   $(window).on("resize", function() {
     var e = $(this);
     if (e.width() >= 991) {
-      $(".nav-toggle, .navigation-wrap").removeClass("open");
+      $(".nav-toggle, .full-page-container, .navigation-wrap").removeClass("open");
       $(".overlay").removeClass("nav");
     }
   });
@@ -35,7 +35,7 @@ $(function() {
   // Search Box
   $('.search-toggle').click(function() {
     // 검색창 출력시 nav화면은 초기화 해야함
-    $(".nav-toggle, .navigation-wrap").removeClass("open");
+    $(".nav-toggle, .full-page-container, .navigation-wrap").removeClass("open");
     $(".overlay").removeClass("nav");
 
     // 검색창 출력
@@ -43,7 +43,7 @@ $(function() {
     // 모달 on시 body 다른 항목 click 막기
     $(".overlay").addClass("search");
     // 모달 on시 body 스크롤 막기
-    document.body.style.overflowY = 'hidden';
+    document.body.style.overflow = 'hidden';
     // 입력창에 포커스 추가
     if (window.innerWidth > 480) {
       document.getElementById("search-input").focus();

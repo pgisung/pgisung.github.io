@@ -248,6 +248,11 @@ table tr:hover {
   min-height: 100vh;
   position: relative;
   background-color: $current-body-color;
+  right: 0;
+  transition: right .35s cubic-bezier(0.565, 1.65, 0.765, 0.90);
+  &.open {
+    right: 250px;
+  }
 }
 
 .wrapper {
@@ -266,6 +271,9 @@ table tr:hover {
 .wrapper-content {
   position: relative;
   width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0 15px;
 }
 
 .btn {

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-27T01:26:17+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JohnnyPark</title><subtitle>The growth diary of Software developer JohnnyPark</subtitle><entry><title type="html">10. 병합과 리베이스</title><link href="http://localhost:4000/github/2023/10/14/Merge-and-rebase/" rel="alternate" type="text/html" title="10. 병합과 리베이스" /><published>2023-10-14T11:49:32+09:00</published><updated>2023-10-14T11:49:32+09:00</updated><id>http://localhost:4000/github/2023/10/14/Merge-and-rebase</id><content type="html" xml:base="http://localhost:4000/github/2023/10/14/Merge-and-rebase/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-28T01:49:19+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JohnnyPark</title><subtitle>The growth diary of Software developer JohnnyPark</subtitle><entry><title type="html">10. 병합과 리베이스</title><link href="http://localhost:4000/github/2023/10/14/Merge-and-rebase/" rel="alternate" type="text/html" title="10. 병합과 리베이스" /><published>2023-10-14T11:49:32+09:00</published><updated>2023-10-14T11:49:32+09:00</updated><id>http://localhost:4000/github/2023/10/14/Merge-and-rebase</id><content type="html" xml:base="http://localhost:4000/github/2023/10/14/Merge-and-rebase/"><![CDATA[<blockquote>
   <ol>
     <li><a href="#1" title="Navigate to ">병합이란?</a></li>
     <li><a href="#2" title="Navigate to ">리베이스란?</a></li>
-    <li><a href="#2" title="Navigate to ">병합과 리베이스의 차이점</a></li>
-    <li><a href="#2" title="Navigate to ">충돌 </a></li>
+    <li><a href="#3" title="Navigate to ">병합과 리베이스의 차이점</a></li>
+    <li><a href="#4" title="Navigate to ">충돌</a></li>
   </ol>
 </blockquote>
 

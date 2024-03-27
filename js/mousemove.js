@@ -15,6 +15,9 @@ var elex=new Array();
 var eley=new Array();
 var elev=new Array(); // 프레임수라고 생각하자 1이상이면 보이는 것 0이면 안보이는 것
 
+var intervalCreateElement;
+var intervalFallingAnimation;
+
 // 창이 로드될 때 요소 설정
 window.addEventListener('load', function() {
   if (document.getElementById) {
@@ -28,13 +31,15 @@ window.addEventListener('load', function() {
       box.style.top = "0";
       box.style.zIndex = "999";
       box.style.display="none";
-      // box.style.webkitUserSelect = "none";
-      // box.style.MozUserSelect = "none";
-      // box.style.msUserSelect = "none";
-      // box.style.userSelect = "none";
       document.body.appendChild(ele[i]=box);
     }
     set_screen_size();
+    intervalCreateElement = setInterval(() => {
+      doCreateElement();
+    }, 333);
+    intervalFallingAnimation = setInterval(() => {
+      doFallingAnimation();
+    }, 25);
   }
 });
 
@@ -96,10 +101,6 @@ function set_scroll() {
   }
 }
 
-const intervalCreateElement = setInterval(() => {
-  doCreateElement();
-}, 333);
-
 function doCreateElement() {
   if (Math.abs(x-ox)>1 || Math.abs(y-oy)>1) {
     ox=x;
@@ -116,10 +117,6 @@ function doCreateElement() {
   }
 }
 
-const intervalFallingAnimation = setInterval(() => {
-  doFallingAnimation();
-}, 25);
-
 function doFallingAnimation() {
   const promises = [];
   for (let i=0; i<ELEMENTS; i++) {
@@ -134,7 +131,37 @@ function doFallingAnimation() {
     });
 }
 
+function isUndefined(i) {
+  var bReturn = true;
+
+  do {
+    if (typeof ele[i] === "undefined") {
+      break;
+    }
+
+    if (typeof elex[i] === "undefined") {
+      break;
+    }
+
+    if (typeof eley[i] === "undefined") {
+      break;
+    }
+
+    if (typeof elev[i] === "undefined") {
+      break;
+    }
+
+    bReturn = false;
+  } while(false);
+
+  return bReturn;
+}
+
 function doFallingEffect(i) {
+  if (isUndefined(i)) {
+    return;
+  }
+
   // 프레임수가 0이 되면 빠져나감
   if (--elev[i] <= 0) {
     ele[i].style.display="none";

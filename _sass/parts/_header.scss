@@ -16,7 +16,6 @@
   float: left;
   position: absolute;
   top: 50%;
-  left: 15px;
   transform: translateY(-50%);
   text-align: center;
   z-index: 1;
@@ -79,18 +78,17 @@
   }
   .navigation-wrap {
     width: 250px;
-    height: 100vh;
+    height: calc(100vh - 60px);
     min-height: 100%;
     position: fixed;
-    top: 0;
-    right: -260px;
+    top: 60px;
+    right: -250px;
     bottom: 0;
     left: auto;
-    background-color: rgba(141, 72, 1, 0.95);
+    background-color: rgba(141, 72, 1, 0.80);
     overflow-y: auto;
     z-index: 10;
-    transition: right .35s ease;
-    // transition: right .35s cubic-bezier(0.565, 1.65, 0.765, 0.90);
+    transition: right .35s cubic-bezier(0.565, 1.65, 0.765, 0.90);
     &.open {
       right: 0;
     }
@@ -100,9 +98,6 @@
     transform: none;
     top: 0;
     left: 0;
-    // 타이틀 고정용 - 필요 없으면 아래 margin-top 삭제 변경
-    margin-top: 60px;
-    // ---------------
     margin-bottom: 40px;
     a {
       display: block;

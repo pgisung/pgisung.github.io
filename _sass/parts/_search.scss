@@ -15,7 +15,7 @@
   &.show {
     display: block;
     z-index: 666;
-    .wrapper-content ::selection {
+    .wrapper-search ::selection {
       background: rgba(250, 181, 112, 0.7);
       color: #ffffff;
     }
@@ -47,6 +47,10 @@
     top: 112px;
     background: linear-gradient(90deg, rgb(198, 163, 128), $white);
   }
+}
+
+.wrapper-search {
+  position: static;
 }
 
 .search-toggle {
