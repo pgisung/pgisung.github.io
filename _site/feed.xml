@@ -1,24 +1,130 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-28T01:49:19+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JohnnyPark</title><subtitle>The growth diary of Software developer JohnnyPark</subtitle><entry><title type="html">10. 병합과 리베이스</title><link href="http://localhost:4000/github/2023/10/14/Merge-and-rebase/" rel="alternate" type="text/html" title="10. 병합과 리베이스" /><published>2023-10-14T11:49:32+09:00</published><updated>2023-10-14T11:49:32+09:00</updated><id>http://localhost:4000/github/2023/10/14/Merge-and-rebase</id><content type="html" xml:base="http://localhost:4000/github/2023/10/14/Merge-and-rebase/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-29T22:05:04+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JohnnyPark</title><subtitle>The growth diary of Software developer JohnnyPark</subtitle><entry><title type="html">10. 병합과 리베이스</title><link href="http://localhost:4000/github/2023/10/14/Merge-and-rebase/" rel="alternate" type="text/html" title="10. 병합과 리베이스" /><published>2023-10-14T11:49:32+09:00</published><updated>2023-10-14T11:49:32+09:00</updated><id>http://localhost:4000/github/2023/10/14/Merge-and-rebase</id><content type="html" xml:base="http://localhost:4000/github/2023/10/14/Merge-and-rebase/"><![CDATA[<blockquote>
   <ol>
-    <li><a href="#1" title="Navigate to ">병합이란?</a></li>
-    <li><a href="#2" title="Navigate to ">리베이스란?</a></li>
-    <li><a href="#3" title="Navigate to ">병합과 리베이스의 차이점</a></li>
-    <li><a href="#4" title="Navigate to ">충돌</a></li>
+    <li><a href="#base-commit" title="Navigate to Base commit">Base commit</a></li>
+    <li><a href="#병합이란" title="Navigate to What is merge?">병합이란?</a>
+      <ul>
+        <li><a href="#fast-forward-병합" title="Navigate to Fast-forward merge">Fast-forward 병합</a></li>
+        <li><a href="#3-way-병합" title="Navigate to Three-way merge">3-way 병합</a></li>
+        <li><a href="#병합-명령어" title="Navigate to Command to merge">병합 명령어</a></li>
+        <li><a href="#병합-commit-메시지-자동-작성-옵션" title="Navigate to Option to edit automatically merge message">병합 commit 메시지 자동 작성 옵션</a></li>
+        <li><a href="#병합-중지-옵션" title="Navigate to Option to abort merge">병합 중지 옵션</a></li>
+        <li><a href="#병합-진행-옵션" title="Navigate to Option to continue merge">병합 진행 옵션</a></li>
+      </ul>
+    </li>
+    <li><a href="#리베이스란" title="Navigate to What is rebase?">리베이스란?</a></li>
+    <li><a href="#병합과-리베이스의-차이점" title="Navigate to Difference between merge and rebase">병합과 리베이스의 차이점</a></li>
+    <li><a href="#충돌과-해결-방법" title="Navigate to Conflict and solution for">충돌과 해결 방법</a>
+      <ul>
+        <li><a href="#충돌이란" title="Navigate to What is conflict?">충돌이란?</a></li>
+        <li><a href="#해결-방법" title="Navigate to Solution for conflict">해결 방법</a></li>
+      </ul>
+    </li>
   </ol>
 </blockquote>
 
 <hr />
 
-<h4 id="들어가기-전에">들어가기 전에</h4>
-<p>Merge</p>
+<h4 id="base-commit"><span style="color: brown"><strong>Base commit</strong></span></h4>
+<center><img src="/images/posts/2023-10-14-Merge-and-rebase/reference-of-base-commit.webp" title="Reference of base commit" alt="Reference of base commit" /></center>
+<ul>
+  <li>Base 커밋이란 한국어로 공통 조상 커밋이라고 표현할 수 있으며 <span style="color: #8D4801"><strong>두 개 이상의 브랜치나 커밋이 공유하는 가장 최근의 공통 커밋</strong></span>을 의미한다. 주로 병합 및 리베이스의 기준 역할을 한다.</li>
+</ul>
 
 <hr />
 
-<h4 id="1"><span style="color: brown"><strong>1</strong></span></h4>
+<h4 id="병합이란"><span style="color: brown"><strong>병합이란?</strong></span></h4>
+<p><span style="color: #8D4801"><strong>Base 커밋을 기준으로 현재 작업 중인 브랜치에 지정된 브랜치의 커밋을 모두 통합하는</strong></span> 것이다. 또한 병합에는 <span style="color: #8D4801"><strong>두 가지 방식</strong></span>이 존재한다.</p>
+
+<h5 id="fast-forward-병합"><strong>Fast-forward 병합</strong></h5>
+<center><img src="/images/posts/2023-10-14-Merge-and-rebase/reference-of-fast-forward-merge.webp" title="Reference of Fast-forward merge" alt="Reference of Fast-forward merge" /></center>
+<ul>
+  <li>위의 그림과 같이 <span style="color: #8D4801"><strong>현재 작업 중인 브랜치의 가장 최신 커밋이 병합을 지정한 브랜치의 시작 커밋과 연결</strong></span>되어있을 경우 브랜치가 분기되어있지만 마치 <span style="color: #8D4801"><strong>순차적</strong></span>으로 생성된 커밋의 흐름처럼 보여진다. 이런 경우엔 <span style="color: #8D4801"><strong>새로운 병합 커밋을 생성하지 않고 현재 작업 중인 브랜치의 HEAD를 병합을 지정한 브랜치의 최신 커밋으로 이동</strong></span>만 시키는데 이러한 병합 방식을 <span style="color: #8D4801"><strong>Fast-forward 병합</strong></span>이라고 한다.</li>
+  <li>일반적으로 <span style="color: #8D4801"><strong>혼자</strong></span> 프로젝트를 진행할 경우 접하게 되는 병합 방식이다.</li>
+</ul>
+
+<p><br /></p>
+
+<h5 id="3-way-병합"><strong>3-way 병합</strong></h5>
+<center><img src="/images/posts/2023-10-14-Merge-and-rebase/reference-of-three-way-merge.webp" title="Reference of Three-way merge" alt="Reference of Three-way merge" /></center>
+<ul>
+  <li>위의 그림과 같이 base 커밋을 기준으로 <span style="color: #8D4801"><strong>세 종류의 서로 다른 커밋들</strong></span>을 현재 작업 중인 브랜치에 <span style="color: #8D4801"><strong>새로운 하나의 커밋으로 병합</strong></span>하는 방식을 <span style="color: #8D4801"><strong>3-way 병합</strong></span>이라고 한다.</li>
+  <li><span style="color: #8D4801"><strong>다수의 개발자들과 협업</strong></span>하여 프로젝트를 진행할 경우 접하게 되는 병합 방식이다.</li>
+  <li>새로운 병합 커밋은 <span style="color: #8D4801"><strong>두 개의 부모 커밋</strong></span>을 가지며 커밋을 생성할 때 언제나 그랬듯이 병합 커밋을 생성할 때에도 <span style="color: #8D4801"><strong>커밋 메시지를 작성</strong></span>해야한다.</li>
+</ul>
+
+<p><br /></p>
+
+<h5 id="병합-명령어"><strong>병합 명령어</strong></h5>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git merge &lt;파생 브랜치 이름&gt;
+</code></pre></div></div>
+<ul>
+  <li>merge 명령어는 <span style="color: #8D4801"><strong>현재 작업중인 원본 브랜치</strong></span>를 기준으로 <span style="color: #8D4801"><strong>지정된 파생 브랜치</strong></span>의 커밋을 병합하여 가져오는 것이다. 그러므로 명령어 사용시 <span style="color: #8D4801"><strong>대상이 되는 원본 브랜치로 switch 명령어로 이동 후 merge 명령어에 파생 브랜치 이름을 입력하여 실행</strong></span>한다.</li>
+</ul>
+
+<p><br /></p>
+
+<h5 id="병합-commit-메시지-자동-작성-옵션"><strong>병합 commit 메시지 자동 작성 옵션</strong></h5>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git merge <span class="nt">-e</span> &lt;파생 브랜치 이름&gt;
+</code></pre></div></div>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git merge <span class="nt">--edit</span> &lt;파생 브랜치 이름&gt;
+</code></pre></div></div>
+<ul>
+  <li>병합 커밋 생성시 에디터를 통해 커밋 메시지를 작성해야하지만 <span style="color: #8D4801"><strong>에디터가 실행되지 않고 커밋을 완료</strong></span>하는 옵션이다.</li>
+</ul>
+
+<p><br /></p>
+
+<h5 id="병합-중지-옵션"><strong>병합 중지 옵션</strong></h5>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git merge <span class="nt">--abort</span>
+</code></pre></div></div>
+<ul>
+  <li>현재 진행 중인 <span style="color: #8D4801"><strong>병합을 중지</strong></span>하는 옵션이다.</li>
+</ul>
+
+<p><br /></p>
+
+<h5 id="병합-진행-옵션"><strong>병합 진행 옵션</strong></h5>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git merge <span class="nt">--continue</span>
+</code></pre></div></div>
+<ul>
+  <li>현재 진행 중인 <span style="color: #8D4801"><strong>병합을 계속 진행</strong></span>하는 옵션이다.</li>
+</ul>
 
 <hr />
 
-<h4 id="2"><span style="color: brown"><strong>2</strong></span></h4>
+<h4 id="리베이스란"><span style="color: brown"><strong>리베이스란?</strong></span></h4>
+<p>말 그대로 <span style="color: #8D4801"><strong>base 커밋을 재설정하는 것</strong></span>으로 <span style="color: #8D4801"><strong>지정된 브랜치의 base 커밋을 가장 최근 커밋으로 이동</strong></span>시키는데, 과거 base 커밋과 연결되어있던 <span style="color: #8D4801"><strong>현재 작업 중인 브랜치 또한 이동한 새로운 base 커밋으로 연결</strong></span>된다. 또한 현재 작업 중인 브랜치의 이동한 커밋들의 <span style="color: #8D4801"><strong>해시값</strong></span>은 마치 새로운 커밋을 생성하는 것 처럼 <span style="color: #8D4801"><strong>모두 변경</strong></span>된다.</p>
+<center><img src="/images/posts/2023-10-14-Merge-and-rebase/reference-of-rebase.webp" title="Reference of Rebase" alt="Reference of Rebase" /></center>
+
+<p><br /></p>
+
+<h5 id="리베이스-명령어"><strong>리베이스 명령어</strong></h5>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git rebase &lt;원본 브랜치 이름&gt;
+</code></pre></div></div>
+<ul>
+  <li>rebase 명령어는 <span style="color: #8D4801"><strong>현재 작업중인 파생 브랜치</strong></span>를 <span style="color: #8D4801"><strong>지정된 원본 브랜치</strong></span>에 리베이스한다. 이것은 파생 브랜치의 커밋을 원본 브랜치의 최신 커밋 위에 다시 적용하는 것을 의미한다. 따라서 명령어 사용시 <span style="color: #8D4801"><strong>대상이 되는 파생 브랜치로 switch 명령어로 이동 후 rebase 명령어에 원본 브랜치 이름을 입력하여 실행</strong></span>한다.</li>
+</ul>
+
+<p><br /></p>
+
+<h5 id="리베이스-명령어-1"><strong>리베이스 명령어</strong></h5>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git rebase &lt;원본 브랜치 이름&gt; &lt;파생 브랜치 이름&gt;
+</code></pre></div></div>
+<ul>
+  <li>위와 같이</li>
+</ul>
+
+<hr />
+
+<h4 id="병합과-리베이스의-차이점"><span style="color: brown"><strong>병합과 리베이스의 차이점</strong></span></h4>
+
+<hr />
+
+<h4 id="충돌과-해결-방법"><span style="color: brown"><strong>충돌과 해결 방법</strong></span></h4>
+
+<h5 id="충돌이란"><strong>충돌이란?</strong></h5>
+
+<h5 id="해결-방법"><strong>해결 방법</strong></h5>
 
 <hr />
 
