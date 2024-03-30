@@ -95,7 +95,7 @@ git commit
 
 <br>
 
-###### <span style="color: red">**※ 만약 실습 도중 실수할 상황에 대비하여 몇 가지 복귀 명령어들을 미리 알아보자.**</span>
+###### <span style="color: indianred">**※ 만약 실습 도중 실수할 상황에 대비하여 몇 가지 복귀 명령어들을 미리 알아보자.**</span>
 ```bash
 git checkout -- <파일명>
 ```
@@ -157,9 +157,9 @@ git commit --allow-empty-message -m ""
 git commit --amend
 ```
 - <span style="color: #8D4801">**마지막 commit에 대한 수정 명령어**</span>로써 메시지 수정뿐만 아니라 해당 commit에 새롭게 추가하고 싶은 파일 또한 추가할 수 있다. 마지막 commit이 아닌 commit을 수정하고 싶다면 rebase 등 복잡한 과정을 거쳐야 한다.
-- <span style="color: red">**주의해야 할 점은 기존 commit의 해시 코드가 바뀐다**</span>는 것이다. 해시 코드는 commit의 ID라고 생각하면 되는데 아래에서 알아볼 예정이다.
+- <span style="color: indianred">**주의해야 할 점은 기존 commit의 해시 코드가 바뀐다**</span>는 것이다. 해시 코드는 commit의 ID라고 생각하면 되는데 아래에서 알아볼 예정이다.
 
-  - 만약 수정 전의 commit을, push를 통해 이미 원격 저장소에 전송한 상태라면 정상적인 방법으로는 원격 저장소에 다시 전송할 수가 없다. (<span style="color: red">**git push -f를 통해 강제로 전송**</span>해야 한다.)
+  - 만약 수정 전의 commit을, push를 통해 이미 원격 저장소에 전송한 상태라면 정상적인 방법으로는 원격 저장소에 다시 전송할 수가 없다. (<span style="color: indianred">**git push -f를 통해 강제로 전송**</span>해야 한다.)
 
 - 명령어 실행 전
 <img src="{{site.baseurl}}/images/posts/2023-09-13-What-is-the-commit-on-Git/git-log-before-amended.jpg" title="Git log before the last commit amended" alt="Git log before the last commit amended">

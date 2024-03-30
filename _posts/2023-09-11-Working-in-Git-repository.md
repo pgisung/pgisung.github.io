@@ -49,7 +49,7 @@ git add .
 
 <br>
 
-###### <span style="color: red">**※ 만약 실습 도중 실수할 상황에 대비하여 몇 가지 복귀 명령어들을 미리 알아보자.**</span>
+###### <span style="color: indianred">**※ 만약 실습 도중 실수할 상황에 대비하여 몇 가지 복귀 명령어들을 미리 알아보자.**</span>
 - **commit 이력이 없는 추적 중인 파일을 Unstage 상태로 변경하는 명령어**
 ```bash
 git rm -cached <파일명>
