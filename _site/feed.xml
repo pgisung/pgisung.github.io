@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-30T21:17:34+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JohnnyPark</title><subtitle>The growth diary of Software developer JohnnyPark</subtitle><entry><title type="html">10. 병합과 리베이스</title><link href="http://localhost:4000/github/2023/10/14/Merge-and-rebase/" rel="alternate" type="text/html" title="10. 병합과 리베이스" /><published>2023-10-14T11:49:32+09:00</published><updated>2023-10-14T11:49:32+09:00</updated><id>http://localhost:4000/github/2023/10/14/Merge-and-rebase</id><content type="html" xml:base="http://localhost:4000/github/2023/10/14/Merge-and-rebase/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-31T01:51:44+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JohnnyPark</title><subtitle>The growth diary of Software developer JohnnyPark</subtitle><entry><title type="html">10. 병합과 리베이스</title><link href="http://localhost:4000/github/2023/10/14/Merge-and-rebase/" rel="alternate" type="text/html" title="10. 병합과 리베이스" /><published>2023-10-14T11:49:32+09:00</published><updated>2023-10-14T11:49:32+09:00</updated><id>http://localhost:4000/github/2023/10/14/Merge-and-rebase</id><content type="html" xml:base="http://localhost:4000/github/2023/10/14/Merge-and-rebase/"><![CDATA[<blockquote>
   <ol>
     <li><a href="#base-commit" title="Navigate to Base commit">Base commit</a></li>
     <li><a href="#병합이란" title="Navigate to What is merge?">병합이란?</a>
@@ -6,7 +6,6 @@
         <li><a href="#fast-forward-병합" title="Navigate to Fast-forward merge">Fast-forward 병합</a></li>
         <li><a href="#3-way-병합" title="Navigate to Three-way merge">3-way 병합</a></li>
         <li><a href="#병합-명령어" title="Navigate to Command to merge">병합 명령어</a></li>
-        <li><a href="#병합-commit-메시지-자동-작성-옵션" title="Navigate to Option to edit automatically merge message">병합 commit 메시지 자동 작성 옵션</a></li>
         <li><a href="#병합-중지-옵션" title="Navigate to Option to abort merge">병합 중지 옵션</a></li>
         <li><a href="#병합-진행-옵션" title="Navigate to Option to continue merge">병합 진행 옵션</a></li>
       </ul>
@@ -71,18 +70,21 @@
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git merge &lt;파생 브랜치 이름&gt;
 </code></pre></div></div>
 <ul>
-  <li>merge 명령어는 <span style="color: #8D4801"><strong>현재 작업 중인 원본 브랜치</strong></span>를 기준으로 <span style="color: #8D4801"><strong>지정된 파생 브랜치</strong></span>의 커밋을 병합하여 가져오는 것이다. 그러므로 명령어 사용 시 <span style="color: #8D4801"><strong>대상이 되는 원본 브랜치로 switch 명령어로 이동 후 merge 명령어에 파생 브랜치 이름을 입력하여 실행</strong></span>한다.</li>
-</ul>
-
-<p><br /></p>
-
-<h5 id="병합-commit-메시지-자동-작성-옵션"><strong>병합 commit 메시지 자동 작성 옵션</strong></h5>
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git merge <span class="nt">-e</span> &lt;파생 브랜치 이름&gt;
-</code></pre></div></div>
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git merge <span class="nt">--edit</span> &lt;파생 브랜치 이름&gt;
-</code></pre></div></div>
-<ul>
-  <li>병합 커밋 생성 시 에디터를 통해 커밋 메시지를 작성해야 하지만 <span style="color: #8D4801"><strong>에디터가 실행되지 않고 커밋을 완료</strong></span>하는 옵션이다.</li>
+  <li>
+    <p>merge 명령어는 <span style="color: #8D4801"><strong>현재 작업 중인 원본 브랜치</strong></span>를 기준으로 <span style="color: #8D4801"><strong>지정된 파생 브랜치</strong></span>의 커밋을 병합하여 가져오는 것이다. 그러므로 명령어 사용 시 <span style="color: #8D4801"><strong>대상이 되는 원본 브랜치로 switch 명령어로 이동 후 merge 명령어에 파생 브랜치 이름을 입력하여 실행</strong></span>한다.</p>
+  </li>
+  <li>
+    <p>명령어 실행 전
+<img src="/images/posts/2023-10-14-Merge-and-rebase/before-git-command-merge.jpg" title="Git log before git command merge" alt="Git log before git command merge" /></p>
+  </li>
+  <li>
+    <p>명령어 실행
+<img src="/images/posts/2023-10-14-Merge-and-rebase/git-command-merge.jpg" title="Git command to merge target branch into working branch" alt="Git command to merge target branch into working branch" /></p>
+  </li>
+  <li>
+    <p>명령어 실행 후
+<img src="/images/posts/2023-10-14-Merge-and-rebase/after-git-command-merge.jpg" title="Git log after git command merge" alt="Git log after git command merge" /></p>
+  </li>
 </ul>
 
 <p><br /></p>
@@ -91,7 +93,8 @@
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git merge <span class="nt">--abort</span>
 </code></pre></div></div>
 <ul>
-  <li>현재 진행 중인 <span style="color: #8D4801"><strong>병합을 중지</strong></span>하는 옵션으로 충돌 등이 발생했을 때 병합을 중지하고 싶을 경우 사용할 수 있다.</li>
+  <li>현재 진행 중인 <span style="color: #8D4801"><strong>병합을 중지</strong></span>하는 옵션으로 충돌 등이 발생했을 때 병합을 중지하고 싶을 경우 사용할 수 있다.
+<img src="/images/posts/2023-10-14-Merge-and-rebase/git-command-merge-abort.jpg" title="Git command to abort merging" alt="Git command to abort merging" /></li>
 </ul>
 
 <p><br /></p>
@@ -100,13 +103,14 @@
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git merge <span class="nt">--continue</span>
 </code></pre></div></div>
 <ul>
-  <li>현재 진행 중인 <span style="color: #8D4801"><strong>병합을 계속 진행</strong></span>하는 옵션으로 충돌 등이 발생했을 때 문제 해결 후 병합을 계속 진행하고 싶을 경우 사용할 수 있다.</li>
+  <li>현재 진행 중인 <span style="color: #8D4801"><strong>병합을 계속 진행</strong></span>하는 옵션으로 충돌 등이 발생했을 때 문제 해결 후 병합을 계속 진행하고 싶을 경우 사용할 수 있다.
+<img src="/images/posts/2023-10-14-Merge-and-rebase/git-command-merge-continue.jpg" title="Git command to continue merging" alt="Git command to continue merging" /></li>
 </ul>
 
 <hr />
 
 <h4 id="리베이스란"><span style="color: brown"><strong>리베이스란?</strong></span></h4>
-<p>말 그대로 <span style="color: #8D4801"><strong>base 커밋을 다시 설정하는 것</strong></span>으로 <span style="color: #8D4801"><strong>지정된 브랜치의 base 커밋을 최신 커밋으로 이동</strong></span>시키는데, 과거 base 커밋과 연결되어 있던 <span style="color: #8D4801"><strong>현재 작업 중인 브랜치 또한 이동한 새로운 base 커밋으로 연결</strong></span>된다. 또한 현재 작업 중인 브랜치의 이동한 커밋들의 <span style="color: indianred"><strong>해시값</strong></span>은 <span style="color: indianred"><strong>모두 변경</strong></span>된다. Interactive 옵션을 사용 시 <span style="color: indianred"><strong>커밋의 순서와 위치까지도 변경</strong></span>될 수 있으므로 <span style="color: indianred"><strong>이는 저장소가 공개된 경우 다른 개발자들과의 협업 시 혼돈을 야기시킬 수 있기 때문에 사용에 유의</strong></span>해야한다.</p>
+<p>말 그대로 <span style="color: #8D4801"><strong>base 커밋을 다시 설정하는 것</strong></span>으로 <span style="color: #8D4801"><strong>지정된 브랜치의 base 커밋을 최신 커밋으로 이동</strong></span>시키는데, 과거 base 커밋과 연결되어 있던 <span style="color: #8D4801"><strong>현재 작업 중인 브랜치 또한 이동한 새로운 base 커밋으로 연결</strong></span>된다. 또한 현재 작업 중인 브랜치의 이동한 커밋들의 <span style="color: indianred"><strong>해시값</strong></span>은 <span style="color: indianred"><strong>모두 변경</strong></span>된다. Interactive 옵션을 사용 시 <span style="color: indianred"><strong>커밋의 순서와 위치까지도 변경</strong></span>할 수 있으며 <span style="color: indianred"><strong>이는 저장소가 공개된 경우 다른 개발자들과의 협업 시 혼돈을 야기시킬 수 있기 때문에 사용에 유의</strong></span>해야한다.</p>
 <center><img src="/images/posts/2023-10-14-Merge-and-rebase/reference-of-rebase.webp" title="Reference of Rebase" alt="Reference of Rebase" /></center>
 
 <p><br /></p>
@@ -115,7 +119,21 @@
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git rebase &lt;목적 브랜치 이름&gt;
 </code></pre></div></div>
 <ul>
-  <li>rebase 명령어는 <span style="color: #8D4801"><strong>현재 작업 중인 브랜치</strong></span>를 기준으로 <span style="color: #8D4801"><strong>지정된 목적 브랜치</strong></span>를 리베이스한다. 이것은 현재 작업 중인 브랜치의 커밋을 목적 브랜치의 최신 커밋 위에 다시 적용하는 것을 의미한다. 따라서 명령어 사용 시 <span style="color: #8D4801"><strong>목적 브랜치에 적용하고자 하는 브랜치로 switch 명령어로 이동 후 rebase 명령어에 목적 브랜치 이름을 입력하여 실행</strong></span>한다.</li>
+  <li>
+    <p>rebase 명령어는 <span style="color: #8D4801"><strong>현재 작업 중인 브랜치</strong></span>를 기준으로 <span style="color: #8D4801"><strong>지정된 목적 브랜치</strong></span>를 리베이스한다. 이것은 현재 작업 중인 브랜치의 커밋을 목적 브랜치의 최신 커밋 위에 다시 적용하는 것을 의미한다. 따라서 명령어 사용 시 <span style="color: #8D4801"><strong>목적 브랜치에 적용하고자 하는 브랜치로 switch 명령어로 이동 후 rebase 명령어에 목적 브랜치 이름을 입력하여 실행</strong></span>한다.</p>
+  </li>
+  <li>
+    <p>명령어 실행 전
+<img src="/images/posts/2023-10-14-Merge-and-rebase/before-git-command-rebase.jpg" title="Git log before git command rebase" alt="Git log before git command rebase" /></p>
+  </li>
+  <li>
+    <p>명령어 실행
+<img src="/images/posts/2023-10-14-Merge-and-rebase/git-command-rebase.jpg" title="Git command to rebase target branch to working branch" alt="Git command to rebase target branch to working branch" /></p>
+  </li>
+  <li>
+    <p>명령어 실행 후
+<img src="/images/posts/2023-10-14-Merge-and-rebase/after-git-command-rebase.jpg" title="Git log after git command rebase" alt="Git log after git command rebase" /></p>
+  </li>
 </ul>
 
 <p><br /></p>
@@ -130,7 +148,8 @@
       <li><strong>브랜치 이름</strong>: 특정 브랜치의 최신 커밋을 참조할 수 있다.</li>
       <li><strong>태그명</strong>: 특정 태그가 가리키는 커밋을 지정할 수 있다.</li>
       <li><strong>상대 참조</strong>: 상대 참조를 사용하여 현재 위치에서 상대적인 커밋을 가리킬 수 있다. HEAD, HEAD~, HEAD^와 같은 상대 참조를 사용할 수 있다.</li>
-      <li><strong>SHA-1 해시값</strong>: 각 커밋에 대해 고유한 해시값을 사용하여 특정 커밋을 지정할 수 있다.</li>
+      <li><strong>SHA-1 해시값</strong>: 각 커밋에 대해 고유한 해시값을 사용하여 특정 커밋을 지정할 수 있다.
+<img src="/images/posts/2023-10-14-Merge-and-rebase/git-command-rebase-with-specified-scope.jpg" title="Git command to rebase target branch to specified scope" alt="Git command to rebase target branch to specified scope" /></li>
     </ul>
   </li>
 </ul>
@@ -140,7 +159,21 @@
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git rebase <span class="nt">--onto</span> &lt;목적 브랜치 이름&gt; &lt;리베이스 기준점&gt; &lt;커밋 범위&gt;
 </code></pre></div></div>
 <ul>
-  <li><span style="color: #8D4801"><strong>다른 기준점에 특정 범위의 커밋</strong></span>에 <span style="color: #8D4801"><strong>목적 브랜치를 리베이스할 경우</strong></span>에 사용하는 옵션으로 예를 들어 리베이스 기준점에 브랜치 이름을 입력하고 커밋 범위를 지정하여 현재 작업 중인 브랜치가 아닌 다른 브랜치의 특정 범위의 커밋에 목적 브랜치를 리베이스 하도록 명령할 수 있다. 즉, <span style="color: #8D4801"><strong>좀 더 자세한 특정 커밋들을 리베이스 하기 위한 옵션</strong></span>이다.</li>
+  <li>
+    <p><span style="color: #8D4801"><strong>다른 기준점에 특정 범위의 커밋</strong></span>에 <span style="color: #8D4801"><strong>목적 브랜치를 리베이스할 경우</strong></span>에 사용하는 옵션으로 예를 들어 리베이스 기준점에 브랜치 이름을 입력하고 커밋 범위를 지정하여 현재 작업 중인 브랜치가 아닌 다른 브랜치의 특정 범위의 커밋에 목적 브랜치를 리베이스 하도록 명령할 수 있다. 즉, <span style="color: #8D4801"><strong>좀 더 자세한 특정 커밋들을 리베이스 하기 위한 옵션</strong></span>이다.</p>
+  </li>
+  <li>
+    <p>명령어 실행 전
+<img src="/images/posts/2023-10-14-Merge-and-rebase/before-git-command-rebase-onto.jpg" title="Git log before git command rebase --onto" alt="Git log before git command rebase --onto" /></p>
+  </li>
+  <li>
+    <p>명령어 실행
+<img src="/images/posts/2023-10-14-Merge-and-rebase/git-command-rebase-onto.jpg" title="Git command to rebase target branch to rebase starting point within commit scope" alt="Git command to rebase target branch to rebase starting point within commit scope" /></p>
+  </li>
+  <li>
+    <p>명령어 실행 후
+<img src="/images/posts/2023-10-14-Merge-and-rebase/after-git-command-rebase-onto.jpg" title="Git log after git command rebase --onto" alt="Git log after git command rebase --onto" /></p>
+  </li>
 </ul>
 
 <p><br /></p>
@@ -149,7 +182,8 @@
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git rebase <span class="nt">--continue</span>
 </code></pre></div></div>
 <ul>
-  <li>현재 진행 중인 <span style="color: #8D4801"><strong>리베이스를 계속 진행</strong></span>하는 옵션으로 충돌 등이 발생했을 때 문제 해결 후 리베이스를 계속 진행하고 싶을 경우 사용할 수 있다.</li>
+  <li>현재 진행 중인 <span style="color: #8D4801"><strong>리베이스를 계속 진행</strong></span>하는 옵션으로 충돌 등이 발생했을 때 문제 해결 후 리베이스를 계속 진행하고 싶을 경우 사용할 수 있다.
+<img src="/images/posts/2023-10-14-Merge-and-rebase/git-command-rebase-continue.jpg" title="Git command to continue rebasing" alt="Git command to continue rebasing" /></li>
 </ul>
 
 <p><br /></p>
@@ -158,7 +192,8 @@
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git rebase <span class="nt">--skip</span>
 </code></pre></div></div>
 <ul>
-  <li>리베이스 중 충돌 등이 발생한 경우 병합과 다르게 <span style="color: #8D4801"><strong>각 커밋별로 문제를 해결해야 한다.</strong></span> 문제 해결 중에 <span style="color: #8D4801"><strong>특정 커밋의 충돌을 건너뛰고 리베이스를 진행</strong></span>하고 싶을 경우 사용하는 옵션이다.</li>
+  <li>리베이스 중 충돌 등이 발생한 경우 병합과 다르게 <span style="color: #8D4801"><strong>각 커밋별로 문제를 해결해야 한다.</strong></span> 문제 해결 중에 <span style="color: #8D4801"><strong>특정 커밋의 충돌을 건너뛰고 리베이스를 진행</strong></span>하고 싶을 경우 사용하는 옵션이다.
+<img src="/images/posts/2023-10-14-Merge-and-rebase/git-command-rebase-skip.jpg" title="Git command to skip rebasing" alt="Git command to skip rebasing" /></li>
 </ul>
 
 <p><br /></p>
@@ -167,7 +202,8 @@
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git rebase <span class="nt">--abort</span>
 </code></pre></div></div>
 <ul>
-  <li>현재 진행 중인 <span style="color: #8D4801"><strong>리베이스를 중지</strong></span>하는 옵션으로 충돌 등이 발생했을 때 리베이스를 중지하고 싶을 경우 사용할 수 있다.</li>
+  <li>현재 진행 중인 <span style="color: #8D4801"><strong>리베이스를 중지</strong></span>하는 옵션으로 충돌 등이 발생했을 때 리베이스를 중지하고 싶을 경우 사용할 수 있다.
+<img src="/images/posts/2023-10-14-Merge-and-rebase/git-command-rebase-abort.jpg" title="Git command to abort rebasing" alt="Git command to abort rebasing" /></li>
 </ul>
 
 <p><br /></p>
@@ -179,6 +215,16 @@
 </code></pre></div></div>
 <ul>
   <li><span style="color: #8D4801"><strong>사용자가 직접 커밋의 목록을 수정하여 리베이스를 실행</strong></span>하는 옵션이다. 실행 시 에디터가 열리고 사용자가 수동으로 명령어를 사용하여 커밋 분할, 합치기, 재배치 등이 가능하고 커밋 메시지 또한 수정할 수 있다.</li>
+  <li><span style="color: #8D4801"><strong>다양한 옵션</strong></span>이 존재하나 몇 가지만 간단히 알아보자.
+    <ul>
+      <li><span style="color: #8D4801"><strong>pick</strong></span>: 해당 커밋을 그대로 적용한다.</li>
+      <li><span style="color: #8D4801"><strong>edit</strong></span>: 해당 커밋을 적용하고, 그 이후의 커밋들을 수정할 수 있도록 중단한다.</li>
+      <li><span style="color: #8D4801"><strong>squash</strong></span>: 해당 커밋을 이전 커밋과 합친다.</li>
+      <li><span style="color: #8D4801"><strong>exec</strong></span>: 해당 커밋을 적용하기 전에 지정된 명령을 실행한다.</li>
+      <li><span style="color: #8D4801"><strong>drop</strong></span>: 해당 커밋을 건너뛴다.
+<img src="/images/posts/2023-10-14-Merge-and-rebase/git-command-rebase-i.jpg" title="Git command to rebase interactively" alt="Git command to rebase interactively" /></li>
+    </ul>
+  </li>
 </ul>
 
 <hr />
@@ -235,7 +281,8 @@ git rebase main
     <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git ls-files <span class="nt">--unmerged</span>
 </code></pre></div>    </div>
     <ul>
-      <li>병합하지 않은 파일들을 출력하는 명령어로 <span style="color: #8D4801"><strong>충돌이 해결되지 않은 파일들의 목록을 확인</strong></span>할 수 있다.</li>
+      <li>병합하지 않은 파일들을 출력하는 명령어로 <span style="color: #8D4801"><strong>충돌이 해결되지 않은 파일들의 목록을 확인</strong></span>할 수 있다.
+<img src="/images/posts/2023-10-14-Merge-and-rebase/git-command-ls-files-u.jpg" title="Git command to show list of unmerged files" alt="Git command to show list of unmerged files" /></li>
       <li><strong>목록의 파일 실행 방법</strong>
         <ul>
           <li>목록의 파일 위에 커서를 올려두고 <span style="color: #8D4801"><strong>“command 버튼 + 클릭”</strong></span>하여 해당 파일을 실행</li>
@@ -243,14 +290,17 @@ git rebase main
           <li>
             <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>vim &lt;파일 경로&gt;
 </code></pre></div>            </div>
+            <p><img src="/images/posts/2023-10-14-Merge-and-rebase/reference-of-vim-editor.jpg" title="Reference of vim editor" alt="Reference of vim editor" width="70%" /></p>
           </li>
           <li>
             <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>code &lt;파일 경로&gt;
 </code></pre></div>            </div>
+            <p><img src="/images/posts/2023-10-14-Merge-and-rebase/reference-of-vscode-editor.jpg" title="Reference of vscode editor" alt="Reference of vscode editor" width="70%" /></p>
           </li>
           <li>
-            <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>xcode &lt;파일 경로&gt;
+            <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>open <span class="nt">-a</span> Xcode &lt;파일 경로&gt;
 </code></pre></div>            </div>
+            <p><img src="/images/posts/2023-10-14-Merge-and-rebase/reference-of-xcode-editor.jpg" title="Reference of xcode editor" alt="Reference of xcode editor" width="70%" /></p>
           </li>
         </ul>
       </li>
@@ -264,7 +314,8 @@ git rebase main
 <span class="o">&gt;&gt;&gt;&gt;&gt;&gt;&gt;</span> 브랜치 이름 등의 참조 이름
 </code></pre></div>    </div>
     <ul>
-      <li>충돌이 발생한 파일의 수정을 완료하기 위해선 생성되어 있는 <span style="color: #8D4801"><strong>충돌 마커를 삭제</strong></span>해야한다. 당연하게도 <span style="color: #8D4801"><strong>충돌한 파일의 내용은 개발자의 적절한 판단하에 수정</strong></span>하여야 한다.</li>
+      <li>충돌이 발생한 파일의 수정을 완료하기 위해선 생성되어 있는 <span style="color: #8D4801"><strong>충돌 마커를 삭제</strong></span>해야한다. 당연하게도 <span style="color: #8D4801"><strong>충돌한 파일의 내용은 개발자의 적절한 판단하에 수정</strong></span>하여야 한다.
+<img src="/images/posts/2023-10-14-Merge-and-rebase/reference-of-resolving-conflicted-file.webp" title="Reference of resolving conflicted file" alt="Reference of resolving conflicted file" width="70%" /></li>
     </ul>
   </li>
   <li>충돌한 모든 파일의 수정이 완료되면 <span style="color: #8D4801"><strong>병합 커밋을 생성</strong></span>하여 <span style="color: #8D4801"><strong>최종적으로 충돌을 해결</strong></span>할 수 있다. 먼저 <span style="color: #8D4801"><strong>add 명령어를 사용</strong></span>하여 수정이 완료된 파일들을 <span style="color: #8D4801"><strong>스테이지 상태</strong></span>로 만든다.
@@ -278,7 +329,7 @@ git rebase main
 <hr />
 
 <h4 id="마무리하며">마무리하며…</h4>
-<p>이번 포스트에서는 병합과 리베이스 그리고 그 도중에 발생할 수 있는 충돌에 대하여 알아보았다. 작성을 시작할 때는 아는 한도 내에서 쉽게 풀어서 작성해 보자고 다짐했는데 막상 읽어보니 쉬운 게 맞나..? 의구심이 들어서 몇 번을 수정했던 것 같다. 다음 포스트에서는 작업 중 발생하는 실수를 되돌릴 수 있게 해주는 복구 명령어들을 알아보자.</p>]]></content><author><name></name></author><category term="Github" /><category term="Git" /><category term="Github" /><category term="깃" /><category term="깃허브" /><category term="git merge" /><category term="git rebase" /><category term="git ls-files" /><summary type="html"><![CDATA[버전 관리의 꽃이라 해도 과언이 아닐 파트이다. 서로 다른 브랜치의 이력을 합쳐도 보고 한쪽 브랜치로 이동도 시켜보고 도중에 충돌이 발생했을 때 조치하는 방법까지 알아보자.]]></summary></entry><entry><title type="html">9. 작업 변경 사항을 Stash 스택에 임시 저장하기</title><link href="http://localhost:4000/github/2023/10/12/Temporary-saving-of-working-status-to-stack/" rel="alternate" type="text/html" title="9. 작업 변경 사항을 Stash 스택에 임시 저장하기" /><published>2023-10-12T14:11:02+09:00</published><updated>2023-10-12T14:11:02+09:00</updated><id>http://localhost:4000/github/2023/10/12/Temporary-saving-of-working-status-to-stack</id><content type="html" xml:base="http://localhost:4000/github/2023/10/12/Temporary-saving-of-working-status-to-stack/"><![CDATA[<blockquote>
+<p>이번 포스트에서는 병합과 리베이스 그리고 그 도중에 발생할 수 있는 충돌에 대하여 알아보았다. 작성을 시작할 때는 아는 한도 내에서 쉽게 풀어서 작성해 보자고 다짐했는데 막상 읽어보니 쉬운 게 맞나..? 의구심이 들어서 몇 번을 더 수정했던 것 같다. 다음 포스트에서는 작업 중 발생하는 실수를 되돌릴 수 있게 해주는 복구 명령어들을 알아보자.</p>]]></content><author><name></name></author><category term="Github" /><category term="Git" /><category term="Github" /><category term="깃" /><category term="깃허브" /><category term="git merge" /><category term="git rebase" /><category term="git ls-files" /><summary type="html"><![CDATA[버전 관리의 꽃이라 해도 과언이 아닐 파트이다. 서로 다른 브랜치의 이력을 합쳐도 보고 한쪽 브랜치로 이동도 시켜보고 도중에 충돌이 발생했을 때 조치하는 방법까지 알아보자.]]></summary></entry><entry><title type="html">9. 작업 변경 사항을 Stash 스택에 임시 저장하기</title><link href="http://localhost:4000/github/2023/10/12/Temporary-saving-of-working-status-to-stack/" rel="alternate" type="text/html" title="9. 작업 변경 사항을 Stash 스택에 임시 저장하기" /><published>2023-10-12T14:11:02+09:00</published><updated>2023-10-12T14:11:02+09:00</updated><id>http://localhost:4000/github/2023/10/12/Temporary-saving-of-working-status-to-stack</id><content type="html" xml:base="http://localhost:4000/github/2023/10/12/Temporary-saving-of-working-status-to-stack/"><![CDATA[<blockquote>
   <ol>
     <li><a href="#stash-스택에-저장하기" title="Navigate to Pushing datas to stash">Stash 스택에 저장하기</a>
       <ul>

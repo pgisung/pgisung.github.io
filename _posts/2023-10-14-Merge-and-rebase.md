@@ -13,7 +13,6 @@ description: 버전 관리의 꽃이라 해도 과언이 아닐 파트이다. �
 - [Fast-forward 병합](#fast-forward-병합 "Navigate to Fast-forward merge")
 - [3-way 병합](#3-way-병합 "Navigate to Three-way merge")
 - [병합 명령어](#병합-명령어 "Navigate to Command to merge")
-- [병합 commit 메시지 자동 작성 옵션](#병합-commit-메시지-자동-작성-옵션 "Navigate to Option to edit automatically merge message")
 - [병합 중지 옵션](#병합-중지-옵션 "Navigate to Option to abort merge")
 - [병합 진행 옵션](#병합-진행-옵션 "Navigate to Option to continue merge")
 3. [리베이스란?](#리베이스란 "Navigate to What is rebase?")
@@ -61,16 +60,14 @@ git merge <파생 브랜치 이름>
 ```
 - merge 명령어는 <span style="color: #8D4801">**현재 작업 중인 원본 브랜치**</span>를 기준으로 <span style="color: #8D4801">**지정된 파생 브랜치**</span>의 커밋을 병합하여 가져오는 것이다. 그러므로 명령어 사용 시 <span style="color: #8D4801">**대상이 되는 원본 브랜치로 switch 명령어로 이동 후 merge 명령어에 파생 브랜치 이름을 입력하여 실행**</span>한다.
 
-<br>
+- 명령어 실행 전
+<img src="{{site.baseurl}}/images/posts/2023-10-14-Merge-and-rebase/before-git-command-merge.jpg" title="Git log before git command merge" alt="Git log before git command merge">
 
-##### **병합 commit 메시지 자동 작성 옵션**
-```bash
-git merge -e <파생 브랜치 이름>
-```
-```bash
-git merge --edit <파생 브랜치 이름>
-```
-- 병합 커밋 생성 시 에디터를 통해 커밋 메시지를 작성해야 하지만 <span style="color: #8D4801">**에디터가 실행되지 않고 커밋을 완료**</span>하는 옵션이다.
+- 명령어 실행
+<img src="{{site.baseurl}}/images/posts/2023-10-14-Merge-and-rebase/git-command-merge.jpg" title="Git command to merge target branch into working branch" alt="Git command to merge target branch into working branch">
+
+- 명령어 실행 후
+<img src="{{site.baseurl}}/images/posts/2023-10-14-Merge-and-rebase/after-git-command-merge.jpg" title="Git log after git command merge" alt="Git log after git command merge">
 
 <br>
 
@@ -79,6 +76,7 @@ git merge --edit <파생 브랜치 이름>
 git merge --abort
 ```
 - 현재 진행 중인 <span style="color: #8D4801">**병합을 중지**</span>하는 옵션으로 충돌 등이 발생했을 때 병합을 중지하고 싶을 경우 사용할 수 있다.
+<img src="{{site.baseurl}}/images/posts/2023-10-14-Merge-and-rebase/git-command-merge-abort.jpg" title="Git command to abort merging" alt="Git command to abort merging">
 
 <br>
 
@@ -87,11 +85,12 @@ git merge --abort
 git merge --continue
 ```
 - 현재 진행 중인 <span style="color: #8D4801">**병합을 계속 진행**</span>하는 옵션으로 충돌 등이 발생했을 때 문제 해결 후 병합을 계속 진행하고 싶을 경우 사용할 수 있다.
+<img src="{{site.baseurl}}/images/posts/2023-10-14-Merge-and-rebase/git-command-merge-continue.jpg" title="Git command to continue merging" alt="Git command to continue merging">
 
 ---
 
 #### <span style="color: brown">**리베이스란?**</span>
-말 그대로 <span style="color: #8D4801">**base 커밋을 다시 설정하는 것**</span>으로 <span style="color: #8D4801">**지정된 브랜치의 base 커밋을 최신 커밋으로 이동**</span>시키는데, 과거 base 커밋과 연결되어 있던 <span style="color: #8D4801">**현재 작업 중인 브랜치 또한 이동한 새로운 base 커밋으로 연결**</span>된다. 또한 현재 작업 중인 브랜치의 이동한 커밋들의 <span style="color: indianred">**해시값**</span>은 <span style="color: indianred">**모두 변경**</span>된다. Interactive 옵션을 사용 시 <span style="color: indianred">**커밋의 순서와 위치까지도 변경**</span>될 수 있으므로 <span style="color: indianred">**이는 저장소가 공개된 경우 다른 개발자들과의 협업 시 혼돈을 야기시킬 수 있기 때문에 사용에 유의**</span>해야한다.
+말 그대로 <span style="color: #8D4801">**base 커밋을 다시 설정하는 것**</span>으로 <span style="color: #8D4801">**지정된 브랜치의 base 커밋을 최신 커밋으로 이동**</span>시키는데, 과거 base 커밋과 연결되어 있던 <span style="color: #8D4801">**현재 작업 중인 브랜치 또한 이동한 새로운 base 커밋으로 연결**</span>된다. 또한 현재 작업 중인 브랜치의 이동한 커밋들의 <span style="color: indianred">**해시값**</span>은 <span style="color: indianred">**모두 변경**</span>된다. Interactive 옵션을 사용 시 <span style="color: indianred">**커밋의 순서와 위치까지도 변경**</span>할 수 있으며 <span style="color: indianred">**이는 저장소가 공개된 경우 다른 개발자들과의 협업 시 혼돈을 야기시킬 수 있기 때문에 사용에 유의**</span>해야한다.
 <center><img src="{{site.baseurl}}/images/posts/2023-10-14-Merge-and-rebase/reference-of-rebase.webp" title="Reference of Rebase" alt="Reference of Rebase"></center>
 
 <br>
@@ -101,6 +100,15 @@ git merge --continue
 git rebase <목적 브랜치 이름>
 ```
 - rebase 명령어는 <span style="color: #8D4801">**현재 작업 중인 브랜치**</span>를 기준으로 <span style="color: #8D4801">**지정된 목적 브랜치**</span>를 리베이스한다. 이것은 현재 작업 중인 브랜치의 커밋을 목적 브랜치의 최신 커밋 위에 다시 적용하는 것을 의미한다. 따라서 명령어 사용 시 <span style="color: #8D4801">**목적 브랜치에 적용하고자 하는 브랜치로 switch 명령어로 이동 후 rebase 명령어에 목적 브랜치 이름을 입력하여 실행**</span>한다.
+
+- 명령어 실행 전
+<img src="{{site.baseurl}}/images/posts/2023-10-14-Merge-and-rebase/before-git-command-rebase.jpg" title="Git log before git command rebase" alt="Git log before git command rebase">
+
+- 명령어 실행
+<img src="{{site.baseurl}}/images/posts/2023-10-14-Merge-and-rebase/git-command-rebase.jpg" title="Git command to rebase target branch to working branch" alt="Git command to rebase target branch to working branch">
+
+- 명령어 실행 후
+<img src="{{site.baseurl}}/images/posts/2023-10-14-Merge-and-rebase/after-git-command-rebase.jpg" title="Git log after git command rebase" alt="Git log after git command rebase">
 
 <br>
 
@@ -114,6 +122,7 @@ git rebase <목적 브랜치 이름> <리베이스 기준점>
   - **태그명**: 특정 태그가 가리키는 커밋을 지정할 수 있다.
   - **상대 참조**: 상대 참조를 사용하여 현재 위치에서 상대적인 커밋을 가리킬 수 있다. HEAD, HEAD~, HEAD^와 같은 상대 참조를 사용할 수 있다.
   - **SHA-1 해시값**: 각 커밋에 대해 고유한 해시값을 사용하여 특정 커밋을 지정할 수 있다.
+<img src="{{site.baseurl}}/images/posts/2023-10-14-Merge-and-rebase/git-command-rebase-with-specified-scope.jpg" title="Git command to rebase target branch to specified scope" alt="Git command to rebase target branch to specified scope">
 
 <br>
 
@@ -122,6 +131,15 @@ git rebase --onto <목적 브랜치 이름> <리베이스 기준점> <커밋 범
 ```
 - <span style="color: #8D4801">**다른 기준점에 특정 범위의 커밋**</span>에 <span style="color: #8D4801">**목적 브랜치를 리베이스할 경우**</span>에 사용하는 옵션으로 예를 들어 리베이스 기준점에 브랜치 이름을 입력하고 커밋 범위를 지정하여 현재 작업 중인 브랜치가 아닌 다른 브랜치의 특정 범위의 커밋에 목적 브랜치를 리베이스 하도록 명령할 수 있다. 즉, <span style="color: #8D4801">**좀 더 자세한 특정 커밋들을 리베이스 하기 위한 옵션**</span>이다.
 
+- 명령어 실행 전
+<img src="{{site.baseurl}}/images/posts/2023-10-14-Merge-and-rebase/before-git-command-rebase-onto.jpg" title="Git log before git command rebase --onto" alt="Git log before git command rebase --onto">
+
+- 명령어 실행
+<img src="{{site.baseurl}}/images/posts/2023-10-14-Merge-and-rebase/git-command-rebase-onto.jpg" title="Git command to rebase target branch to rebase starting point within commit scope" alt="Git command to rebase target branch to rebase starting point within commit scope">
+
+- 명령어 실행 후
+<img src="{{site.baseurl}}/images/posts/2023-10-14-Merge-and-rebase/after-git-command-rebase-onto.jpg" title="Git log after git command rebase --onto" alt="Git log after git command rebase --onto">
+
 <br>
 
 ##### **리베이스 진행 옵션**
@@ -129,6 +147,7 @@ git rebase --onto <목적 브랜치 이름> <리베이스 기준점> <커밋 범
 git rebase --continue
 ```
 - 현재 진행 중인 <span style="color: #8D4801">**리베이스를 계속 진행**</span>하는 옵션으로 충돌 등이 발생했을 때 문제 해결 후 리베이스를 계속 진행하고 싶을 경우 사용할 수 있다.
+<img src="{{site.baseurl}}/images/posts/2023-10-14-Merge-and-rebase/git-command-rebase-continue.jpg" title="Git command to continue rebasing" alt="Git command to continue rebasing">
 
 <br>
 
@@ -137,6 +156,7 @@ git rebase --continue
 git rebase --skip
 ```
 - 리베이스 중 충돌 등이 발생한 경우 병합과 다르게 <span style="color: #8D4801">**각 커밋별로 문제를 해결해야 한다.**</span> 문제 해결 중에 <span style="color: #8D4801">**특정 커밋의 충돌을 건너뛰고 리베이스를 진행**</span>하고 싶을 경우 사용하는 옵션이다.
+<img src="{{site.baseurl}}/images/posts/2023-10-14-Merge-and-rebase/git-command-rebase-skip.jpg" title="Git command to skip rebasing" alt="Git command to skip rebasing">
 
 <br>
 
@@ -145,6 +165,7 @@ git rebase --skip
 git rebase --abort
 ```
 - 현재 진행 중인 <span style="color: #8D4801">**리베이스를 중지**</span>하는 옵션으로 충돌 등이 발생했을 때 리베이스를 중지하고 싶을 경우 사용할 수 있다.
+<img src="{{site.baseurl}}/images/posts/2023-10-14-Merge-and-rebase/git-command-rebase-abort.jpg" title="Git command to abort rebasing" alt="Git command to abort rebasing">
 
 <br>
 
@@ -156,6 +177,13 @@ git rebase -i <커밋 범위>
 git rebase --interactive <커밋 범위>
 ```
 - <span style="color: #8D4801">**사용자가 직접 커밋의 목록을 수정하여 리베이스를 실행**</span>하는 옵션이다. 실행 시 에디터가 열리고 사용자가 수동으로 명령어를 사용하여 커밋 분할, 합치기, 재배치 등이 가능하고 커밋 메시지 또한 수정할 수 있다.
+- <span style="color: #8D4801">**다양한 옵션**</span>이 존재하나 몇 가지만 간단히 알아보자.
+  - <span style="color: #8D4801">**pick**</span>: 해당 커밋을 그대로 적용한다.
+  - <span style="color: #8D4801">**edit**</span>: 해당 커밋을 적용하고, 그 이후의 커밋들을 수정할 수 있도록 중단한다.
+  - <span style="color: #8D4801">**squash**</span>: 해당 커밋을 이전 커밋과 합친다.
+  - <span style="color: #8D4801">**exec**</span>: 해당 커밋을 적용하기 전에 지정된 명령을 실행한다.
+  - <span style="color: #8D4801">**drop**</span>: 해당 커밋을 건너뛴다.
+<img src="{{site.baseurl}}/images/posts/2023-10-14-Merge-and-rebase/git-command-rebase-i.jpg" title="Git command to rebase interactively" alt="Git command to rebase interactively">
 
 ---
 
@@ -208,18 +236,22 @@ git ls-files -u
 git ls-files --unmerged
 ```
 - 병합하지 않은 파일들을 출력하는 명령어로 <span style="color: #8D4801">**충돌이 해결되지 않은 파일들의 목록을 확인**</span>할 수 있다.
+<img src="{{site.baseurl}}/images/posts/2023-10-14-Merge-and-rebase/git-command-ls-files-u.jpg" title="Git command to show list of unmerged files" alt="Git command to show list of unmerged files">
 - **목록의 파일 실행 방법**
   - 목록의 파일 위에 커서를 올려두고 <span style="color: #8D4801">**"command 버튼 + 클릭"**</span>하여 해당 파일을 실행
   - 아래와 같은 <span style="color: #8D4801">**에디터 실행 명령어**</span>로 해당 파일을 실행
   - ```bash
   vim <파일 경로>
   ```
+  <img src="{{site.baseurl}}/images/posts/2023-10-14-Merge-and-rebase/reference-of-vim-editor.jpg" title="Reference of vim editor" alt="Reference of vim editor" width="70%">
   - ```bash
   code <파일 경로>
   ```
+  <img src="{{site.baseurl}}/images/posts/2023-10-14-Merge-and-rebase/reference-of-vscode-editor.jpg" title="Reference of vscode editor" alt="Reference of vscode editor" width="70%">
   - ```bash
-  xcode <파일 경로>
+  open -a Xcode <파일 경로>
   ```
+  <img src="{{site.baseurl}}/images/posts/2023-10-14-Merge-and-rebase/reference-of-xcode-editor.jpg" title="Reference of xcode editor" alt="Reference of xcode editor" width="70%">
 
 2. 목록에서 충돌이 발생한 파일을 실행하면 아래와 같은 <span style="color: #8D4801">**충돌 마커**</span>가 생성되어 있다. 에디터를 이용하여 <span style="color: #8D4801">**실제 파일의 코드**</span>를 수정해야 한다.
 ```bash
@@ -230,6 +262,7 @@ git ls-files --unmerged
 >>>>>>> 브랜치 이름 등의 참조 이름
 ```
 - 충돌이 발생한 파일의 수정을 완료하기 위해선 생성되어 있는 <span style="color: #8D4801">**충돌 마커를 삭제**</span>해야한다. 당연하게도 <span style="color: #8D4801">**충돌한 파일의 내용은 개발자의 적절한 판단하에 수정**</span>하여야 한다.
+<img src="{{site.baseurl}}/images/posts/2023-10-14-Merge-and-rebase/reference-of-resolving-conflicted-file.webp" title="Reference of resolving conflicted file" alt="Reference of resolving conflicted file" width="70%">
 
 3. 충돌한 모든 파일의 수정이 완료되면 <span style="color: #8D4801">**병합 커밋을 생성**</span>하여 <span style="color: #8D4801">**최종적으로 충돌을 해결**</span>할 수 있다. 먼저 <span style="color: #8D4801">**add 명령어를 사용**</span>하여 수정이 완료된 파일들을 <span style="color: #8D4801">**스테이지 상태**</span>로 만든다.
 - <span style="color: #8D4801">**직접 commit 명령어를 사용**</span>하여 commit을 생성할 수 있다.
@@ -238,4 +271,4 @@ git ls-files --unmerged
 ---
 
 #### 마무리하며...
-이번 포스트에서는 병합과 리베이스 그리고 그 도중에 발생할 수 있는 충돌에 대하여 알아보았다. 작성을 시작할 때는 아는 한도 내에서 쉽게 풀어서 작성해 보자고 다짐했는데 막상 읽어보니 쉬운 게 맞나..? 의구심이 들어서 몇 번을 수정했던 것 같다. 다음 포스트에서는 작업 중 발생하는 실수를 되돌릴 수 있게 해주는 복구 명령어들을 알아보자.
+이번 포스트에서는 병합과 리베이스 그리고 그 도중에 발생할 수 있는 충돌에 대하여 알아보았다. 작성을 시작할 때는 아는 한도 내에서 쉽게 풀어서 작성해 보자고 다짐했는데 막상 읽어보니 쉬운 게 맞나..? 의구심이 들어서 몇 번을 더 수정했던 것 같다. 다음 포스트에서는 작업 중 발생하는 실수를 되돌릴 수 있게 해주는 복구 명령어들을 알아보자.
