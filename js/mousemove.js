@@ -31,6 +31,10 @@ window.addEventListener('load', function() {
       box.style.top = "0";
       box.style.zIndex = "999";
       box.style.display="none";
+      box.style.webkitUserSelect = "none";
+      box.style.MozUserSelect = "none";
+      box.style.msUserSelect = "none";
+      box.style.userSelect = "none";
       document.body.appendChild(ele[i]=box);
     }
     set_screen_size();
