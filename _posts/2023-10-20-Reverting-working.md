@@ -130,7 +130,7 @@ git reset --merge HEAD~
 ##### **Revert 명령어**
 기존의 커밋을 취소하는 Reset 명령어와 달리, Revert 명령어는 <span style="color: #8D4801">**기존 커밋을 보존하면서 되돌리기 작업에 대한 새로운 커밋을 생성**</span>한다. 그래서 명령어를 실행했을 때 새로운 커밋에 대한 에디터가 실행된다. <span style="color: indianred">**복귀를 위한 커밋이 지속해서 생기면 커밋 이력이 복잡해질 수 있으므로 회사의 Convention이나 상황에 맞게 주의하여 사용**</span>해야 한다.
 ```bash
-git revert <커밋 ID>
+git revert <커밋 해시값>
 ```
 - 명령어 실행 전
 <img src="{{site.baseurl}}/images/posts/2023-10-20-Reverting-working/before-git-command-revert.jpg" title="Git log before git command revert" alt="Git log before git command revert">
@@ -145,7 +145,7 @@ git revert <커밋 ID>
 
 - **범위 지정 Revert**
 ```bash
-git revert <커밋 ID>..<커밋 ID>
+git revert <커밋 해시값>..<커밋 해시값>
 ```
   - 기본적으로 Revert 명령어는 <span style="color: #8D4801">**한 번에 커밋 단 하나만 취소**</span>할 수 있다. 만약 <span style="color: #8D4801">**범위 지정 연산자를 사용할 경우 범위 안의 여러 개의 커밋을 취소**</span>할 수 있다. 이때 더 최근의 커밋을 뒤에 입력해야 한다.
 
@@ -189,10 +189,10 @@ git revert --abort
 
 - **병합 취소 Revert**
 ```bash
-git revert -m <숫자> <병합 커밋 ID>
+git revert -m <숫자> <병합 커밋 해시값>
 ```
 ```bash
-git revert --mainline <숫자> <병합 커밋 ID>
+git revert --mainline <숫자> <병합 커밋 해시값>
 ```
   - 되돌리기 작업에 대한 새로운 커밋을 생성하는 Revert 명령어의 특성상 <span style="color: #8D4801">**병합 커밋을 되돌릴 때 어느 브랜치의 내용으로 복귀할지 모호성**</span>이 생긴다. 이런 경우에 이 옵션을 사용하여 <span style="color: #8D4801">**복귀할 브랜치의 내용을 선택**</span>할 수 있다. <span style="color: #8D4801">**숫자**</span>는 아래 이미지와 같이 <span style="color: #8D4801">**좌측부터 1로 시작**</span>한다.
 

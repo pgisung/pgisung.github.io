@@ -24,7 +24,12 @@ description: 버전 관리의 꽃이라 해도 과언이 아닐 파트이다. �
 - [대화형 리베이스](#대화형-리베이스 "Navigate to Interactive rebase")
 4. [병합과 리베이스의 차이점](#병합과-리베이스의-차이점 "Navigate to Difference between merge and rebase")
 - [헷갈리기 쉬운 명령어의 방향](#-헷갈리기-쉬운-명령어의-방향 "Navigate to Direction of command that easily confused")
-5. [충돌과 해결 방법](#충돌과-해결-방법 "Navigate to Conflict and solution for")
+5. [체리픽이란?](#체리픽이란 "Navigate to What is cherry-pick?")
+- [체리픽 명령어](#체리픽-명령어 "Navigate to Command cherry-pick")
+- [체리픽 진행 옵션](#체리픽-진행-옵션 "Navigate to Option to continue cherry-pick")
+- [체리픽 건너뛰기 옵션](#체리픽-건너뛰기-옵션 "Navigate to Option to skip cherry-pick")
+- [체리픽 중지 옵션](#체리픽-중지-옵션 "Navigate to Option to abort cherry-pick")
+6. [충돌과 해결 방법](#충돌과-해결-방법 "Navigate to Conflict and solution for")
 - [충돌이란?](#충돌이란 "Navigate to What is conflict?")
 - [해결 방법](#해결-방법 "Navigate to Solution for conflict")
 
@@ -71,15 +76,6 @@ git merge <파생 브랜치 이름>
 
 <br>
 
-##### **병합 중지 옵션**
-```bash
-git merge --abort
-```
-- 현재 진행 중인 <span style="color: #8D4801">**병합을 중지**</span>하는 옵션으로 충돌 등이 발생했을 때 병합을 중지하고 싶을 경우 사용할 수 있다.
-<img src="{{site.baseurl}}/images/posts/2023-10-14-Merge-and-rebase/git-command-merge-abort.jpg" title="Git command to abort merging" alt="Git command to abort merging">
-
-<br>
-
 ##### **병합 진행 옵션**
 ```bash
 git merge --continue
@@ -87,11 +83,20 @@ git merge --continue
 - 현재 진행 중인 <span style="color: #8D4801">**병합을 계속 진행**</span>하는 옵션으로 충돌 등이 발생했을 때 문제 해결 후 병합을 계속 진행하고 싶을 경우 사용할 수 있다.
 <img src="{{site.baseurl}}/images/posts/2023-10-14-Merge-and-rebase/git-command-merge-continue.jpg" title="Git command to continue merging" alt="Git command to continue merging">
 
+<br>
+
+##### **병합 중지 옵션**
+```bash
+git merge --abort
+```
+- 현재 진행 중인 <span style="color: #8D4801">**병합을 중지**</span>하는 옵션으로 충돌 등이 발생했을 때 병합을 중지하고 싶을 경우 사용할 수 있다.
+<img src="{{site.baseurl}}/images/posts/2023-10-14-Merge-and-rebase/git-command-merge-abort.jpg" title="Git command to abort merging" alt="Git command to abort merging">
+
 ---
 
 #### <span style="color: brown">**리베이스란?**</span>
 말 그대로 <span style="color: #8D4801">**base 커밋을 다시 설정하는 것**</span>으로 <span style="color: #8D4801">**지정된 브랜치의 base 커밋을 최신 커밋으로 이동**</span>시키는데, 과거 base 커밋과 연결되어 있던 <span style="color: #8D4801">**현재 작업 중인 브랜치 또한 이동한 새로운 base 커밋으로 연결**</span>된다. 또한 현재 작업 중인 브랜치의 이동한 커밋들의 <span style="color: indianred">**해시값**</span>은 <span style="color: indianred">**모두 변경**</span>된다. Interactive 옵션을 사용 시 <span style="color: indianred">**커밋의 순서와 위치까지도 변경**</span>할 수 있으며 <span style="color: indianred">**이는 저장소가 공개된 경우 다른 개발자들과의 협업 시 혼돈을 야기시킬 수 있기 때문에 사용에 유의**</span>해야한다.
-<center><img src="{{site.baseurl}}/images/posts/2023-10-14-Merge-and-rebase/reference-of-rebase.webp" title="Reference of Rebase" alt="Reference of Rebase"></center>
+<center><img src="{{site.baseurl}}/images/posts/2023-10-14-Merge-and-rebase/reference-of-rebase.webp" title="Reference of rebase" alt="Reference of rebase"></center>
 
 <br>
 
@@ -215,6 +220,54 @@ git merge jisung
 git switch jisung
 git rebase main
 ```
+
+---
+
+#### <span style="color: brown">**체리픽이란?**</span>
+체리나 과일에서 <span style="color: #8D4801">**좋은 것만 골라서 선택하는 행위**</span>를 뜻하는 단어로 Git에서는 <span style="color: #8D4801">**다른 브랜치에서 선택적으로 원하는 커밋을 골라내어 현재 브랜치로 가져오는**</span> 명령어를 의미한다.
+<center><img src="{{site.baseurl}}/images/posts/2023-10-14-Merge-and-rebase/reference-of-cherry-pick.webp" title="Reference of cherry-pick" alt="Reference of cherry-pick"></center>
+
+<br>
+
+##### **체리픽 명령어**
+```bash
+git cherry-pick <커밋 해시값>
+```
+- 명령어 실행 전
+<img src="{{site.baseurl}}/images/posts/2023-10-14-Merge-and-rebase/before-git-command-cherry-pick.jpg" title="Git log before git command cherry-pick" alt="Git log before git command cherry-pick">
+
+- 명령어 실행
+<img src="{{site.baseurl}}/images/posts/2023-10-14-Merge-and-rebase/git-command-cherry-pick.jpg" title="Git command to pick commit optionally to current branch from another branch" alt="Git command to pick commit optionally to current branch from another branch">
+
+- 명령어 실행 후
+<img src="{{site.baseurl}}/images/posts/2023-10-14-Merge-and-rebase/after-git-command-cherry-pick.jpg" title="Git log after git command cherry-pick" alt="Git log after git command cherry-pick">
+
+<br>
+
+##### **체리픽 진행 옵션**
+```bash
+git cherry-pick --continue
+```
+- 현재 진행 중인 <span style="color: #8D4801">**체리픽을 계속 진행**</span>하는 옵션으로 충돌 등이 발생했을 때 문제 해결 후 체리픽을 계속 진행하고 싶을 경우 사용할 수 있다.
+<img src="{{site.baseurl}}/images/posts/2023-10-14-Merge-and-rebase/git-command-cherry-pick-continue.jpg" title="Git command to continue proceeding cherry-pick" alt="Git command to continue proceeding cherry-pick">
+
+<br>
+
+##### **체리픽 건너뛰기 옵션**
+```bash
+git cherry-pick --skip
+```
+- 체리픽 중 충돌 등이 발생한 경우 문제 해결 중에 <span style="color: #8D4801">**특정 커밋의 충돌을 건너뛰고 체리픽을 진행**</span>하고 싶을 경우 사용하는 옵션이다.
+<img src="{{site.baseurl}}/images/posts/2023-10-14-Merge-and-rebase/git-command-cherry-pick-skip.jpg" title="Git command to skip proceeding cherry-pick" alt="Git command to skip proceeding cherry-pick">
+
+<br>
+
+##### **체리픽 중지 옵션**
+```bash
+git cherry-pick --abort
+```
+- 현재 진행 중인 <span style="color: #8D4801">**체리픽을 중지**</span>하는 옵션으로 충돌 등이 발생했을 때 체리픽을 중지하고 싶을 경우 사용할 수 있다.
+<img src="{{site.baseurl}}/images/posts/2023-10-14-Merge-and-rebase/git-command-cherry-pick-abort.jpg" title="Git command to abort proceeding cherry-pick" alt="Git command to abort proceeding cherry-pick">
 
 ---
 

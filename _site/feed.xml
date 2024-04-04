@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-04-04T22:25:18+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JohnnyPark</title><subtitle>The growth diary of Software developer JohnnyPark</subtitle><entry><title type="html">11. 작업 되돌리기</title><link href="http://localhost:4000/github/2023/10/20/Reverting-working/" rel="alternate" type="text/html" title="11. 작업 되돌리기" /><published>2023-10-20T17:21:37+09:00</published><updated>2023-10-20T17:21:37+09:00</updated><id>http://localhost:4000/github/2023/10/20/Reverting-working</id><content type="html" xml:base="http://localhost:4000/github/2023/10/20/Reverting-working/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-04-05T01:11:26+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JohnnyPark</title><subtitle>The growth diary of Software developer JohnnyPark</subtitle><entry><title type="html">11. 작업 되돌리기</title><link href="http://localhost:4000/github/2023/10/20/Reverting-working/" rel="alternate" type="text/html" title="11. 작업 되돌리기" /><published>2023-10-20T17:21:37+09:00</published><updated>2023-10-20T17:21:37+09:00</updated><id>http://localhost:4000/github/2023/10/20/Reverting-working</id><content type="html" xml:base="http://localhost:4000/github/2023/10/20/Reverting-working/"><![CDATA[<blockquote>
   <ol>
     <li><a href="#파일-되돌리기" title="Navigate to Reverting file">파일 되돌리기</a>
       <ul>
@@ -152,7 +152,7 @@
 
 <h5 id="revert-명령어"><strong>Revert 명령어</strong></h5>
 <p>기존의 커밋을 취소하는 Reset 명령어와 달리, Revert 명령어는 <span style="color: #8D4801"><strong>기존 커밋을 보존하면서 되돌리기 작업에 대한 새로운 커밋을 생성</strong></span>한다. 그래서 명령어를 실행했을 때 새로운 커밋에 대한 에디터가 실행된다. <span style="color: indianred"><strong>복귀를 위한 커밋이 지속해서 생기면 커밋 이력이 복잡해질 수 있으므로 회사의 Convention이나 상황에 맞게 주의하여 사용</strong></span>해야 한다.</p>
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git revert &lt;커밋 ID&gt;
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git revert &lt;커밋 해시값&gt;
 </code></pre></div></div>
 <ul>
   <li>
@@ -173,7 +173,7 @@
 
 <ul>
   <li><strong>범위 지정 Revert</strong>
-    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git revert &lt;커밋 ID&gt;..&lt;커밋 ID&gt;
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git revert &lt;커밋 해시값&gt;..&lt;커밋 해시값&gt;
 </code></pre></div>    </div>
     <ul>
       <li>
@@ -238,9 +238,9 @@
 
 <ul>
   <li><strong>병합 취소 Revert</strong>
-    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git revert <span class="nt">-m</span> &lt;숫자&gt; &lt;병합 커밋 ID&gt;
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git revert <span class="nt">-m</span> &lt;숫자&gt; &lt;병합 커밋 해시값&gt;
 </code></pre></div>    </div>
-    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git revert <span class="nt">--mainline</span> &lt;숫자&gt; &lt;병합 커밋 ID&gt;
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git revert <span class="nt">--mainline</span> &lt;숫자&gt; &lt;병합 커밋 해시값&gt;
 </code></pre></div>    </div>
     <ul>
       <li>
@@ -363,6 +363,14 @@
         <li><a href="#-헷갈리기-쉬운-명령어의-방향" title="Navigate to Direction of command that easily confused">헷갈리기 쉬운 명령어의 방향</a></li>
       </ul>
     </li>
+    <li><a href="#체리픽이란" title="Navigate to What is cherry-pick?">체리픽이란?</a>
+      <ul>
+        <li><a href="#체리픽-명령어" title="Navigate to Command cherry-pick">체리픽 명령어</a></li>
+        <li><a href="#체리픽-진행-옵션" title="Navigate to Option to continue cherry-pick">체리픽 진행 옵션</a></li>
+        <li><a href="#체리픽-건너뛰기-옵션" title="Navigate to Option to skip cherry-pick">체리픽 건너뛰기 옵션</a></li>
+        <li><a href="#체리픽-중지-옵션" title="Navigate to Option to abort cherry-pick">체리픽 중지 옵션</a></li>
+      </ul>
+    </li>
     <li><a href="#충돌과-해결-방법" title="Navigate to Conflict and solution for">충돌과 해결 방법</a>
       <ul>
         <li><a href="#충돌이란" title="Navigate to What is conflict?">충돌이란?</a></li>
@@ -449,7 +457,7 @@
 
 <h4 id="리베이스란"><span style="color: brown"><strong>리베이스란?</strong></span></h4>
 <p>말 그대로 <span style="color: #8D4801"><strong>base 커밋을 다시 설정하는 것</strong></span>으로 <span style="color: #8D4801"><strong>지정된 브랜치의 base 커밋을 최신 커밋으로 이동</strong></span>시키는데, 과거 base 커밋과 연결되어 있던 <span style="color: #8D4801"><strong>현재 작업 중인 브랜치 또한 이동한 새로운 base 커밋으로 연결</strong></span>된다. 또한 현재 작업 중인 브랜치의 이동한 커밋들의 <span style="color: indianred"><strong>해시값</strong></span>은 <span style="color: indianred"><strong>모두 변경</strong></span>된다. Interactive 옵션을 사용 시 <span style="color: indianred"><strong>커밋의 순서와 위치까지도 변경</strong></span>할 수 있으며 <span style="color: indianred"><strong>이는 저장소가 공개된 경우 다른 개발자들과의 협업 시 혼돈을 야기시킬 수 있기 때문에 사용에 유의</strong></span>해야한다.</p>
-<center><img src="/images/posts/2023-10-14-Merge-and-rebase/reference-of-rebase.webp" title="Reference of Rebase" alt="Reference of Rebase" /></center>
+<center><img src="/images/posts/2023-10-14-Merge-and-rebase/reference-of-rebase.webp" title="Reference of rebase" alt="Reference of rebase" /></center>
 
 <p><br /></p>
 
@@ -596,6 +604,62 @@ git merge jisung
 git rebase main
 </code></pre></div>    </div>
   </li>
+</ul>
+
+<hr />
+
+<h4 id="체리픽이란"><span style="color: brown"><strong>체리픽이란?</strong></span></h4>
+<p>체리나 과일에서 <span style="color: #8D4801"><strong>좋은 것만 골라서 선택하는 행위</strong></span>를 뜻하는 단어로 Git에서는 <span style="color: #8D4801"><strong>다른 브랜치에서 선택적으로 원하는 커밋을 골라내어 현재 브랜치로 가져오는</strong></span> 명령어를 의미한다.</p>
+<center><img src="/images/posts/2023-10-14-Merge-and-rebase/reference-of-cherry-pick.webp" title="Reference of cherry-pick" alt="Reference of cherry-pick" /></center>
+
+<p><br /></p>
+
+<h5 id="체리픽-명령어"><strong>체리픽 명령어</strong></h5>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git cherry-pick &lt;커밋 해시값&gt;
+</code></pre></div></div>
+<ul>
+  <li>
+    <p>명령어 실행 전
+<img src="/images/posts/2023-10-14-Merge-and-rebase/before-git-command-cherry-pick.jpg" title="Git log before git command cherry-pick" alt="Git log before git command cherry-pick" /></p>
+  </li>
+  <li>
+    <p>명령어 실행
+<img src="/images/posts/2023-10-14-Merge-and-rebase/git-command-cherry-pick.jpg" title="Git command to pick commit optionally to current branch from another branch" alt="Git command to pick commit optionally to current branch from another branch" /></p>
+  </li>
+  <li>
+    <p>명령어 실행 후
+<img src="/images/posts/2023-10-14-Merge-and-rebase/after-git-command-cherry-pick.jpg" title="Git log after git command cherry-pick" alt="Git log after git command cherry-pick" /></p>
+  </li>
+</ul>
+
+<p><br /></p>
+
+<h5 id="체리픽-진행-옵션"><strong>체리픽 진행 옵션</strong></h5>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git cherry-pick <span class="nt">--continue</span>
+</code></pre></div></div>
+<ul>
+  <li>현재 진행 중인 <span style="color: #8D4801"><strong>체리픽을 계속 진행</strong></span>하는 옵션으로 충돌 등이 발생했을 때 문제 해결 후 체리픽을 계속 진행하고 싶을 경우 사용할 수 있다.
+<img src="/images/posts/2023-10-14-Merge-and-rebase/git-command-cherry-pick-continue.jpg" title="Git command to continue proceeding cherry-pick" alt="Git command to continue proceeding cherry-pick" /></li>
+</ul>
+
+<p><br /></p>
+
+<h5 id="체리픽-건너뛰기-옵션"><strong>체리픽 건너뛰기 옵션</strong></h5>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git cherry-pick <span class="nt">--skip</span>
+</code></pre></div></div>
+<ul>
+  <li>체리픽 중 충돌 등이 발생한 경우 문제 해결 중에 <span style="color: #8D4801"><strong>특정 커밋의 충돌을 건너뛰고 체리픽을 진행</strong></span>하고 싶을 경우 사용하는 옵션이다.
+<img src="/images/posts/2023-10-14-Merge-and-rebase/git-command-cherry-pick-skip.jpg" title="Git command to skip proceeding cherry-pick" alt="Git command to skip proceeding cherry-pick" /></li>
+</ul>
+
+<p><br /></p>
+
+<h5 id="체리픽-중지-옵션"><strong>체리픽 중지 옵션</strong></h5>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git cherry-pick <span class="nt">--abort</span>
+</code></pre></div></div>
+<ul>
+  <li>현재 진행 중인 <span style="color: #8D4801"><strong>체리픽을 중지</strong></span>하는 옵션으로 충돌 등이 발생했을 때 체리픽을 중지하고 싶을 경우 사용할 수 있다.
+<img src="/images/posts/2023-10-14-Merge-and-rebase/git-command-cherry-pick-abort.jpg" title="Git command to abort proceeding cherry-pick" alt="Git command to abort proceeding cherry-pick" /></li>
 </ul>
 
 <hr />
