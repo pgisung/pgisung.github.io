@@ -29,8 +29,8 @@ description: 포도 없는 포도송이는 의미가 없듯이 Commit 없는 Git
 - [Log에 각 commit의 히스토리를 포함하는 옵션](#log에-각-commit의-히스토리를-포함하는-옵션 "Navigate to Option to show log with history")
 - [Log에 브랜치의 흐름 그래프를 포함하는 옵션](#log에-브랜치의-흐름-그래프를-포함하는-옵션 "Navigate to Option to show log with graph")
 - [Log에 가장 짧은 commit 정보와 그래프를 출력하는 옵션](#log에-가장-짧은-commit-정보와-그래프를-출력하는-옵션 "Navigate to Mixed option to show the shortest log with graph")
-- [특정 commit의 상세 정보 확인 명령어](#특정-commit의-상세-정보-확인-명령어 "Navigate to command to show detail log")
-- [파일 및 commit 사이의 차이점 비교 명령어](#파일-및-commit-사이의-차이점-비교-명령어 "Navigate to command to show diff")
+- [특정 commit의 상세 정보 확인 명령어](#특정-commit의-상세-정보-확인-명령어 "Navigate to Command to show detail log")
+- [파일 및 commit 사이의 차이점 비교 명령어](#파일-및-commit-사이의-차이점-비교-명령어 "Navigate to Command to show diff")
 
 ---
 
@@ -83,7 +83,7 @@ git commit
 ##### **Commit 메시지**
 - 각각의 commit에 대한 정보를 입력할 수 있다.
 - 만약 commit.template을 작성해 뒀다면 vim 화면에 함께 출력된다. ([Git 환경설정 中 commit 템플릿]({{ site.baseurl }}/github/2023/08/26/Getting-Started-with-Git/#commit-템플릿-설정 "Navigate to Setting environment for Git"))
-- <span style="color: #8D4801">**Git은 기본적으로 commit 명령어를 실행할 때 반드시 commit 메시지를 작성해야 한다.**</span>
+- <span style="color: indianred">**Git은 기본적으로 commit 명령어를 실행할 때 반드시 commit 메시지를 작성해야 한다.**</span>
 - | 간단한 vim 에디터 사용법 | 명령어 |
 |:---:|:---:|
 | 내용 편집 | **ESC -> :i** |

@@ -114,10 +114,11 @@ $(function() {
       }
       return value;
     },
-    noResultsText: 'No results found'
+    noResultsText: 'No results found',
+    // 검색 결과를 모두 출력하기 위해 높게 설정 (값을 입력 안했을 때 기본값이 10으로 보임)
+    limit: 1000
     // searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
     // searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
-    // limit: 10,
     // fuzzy: false, // 검색어와 완전히 일치한 결과 사용 여부 false면 완전히 일치해야함
     // exclude: ['Welcome']
   })
