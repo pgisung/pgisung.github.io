@@ -412,6 +412,12 @@ $(function() {
     });
   });
 
+  // 검색 모달이 보여질 때 스크립트로 스크롤 overflow를 제어하는데 이 부분이 추가된 후 처음 페이지가 로드될 때 검색 창을 껐다 키지 않으면 뷰포트를 넘어가는 요소들에 대하여 x스크롤이 생기는 현상이 있다.
+  // 그러므로 페이지가 로드될 때 body x-scroll을 스크립트로 먼저 막아놓자
+  window.addEventListener('load', () => {
+    document.body.style.overflowX = 'hidden';
+  });
+
   // 일단 우클릭은 막아놓자.
   document.addEventListener('contextmenu', function(e) {
     e.preventDefault();
