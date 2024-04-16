@@ -234,6 +234,60 @@ $(function() {
     });
   }
 
+  // Pagination for category page
+  $(".load-more-filtered").click(loadMoreFilteredPosts);
+
+  function getCategoryFromURL(url) {
+    if (!url) {
+      url = window.location.href;
+    }
+    var segments = url.split('/');
+    var categoryIndex = segments.indexOf('categories');
+    if (categoryIndex !== -1 && segments[categoryIndex + 1]) {
+      return segments[categoryIndex + 1];
+    } else {
+      return segments[1]; // / 다음 요소 반환
+    }
+  }
+
+  function loadMoreFilteredPosts() {
+    var _this = this;
+    var $postsContainer = $(".wrapper");
+    var nextPage = parseInt($postsContainer.attr("data-page")) + 1;
+    var totalPages = parseInt($postsContainer.attr("data-totalPages"));
+
+    $(this).addClass("is-loading").text("Loading...");
+
+    $.get("/page/" + nextPage, function(data) {
+      var htmlData = $.parseHTML(data);
+      var $articles = $(htmlData).find("article");
+      var currentCategory = getCategoryFromURL();
+      var $filteredArticles = [];
+
+      $articles.each(function() {
+        var articleCategory = getCategoryFromURL($(this).find("a").attr("href"));
+        if (articleCategory === currentCategory) {
+            $filteredArticles.push($(this));
+        }
+      });
+
+      $postsContainer.attr("data-page", nextPage).append($filteredArticles);
+
+        $(".post-thumbnail").viewportChecker({
+          classToAdd: "visible",
+          classToRemove: "hidden visible",
+          removeClassAfterAnimation: true,
+          offset: 0
+        });
+
+      if (totalPages == nextPage) {
+        $(".load-more-filtered").remove();
+      }
+
+      $(_this).removeClass("is-loading");
+    });
+  }
+
   // Slick.js : image-slider-static
   $('.image-slider-static').slick({
     dots: false,

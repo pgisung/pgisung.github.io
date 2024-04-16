@@ -1,19 +1,23 @@
 ---
-layout: page
+layout: default
 ---
-{% if paginator.page %}
-  {% assign offset = paginator.page | minus:1 | times:paginator.per_page %}
-  {% assign currentPage = paginator.page %}
-{% else %}
-  {% assign offset = 0 %}
-  {% assign currentPage = 1 %}
+<div class="page-header" style="background: url({{"/images/pages/" | prepend: site.baseurl | append : page.image}})">
+  <h1 class="page-title">{{ page.title | escape }}</h1>
+</div>
+
+{% assign offset = 0 %}
+{% assign currentPage = 1 %}
+{% assign filteredPosts = site.posts | where_exp:"item", "item.categories contains page.title" %}
+{% assign postCount = filteredPosts | size %}
+{% assign postsPerPage = site.paginate %}
+{% assign totalPages = postCount | divided_by: postsPerPage %}
+{% assign moduloPages = postCount | modulo: postsPerPage %}
+{% if moduloPages > 0 %}
+  {% assign totalPages = totalPages | plus: 1 %}
 {% endif %}
 
-{% assign filteredPosts = site.posts | where_exp:"item", "item.categories contains page.title" %}
-
 <div class="content-wrap">
-  <div class="wrapper" data-page="{{ currentPage }}" data-totalPages="{{ paginator.total_pages }}">
-  {% assign postsPerPage = site.paginate %}
+  <div class="wrapper" data-page="{{ currentPage }}" data-totalPages="{{ totalPages }}">
   {% for post in filteredPosts limit:postsPerPage offset:offset %}
    {% assign author = site.authors[post.author] %}
     <article class="posts">
@@ -61,10 +65,8 @@ layout: page
 </div> <!-- /.content-wrap -->
 
 <div class="pagination-box">
-  {% assign totalPosts = filteredPosts | size %}
-  {% assign totalPages = totalPosts | divided_by:postsPerPage | ceil %}
   {% assign postsCovered = postsPerPage | plus:offset %}
-  {% if postsCovered < totalPosts %}
+  {% if postsCovered < postCount %}
     <button class="load-more-filtered btn btn-middle" title="Load more posts">Load more posts</button>
   {% endif %}
 </div> <!-- /.pagination-box -->
