@@ -38,7 +38,7 @@ layout: default
       <div class="post-category">
         <span>Categories:</span>
         {% for category in page.categories %}
-        <a href="{{ site.baseurl }}/categories/#{{category | replace: ' ', '-' }}" class="category" title="{{ category }} category">{{ category }}</a>
+        <a href="{{ site.baseurl }}/categories/#{{category | replace: ' ', '-' | cgi_escape }}" class="category" title="{{ category }} category">{{ category }}</a>
         {% endfor %}
       </div>
       {% else %}
@@ -47,7 +47,7 @@ layout: default
       <div class="post-tag">
         <span>Tags:</span>
         {% for tag in page.tags %}
-        <a href="{{ site.baseurl }}/tags/#{{tag | replace: ' ', '-' }}" class="tag" title="{{ tag }} tag">{{ tag }}</a>
+        <a href="{{ site.baseurl }}/tags/#{{tag | replace: ' ', '-' | cgi_escape }}" class="tag" title="{{ tag }} tag">{{ tag }}</a>
         {% endfor %}
       </div>
       {% else %}
