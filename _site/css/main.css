@@ -922,6 +922,10 @@ table tr:hover {
 
 * {
   cursor: url(../assets/cursors/nat70.cur), auto;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
 }
 
 *[style*="cursor: pointer"],
