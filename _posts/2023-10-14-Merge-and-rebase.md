@@ -42,7 +42,7 @@ description: 버전 관리의 꽃이라 해도 과언이 아닐 파트이다. �
 ---
 
 #### <span style="color: brown">**병합이란?**</span>
-<span style="color: #8D4801">**Base 커밋을 기준으로 현재 작업 중인 브랜치에 지정된 브랜치의 커밋을 모두 통합하는**</span> 것이다. 또한 병합에는 <span style="color: #8D4801">**두 가지 방식**</span>이 존재한다.
+<span style="color: #8D4801">**Base 커밋을 기준으로 현재 작업 중인 브랜치에 지정된 브랜치의 커밋을 모두 통합하는**</span> 것이다. 이러한 병합에는 <span style="color: #8D4801">**두 가지 방식**</span>이 존재한다.
 
 ##### **Fast-forward 병합**
 <center><img src="{{site.baseurl}}/images/posts/2023-10-14-Merge-and-rebase/reference-of-fast-forward-merge.webp" title="Reference of Fast-forward merge" alt="Reference of Fast-forward merge"></center>
