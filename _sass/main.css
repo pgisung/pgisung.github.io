@@ -17,6 +17,7 @@
   11. Page Categories Styles
   12. Page Tags Styles
   13. Page Contact Styles
+  14. Category Box
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
 /* 0. ========== Plugin libs ========== */
@@ -1400,6 +1401,7 @@ a {
   -o-object-fit: cover;
      object-fit: cover;
   border-radius: 50%;
+  margin: 0;
 }
 .template-image img:hover {
   cursor: pointer;
@@ -2636,4 +2638,82 @@ a {
 .form .form-group .form-input:focus,
 .form .form-group .form-textarea:focus {
   border: 2px solid rgba(141, 72, 1, 0.3);
+}
+
+/* 14. ========== Category Box ========== */
+.category-box {
+  width: 100%;
+  background-color: #ffffff;
+  padding: 0 0 60px;
+}
+@media screen and (max-width: 992px) {
+  .category-box {
+    padding: 0 0 40px;
+  }
+}
+
+.category-element {
+  cursor: pointer;
+  display: inline-block;
+  width: calc(20% - 20px - 6px);
+  margin: 10px;
+  -webkit-box-shadow: 0 4px 9px rgba(30, 59, 91, 0.08);
+          box-shadow: 0 4px 9px rgba(30, 59, 91, 0.08);
+  border: 0.3px solid gray;
+  border-radius: 14px;
+  text-align: center;
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+}
+.category-element a {
+  text-decoration: none;
+}
+.category-element:hover {
+  background-color: rgba(255, 162, 81, 0.1);
+  -webkit-transform: translate(0px, -3px);
+      -ms-transform: translate(0px, -3px);
+          transform: translate(0px, -3px);
+  -webkit-box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
+          box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
+}
+@media screen and (max-width: 992px) {
+  .category-element {
+    width: calc(25% - 20px - 7.5px);
+  }
+}
+@media screen and (max-width: 720px) {
+  .category-element {
+    width: calc(33.3333333333% - 20px - 10px);
+  }
+}
+@media screen and (max-width: 480px) {
+  .category-element {
+    width: calc(50% - 20px - 15px);
+  }
+}
+
+.category-icon {
+  cursor: pointer;
+  width: 80px;
+  height: 80px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border: none;
+  border-radius: 50%;
+  margin: 10px auto;
+}
+
+.category-title {
+  cursor: pointer;
+  color: rgb(0, 0, 0);
+  font-size: 1.125rem;
+  font-family: "PT Serif", serif;
+  font-weight: 700;
+}
+
+.article-count {
+  cursor: pointer;
+  color: gray;
+  font-size: 0.875rem;
+  margin-bottom: 10px;
 }/*# sourceMappingURL=main.css.map */
