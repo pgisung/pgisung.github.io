@@ -38,7 +38,7 @@ layout: default
       <div class="post-category">
         <span>Categories:</span>
         {% for category in page.categories %}
-        <a href="{{ site.baseurl }}/categories/{{ category | replace: ' ', '-' | cgi_escape | downcase }}" class="category" title="Navigate to {{ category }} category">{{ category }}</a>
+        <a href="{{ site.baseurl }}/categories/{{ category | replace: ' ', '-' | cgi_escape | downcase }}/" class="category" title="Navigate to {{ category }} category">{{ category }}</a>
         {% endfor %}
       </div>
       {% else %}
