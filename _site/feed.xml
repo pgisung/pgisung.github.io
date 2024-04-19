@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-04-17T12:34:29+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JohnnyPark</title><subtitle>The growth diary of Software developer JohnnyPark</subtitle><entry><title type="html">12. 프로젝트를 관리해 보자</title><link href="http://localhost:4000/github/2023/10/23/Managing-project/" rel="alternate" type="text/html" title="12. 프로젝트를 관리해 보자" /><published>2023-10-23T09:03:29+09:00</published><updated>2023-10-23T09:03:29+09:00</updated><id>http://localhost:4000/github/2023/10/23/Managing-project</id><content type="html" xml:base="http://localhost:4000/github/2023/10/23/Managing-project/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-04-20T00:56:04+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JohnnyPark</title><subtitle>The growth diary of Software developer JohnnyPark</subtitle><entry><title type="html">12. 프로젝트를 관리해 보자</title><link href="http://localhost:4000/github/2023/10/23/Managing-project/" rel="alternate" type="text/html" title="12. 프로젝트를 관리해 보자" /><published>2023-10-23T09:03:29+09:00</published><updated>2023-10-23T09:03:29+09:00</updated><id>http://localhost:4000/github/2023/10/23/Managing-project</id><content type="html" xml:base="http://localhost:4000/github/2023/10/23/Managing-project/"><![CDATA[<blockquote>
   <ol>
     <li><a href="#태그로-버전-생성하기" title="Navigate to Creating version by tag">태그로 버전 생성하기</a>
       <ul>
@@ -809,7 +809,7 @@
 <hr />
 
 <h4 id="병합이란"><span style="color: brown"><strong>병합이란?</strong></span></h4>
-<p><span style="color: #8D4801"><strong>Base 커밋을 기준으로 현재 작업 중인 브랜치에 지정된 브랜치의 커밋을 모두 통합하는</strong></span> 것이다. 또한 병합에는 <span style="color: #8D4801"><strong>두 가지 방식</strong></span>이 존재한다.</p>
+<p><span style="color: #8D4801"><strong>Base 커밋을 기준으로 현재 작업 중인 브랜치에 지정된 브랜치의 커밋을 모두 통합하는</strong></span> 것이다. 이러한 병합에는 <span style="color: #8D4801"><strong>두 가지 방식</strong></span>이 존재한다.</p>
 
 <h5 id="fast-forward-병합"><strong>Fast-forward 병합</strong></h5>
 <center><img src="/images/posts/2023-10-14-Merge-and-rebase/reference-of-fast-forward-merge.webp" title="Reference of Fast-forward merge" alt="Reference of Fast-forward merge" /></center>

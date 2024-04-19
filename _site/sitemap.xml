@@ -211,6 +211,22 @@
 
     </url>
     
+    <url>
+        <loc>http://localhost:4000/c%23/2022/04/23/Creating-gridview-and-chart-in-dynamic/</loc>
+        
+        <lastmod>2022-04-23T21:46:33+09:00</lastmod>
+        
+
+        
+        <changefreq>weekly</changefreq>
+        
+
+        
+        <priority>0.5</priority>
+        
+
+    </url>
+    
     
     
         
@@ -248,6 +264,21 @@
         
         <url>
             <loc>http://localhost:4000/contact.html</loc>
+
+            
+            <changefreq>weekly</changefreq>
+            
+
+            
+            <priority>0.5</priority>
+            
+
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:4000/categories/c%23/</loc>
 
             
             <changefreq>weekly</changefreq>
