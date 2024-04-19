@@ -290,9 +290,9 @@ private void UpdateChartByOneCell( int iColumnIndex )
     // 선택된 셀 데이터가 존재하더라도 속성값이 double이 아니어서 Series가 생성되지 않을 경우 차트 숨김
     if( 0 != chartTrend.Series.Count
     	&& chartTrend.Series.Any( series => series.Points.Count != 0 ) ) {
-    	chartTrend.Visible = true;
+      chartTrend.Visible = true;
     } else {
-    	chartTrend.Visible = false;
+      chartTrend.Visible = false;
     }
 }
 ```
@@ -401,9 +401,9 @@ private void UpdateChartBySingleSelection( object sender )
     // 선택된 셀 데이터가 존재하더라도 속성값이 double이 아니어서 Series가 생성되지 않을 경우 차트 숨김
     if( 0 != chartTrend.Series.Count
     	&& chartTrend.Series.Any( series => series.Points.Count != 0 ) ) {
-    	chartTrend.Visible = true;
+      chartTrend.Visible = true;
     } else {
-    	chartTrend.Visible = false;
+      chartTrend.Visible = false;
     }
 }
 ```
@@ -521,9 +521,9 @@ private void UpdateChartByMultiSelection( object sender )
     // 선택된 셀 데이터가 존재하더라도 속성값이 double이 아니어서 Series가 생성되지 않을 경우 차트 숨김
     if( 0 != chartTrend.Series.Count
     	&& chartTrend.Series.Any( series => series.Points.Count != 0 ) ) {
-    	chartTrend.Visible = true;
+      chartTrend.Visible = true;
     } else {
-    	chartTrend.Visible = false;
+      chartTrend.Visible = false;
     }
 }
 ```
@@ -556,8 +556,8 @@ private bool InitializeGridViewStatistics( DataGridView objGridView )
     do {
       // 더블 버퍼링으로 속성 변경
       Type objType = objGridView.GetType();
-			PropertyInfo objPropertyInfo = objType.GetProperty( "DoubleBuffered", BindingFlags.Instance | BindingFlags.NonPublic );
-			objPropertyInfo.SetValue( objGridView, true, null );
+      PropertyInfo objPropertyInfo = objType.GetProperty( "DoubleBuffered", BindingFlags.Instance | BindingFlags.NonPublic );
+      objPropertyInfo.SetValue( objGridView, true, null );
       // 그리드 뷰 배경색
       objGridView.BackgroundColor = Color.White;
       // 그리드 뷰 칼럼 사이즈 조정
@@ -647,9 +647,9 @@ private void UpdateGridViewStatisticsByOneCell( int iColumnIndex )
 
     // 선택된 셀 데이터가 존재하더라도 속성값이 double이 아니어서 Row가 생성되지 않을 경우 그리드뷰 숨김
     if( 0 != GridViewStatistics.Rows.Count ) {
-    	GridViewStatistics.Visible = true;
+      GridViewStatistics.Visible = true;
     } else {
-    	GridViewStatistics.Visible = false;
+      GridViewStatistics.Visible = false;
     }
 }
 ```
@@ -725,9 +725,9 @@ private void UpdateGridViewStatisticsBySelection( object sender )
 
     // 선택된 셀 데이터가 존재하더라도 속성값이 double이 아니어서 Row가 생성되지 않을 경우 그리드뷰 숨김
     if( 0 != GridViewStatistics.Rows.Count ) {
-    	GridViewStatistics.Visible = true;
+      GridViewStatistics.Visible = true;
     } else {
-    	GridViewStatistics.Visible = false;
+      GridViewStatistics.Visible = false;
     }
 }
 ```
