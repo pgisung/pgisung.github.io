@@ -5,10 +5,10 @@
 
     {% for item in (0..site.categories.size) %}{% unless forloop.last %}
       {% capture this_word %}{{ category_words[item] | strip_newlines }}{% endcapture %}
+      {% assign filtered_word = this_word | replace: '#', 'sharp' %}
       <div class="category-element">
-        <a href="{{ site.baseurl }}/categories/{{ this_word | replace: ' ', '-' | cgi_escape | downcase }}/" class="category-link" title="Navigate to {{ this_word }} category">
-          {% assign filtered_word = this_word | downcase | replace: '#', 'sharp' %}
-          <img src="/images/pages/{{ filtered_word }}.png" class="category-icon"></img>
+        <a href="{{ site.baseurl }}/categories/{{ filtered_word | replace: ' ', '-' | cgi_escape | downcase }}/" class="category-link" title="Navigate to {{ this_word }} category">
+          <img src="/images/pages/{{ filtered_word | downcase }}.png" class="category-icon"></img>
           <div class="category-title">{{ this_word }}</div>
           <div class="article-count">{{ site.categories[this_word].size }} Articles</div>
         </a>

@@ -6,6 +6,7 @@ img: csharp-logo.png
 categories: C#
 tags: [ C#, .Net Framework, DataGridView, Chart, 그리드뷰, 차트 ]
 description: 특정 테이블의 데이터를 기준으로 이벤트 발생 시 해당 데이터의 통계를 그리드뷰 및 차트 형태로 동적으로 생성해 보자.
+permalink: /csharp/:year/:month/:day/:title.html
 ---
 
 > 1. [작성 동기](#작성-동기 "Navigate to Motivation to write code")

@@ -6,6 +6,7 @@ img: csharp-logo.png
 categories: C#
 tags: [ C#, .Net Framework, Reflection, Model, File write, Recursive function ]
 description: Reflection을 이용하여 런타임 도중에 모델의 서로 다른 타입의 값들을 동적으로 파일에 저장해보자.
+permalink: /csharp/:year/:month/:day/:title.html
 ---
 
 > 1. [작성 동기](#작성-동기 "Navigate to Motivation to write code")
