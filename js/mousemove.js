@@ -35,6 +35,7 @@ window.addEventListener('load', function() {
       box.style.MozUserSelect = "none";
       box.style.msUserSelect = "none";
       box.style.userSelect = "none";
+      box.style.pointerEvents = "none";
       document.body.appendChild(ele[i]=box);
     }
     set_screen_size();
@@ -114,7 +115,7 @@ function doCreateElement() {
       ele[i].style.top=(eley[i]=y+1)+"px";
       ele[i].style.fontSize = BEGIN_FZ;
       ele[i].style.opacity = BEGIN_OPACITY;
-      ele[i].style.display="block";
+      ele[i].style.display="inline-block";
       elev[i]=50;
       break;
     }
