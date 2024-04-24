@@ -410,7 +410,7 @@ foreach( var originField in originFields ) {
     newFields.Remove( newField.Key );
 }
 ```
-  - 배열과 컬렉션 구현부, 저장 로그와 예외 처리 부분은 <span style="color: #8D4801">**가독성을 위해 생략**</span>한 상태이다.
+  - [배열 구현부](#배열-구현부 "Navigate to Code block for the field in array condition")와 [컬렉션 구현부](#컬렉션-구현부 "Navigate to Code block for the field in collection condition"), 저장 로그와 예외 처리 부분은 <span style="color: #8D4801">**가독성을 위해 생략**</span>한 상태이다.
   - origin과 changed 객체는 <span style="color: #8D4801">**본래 같은 클래스의 객체로써 정렬 및 순서가 같으므로**</span> originFields의 각 필드를 순차적으로 순회하면서 newFields의 첫 번째 요소와 비교를 진행하며 <span style="color: #8D4801">**서로 값이 다를 경우**</span>에만 실제 파일에 write 하는 함수를 호출하고 반복문이 종료되기 전에 비교를 완료한 newFields의 요소를 제거한다.
   - 각 파라미터가 가질 수 있는 <span style="color: #8D4801">**타입**</span>은 다음과 같다.
 ```c#
@@ -441,7 +441,7 @@ public enum TypeCode
 
 <br>
 
-- <span style="color: #8D4801">**파라미터의 타입이 배열인 경우**</span>
+- <span style="color: #8D4801" id="배열-구현부">**파라미터의 타입이 배열인 경우**</span>
 ```c#
 Array originArrayField = originField.Value as Array;
 Array newArrayField = newField.Value as Array;
@@ -530,7 +530,7 @@ switch( eTypeCode ) {
 
 <br>
 
-- <span style="color: #8D4801">**파라미터의 타입이 컬렉션인 경우**</span>
+- <span style="color: #8D4801" id="컬렉션-구현부">**파라미터의 타입이 컬렉션인 경우**</span>
 ```c#
 Array originCollectionField = new ArrayList( originField.Value as ICollection ).ToArray();
 Array newCollectionField = new ArrayList( newField.Value as ICollection ).ToArray();
