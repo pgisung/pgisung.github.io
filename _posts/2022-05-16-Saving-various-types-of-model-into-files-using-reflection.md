@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Reflection을 이용한 서로 다른 타입의 모델 파일에 저장하기
+title: Reflection을 이용하여 서로 다른 타입의 값들을 파일에 저장하기
 date: 2022-05-16 23:11:06 +0900
 img: csharp-logo.png
 categories: C#
 tags: [ C#, .Net Framework, Reflection, Model, File write, Recursive function ]
-description: Reflection을 이용하여 런타임 도중에 모델의 서로 다른 타입의 값들을 동적으로 파일에 저장해보자.
+description: Reflection을 이용한 단일 함수로 런타임 도중에 모델의 서로 다른 타입의 값들을 동적으로 파일에 저장해보자.
 permalink: /csharp/:year/:month/:day/:title.html
 ---
 
