@@ -6,7 +6,7 @@ img: csharp-logo.png
 categories: C#
 tags: [ C#, .Net Framework, Winform, TableLayoutPanel, Controls, Container, Form designer ]
 description: TableLayoutPanel을 이용하여 절대 위치로 배치된 Control을 동적으로 상대 위치로 배치해 보자.
-permalink: /csharp/:year/:month/:day/:title.html
+permalink: /csharp/:year/:month/:day/:title/
 ---
 
 > 1. [작성 동기](#작성-동기 "Navigate to Motivation to write code")

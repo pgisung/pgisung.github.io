@@ -6,7 +6,7 @@ img: csharp-logo.png
 categories: C#
 tags: [ C#, .Net Framework, Cognex, VisionPro, Image file, Camera simulation ]
 description: 저장장치에 보관 중인 이미지 파일을 이용하여 카메라가 반복적으로 촬영하는 듯한 시뮬레이션 효과를 함수로 작성해 보자.
-permalink: /csharp/:year/:month/:day/:title.html
+permalink: /csharp/:year/:month/:day/:title/
 ---
 
 > 1. [작성 동기](#작성-동기 "Navigate to Motivation to write code")
