@@ -116,26 +116,32 @@
     }
   }
   .post-category, .post-tag {
-    span {
+    .category, .tag {
+      display: inline-block;
+      margin-top: 10px;
+			padding: 5px 10px;
       font-size: 13px;
-      margin-right: 10px;      
-      color: #5b5b5b;
+      font-weight: 600;
+      font-family: "Gowun Batang", serif;
+      color: $white;
+      text-decoration: none;
+      border-radius: $common-border-radius;
+      transition: all .25s ease;
+      &:hover {
+        background-color: #8E828E;
+      }
     }
-
-    a {
+    .bar-title {
       font-size: 13px;
       margin-right: 10px;
-      color: darkgreen;
+      color: #5b5b5b;
       text-decoration: none;
-      transition: all .25s ease;
-      &:last-child {
-        margin-right: 0;
-      }
-      &:hover {
-        color: #8E828E;
-        // color: #463D10;
-        transition: all .25s ease;
-      }
+    }
+    .category {
+      background-color: darkseagreen;
+    }
+    .tag {
+      background-color: mediumseagreen;
     }
   }
   .post-category {

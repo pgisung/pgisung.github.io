@@ -1209,9 +1209,7 @@ a {
   color: #ffffff;
   float: left;
   margin: 0 10px 10px 0;
-}
-.search-box .blog-categories .bar-title:hover, .search-box .blog-tags .bar-title:hover {
-  color: green;
+  text-decoration: none;
 }
 .search-box .blog-categories {
   top: 60px;
@@ -1967,26 +1965,33 @@ a {
 .post-footer .post-footer-list li a.post-pinterest {
   color: #bd081c;
 }
-.post-footer .post-category span, .post-footer .post-tag span {
+.post-footer .post-category .category, .post-footer .post-category .tag, .post-footer .post-tag .category, .post-footer .post-tag .tag {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 5px 10px;
+  font-size: 13px;
+  font-weight: 600;
+  font-family: "Gowun Batang", serif;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 14px;
+  -webkit-transition: all 0.25s ease;
+  transition: all 0.25s ease;
+}
+.post-footer .post-category .category:hover, .post-footer .post-category .tag:hover, .post-footer .post-tag .category:hover, .post-footer .post-tag .tag:hover {
+  background-color: #8E828E;
+}
+.post-footer .post-category .bar-title, .post-footer .post-tag .bar-title {
   font-size: 13px;
   margin-right: 10px;
   color: #5b5b5b;
-}
-.post-footer .post-category a, .post-footer .post-tag a {
-  font-size: 13px;
-  margin-right: 10px;
-  color: darkgreen;
   text-decoration: none;
-  -webkit-transition: all 0.25s ease;
-  transition: all 0.25s ease;
 }
-.post-footer .post-category a:last-child, .post-footer .post-tag a:last-child {
-  margin-right: 0;
+.post-footer .post-category .category, .post-footer .post-tag .category {
+  background-color: darkseagreen;
 }
-.post-footer .post-category a:hover, .post-footer .post-tag a:hover {
-  color: #8E828E;
-  -webkit-transition: all 0.25s ease;
-  transition: all 0.25s ease;
+.post-footer .post-category .tag, .post-footer .post-tag .tag {
+  background-color: mediumseagreen;
 }
 .post-footer .post-category {
   padding-top: 20px;
