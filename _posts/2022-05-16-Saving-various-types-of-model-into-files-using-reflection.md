@@ -95,7 +95,7 @@ private enum enumInstanceNameType
 
 ##### **메인 함수**
 - <span style="color: #8D4801">**원본 함수**</span>
-  - 먼저 원본 함수를 확인해 보자. 함수가 재귀적으로 호출되는 데다가 산재해 있는 예외 처리 로그들로 인해 <span style="color: #8D4801">**결과물의 가독성이 매우 떨어지고 복잡**</span>할 수 있다. 아래에서 하나씩 따로 <span style="color: #8D4801">**분리해서 알아보자.**</span>
+  - 먼저 원본 함수를 확인해 보자. 함수가 재귀적으로 호출되는 데다가 산재해 있는 예외 처리 로그들로 인해 <span style="color: #8D4801">**결과물의 가독성이 매우 떨어지고 복잡**</span>할 수 있다. 아래에서 하나씩 따로 <span style="color: #8D4801">**분리해서 알아보자.**</span> (이 포스트에서는 로그를 분류하여 실제로 파일에 저장하는 부분은 다루지 않고 콘솔 화면에 출력 함수로 대체한다.)
 
 - ```c#
 /// <summary>
@@ -110,8 +110,6 @@ private enum enumInstanceNameType
 /// <param name="iDimensionIndex"></param> 객체 배열 형태일 경우 파라미터 명에 추가할 인덱스 인자
 public void SetWriteValue( ClassINI objINI, string strSection, object origin, object changed, string strTotalInstanceName = "", enumInstanceNameType eInstanceNameType = enumInstanceNameType.TYPE_NONE, int[] iDimensionIndex = null )
 {
-    // 싱글톤 객체 - 로그 기록 함수 호출용
-    var pDocument = CDocument.GetDocument;
     // 값 형식인지 참조 형식인지 타입 코드 비교
     TypeCode eTypeCode;
     // 클래스 또는 구조체의 경우 해당 객체 명을 필드명 앞에 붙여줘야 함
@@ -147,7 +145,7 @@ public void SetWriteValue( ClassINI objINI, string strSection, object origin, ob
             objINI.WriteValueNoMatterWhat( strSection, strInstanceName + newField.Key, newField.Value );
             // 로그
             string strLog = string.Format( "[{0}] {1} : {2} -> {3}", strSection, strInstanceName + originField.Key, originField.Value, newField.Value );
-            pDocument.SetUpdateLog( CDefine.enumLogType.LOG_CONFIG_DATA, string.Format( "[{0}] {1}", pDocument.GetUserInformation().m_strID, strLog ) );
+            Console.WriteLine( strLog );
           }
           break;
         case TypeCode.Object:
@@ -172,16 +170,18 @@ public void SetWriteValue( ClassINI objINI, string strSection, object origin, ob
                         objINI.WriteValueNoMatterWhat( strSection, strInstanceName + newField.Key + $"[{iLoopCount}]", newArrayField.GetValue( iLoopCount ) );
                         // 로그
                         string strLog = string.Format( "[{0}] {1} : {2} -> {3}", strSection, strInstanceName + originField.Key + $"[{iLoopCount}]", originArrayField.GetValue( iLoopCount ), newArrayField.GetValue( iLoopCount ) );
-                        pDocument.SetUpdateLog( CDefine.enumLogType.LOG_CONFIG_DATA, string.Format( "[{0}] {1}", pDocument.GetUserInformation().m_strID, strLog ) );
+                        Console.WriteLine( strLog );
                       }
                     }
                     break;
                   default:
-                    pDocument.SetUpdateLog( CDefine.enumLogType.LOG_EXCEPTION, string.Format( "{0} {1} {2} undetermined ArrayRank : {3}",
+                    // 예외 처리
+                    string strLog = string.Format( "{0} {1} {2} undetermined ArrayRank : {3}",
                       this.GetType().Name,
                       MethodBase.GetCurrentMethod().Name,
                       Type.GetTypeCode( objFieldType ),
-                      objFieldType.GetArrayRank() ) );
+                      objFieldType.GetArrayRank() );
+                    Trace.WriteLine( strLog );
                     break;
                 }
                 break;
@@ -207,7 +207,7 @@ public void SetWriteValue( ClassINI objINI, string strSection, object origin, ob
                                 objINI.WriteValueNoMatterWhat( strSection, strInstanceName + newField.Key + $"[{iLoopCount}]" + $"[{jLoopCount}]", newJaggedArrayField.GetValue( jLoopCount ) );
                                 // 로그
                                 string strLog = string.Format( "[{0}] {1} : {2} -> {3}", strSection, strInstanceName + originField.Key + $"[{iLoopCount}]" + $"[{jLoopCount}]", originJaggedArrayField.GetValue( jLoopCount ), newJaggedArrayField.GetValue( jLoopCount ) );
-                                pDocument.SetUpdateLog( CDefine.enumLogType.LOG_CONFIG_DATA, string.Format( "[{0}] {1}", pDocument.GetUserInformation().m_strID, strLog ) );
+                                Console.WriteLine( strLog );
                               }
                             }
                             break;
@@ -231,23 +231,27 @@ public void SetWriteValue( ClassINI objINI, string strSection, object origin, ob
                     }
                     break;
                   default:
-                    pDocument.SetUpdateLog( CDefine.enumLogType.LOG_EXCEPTION, string.Format( "{0} {1} {2} undetermined ArrayRank : {3}",
+                    // 예외 처리
+                    string strLog = string.Format( "{0} {1} {2} undetermined ArrayRank : {3}",
                       this.GetType().Name,
                       MethodBase.GetCurrentMethod().Name,
                       Type.GetTypeCode( objFieldType ),
-                      objFieldType.GetArrayRank() ) );
+                      objFieldType.GetArrayRank() );
+                    Trace.WriteLine( strLog );
                     break;
                 }
                 
                 break;
               default:
-                pDocument.SetUpdateLog( CDefine.enumLogType.LOG_EXCEPTION, string.Format( "{0} {1} {2} undetermined TypeCode {3} {4} {5}",
+                // 예외 처리
+                string strLog = string.Format( "{0} {1} {2} undetermined TypeCode {3} {4} {5}",
                   this.GetType().Name,
                   MethodBase.GetCurrentMethod().Name,
                   Type.GetTypeCode( objFieldType.GetElementType() ),
                   strSection,
                   originField.Key,
-                  originArrayField.GetValue( 0 ) ) );
+                  originArrayField.GetValue( 0 ) );
+                Trace.WriteLine( strLog );
                 break;
             }
           }
@@ -268,7 +272,7 @@ public void SetWriteValue( ClassINI objINI, string strSection, object origin, ob
                     objINI.WriteValueNoMatterWhat( strSection, strInstanceName + newField.Key + $"[{iLoopCount}]", newCollectionField.GetValue( iLoopCount ) );
                     // 로그
                     string strLog = string.Format( "[{0}] {1} : {2} -> {3}", strSection, strInstanceName + originField.Key + $"[{iLoopCount}]", originCollectionField.GetValue( iLoopCount ), newCollectionField.GetValue( iLoopCount ) );
-                    pDocument.SetUpdateLog( CDefine.enumLogType.LOG_CONFIG_DATA, string.Format( "[{0}] {1}", pDocument.GetUserInformation().m_strID, strLog ) );
+                    Console.WriteLine( strLog );
                   }
                 }
                 break;
@@ -281,13 +285,15 @@ public void SetWriteValue( ClassINI objINI, string strSection, object origin, ob
                 }
                 break;
               default:
-                pDocument.SetUpdateLog( CDefine.enumLogType.LOG_EXCEPTION, string.Format( "{0} {1} {2} undetermined TypeCode {3} {4} {5}",
+                // 예외 처리
+                string strLog = string.Format( "{0} {1} {2} undetermined TypeCode {3} {4} {5}",
                   this.GetType().Name,
                   MethodBase.GetCurrentMethod().Name,
                   Type.GetTypeCode( originField.Value.GetType().GetProperty( "Item" ).GetType() ),
                   strSection,
                   originField.Key,
-                  originField.Value.GetType().GetProperty( "Item" ) ) );
+                  originField.Value.GetType().GetProperty( "Item" ) );
+                Trace.WriteLine( strLog );
                 break;
             }
           }
@@ -298,13 +304,15 @@ public void SetWriteValue( ClassINI objINI, string strSection, object origin, ob
           }
           break;
         default:
-          pDocument.SetUpdateLog( CDefine.enumLogType.LOG_EXCEPTION, string.Format( "{0} {1} {2} undetermined TypeCode {3} {4} {5}",
+          // 예외 처리
+          string strLog = string.Format( "{0} {1} {2} undetermined TypeCode {3} {4} {5}",
             this.GetType().Name,
             MethodBase.GetCurrentMethod().Name,
             Type.GetTypeCode( objFieldType ),
             strSection,
             originField.Key,
-            originField.Value ) );
+            originField.Value );
+          Trace.WriteLine( strLog );
           break;
       }
       // 항상 첫 번째 인덱스로 접근하기 위해 처리한 첫 번째 원소 제거

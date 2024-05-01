@@ -284,7 +284,7 @@ private void UpdateChartByOneCell( int iColumnIndex )
       catch( Exception ex ) {
         // 예외 처리
         string strError = string.Format( "{0} {1} {2}", this.GetType().Name, MethodBase.GetCurrentMethod().Name, ex.Message );
-        CDocument.GetDocument.ShowMessageBox( strError );
+        Trace.WriteLine( strError );
       }
     } while( false );
 
@@ -395,7 +395,7 @@ private void UpdateChartBySingleSelection( object sender )
       catch( Exception ex ) {
         // 예외 처리
         string strError = string.Format( "{0} {1} {2}", this.GetType().Name, MethodBase.GetCurrentMethod().Name, ex.Message );
-        CDocument.GetDocument.ShowMessageBox( strError );
+        Trace.WriteLine( strError );
       }
     } while( false );
 
@@ -515,7 +515,7 @@ private void UpdateChartByMultiSelection( object sender )
       catch( Exception ex ) {
         // 예외 처리
         string strError = string.Format( "{0} {1} {2}", this.GetType().Name, MethodBase.GetCurrentMethod().Name, ex.Message );
-        CDocument.GetDocument.ShowMessageBox( strError );
+        Trace.WriteLine( strError );
       }
     } while( false );
 
@@ -642,7 +642,7 @@ private void UpdateGridViewStatisticsByOneCell( int iColumnIndex )
       catch( Exception ex ) {
         // 예외 처리
         string strError = string.Format( "{0} {1} {2}", this.GetType().Name, MethodBase.GetCurrentMethod().Name, ex.Message );
-        CDocument.GetDocument.ShowMessageBox( strError );
+        Trace.WriteLine( strError );
       }
     } while( false );
 
@@ -720,7 +720,7 @@ private void UpdateGridViewStatisticsBySelection( object sender )
       catch( Exception ex ) {
         // 예외 처리
         string strError = string.Format( "{0} {1} {2}", this.GetType().Name, MethodBase.GetCurrentMethod().Name, ex.Message );
-        CDocument.GetDocument.ShowMessageBox( strError );
+        Trace.WriteLine( strError );
       }
     } while( false );
 
