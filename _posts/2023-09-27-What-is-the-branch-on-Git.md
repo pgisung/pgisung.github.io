@@ -33,7 +33,7 @@ description: Git의 branch가 무엇인지 알아보자. 그리고 branch를 관
 ---
 
 #### 들어가기 전에
-Branch는 Git에서 commit만큼이나 중요한 핵심 요소이다. commit이 Git의 내용물이라고 하면 branch는 일종의 포장과 같다고 볼 수 있는데 이 두 요소의 개념만 확실히 잡아둬도 Git의 원리를 좀 더 쉽게 이해할 수 있다.
+Branch는 Git에서 commit만큼이나 중요한 핵심 요소이다. commit이 Git의 내용물이라고 하면 branch는 일종의 포장과 같다고 볼 수 있는데 이 두 요소의 개념만 확실히 잡아둬도 Git의 원리를 좀 더 쉽게 이해할 수 있다. 다음은 Git의 branch를 이해할 때 도움이 되는 Tutorial 사이트이다. [https://learngitbranching.js.org/?locale=ko](https://learngitbranching.js.org/?locale=ko "Navigate to The site helpful to learn about Git branch")
 
 <center><img src="{{site.baseurl}}/images/posts/2023-09-27-What-is-the-branch-on-Git/commits-and-branches.webp" title="Example image for several commits and branches" alt="Example image for several commits and branches" width="70%"></center>
 

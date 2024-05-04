@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-05-02T05:31:50+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JohnnyPark</title><subtitle>The growth diary of Software developer JohnnyPark</subtitle><entry><title type="html">12. 프로젝트를 관리해 보자</title><link href="http://localhost:4000/github/2023/10/23/Managing-project/" rel="alternate" type="text/html" title="12. 프로젝트를 관리해 보자" /><published>2023-10-23T09:03:29+09:00</published><updated>2023-10-23T09:03:29+09:00</updated><id>http://localhost:4000/github/2023/10/23/Managing-project</id><content type="html" xml:base="http://localhost:4000/github/2023/10/23/Managing-project/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-05-02T22:51:32+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JohnnyPark</title><subtitle>The growth diary of Software developer JohnnyPark</subtitle><entry><title type="html">12. 프로젝트를 관리해 보자</title><link href="http://localhost:4000/github/2023/10/23/Managing-project/" rel="alternate" type="text/html" title="12. 프로젝트를 관리해 보자" /><published>2023-10-23T09:03:29+09:00</published><updated>2023-10-23T09:03:29+09:00</updated><id>http://localhost:4000/github/2023/10/23/Managing-project</id><content type="html" xml:base="http://localhost:4000/github/2023/10/23/Managing-project/"><![CDATA[<blockquote>
   <ol>
     <li><a href="#태그로-버전-생성하기" title="Navigate to Creating version by tag">태그로 버전 생성하기</a>
       <ul>
@@ -1607,7 +1607,7 @@ git reset HEAD^
 <hr />
 
 <h4 id="들어가기-전에">들어가기 전에</h4>
-<p>Branch는 Git에서 commit만큼이나 중요한 핵심 요소이다. commit이 Git의 내용물이라고 하면 branch는 일종의 포장과 같다고 볼 수 있는데 이 두 요소의 개념만 확실히 잡아둬도 Git의 원리를 좀 더 쉽게 이해할 수 있다.</p>
+<p>Branch는 Git에서 commit만큼이나 중요한 핵심 요소이다. commit이 Git의 내용물이라고 하면 branch는 일종의 포장과 같다고 볼 수 있는데 이 두 요소의 개념만 확실히 잡아둬도 Git의 원리를 좀 더 쉽게 이해할 수 있다. 다음은 Git의 branch를 이해할 때 도움이 되는 Tutorial 사이트이다. <a href="https://learngitbranching.js.org/?locale=ko" title="Navigate to The site helpful to learn about Git branch">https://learngitbranching.js.org/?locale=ko</a></p>
 
 <center><img src="/images/posts/2023-09-27-What-is-the-branch-on-Git/commits-and-branches.webp" title="Example image for several commits and branches" alt="Example image for several commits and branches" width="70%" /></center>
 
