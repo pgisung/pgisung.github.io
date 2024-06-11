@@ -48,7 +48,10 @@ gulp.task('designcycle', function() {
 #### <span style="color: #8D4801">**What sort of development languages and environment I am able to use?**</span>
 ##### I used to deal with these days
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=white" title="Unity logo" alt="Unity logo">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" title="Spring logo" alt="Spring logo">
+<img src="https://img.shields.io/badge/Microsoft&nbsp;SQL&nbsp;Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" title="Microsoft SQL Server logo" alt="Microsoft SQL Server logo">
+<img src="https://img.shields.io/badge/ASP.NET&nbsp;Core&nbsp;Blazor-512BD4?style=flat&logo=blazor&logoColor=white" title="ASP.NET Core Blazor logo" alt="ASP.NET Core Blazor logo">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" title="AWS logo" alt="AWS logo">
+<!-- <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" title="Spring logo" alt="Spring logo"> -->
 
 ##### I had worked with
 <img src="https://img.shields.io/badge/Csharp-239120?style=flat&logo=csharp&logoColor=white" title="C# logo" alt="C# logo">
@@ -130,6 +133,9 @@ On the next hand, I may release my stresses by things that below.
 ---
 
 ## <span style="color: brown">**Personal History**</span>
+
+#### <span style="color: #8D4801">**Life in Keelung, Taiwan**</span>
+<small>2024-05-14 ~ 2024-05-31</small>
 
 #### <span style="color: #8D4801">**Trip around Laos**</span>
 <small>2024-04-06 ~ 2024-04-11</small>
