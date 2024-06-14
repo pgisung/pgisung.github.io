@@ -1049,7 +1049,7 @@ a {
   transition: all 0.2s ease;
 }
 .site-nav a:hover {
-  background-color: rgba(90, 46, 1, 0.8);
+  background-color: rgba(90.3591549296, 46.1408450704, 0.6408450704, 0.8);
   color: #ffffff;
 }
 .site-nav.open {
