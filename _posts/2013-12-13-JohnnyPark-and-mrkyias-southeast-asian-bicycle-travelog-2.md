@@ -56,7 +56,7 @@ description: 엉망진창 첫 해외 출국 공항 해프닝 및 싱가포르 �
 
 #### <span style="color: #8D4801">**싱가포르 여행 1일 차 시작**</span>
 우리가 싱가포르에서 묵었던 숙소는 라벤더 스트리트(Ravendar street)의 <span style="color: #8D4801">**Green kiwi 백팩커즈 숙소**</span>로 방은 8인실 도미토리로 2층 침대 4개가 있는 방이었는데 생각 외로 아늑하여 좋았다. 
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.769950678066!2d103.85900413782042!3d1.3134931228458737!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19cef14217db%3A0xa940c6966b2d5cf1!2sGreen%20Kiwi%20Backpacker%20Hostel!5e0!3m2!1sko!2sec!4v1754856437766!5m2!1sko!2sec" width="440" height="330" style="border:1px solid #8D4801;border-radius:14px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.769950678066!2d103.85900413782042!3d1.3134931228458737!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19cef14217db%3A0xa940c6966b2d5cf1!2sGreen%20Kiwi%20Backpacker%20Hostel!5e0!3m2!1sko!2sec!4v1754856437766!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 3박을 체크인하고 벌써 6시라서 그런지 너무 피곤해서 가자마자 짐을 풀고 바로 잠들었다. <span style="color: indianred">**약 4시간 정도 취침 후 생각보다 일찍 10시쯤에 잠이 깨서**</span> 일찍 거리를 둘러보기로 했다.
 
@@ -205,7 +205,7 @@ description: 엉망진창 첫 해외 출국 공항 해프닝 및 싱가포르 �
 ---
 
 #### <span style="color: #8D4801">**여행 경비**</span>
-경비는 <span style="color: #8D4801">**2인 기준**</span>이며, <span style="color: indianred">**숙박 보증금을 제외**</span>하고 계산했다.
+경비는 <span style="color: #8D4801">**2인 기준**</span>이며, 돌려받은 <span style="color: indianred">**숙박 보증금을 제외**</span>하고 계산한 금액이다.
 <div class="image-slider-static">
   <img src="{{site.baseurl}}/images/posts/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/budget-book.jpg" title="Budget book" alt="Budget book">
 </div>
