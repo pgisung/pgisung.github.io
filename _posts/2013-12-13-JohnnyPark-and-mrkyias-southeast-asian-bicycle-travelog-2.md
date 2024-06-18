@@ -37,14 +37,14 @@ description: 엉망진창 첫 해외 출국 공항 해프닝 및 싱가포르 �
 <br>
 
 내가 도착한 3터미널부터 1터미널, 2터미널까지 무거운 자전거 짐을 낑낑대며 끌고 다니다가 2터미널에서 새벽 2시쯤이 되어서야 mrkyia를 만날 수 있었다. 이 녀석 말이 자기도 나의 연락을 기다리는 중이었다고 한다. 나중에 알고 보니 이미 나에게 여러 개의 카톡을 보내놓고 기다리고 있던 것이었는데, <span style="color: #8D4801">**당시의 나는 와이파이가 무엇인지도 어떻게 사용할 줄도 모르던 때라 당연히 데이터가 통하지 않아 서로 엇갈렸던 것**</span>이다.
-<div class="image-slider-passive">
+<div class="image-slider-auto">
   <img src="{{site.baseurl}}/images/posts/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/blogger-with-baggages.jpg" title="Blogger with baggages" alt="Blogger with baggages">
   <img src="{{site.baseurl}}/images/posts/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/friend-with-baggages.jpg" title="Friend with baggages" alt="Friend with baggages">
 </div>
 <br>
 
 만남 이후 일정을 상의하는데 새벽 시간이라 시내로 나간다고 해도 숙소를 잡기 힘들 것 같아 mrkyia는 <span style="color: indianred">**공항에서 노숙을 권했지만...**</span> 당시 여행 경험도 부족하고 민감했던 성격의 나는 잠이 올만큼 편안한 환경도 아닌 데다가 혹시나 짐을 분실하지 않을까 싶은 노파심으로 잠에 들지를 못해서 결국 둘이 수다를 나누며 이래저래 5시까지 공항 안쪽을 기웃거리며 돌아다녔다. (근데 기껏 찍은 게 에스컬레이터와 전화부스뿐이라니...)
-<div class="image-slider-passive">
+<div class="image-slider-auto">
   <img src="{{site.baseurl}}/images/posts/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/phone-booth.jpg" title="The phone booth in Changi airport" alt="The phone booth in Changi airport">
   <img src="{{site.baseurl}}/images/posts/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/escalator.jpg" title="The escalator in Changi airport" alt="The escalator in Changi airport">
 </div>
@@ -102,8 +102,11 @@ description: 엉망진창 첫 해외 출국 공항 해프닝 및 싱가포르 �
 </div>
 <br>
 
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2395.1701607000928!2d103.8418482842079!3d1.2826804184266198!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19731fe5e901%3A0xb475a831c42577e0!2sXiu%20Ji%20Ikan%20Bilis%20Yong%20Tau%20Fu%20(%2302-88)!5e0!3m2!1sko!2sec!4v1755037153781!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<br>
+
 약 30분 정도 기다린 끝에 주문할 수 있었다.
-<div class="image-slider-passive">
+<div class="image-slider-auto">
   <img src="{{site.baseurl}}/images/posts/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/china-town-lunch-2.jpg" title="Waiting for order in queue" alt="Waiting for order in queue">
   <img src="{{site.baseurl}}/images/posts/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/china-town-lunch-3.jpg" title="The newspapers mentioned this shop" alt="The newspapers mentioned this shop">
 </div>
@@ -123,7 +126,7 @@ description: 엉망진창 첫 해외 출국 공항 해프닝 및 싱가포르 �
 
 ##### **마리나 베이 샌즈 호텔**
 싱가포르의 상징인 <span style="color: #8D4801">**마리나 베이 샌즈 호텔**</span>이 보이기 시작했다. 호텔 방향으로 걷다 보니 또, 멀라이언 파크도 보여서 사진도 찍고 하던 중 물 위에 한가득 떠 있는 풍선들을 발견하고 무엇인지 궁금해서 가봤는데, <span style="color: #8D4801">**소원을 빌어서 호수에 띄워두는 거**</span>라고 했다. 그래서 우리도 <span style="color: #8D4801">**풍선**</span>을 하나 받아서 <span style="color: #8D4801">**우리 여행의 무사 안녕을 빈 내용**</span>을 적어서 호수에 띄워보았다.
-<div class="image-slider-passive">
+<div class="image-slider-auto">
   <img src="{{site.baseurl}}/images/posts/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/marina-bay-sands-hotel-and-merlion.jpg" title="Marina bay sands hotel and Merlion" alt="Marina bay sands hotel and Merlion">
   <img src="{{site.baseurl}}/images/posts/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/ballon-to-pray-the-safe-trip.jpg" title="The ballon written our wish" alt="The ballon written our wish">
 </div>
@@ -145,6 +148,9 @@ description: 엉망진창 첫 해외 출국 공항 해프닝 및 싱가포르 �
 <div class="image-slider-static">
   <img src="{{site.baseurl}}/images/posts/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/night-market-dinner.jpg" title="The dinner at night market" alt="The dinner at night market">
 </div>
+<br>
+
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1448.2305374946939!2d103.85651375026097!3d1.288961238520085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da196d2fffffed%3A0x6c0c3f2856edd6b7!2z66eI7Lm47IiY7Yq46528IOq4gOujqO2EtOyKpCDrsqDsnbQ!5e0!3m2!1sko!2sec!4v1755037566823!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 식사 후 천천히 마리나 호텔로 걸어갈 무렵 해가 지고 점점 어두워졌다. 마리나 호텔은 자체로도 아름다웠지만 <span style="color: #8D4801">**밤이 되니 두 배로 아름다웠다.**</span> 
@@ -183,14 +189,14 @@ description: 엉망진창 첫 해외 출국 공항 해프닝 및 싱가포르 �
 <br>
 
 정원 구경을 마치고 돌아가는 길의 야경 또한 매우 아름다웠다.
-<div class="image-slider-passive">
+<div class="image-slider-auto">
   <img src="{{site.baseurl}}/images/posts/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/night-view-in-singapore-1.jpg" title="" alt="">
   <img src="{{site.baseurl}}/images/posts/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/night-view-in-singapore-2.jpg" title="" alt="">
 </div>
 <br>
 
 술자리는 이제부터 시작인 야시장 사람들...
-<div class="image-slider-passive">
+<div class="image-slider-auto">
   <img src="{{site.baseurl}}/images/posts/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/night-market-1.jpg" title="" alt="">
   <img src="{{site.baseurl}}/images/posts/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/night-market-2.jpg" title="" alt="">
 </div>

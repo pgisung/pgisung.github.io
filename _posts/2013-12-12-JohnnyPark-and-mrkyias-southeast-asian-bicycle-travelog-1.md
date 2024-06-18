@@ -44,15 +44,18 @@ description: 생애 첫 해외 여행이자 자전거 여행의 동기와 준비
 <br>
 
 해가 지면 어지간하면 라이딩을 자제했지만 언제나 피치 못할 사정이란 건 존재했고, <span style="color: #8D4801">**야간 라이딩에 문자 그대로 빛이 되어준 라이트들**</span> 
-<div class="image-slider-passive">
+<div class="image-slider-auto">
   <img src="{{site.baseurl}}/images/posts/2013-12-12-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-1/bicycle-front-light.jpg" title="Bicycle front light" alt="Bicycle front light">
   <img src="{{site.baseurl}}/images/posts/2013-12-12-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-1/bicycle-back-light.jpg" title="Bicycle back light" alt="Bicycle back light">
+</div>
+<br>
+<div class="image-slider-static">
   <img src="{{site.baseurl}}/images/posts/2013-12-12-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-1/bicycle-helmet-back-light.jpg" title="Helmet back light" alt="Helmet back light">
 </div>
 <br>
 
 패킹 전에 펼쳐진 모든 짐들, 우려와 달리 신기하게도 <span style="color: #8D4801">**모든 짐들이 자그마한 검은색 가방에 다 들어가서 놀랐다.**</span>
-<div class="image-slider-passive">
+<div class="image-slider-auto">
   <img src="{{site.baseurl}}/images/posts/2013-12-12-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-1/baggage.jpg" title="Unpacked baggage" alt="Unpacked baggage">
   <img src="{{site.baseurl}}/images/posts/2013-12-12-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-1/packed-baggage-into-bags-on-bicycle.jpg" title="Packed baggage" alt="Packed baggage">
 </div>
