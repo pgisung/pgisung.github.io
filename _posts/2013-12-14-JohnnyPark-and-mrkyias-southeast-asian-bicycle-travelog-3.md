@@ -248,7 +248,7 @@ description: 싱가포르 여행 2일 차
 </div>
 <br>
 
-멀리이언 타워 위에 올라가면 센토사 풍경이 보이고 사진기사가 있고 돈을 줘야 찍을 수 있는데 화질이 그리 좋진 않아서 PASS
+멀라이언 타워 위에 올라가면 센토사 풍경이 보이고 사진기사가 있고 돈을 줘야 찍을 수 있는데 화질이 그리 좋진 않아서 PASS
 <div class="image-slider-static">
   <img src="{{site.baseurl}}/images/posts/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/blogger-with-merlion-tower.jpg" title="" alt="">
 </div>

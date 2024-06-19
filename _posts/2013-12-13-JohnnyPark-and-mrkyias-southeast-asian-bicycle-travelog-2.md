@@ -104,7 +104,6 @@ description: 엉망진창 첫 해외 출국 공항 해프닝 및 싱가포르 �
 
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2395.1701607000928!2d103.8418482842079!3d1.2826804184266198!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19731fe5e901%3A0xb475a831c42577e0!2sXiu%20Ji%20Ikan%20Bilis%20Yong%20Tau%20Fu%20(%2302-88)!5e0!3m2!1sko!2sec!4v1755037153781!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
-
 약 30분 정도 기다린 끝에 주문할 수 있었다.
 <div class="image-slider-auto">
   <img src="{{site.baseurl}}/images/posts/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/china-town-lunch-2.jpg" title="Waiting for order in queue" alt="Waiting for order in queue">
@@ -152,7 +151,6 @@ description: 엉망진창 첫 해외 출국 공항 해프닝 및 싱가포르 �
 
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1448.2305374946939!2d103.85651375026097!3d1.288961238520085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da196d2fffffed%3A0x6c0c3f2856edd6b7!2z66eI7Lm47IiY7Yq46528IOq4gOujqO2EtOyKpCDrsqDsnbQ!5e0!3m2!1sko!2sec!4v1755037566823!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
-
 식사 후 천천히 마리나 호텔로 걸어갈 무렵 해가 지고 점점 어두워졌다. 마리나 호텔은 자체로도 아름다웠지만 <span style="color: #8D4801">**밤이 되니 두 배로 아름다웠다.**</span> 
 <div class="image-slider-static">
   <img src="{{site.baseurl}}/images/posts/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-1.jpg" title="Marina hotel and garden" alt="Marina hotel and garden">
