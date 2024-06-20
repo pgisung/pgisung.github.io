@@ -134,6 +134,9 @@ On the next hand, I may release my stresses by things that below.
 
 ## <span style="color: brown">**Personal History**</span>
 
+#### <span style="color: #8D4801">**Trip in Puerto Lopez, Ecuador**</span>
+<small>2025-08-15 ~ 2025-08-18</small>
+
 #### <span style="color: #8D4801">**Life in Quito, Ecuador**</span>
 <small>2025-07-24 ~ ing</small>
 
