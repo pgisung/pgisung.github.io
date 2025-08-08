@@ -134,6 +134,12 @@ On the next hand, I may release my stresses by things that below.
 
 ## <span style="color: brown">**Personal History**</span>
 
+#### <span style="color: #8D4801">**Life in Quito, Ecuador**</span>
+<small>2025-07-24 ~ ing</small>
+
+#### <span style="color: #8D4801">**Life in Huahin, Thailand**</span>
+<small>2025-04-23 ~ 2025-06-04</small>
+
 #### <span style="color: #8D4801">**Life in Keelung, Taiwan**</span>
 <small>2024-05-14 ~ 2024-05-31</small>
 
