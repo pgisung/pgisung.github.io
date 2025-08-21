@@ -10,7 +10,7 @@ description: 싱가포르에서 육로를 통해 말레이시아로 이동기
 
 > 1. [드디어 문을 연 자전거 가게](#드디어-문을-연-자전거-가게 "Navigate to Finally the bicycle shop was opened")
 2. [첫 라이딩](#첫-라이딩 "Navigate to First riding")
-2. [도로 한가운데서 얼어붙다](#도로-한가운데서-얼어붙다 "Navigate to Frozen myself on the road with bicycle")
+3. [도로 한가운데서 얼어붙다](#도로-한가운데서-얼어붙다 "Navigate to Frozen myself on the road with bicycle")
 4. [여행 경로](#여행-경로 "Navigate to Travel route")
 5. [여행 경비](#여행-경비 "Navigate to Travel expenses")
 

@@ -17,7 +17,7 @@
             {% endif %}
           {% endunless %}{% endfor %}
           <div class="category-title">{{ this_word }}</div>
-          <div class="article-count">{{ site.categories[this_word].size }} Articles</div>
+          <div class="article-count">{{ site.categories[this_word].size }} {% if site.categories[this_word].size <= 1 %}Article{% else %}Articles{% endif %}</div>
         </a>
       </div>
     {% endunless %}{% endfor %}
