@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Johnny와 mrkyia의 동남아 자전거 여행기 (4) - 클라크 퀘이
+title: 🇸🇬Johnny와 mrkyia의 동남아 자전거 여행기 (4) - 클라크 퀘이
 date: 2013-12-15 23:12:25 +0900
 img: 2013-12-15-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-4.jpg
 categories: Travel
 tags: [ Singapore trip, Bicycle trip, 싱가포르 여행, 자전거 여행 ]
-description: 싱가포르 여행 3일 차  
+description: 2013.12.15 싱가포르 3일 차 여행기
 ---
 
 > 1. [문을 닫은 자전거 가게들](#문을-닫은-자전거-가게들 "Navigate to Closed bicycle shops")

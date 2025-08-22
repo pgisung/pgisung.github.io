@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Puerto Lopez 여행기 (1) - 작은 갈라파고스를 향해서
+title: 🇪🇨Puerto Lopez 여행기 (1) - 작은 갈라파고스를 향해서
 date: 2025-08-20 14:51:02 -0500
 img: 2025-08-15-Puerto-Lopez-travelog-1.jpg
 categories: Travel
 tags: [ Ecuador trip, Puerto Lopez, 에콰도르 여행, 푸에르토 로페스 ]
-description: 키토에서 푸에르토 로페스까지 이동기 및 투어 예약 이야기
+description: 2025.08.15 키토에서 푸에르토 로페스까지 이동기 및 투어 예약 이야기
 ---
 
 > 1. [비행기 타고 만타로 이동](#비행기-타고-만타로-이동 "Navigate to Flying to Manta")
@@ -26,7 +26,7 @@ description: 키토에서 푸에르토 로페스까지 이동기 및 투어 예�
 
 #### <span style="color: #8D4801">**비행기 타고 만타로 이동**</span>
 ##### **마리스칼 수크레 국제공항**
-<span style="color: #8D4801">**설레는 여행 당일**</span> 새벽 5시에 눈을 떠 씻고 준비를 시작했다. 6시에 우버에 탑승하니 공항에 6시 40분쯤에 도착했다.
+<span style="color: indianred">**설레는 여행 당일**</span> 새벽 5시에 눈을 떠 씻고 준비를 시작했다. 6시에 우버에 탑승하니 공항에 6시 40분쯤에 도착했다.
 
 평소보다 <span style="color: #8D4801">**일찍 일어나서 피곤**</span>했던 우리
 <div class="image-slider-static">
@@ -189,7 +189,7 @@ description: 키토에서 푸에르토 로페스까지 이동기 및 투어 예�
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d249.27106107986347!2d-80.81462446958814!3d-1.561357423802768!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sko!2sec!4v1755785237590!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
-숙소는 전반적으로 다 마음에 들었는데 <span style="color: #8D4801">**딱 한 가지 단점이 있었다면 머무르는 내내 찬물로밖에 샤워를 못 했다.**</span> Eleanor 말로는 첫날에 따뜻한 물이 나왔다는데... 내가 고장 낸 건가... 진짜 호스 돌린 거 말고는 아무것도 안 했다고요 ㅜ.ㅜ
+숙소는 전반적으로 다 마음에 들었는데 <span style="color: #8D4801">**딱 한 가지 단점이 있었다면 머무르는 내내 찬물로밖에 샤워를 못 했다.**</span> Eleanor 말로는 첫날에 따뜻한 물이 나왔다는데... 내가 고장 낸 건가... 진짜 수도꼭지 돌린 거 말고는 아무것도 안 했다고요 ㅜ.ㅜ
 <div class="image-slider-auto">
   <img src="{{site.baseurl}}/images/posts/2025-08-15-Puerto-Lopez-travelog-1/loft-beach-2.jpg" title="The balcony of Loft beach" alt="The balcony of Loft beach">
   <img src="{{site.baseurl}}/images/posts/2025-08-15-Puerto-Lopez-travelog-1/loft-beach-3.jpg" title="The living room of Loft beach" alt="The living room of Loft beach">
@@ -267,7 +267,7 @@ description: 키토에서 푸에르토 로페스까지 이동기 및 투어 예�
 <br>
 
 ##### **Romance Marino 식당**
-<span style="color: #8D4801">**갈라파고스에선 Langosta가 그렇게 싸다면서?**</span>부터 시작된 랍스터 사냥 시간... <span style="color: #8D4801">**구글 맵에서도 파는 식당이 몇 개 없어서**</span> 가까운 곳 중에 평점 좋은 순으로 들러봤는데 <span style="color: indianred">**다들 재고가 없다고 손을 절레절레**</span> 흔드신다.
+<span style="color: #8D4801">**갈라파고스에선 Langosta가 그렇게 싸다면서?**</span>부터 시작된 랍스터 사냥 시간... <span style="color: #8D4801">**구글 맵에서도 파는 식당이 몇 개 없어서**</span> 가까운 곳 중에 평점 좋은 순으로 들러봤는데 <span style="color: indianred">**다들 재료가 없다고 손을 절레절레**</span> 흔드신다.
 
 아쉬운 맘을 안고 <span style="color: #8D4801">**숙소 바로 옆에 있는 식당**</span>에 들어가서 Langosta를 주문했는데 된다고 한다!
 
