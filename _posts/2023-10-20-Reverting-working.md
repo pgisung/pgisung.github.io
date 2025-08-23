@@ -26,7 +26,7 @@ description: Git 저장소에서 작업을 하다 보면 지금까지 한 작업
 #### <span style="color: brown">**파일 되돌리기**</span>
 ##### **추적 되돌리기**
 ```bash
-git rm -cached <파일명>
+git rm --cached <파일명>
 ```
 - 파일의 <span style="color: #8D4801">**추적 상태를 추적하지 않은 상태로 변경하는**</span> 명령어이다. <span style="color: #8D4801">**파일을 추적한 후 커밋하지 않은 상태에서 바로 삭제할 때 사용할 수 있다.**</span> 해당 파일을 이미 한 번이라도 커밋했다면 이전 커밋을 기준으로 해당 파일의 삭제 또한 변화된 이력으로 간주하기 때문에 파일이 여전히 추적 상태이면서 삭제된 상태이고 이를 다시 커밋해야 삭제를 완료할 수 있다.
 <img src="{{site.baseurl}}/images/posts/2023-10-20-Reverting-working/git-command-rm-cached.jpg" title="Git command to revert the files to untracked status" alt="Git command to revert the files to untracked status">

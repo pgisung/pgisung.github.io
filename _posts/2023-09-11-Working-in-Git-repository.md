@@ -52,7 +52,7 @@ git add .
 ###### <span style="color: indianred">**※ 만약 실습 도중 실수할 상황에 대비하여 몇 가지 복귀 명령어들을 미리 알아보자.**</span>
 - **commit 이력이 없는 추적 중인 파일을 Unstage 상태로 변경하는 명령어**
 ```bash
-git rm -cached <파일명>
+git rm --cached <파일명>
 ```
   - <span style="color: #8D4801">**파일을 추적한 후 commit 하지 않은 상태에서 바로 삭제할 때 사용할 수 있다.**</span> 해당 파일을 이미 한 번이라도 commit 했다면 이전 commit 기준으로 해당 파일의 삭제 또한 변화된 이력으로 간주하기 때문에 파일이 여전히 tracked 상태인 것을 확인할 수 있다.
 <img src="{{site.baseurl}}/images/posts/2023-09-11-Working-in-Git-repository/git-command-rm-cached.jpg" title="Git command to remove cached files" alt="Git command to remove cached files">

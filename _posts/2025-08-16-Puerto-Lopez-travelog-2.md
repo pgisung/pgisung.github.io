@@ -95,82 +95,52 @@ description: 2025.08.16 살랑고 섬 투어 이야기
 
 #### <span style="color: #8D4801">**살랑고 섬 투어**</span>
 투어 회사가 숙소에서 그리 멀지 않아서 10분 전인 <span style="color: #8D4801">**8시 50분쯤 예약한 투어 회사로 이동**</span>했다. 먼저 도착해서 대기 중인 일행들이 몇몇 그룹 보였고 간단한 금일 투어 브리핑을 마치고 9시 15분쯤 다 같이 부두로 이동을 시작했다.
-<div class="image-slider-static">
-  <img src="{{site.baseurl}}/images/posts/2025-08-16-Puerto-Lopez-travelog-2/way-to-tour-company.jpg" title="The way going to tour company" alt="The way going to tour company">
-</div>
-<br>
-
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d997.0851755680017!2d-80.81300643194653!3d-1.5593929674134581!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902e9fe8871268e7%3A0xcbc625a91e5bfc22!2sFRAGATA%20XTREME%20(Subwing)!5e0!3m2!1sko!2sec!4v1755788534522!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
-<span style="color: #8D4801">**우리 여행사 보트**</span>다! 대기 중간에 찍은 사진이 이것뿐이라 보트가 진즉부터 도착해서 기다린 것 같지만, 엄청 많던 다른 여행사 줄을 <span style="color: indianred">**한참 기다리다가 10시 8분쯤 우리가 승선할 차례가 오자 그제야 나타났다**</span>.
+부두에서 승선 대기 중
+<div class="image-slider-static">
+  <img src="{{site.baseurl}}/images/posts/2025-08-16-Puerto-Lopez-travelog-2/standing-by-on-board.jpg" title="Standing by on board" alt="Standing by on board">
+</div>
+<br>
+
+<span style="color: #8D4801">**우리 여행사 보트**</span>다! 보트가 진즉부터 도착해서 기다린 것 같지만, 엄청 많던 다른 여행사 줄을 <span style="color: indianred">**한참 기다리다가 10시 8분쯤 우리가 승선할 차례가 오자 그제야 나타났다**</span>.
 <div class="image-slider-static">
   <img src="{{site.baseurl}}/images/posts/2025-08-16-Puerto-Lopez-travelog-2/the-boat-of-tour-company-1.jpg" title="Fragata XTREME boat" alt="Fragata XTREME boat">
 </div>
 <br>
 
-보트 정박 중
+1시간 만에 드디어 보트에 <span style="color: #8D4801">**승선!**</span>
 <div class="image-slider-static">
   <img src="{{site.baseurl}}/images/posts/2025-08-16-Puerto-Lopez-travelog-2/the-boat-of-tour-company-2.jpg" title="Arrived Fragata XTREME boat" alt="Arrived Fragata XTREME boat">
 </div>
 <br>
 
-1시간 만에 드디어 보트에 <span style="color: #8D4801">**승선!**</span>
-<div class="image-slider-passive">
-  <img src="{{site.baseurl}}/images/posts/2025-08-16-Puerto-Lopez-travelog-2/entering-to-pier.gif" title="Entering to pier" alt="Entering to pier">
-  <img src="{{site.baseurl}}/images/posts/2025-08-16-Puerto-Lopez-travelog-2/getting-on-the-boat.gif" title="Getting on the boat" alt="Getting on the boat">
-</div>
-<br>
-
 ##### **스쳐 간 푸른발부비새 서식지**
 열심히 달리던 배가 잠깐 멈춰서고 가이드가 설명을 시작했다. 이 녀석들이 <span style="color: #8D4801">**갈라파고스의 명물인 푸른발부비새**</span>라는데... 그래서 파란색 발이 어딨는 거죠? 저는 안 보이는데... (나중에 알게 된 사실이 <span style="color: indianred">**부비새가 어릴 때는 아직 발이 파랗지 않다가 성장할수록 점점 파랗게 변한다**</span>고 한다.) 사실 너무 멀어서 새도 잘 안 보였어요...
-<div class="image-slider-static">
-  <img src="{{site.baseurl}}/images/posts/2025-08-16-Puerto-Lopez-travelog-2/blue-footed-booby.jpg" title="Blue-footed booby habitat" alt="Blue-footed booby habitat">
+<div class="image-slider-auto">
+  <img src="{{site.baseurl}}/images/posts/2025-08-16-Puerto-Lopez-travelog-2/blue-footed-booby-habitat-1.jpg" title="Blue-footed booby habitat" alt="Blue-footed booby habitat">
+  <img src="{{site.baseurl}}/images/posts/2025-08-16-Puerto-Lopez-travelog-2/blue-footed-booby-habitat-2.jpg" title="Blue-footed booby habitat" alt="Blue-footed booby habitat">
+  <img src="{{site.baseurl}}/images/posts/2025-08-16-Puerto-Lopez-travelog-2/blue-footed-booby-habitat-3.jpg" title="Blue-footed booby habitat" alt="Blue-footed booby habitat">
 </div>
 <br>
 
 ##### **혹등고래 추적기**
-멀미약을 먹고 왔는데도 보트가 엄청나게 흔들려요.
-<div class="image-slider-static">
-  <img src="{{site.baseurl}}/images/posts/2025-08-16-Puerto-Lopez-travelog-2/motion-sickness.jpg" title="Motion sickness" alt="Motion sickness">
-</div>
-<br>
-
 <span style="color: #8D4801">**특정 포인트에 도달**</span>하니까 가이드가 <span style="color: #8D4801">**4명을 뽑아서 보트의 2층**</span>에 앉히고, 또 <span style="color: #8D4801">**4명은 보트의 앞**</span>에 앉힌 채로 혹등고래를 찾아 나섰다.
-<div class="image-slider-auto">
-  <img src="{{site.baseurl}}/images/posts/2025-08-16-Puerto-Lopez-travelog-2/beginning-of-tracing-humpback-whale-1.jpg" title="Blogger sitting on front of the boat to watch humpback whale" alt="Blogger sitting on front of the boat to watch humpback whale">
-  <img src="{{site.baseurl}}/images/posts/2025-08-16-Puerto-Lopez-travelog-2/beginning-of-tracing-humpback-whale-2.jpg" title="Searching humpback whale" alt="Searching humpback whale">
+<div class="image-slider-static">
+  <img src="{{site.baseurl}}/images/posts/2025-08-16-Puerto-Lopez-travelog-2/blogger-sitting-on-front-of-the-boat-to-watch-humpback-whale.jpg" title="Blogger sitting on front of the boat to watch humpback whale" alt="Blogger sitting on front of the boat to watch humpback whale">
 </div>
 <br>
 
 오기 전에 혹등고래를 못 보고 돌아갔다는 사람들의 얘기를 들어서 처음엔 고래를 보기만 해도 너무나 좋을 것 같았다.
 
 <span style="color: indianred">**우리 고래 볼 수 있을까?**</span>
-<div class="image-slider-static">
-  <img src="{{site.baseurl}}/images/posts/2025-08-16-Puerto-Lopez-travelog-2/searching-humpback-whale.gif" title="Searching humpback whale" alt="Searching humpback whale">
-</div>
-<br>
 
 <span style="color: #8D4801">**예 봤습니다. 한두 마리도 아니고 매우 많이**</span>요! 일단 이쪽저쪽에서 다들 고래를 발견하면 탄성부터 지르셔서 나타나는 것도 핸드폰 알림 오듯이 알 수 있어서 좋았어요...
 <div class="image-slider-passive">
   <img src="{{site.baseurl}}/images/posts/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-1.gif" title="Humpback whale" alt="Humpback whale">
   <img src="{{site.baseurl}}/images/posts/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-2.gif" title="Humpback whale" alt="Humpback whale">
   <img src="{{site.baseurl}}/images/posts/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-3.gif" title="Humpback whale" alt="Humpback whale">
-</div>
-<br>
-
-**저기, 저기 고래다!**
-
-**어디 어디? 오 진짜다!**
-<div class="image-slider-passive">
-  <img src="{{site.baseurl}}/images/posts/2025-08-16-Puerto-Lopez-travelog-2/pointing-humpback-whale.gif" title="Pointing humpback whale" alt="Pointing humpback whale">
-  <img src="{{site.baseurl}}/images/posts/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-with-her-1.gif" title="Humpback whale with her" alt="Humpback whale with her">
-</div>
-<br>
-
-기분 탓인가... <span style="color: #8D4801">**점점 가까운 곳에 고래**</span>가 보여요
-<div class="image-slider-static">
-  <img src="{{site.baseurl}}/images/posts/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-with-her-2.gif" title="Humpback whale with her" alt="Humpback whale with her">
 </div>
 <br>
 
@@ -201,50 +171,18 @@ description: 2025.08.16 살랑고 섬 투어 이야기
 </div>
 <br>
 
-<span style="color: #8D4801">**처음 고래를 찾아다니기 시작한 시점부터 단 한 번도 끊지 않고 영상 촬영**</span> 중인 Eleanor
-<div class="image-slider-static">
-  <img src="{{site.baseurl}}/images/posts/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-with-her-3.jpg" title="Humpback whale with her" alt="Humpback whale with her">
-</div>
-<br>
-
-어디 고래 또 없나...
-<div class="image-slider-static">
-  <img src="{{site.baseurl}}/images/posts/2025-08-16-Puerto-Lopez-travelog-2/looking-for-humpback-whale.jpg" title="Looking for humpback whale" alt="Looking for humpback whale">
-</div>
-<br>
-
-저 여기 있어요
-<div class="image-slider-auto">
-  <img src="{{site.baseurl}}/images/posts/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-with-her-4.jpg" title="Humpback whale with her" alt="Humpback whale with her">
-  <img src="{{site.baseurl}}/images/posts/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-with-her-5.jpg" title="Humpback whale with her" alt="Humpback whale with her">
-  <img src="{{site.baseurl}}/images/posts/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-with-her-6.jpg" title="Humpback whale with her" alt="Humpback whale with her">
-</div>
-<br>
-
-촬영된 영상을 기준으로 대략 시간을 가늠해 보니 <span style="color: #8D4801">**약 40분 정도 고래를 찾아**</span>다닌 것 같다. 이 투어의 묘미는 혹등고래 따라다니는 거라고요!
-<div class="image-slider-auto">
-  <img src="{{site.baseurl}}/images/posts/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-with-her-7.jpg" title="Humpback whale with her" alt="Humpback whale with her">
-  <img src="{{site.baseurl}}/images/posts/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-with-her-8.jpg" title="Humpback whale with her" alt="Humpback whale with her">
-  <img src="{{site.baseurl}}/images/posts/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-with-her-9.jpg" title="Humpback whale with her" alt="Humpback whale with her">
-  <img src="{{site.baseurl}}/images/posts/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-with-her-10.jpg" title="Humpback whale with her" alt="Humpback whale with her">
-</div>
-<br>
+친구가 고래 추적 시작부터 끝까지 단 한 번도 끊지 않고 동영상을 촬영해서 녹화된 시간 기준으로 대략 시간을 가늠해 보니 <span style="color: #8D4801">**약 40분 정도 고래를 찾아**</span>다닌 것 같다. 이 투어의 묘미는 혹등고래 따라다니는 거라고요!
 
 ##### **스쳐 간 바다사자 서식지**
 혹등고래 추적을 마치고 나면 보트가 살랑고 섬 근처로 이동한다. 바다사자 지점에서도 매우 짧게 머무르고 이동했는데 그래도 앞에 푸른발부비새보단 <span style="color: #8D4801">**선명하게 바다사자를 볼 수 있었다. 개중에는 수영 중인 녀석**</span>도 있었다.
 <div class="image-slider-auto">
   <img src="{{site.baseurl}}/images/posts/2025-08-16-Puerto-Lopez-travelog-2/sea-lion-1.jpg" title="Sea lion habitat" alt="Sea lion habitat">
   <img src="{{site.baseurl}}/images/posts/2025-08-16-Puerto-Lopez-travelog-2/sea-lion-2.jpg" title="Sea lion habitat" alt="Sea lion habitat">
+  <img src="{{site.baseurl}}/images/posts/2025-08-16-Puerto-Lopez-travelog-2/sea-lion-3.jpg" title="Sea lion habitat" alt="Sea lion habitat">
 </div>
 <br>
 
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7976.554991334194!2d-80.8728910372913!3d-1.5923981350624137!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902e9d0018bf143b%3A0x41672f3d44c60d6c!2sObservaci%C3%B3n%20de%20lobos%20marinos!5e0!3m2!1sko!2sec!4v1755901882447!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
-<br>
-
-생각보다 날씨도 매우 추웠고, 보트 앞에서 찬 공기를 40분이나 맞아서 담요를 덮고 있던 Eleanor
-<div class="image-slider-static">
-  <img src="{{site.baseurl}}/images/posts/2025-08-16-Puerto-Lopez-travelog-2/sea-lion-with-her.jpg" title="Sea lion with her" alt="Sea lion with her">
-</div>
 <br>
 
 ##### **짧지만 Chill 했던 스노클링 시간**
@@ -271,14 +209,13 @@ description: 2025.08.16 살랑고 섬 투어 이야기
 <br>
 
 점심 식사를 마친 후 <span style="color: #8D4801">**낮잠 시간**</span>을 가지기로 하고 <span style="color: #8D4801">**발코니에 앉아 에어팟 꽂고 바다와 사람 구경**</span>을 하는데 정말 시간이 가는 줄 몰랐던 것 같다.
-<br>
 
 ##### **Romance Marino 식당**
 당연히 오늘 저녁도 <span style="color: #8D4801">**Langosta가 먹고 싶었던**</span> 우리는 아직 방문해 보지 않은 식당들에 방문하여 물어보았는데 서쪽 끝에 있는 하나의 식당과 어제 갔던 숙소 앞 식당을 제외하고는 파는 곳이 없었다.
 
 그래서 <span style="color: #8D4801">**같은 식당이지만 어제 먹어서 확실한 숙소 앞 식당을 재방문**</span>했는데... <span style="color: indianred">**오늘은 재료가 없는지**</span> 팔지 않는다고 했다. 그래서 다른 식당으로 옮긴다고 어딘가에서 랍스터를 먹을 수 있는 것도 아니기에 그냥 다른 메뉴를 주문했다.
 
-<span style="color: #8D4801">**새우 요리는 익숙한 감바스의 맛**</span>으로 물론 맛있을 수밖에 없었지만, <span style="color: indianred">**Eleanor가 만들어준 새빨간 자극적인 감바스 맛**</span>에는 미치지 못했다. <span style="color: #8D4801">**오징어는 조리법이 좀 다른 메뉴**</span>였던 것 같은 데 와 이 맛은?! 이럴 정도의 특별함을 느끼지는 못했었다.
+<span style="color: #8D4801">**새우 요리는 익숙한 감바스의 맛**</span>으로 물론 맛있을 수밖에 없었지만, <span style="color: indianred">**친구가 만들어준 새빨간 자극적인 감바스 맛**</span>에는 미치지 못했다. <span style="color: #8D4801">**오징어는 조리법이 좀 다른 메뉴**</span>였던 것 같은 데 와 이 맛은?! 이럴 정도의 특별함을 느끼지는 못했었다.
 <div class="image-slider-auto">
   <img src="{{site.baseurl}}/images/posts/2025-08-16-Puerto-Lopez-travelog-2/camaron-al-ajillo.jpg" title="Camaron al ajillo" alt="Camaron al ajillo">
   <img src="{{site.baseurl}}/images/posts/2025-08-16-Puerto-Lopez-travelog-2/calamar-a-la-plancha.jpg" title="Calamar a la plancha" alt="Calamar a la plancha">
