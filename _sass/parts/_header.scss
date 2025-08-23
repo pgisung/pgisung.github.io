@@ -1,3 +1,6 @@
+@use "sass:color";
+@use '../variables'; // import를 use로 바꾸면서 전역변수를 사용하려는 vendor 파일에선 use구문 추가 필요
+
 .site-header {
   // 타이틀 고정용 - 필요 없으면 여기만 빼고 바로 아래 position: relative로 변경
   top: 0;
@@ -8,7 +11,7 @@
   height: 60px;
   position: fixed;
   // position: relative;
-  background-color: $brown;
+  background-color: variables.$brown;
   overflow: hidden;
 }
 
@@ -29,7 +32,7 @@
     font-size: 36px;
     font-weight: 400;
     text-decoration: none;
-    color: $white;
+    color: variables.$white;
   }
 }
 
@@ -69,15 +72,15 @@
     letter-spacing: 0.8px;
     text-decoration: none;
     text-transform: uppercase;
-    color: $white;
+    color: variables.$white;
     padding: 25px 30px;
     margin: 0;
     border-bottom: 1px solid rgba(31, 42, 51, 0.1);
     transition: all 0.2s ease;
 
     &:hover {
-      background-color: darken(rgba(141, 72, 1, 0.8), 10%);
-      color: $white;
+      background-color: color.adjust(rgba(141, 72, 1, 0.8), $lightness: -10%);
+      color: variables.$white;
     }
   }
   &.open {
@@ -102,7 +105,7 @@
     width: 40px;
     height: 40px;
     border-radius: 50%;
-    background-color: $white;
+    background-color: variables.$white;
     z-index: -1;
     top: -13px;
     left: 8px;
@@ -111,7 +114,7 @@
   }
   &:hover {
     span {
-      background-color: $brown;
+      background-color: variables.$brown;
     }
     &:before {
       transform: translateX(-50%) scale(1);
@@ -121,7 +124,7 @@
     position: absolute;
     height: 2px;
     width: 70%;
-    background-color: $white;
+    background-color: variables.$white;
     transition: 0.5s;
     &:nth-child(1) {
       top: 0;
@@ -161,7 +164,7 @@
 //   height: 60px;
 //   position: fixed;
 //   // position: relative;
-//   background-color: $brown;
+//   background-color: variables.$brown;
 //   overflow: hidden;
 // }
 
@@ -178,7 +181,7 @@
 //     font-size: 36px;
 //     font-weight: 400;
 //     text-decoration: none;
-//     color: $white;
+//     color: variables.$white;
 //   }
 // }
 
@@ -203,7 +206,7 @@
 //     font-weight: 700;
 //     text-decoration: none;
 //     text-transform: uppercase;
-//     color: $white;
+//     color: variables.$white;
 //     transition: all 0.2s ease;
 //     &:hover {
 //       color: rgba(255, 255, 255, 0.7);
@@ -263,8 +266,8 @@
 //       transition: all 0.2s ease;
 
 //       &:hover {
-//         background-color: darken(rgba(141, 72, 1, 0.8), 10%);
-//         color: $white;
+//         background-color: color.adjust(rgba(141, 72, 1, 0.8), $lightness: -10%);
+//         color: variables.$white;
 //       }
 //     }
 //   }
@@ -286,7 +289,7 @@
 //       width: 40px;
 //       height: 40px;
 //       border-radius: 50%;
-//       background-color: $white;
+//       background-color: variables.$white;
 //       z-index: -1;
 //       top: -13px;
 //       left: 8px;
@@ -295,7 +298,7 @@
 //     }
 //     &:hover {
 //       span {
-//         background-color: $brown;
+//         background-color: variables.$brown;
 //       }
 //       &:before {
 //         transform: translateX(-50%) scale(1);
@@ -305,7 +308,7 @@
 //       position: absolute;
 //       height: 2px;
 //       width: 70%;
-//       background-color: $white;
+//       background-color: variables.$white;
 //       transition: 0.5s;
 //       &:nth-child(1) {
 //         top: 0;

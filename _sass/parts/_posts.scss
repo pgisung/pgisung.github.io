@@ -1,3 +1,5 @@
+@use '../variables'; // import를 use로 바꾸면서 전역변수를 사용하려는 vendor 파일에선 use구문 추가 필요
+
 .posts {
   width: 100%;
   width: calc(100% / 12 * 4 - 30px);
@@ -5,9 +7,9 @@
   display: inline-block;
   box-sizing: border-box;
   margin: 0 0 1.5rem 0;
-  background: $white;
+  background: variables.$white;
   box-shadow: 0 4px 9px rgba(30, 59, 91, 0.08);
-  border-radius: $common-border-radius;
+  border-radius: variables.$common-border-radius;
   overflow: hidden;
   transition: all 0.35s ease;
   margin-left: -15px;
@@ -61,7 +63,7 @@
     .author-info {
       font-family: 'Roboto', Arial, Helvetica, sans-serif;
       margin-left: 10px;
-      color: $white;
+      color: variables.$white;
       letter-spacing: 0.8px;
       font-size: 12px;
       font-weight: 700;
@@ -89,7 +91,7 @@
     right: 0;
     bottom: 0;
     opacity: 0;
-    background: linear-gradient(180deg, $light-turquoisergba 0, transparent 40%, transparent 60%, $turquoisergba);
+    background: linear-gradient(180deg, variables.$light-turquoisergba 0, transparent 40%, transparent 60%, variables.$turquoisergba);
     transition: all .15s ease-in-out;
     opacity: 0;
   }
@@ -109,7 +111,7 @@
       color: #222;
       transition: all 0.2s ease;
       &:hover {
-        color: $black;
+        color: variables.$black;
       }
     }
   }
@@ -118,7 +120,7 @@
     font-family: 'IBM Plex Sans KR', 'Roboto', Arial, Helvetica, sans-serif;
     font-size: 15px;
     line-height: 1.6;
-    color: $lightengray;
+    color: variables.$lightengray;
   }
 
   .more {
@@ -128,7 +130,7 @@
     font-size: 14px;
     transition: all 0.2s ease;
     &:hover {
-      color: $black;
+      color: variables.$black;
       box-shadow: inset 0 -8px 0 rgba(186, 142, 119, 0.6);
     }
   }
@@ -145,7 +147,7 @@
     display: inline-block;
     font-size: 15px;
     padding: 5px;
-    color: $white;
+    color: variables.$white;
     transition: all .2s ease-in-out;
     &:hover {
       transform: scale(1.2);

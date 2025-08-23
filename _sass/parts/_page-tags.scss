@@ -1,3 +1,5 @@
+@use '../variables'; // import를 use로 바꾸면서 전역변수를 사용하려는 vendor 파일에선 use구문 추가 필요
+
 .blog-tags {
 	font-family: 'Gowun Batang', serif;
 	.tags {
@@ -18,10 +20,10 @@
 				padding: 5px 10px;
 				font-size: 14px;
 				font-weight: 700;
-				color: $white;
+				color: variables.$white;
 				background-color: mediumseagreen;
 				text-decoration: none;
-				border-radius: $common-border-radius;
+				border-radius: variables.$common-border-radius;
 				transition: all .25s ease;
 				&:hover {
 					background-color: #8E828E;
@@ -68,9 +70,9 @@
 		padding: 0px 7px;
 		font-size: 14px;
 		font-weight: 700;
-		color: $white;
+		color: variables.$white;
 		text-decoration: none;
-		border-radius: $common-border-radius;
+		border-radius: variables.$common-border-radius;
 		transition: all .25s ease;
 		&:hover {
 			background-color: #8E828E;			

@@ -1,3 +1,5 @@
+@use '../variables'; // import를 use로 바꾸면서 전역변수를 사용하려는 vendor 파일에선 use구문 추가 필요
+
 *, *::after, *::before {
   box-sizing: border-box;
 }
@@ -10,12 +12,12 @@ body {
   font-family: 'Roboto', Arial, Helvetica, sans-serif;
   font-size: 18px;
   color: rgba(0, 0, 0, 0.8);
-  background-color: $white;
+  background-color: variables.$white;
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   &.body-post {
-    background-color: $current-body-color;
+    background-color: variables.$current-body-color;
   }
 }
 
@@ -34,7 +36,7 @@ h3 {
 h4 {
     font-size: 24px;
     padding-left: 10px;
-    border-left: 3px solid $lightbrown;
+    border-left: 3px solid variables.$lightbrown;
 }
 
 h5 {
@@ -55,7 +57,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
   line-height: 1.5;
   margin: 0 0 30px;
-  color: $black;
+  color: variables.$black;
 }
 
 p {
@@ -78,8 +80,8 @@ img {
   max-width: 100%;
   height: auto;
   vertical-align: middle;
-  border-radius: $common-border-radius;
-  border: 1px solid $brown;
+  border-radius: variables.$common-border-radius;
+  border: 1px solid variables.$brown;
 }
 
 li {
@@ -93,7 +95,7 @@ li {
 }
 
 blockquote {
-  border-left: 3px solid $lightbrown;
+  border-left: 3px solid variables.$lightbrown;
   padding: 10px 20px;
   margin: 20px 0;
   font-size: 20px;
@@ -102,7 +104,7 @@ blockquote {
   // font-style: italic;
   overflow-y: auto;
   max-height: 500px;
-  border-radius: $common-border-radius;
+  border-radius: variables.$common-border-radius;
   background: rgba(220,235,245,0.2);
   &:last-child {
     margin-bottom: 0;
@@ -153,7 +155,7 @@ hr {
     display: inline-block;
     position: relative;
     margin-left: 10px;
-    color: $brown;
+    color: variables.$brown;
     top: -15px;
   }
 }
@@ -174,7 +176,7 @@ table {
   border-color: #563615;
   border-collapse: collapse;
   // table border-radius 적용용 코드
-  border-radius: $common-border-radius;
+  border-radius: variables.$common-border-radius;
   border-style: hidden;
   box-shadow: 0 0 0 1px #563615;
   overflow: hidden;
@@ -185,8 +187,8 @@ table {
 
 table th {
   font-size: 16px;
-  color: $white;
-  background-color:$brown;
+  color: variables.$white;
+  background-color:variables.$brown;
   border-width: 1px;
   padding: 8px;
   border-style: solid;
@@ -211,7 +213,7 @@ table td {
 }
 
 table tr:hover {
-  background-color: $white;
+  background-color: variables.$white;
 }
 
 .overlay {
@@ -247,7 +249,7 @@ table tr:hover {
 .full-page-container {
   min-height: 100vh;
   position: relative;
-  background-color: $current-body-color;
+  background-color: variables.$current-body-color;
   right: 0;
   transition: right .35s cubic-bezier(0.565, 1.65, 0.765, 0.90);
   &.open {
@@ -287,8 +289,8 @@ table tr:hover {
   text-decoration: none;
   outline: none;
   border: none;
-  border-radius: $common-border-radius;
-  color: $white;
+  border-radius: variables.$common-border-radius;
+  color: variables.$white;
   background-color: darkseagreen;
   cursor: pointer;
   transition: all 0.3s ease;
@@ -324,12 +326,12 @@ table tr:hover {
 }
 
 ::-moz-selection {
-  background: $brown-highlighted;
+  background: variables.$brown-highlighted;
   color: #ffffff;
 }
 
 ::selection {
-  background: $brown-highlighted;
+  background: variables.$brown-highlighted;
   color: #ffffff;
 }
 

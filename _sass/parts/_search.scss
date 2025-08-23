@@ -1,3 +1,5 @@
+@use '../variables'; // import를 use로 바꾸면서 전역변수를 사용하려는 vendor 파일에선 use구문 추가 필요
+
 // SEARCH BOX
 .search-box {
   width: 80%;
@@ -8,8 +10,8 @@
   left: 50%;
   transform: translate(-50%, -50%);
   overflow: hidden;
-  border: 1px solid $brown;
-  border-radius: $common-border-radius;
+  border: 1px solid variables.$brown;
+  border-radius: variables.$common-border-radius;
   transition: all 0.3s ease-in-out;
 
   &.show {
@@ -39,11 +41,11 @@
   }
   .blog-categories {
     top: 60px;
-    background: linear-gradient(90deg, $brown, rgb(198, 163, 128));
+    background: linear-gradient(90deg, variables.$brown, rgb(198, 163, 128));
   }
   .blog-tags {
     top: 112px;
-    background: linear-gradient(90deg, rgb(198, 163, 128), $white);
+    background: linear-gradient(90deg, rgb(198, 163, 128), variables.$white);
   }
 }
 
@@ -57,7 +59,7 @@
   right: 15px;
   transform: translateY(-50%);
   font-size: 15px;
-  color: $white;
+  color: variables.$white;
   transition: all 0.3s ease;
   cursor: pointer;
   z-index: 10;
@@ -67,7 +69,7 @@
     width: 40px;
     height: 40px;
     border-radius: 50%;
-    background-color: $white;
+    background-color: variables.$white;
     z-index: -1;
     top: -8px;
     left: 50%;
@@ -75,7 +77,7 @@
     transition: all 0.3s ease;
   }
   &:hover {
-    color: $brown;
+    color: variables.$brown;
     &:before {
       transform: translateX(-50%) scale(1);
     }
@@ -87,21 +89,21 @@
     font-family: "Gowun Batang", serif;
     font-size: 16px;
     font-weight: 700;
-    color: $white;
-    background-color: $brown;
+    color: variables.$white;
+    background-color: variables.$brown;
     border: none;
   }
   ::placeholder {
-      color: $white;
+      color: variables.$white;
       opacity: 1;
   }
 
   :-ms-input-placeholder {
-    color: $white;
+    color: variables.$white;
   }
 
   ::-ms-input-placeholder {
-    color: $white;
+    color: variables.$white;
   }
 }
 
@@ -124,7 +126,7 @@
   position: absolute;
   top: 10px;
   transition: all 0.3s ease;
-  color: $white;
+  color: variables.$white;
   cursor: pointer;
   &:before {
     content: '';
@@ -132,14 +134,14 @@
     width: 40px;
     height: 40px;
     border-radius: 50%;
-    background-color: $white;
+    background-color: variables.$white;
     z-index: -1;
     left: 50%;
     transform: translateX(-50%) scale(0);
     transition: all 0.3s ease;
   }
   &:hover {
-    color: $brown;
+    color: variables.$brown;
     &:before {
       transform: translateX(-50%) scale(1);
     }
@@ -170,11 +172,11 @@
   text-align: left;
   list-style: none;
   overflow-y: auto;
-  background-color: $white;
+  background-color: variables.$white;
   li {
     margin-bottom: 20px;
-    border: 1px solid $brown;
-    border-radius: $common-border-radius;
+    border: 1px solid variables.$brown;
+    border-radius: variables.$common-border-radius;
     a {
       font-size: 18px;
       font-weight: 400;
@@ -189,7 +191,7 @@
 
 .template-image {
   padding: 10px;
-  border-right: 1px solid $brown;
+  border-right: 1px solid variables.$brown;
   flex-basis: 120px;
   flex-shrink: 1;
   img {
@@ -232,7 +234,7 @@
 }
 
 .template-mark {
-  color: $brown;
+  color: variables.$brown;
   font-weight: bold;
 }
 

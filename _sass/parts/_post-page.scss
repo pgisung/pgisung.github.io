@@ -1,3 +1,5 @@
+@use '../variables'; // import를 use로 바꾸면서 전역변수를 사용하려는 vendor 파일에선 use구문 추가 필요
+
 .content-box {
   width: 740px;
   max-width: 100%;
@@ -10,7 +12,7 @@
   word-wrap: break-word;
   padding-left: 15px;
   padding-right: 15px;
-  // background-color: $white;
+  // background-color: variables.$white;
 
   .post-content {
     font-family: 'IBM Plex Sans KR', sans-serif;
@@ -52,7 +54,7 @@
     font-weight: 700;
     font-family: 'Gowun Batang', serif;
     line-height: 1.3;
-    color: $white;
+    color: variables.$white;
     text-shadow: 0px 1px 1px rgba(51, 51, 51, 0.10);
     animation: slideup 2s 0.5s ease-out both;
   }
@@ -62,7 +64,7 @@
     font-weight: 700;
     line-height: 1.7;
     text-transform: uppercase;
-    color: $white;
+    color: variables.$white;
     text-shadow: 0px 1px 1px rgba(51, 51, 51, 0.10);
     animation: opacity-image 2s 0.5s ease-out both;
   }
@@ -88,7 +90,7 @@
         text-decoration: none;
         transition: all 0.25s ease;
         &:hover {
-          color: $graybrown;
+          color: variables.$graybrown;
           transition: all 0.25s ease;
           i {
             transform: scale(1.2);
@@ -102,15 +104,15 @@
         }
 
         &.post-twitter {
-          color: $twitter-color;
+          color: variables.$twitter-color;
         }
 
         &.post-facebook {
-          color: $facebook-color;
+          color: variables.$facebook-color;
         }
 
         &.post-pinterest {
-          color: $pinterest-color;
+          color: variables.$pinterest-color;
         }
       }
     }
@@ -123,9 +125,9 @@
       font-size: 13px;
       font-weight: 600;
       font-family: "Gowun Batang", serif;
-      color: $white;
+      color: variables.$white;
       text-decoration: none;
-      border-radius: $common-border-radius;
+      border-radius: variables.$common-border-radius;
       transition: all .25s ease;
       &:hover {
         background-color: #8E828E;
@@ -162,7 +164,7 @@
 //   margin-right: 10px;
 //   float: left;
 //   font-size: 55px;
-//   color: $brown;
+//   color: variables.$brown;
 //   line-height: 0.6;
 // }
 
@@ -188,7 +190,7 @@
   padding: 20px;
   margin-bottom: 40px;
   background-color: rgba(170, 177, 199, 0.2);
-  border-radius: $common-border-radius;
+  border-radius: variables.$common-border-radius;
 
   .post-author-image {
     margin-right: 20px;
@@ -226,24 +228,24 @@
       margin-top: 10px;
       a {
         font-size: 14px;
-        color: $lightbrown;
+        color: variables.$lightbrown;
         margin-right: 15px;
         position: relative;
         transition: all 0.3s ease;
         &:nth-child(1):before {
-          background-color: $github-color;
+          background-color: variables.$github-color;
         }
         &:nth-child(2):before {
-          background-color: $facebook-color;
+          background-color: variables.$facebook-color;
         }
         &:nth-child(3):before {
-          background-color: $instagram-color;
+          background-color: variables.$instagram-color;
         }
         &:nth-child(4):before {
-          background-color: $linkedin-color;
+          background-color: variables.$linkedin-color;
         }
         &:nth-child(5):before {
-          background-color: $brown;
+          background-color: variables.$brown;
         }
         &:hover {
           color: #fff;
@@ -286,7 +288,7 @@
     color: #222222;
     &:hover {
       span {
-        color: $black;
+        color: variables.$black;
       }
     }
 
@@ -334,7 +336,7 @@
     text-align: center;
     padding: 15px 0;
     background-color: rgba(170, 177, 199, 0.2);
-    border-radius: $common-border-radius;
+    border-radius: variables.$common-border-radius;
   }
 }
 

@@ -1,8 +1,10 @@
+@use '../variables'; // import를 use로 바꾸면서 전역변수를 사용하려는 vendor 파일에선 use구문 추가 필요
+
 .contact-subtitle {
   max-width: 600px;
   margin: 0 auto 40px;
   text-align: center;
-  color: $gray;
+  color: variables.$gray;
 }
 
 .form {
@@ -19,7 +21,7 @@
       margin-bottom: 10px;
       font-size: 11px;
       text-transform: uppercase;
-      color: $gray;
+      color: variables.$gray;
     }
     .form-input {
       height: 40px;
@@ -30,10 +32,10 @@
       padding: 8px 10px;
       font-size: 14px;
       border: 2px solid #f2f4fa;
-      border-radius: $common-border-radius;
+      border-radius: variables.$common-border-radius;
       outline: none;
       resize: none;
-      color: $gray;
+      color: variables.$gray;
       transition: all .25s ease;
       &:focus {
         border: 2px solid rgba(141, 72, 1, 0.3);
