@@ -373,6 +373,8 @@ description: 2025.08.17 플라타 섬 투어 이야기
 </div>
 <br>
 
+스노클링을 끝내고 돌아가는 중에 <span style="color: #8D4801">**수박, 파인애플과 같은 과일들**</span>도 주셔서 좋았다.
+
 ##### **놀고 있는 혹등고래들**
 푸에르토 로페스로 복귀하는 길옆에 보트가 <span style="color: #8D4801">**반쯤 하늘을 날듯이 항해**</span>하고 있다.
 <div class="image-slider-static">
@@ -431,7 +433,7 @@ description: 2025.08.17 플라타 섬 투어 이야기
 
 사실 주말이어서 그랬는지 <span style="color: indianred">**번화가 쪽 근처 식당들은 정말 고막이 터져나갈 듯한 볼륨으로 시끄러운 음악**</span>을 틀어놔서 엊그제랑 어제 조용한 식당을 매우 찾고 싶었는데 <span style="color: #8D4801">**위치가 멀찍이 떨어져 있는 곳이라서 시끄러운 음악 소리도 안 들려서 평화롭게 식사**</span>할 수 있어서 좋았다.
 <div class="image-slider-static">
-  <img src="{{site.baseurl}}/images/posts/2025-08-17-Puerto-Lopez-travelog-3/sabor-español-restaurant.jpg" title="Sabor Español restaurant" alt="Sabor Español restaurant">
+  <img src="{{site.baseurl}}/images/posts/2025-08-17-Puerto-Lopez-travelog-3/sabor-espanol-restaurant.jpg" title="Sabor Español restaurant" alt="Sabor Español restaurant">
 </div>
 <br>
 
@@ -442,7 +444,7 @@ description: 2025.08.17 플라타 섬 투어 이야기
 
 하지만 사장님께 여쭈었을 때 <span style="color: indianred">**Langosta는 재료가 없어서 다른 메뉴를 주문**</span>할 수밖에 없었다.
 <div class="image-slider-static">
-  <img src="{{site.baseurl}}/images/posts/2025-08-17-Puerto-Lopez-travelog-3/sabor-español-restaurant-menu.jpg" title="The menu sign of Sabor Español restaurant" alt="The menu sign of Sabor Español restaurant">
+  <img src="{{site.baseurl}}/images/posts/2025-08-17-Puerto-Lopez-travelog-3/sabor-espanol-restaurant-menu.jpg" title="The menu sign of Sabor Español restaurant" alt="The menu sign of Sabor Español restaurant">
 </div>
 <br>
 
@@ -482,7 +484,7 @@ description: 2025.08.17 플라타 섬 투어 이야기
 
 진짜 서비스였던 걸까? 아니면 사장님 우리가 떠나고 아차 하셨을까? <span style="color: #8D4801">**아무튼 배부르고 너무 기분 좋은 식사**</span>였다.
 <div class="image-slider-static">
-  <img src="{{site.baseurl}}/images/posts/2025-08-17-Puerto-Lopez-travelog-3/la-cuenta-con-plato-pequeño-de-chocolates.jpg" title="La cuenta con plato pequeño de chocolates" alt="La cuenta con plato pequeño de chocolates">
+  <img src="{{site.baseurl}}/images/posts/2025-08-17-Puerto-Lopez-travelog-3/la-cuenta-con-plato-pequeno-de-chocolates.jpg" title="La cuenta con plato pequeño de chocolates" alt="La cuenta con plato pequeño de chocolates">
 </div>
 <br>
 
