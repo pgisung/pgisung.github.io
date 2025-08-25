@@ -35,7 +35,7 @@ description: Git의 branch가 무엇인지 알아보자. 그리고 branch를 관
 #### 들어가기 전에
 Branch는 Git에서 commit만큼이나 중요한 핵심 요소이다. commit이 Git의 내용물이라고 하면 branch는 일종의 포장과 같다고 볼 수 있는데 이 두 요소의 개념만 확실히 잡아둬도 Git의 원리를 좀 더 쉽게 이해할 수 있다. 다음은 Git의 branch를 이해할 때 도움이 되는 Tutorial 사이트이다. [https://learngitbranching.js.org/?locale=ko](https://learngitbranching.js.org/?locale=ko "Navigate to The site helpful to learn about Git branch")
 
-<center><img src="{{site.baseurl}}/images/posts/2023-09-27-What-is-the-branch-on-Git/commits-and-branches.webp" title="Example image for several commits and branches" alt="Example image for several commits and branches" width="70%"></center>
+<center><img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-27-What-is-the-branch-on-Git/commits-and-branches.webp" title="Example image for several commits and branches" alt="Example image for several commits and branches" width="70%"></center>
 
 <br>
 
@@ -46,7 +46,7 @@ Branch는 Git에서 commit만큼이나 중요한 핵심 요소이다. commit이 
 #### <span style="color: brown">**Branch를 알아보자**</span>
 Branch 단어는 나뭇가지, 지사, 분점, 둘 이상으로 나뉘다의 뜻이 있다. 단어의 뜻과 같이 <span style="color: #8D4801">**Git의 branch 또한 저장공간을 나누는 데 실제 저장공간이 나누어지는 것은 아니며 가상의 저장공간이 생성**</span>되는 느낌이다.
 
-<center><img src="{{site.baseurl}}/images/posts/2023-09-27-What-is-the-branch-on-Git/branch-in-naver-dictionary.jpg" title="Definition of branch in Naver dictionary" alt="Definition of branch in Naver dictionary"></center>
+<center><img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-27-What-is-the-branch-on-Git/branch-in-naver-dictionary.jpg" title="Definition of branch in Naver dictionary" alt="Definition of branch in Naver dictionary"></center>
 
 <center>
   <a href="https://dict.naver.com/dict.search?query=branch&from=tsearch" title="Navigate to Naver dictionary">
@@ -56,14 +56,14 @@ Branch 단어는 나뭇가지, 지사, 분점, 둘 이상으로 나뉘다의 뜻
 <br>
 
 ##### **Branch의 필요성**
-<center><img src="{{site.baseurl}}/images/posts/2023-09-27-What-is-the-branch-on-Git/difference-while-working-in-file-system-between-no-version-management-and-Git.webp" title="Difference while working in file system between no version management and Git" alt="Difference while working in file system between no version management and Git"></center>
+<center><img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-27-What-is-the-branch-on-Git/difference-while-working-in-file-system-between-no-version-management-and-Git.webp" title="Difference while working in file system between no version management and Git" alt="Difference while working in file system between no version management and Git"></center>
 
 - 우리는 사실 이미 문서를 작성할 때 브랜치를 나눠서 진행하는 작업을 알게 모르게 해왔다. 수정해야 할 작업이 생겼을 때 원래의 프로젝트를 아무 조치 없이 그냥 수정했다간 실수를 복구하기가 너무 어렵기 때문에 원래의 프로젝트를 복사하여 백업해 두고 새로운 사본에 작업을 진행했었다. 하지만 이런 방식은 매번 수정할 때마다 사본이 통째로 생성되어 저장공간이 많이 낭비될 뿐만 아니라 향후 각각의 작업을 병합하는 것 또한 어려워진다. <span style="color: #8D4801">**Git의 branch는 실질적인 working directory가 단 한 곳이며 공통 조상 커밋을 기준으로 변화된 커밋만 따로 저장하면 되므로 훨씬 더 효율적**</span>이다.
 
 <br>
 
 ##### **Branch의 종류**
-<center><img src="{{site.baseurl}}/images/posts/2023-09-27-What-is-the-branch-on-Git/image-that-showing-kind-of-branch.webp" title="Image that showing kind of branch" alt="Image that showing kind of branch" width="70%"></center>
+<center><img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-27-What-is-the-branch-on-Git/image-that-showing-kind-of-branch.webp" title="Image that showing kind of branch" alt="Image that showing kind of branch" width="70%"></center>
 
 - **Default branch**
   - 당연하게도 Git에서 작업을 하려면 최소한 한 개 이상의 브랜치가 필요하다. 그러므로 <span style="color: #8D4801">**Git은 저장소가 초기화될 때 무조건 Default branch를 한 개 생성**</span>한다.
@@ -90,13 +90,13 @@ git branch <브랜치 이름> (커밋 해시값)
 - 브랜치를 생성할 때 일반적으로 마지막 commit을 가리키고 있는 HEAD를 기준으로 생성된다. 그러나 <span style="color: #8D4801">**직접 커밋 해시값을 입력할 경우 해당 commit을 기준으로 브랜치가 생성**</span>된다. 
 
 - 명령어 실행 전
-<img src="{{site.baseurl}}/images/posts/2023-09-27-What-is-the-branch-on-Git/before-git-command-branch-name.webp" title="Branch list before git command branch <new branch name>" alt="Branch list before git command branch <new branch name>">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-27-What-is-the-branch-on-Git/before-git-command-branch-name.webp" title="Branch list before git command branch <new branch name>" alt="Branch list before git command branch <new branch name>">
 
 - 명령어 실행
-<img src="{{site.baseurl}}/images/posts/2023-09-27-What-is-the-branch-on-Git/git-command-branch-name.webp" title="Git command to create new branch" alt="Git command to create new branch">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-27-What-is-the-branch-on-Git/git-command-branch-name.webp" title="Git command to create new branch" alt="Git command to create new branch">
 
 - 명령어 실행 후
-<img src="{{site.baseurl}}/images/posts/2023-09-27-What-is-the-branch-on-Git/after-git-command-branch-name.webp" title="Branch list after git command branch <new branch name>" alt="Branch list after git command branch <new branch name>">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-27-What-is-the-branch-on-Git/after-git-command-branch-name.webp" title="Branch list after git command branch <new branch name>" alt="Branch list after git command branch <new branch name>">
 
 <br>
 
@@ -122,13 +122,13 @@ git branch --set-upstream-to <원격 저장소 이름/브랜치 이름>
 - 해당 원격 브랜치가 <span style="color: #8D4801">**원격 저장소에 존재하지 않을 경우**</span> 명령어를 실행할 수 없다. 원격 저장소에 해당 원격 브랜치가 존재함에도 명령어 실행이 안 될 경우 "git fetch 원격 저장소 이름" 명령어를 통해서 원격 저장소 정보를 가져와야 한다.
 
 - 명령어 실행 전
-<img src="{{site.baseurl}}/images/posts/2023-09-27-What-is-the-branch-on-Git/before-git-command-branch-u.webp" title="Branch list before git command branch -u" alt="Branch list before git command branch -u">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-27-What-is-the-branch-on-Git/before-git-command-branch-u.webp" title="Branch list before git command branch -u" alt="Branch list before git command branch -u">
 
 - 명령어 실행
-<img src="{{site.baseurl}}/images/posts/2023-09-27-What-is-the-branch-on-Git/git-command-branch-u.webp" title="Git command to make upstream tracking for exist local and remote branches" alt="Git command to make upstream tracking for exist local and remote branches">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-27-What-is-the-branch-on-Git/git-command-branch-u.webp" title="Git command to make upstream tracking for exist local and remote branches" alt="Git command to make upstream tracking for exist local and remote branches">
 
 - 명령어 실행 후
-<img src="{{site.baseurl}}/images/posts/2023-09-27-What-is-the-branch-on-Git/after-git-command-branch-u.webp" title="Branch list after git command branch -u" alt="Branch list after git command branch -u">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-27-What-is-the-branch-on-Git/after-git-command-branch-u.webp" title="Branch list after git command branch -u" alt="Branch list after git command branch -u">
 
 <br>
 
@@ -143,13 +143,13 @@ git checkout --track <원격 저장소 이름/브랜치 이름>
 - 해당 원격 브랜치가 <span style="color: #8D4801">**원격 저장소에 존재하지 않을 경우**</span> 명령어를 실행할 수 없다. 원격 저장소에 해당 원격 브랜치가 존재함에도 명령어 실행이 안 될 경우 "git fetch 원격 저장소 이름" 명령어를 통해서 원격 저장소 정보를 가져와야 한다.
 
 - 명령어 실행 전
-<img src="{{site.baseurl}}/images/posts/2023-09-27-What-is-the-branch-on-Git/before-git-command-checkout-t.webp" title="Branch list before git command checkout -t" alt="Branch list before git command checkout -t">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-27-What-is-the-branch-on-Git/before-git-command-checkout-t.webp" title="Branch list before git command checkout -t" alt="Branch list before git command checkout -t">
 
 - 명령어 실행
-<img src="{{site.baseurl}}/images/posts/2023-09-27-What-is-the-branch-on-Git/git-command-checkout-t.webp" title="Git command to make new local branch and upstream tracking moreover checkout to the new local branch" alt="Git command to make new local branch and upstream tracking moreover checkout to the new local branch">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-27-What-is-the-branch-on-Git/git-command-checkout-t.webp" title="Git command to make new local branch and upstream tracking moreover checkout to the new local branch" alt="Git command to make new local branch and upstream tracking moreover checkout to the new local branch">
 
 - 명령어 실행 후
-<img src="{{site.baseurl}}/images/posts/2023-09-27-What-is-the-branch-on-Git/after-git-command-checkout-t.webp" title="Branch list after git command checkout -t" alt="Branch list after git command checkout -t">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-27-What-is-the-branch-on-Git/after-git-command-checkout-t.webp" title="Branch list after git command checkout -t" alt="Branch list after git command checkout -t">
 
 <br>
 
@@ -163,13 +163,13 @@ git branch --delete <브랜치 이름>
 - 브랜치의 <span style="color: #8D4801">**일반적인 삭제 방법**</span>이다. Working directory에 작업한 기록이 없고 Stage area가 깨끗하게 비어 있을 때만 명령어가 실행된다. 또한 병합되지 않은 commit이 존재할 경우 브랜치를 삭제할 수 없다.
 
 - 명령어 실행 전
-<img src="{{site.baseurl}}/images/posts/2023-09-27-What-is-the-branch-on-Git/before-git-command-branch-d.webp" title="Branch list before git command branch -d" alt="Branch list before git command branch -d">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-27-What-is-the-branch-on-Git/before-git-command-branch-d.webp" title="Branch list before git command branch -d" alt="Branch list before git command branch -d">
 
 - 명령어 실행
-<img src="{{site.baseurl}}/images/posts/2023-09-27-What-is-the-branch-on-Git/git-command-branch-d.webp" title="Git command to delete the branch" alt="Git command to delete the branch">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-27-What-is-the-branch-on-Git/git-command-branch-d.webp" title="Git command to delete the branch" alt="Git command to delete the branch">
 
 - 명령어 실행 후
-<img src="{{site.baseurl}}/images/posts/2023-09-27-What-is-the-branch-on-Git/after-git-command-branch-d.webp" title="Branch list after git command branch -d" alt="Branch list after git command branch -d">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-27-What-is-the-branch-on-Git/after-git-command-branch-d.webp" title="Branch list after git command branch -d" alt="Branch list after git command branch -d">
 
 <br>
 
@@ -179,13 +179,13 @@ git branch -D <브랜치 이름>
 - 병합되지 않은 commit이 존재하는 브랜치를 <span style="color: #8D4801">**강제로 삭제**</span>할 수 있다.
 
 - 명령어 실행 전
-<img src="{{site.baseurl}}/images/posts/2023-09-27-What-is-the-branch-on-Git/before-git-command-branch-capital-letter-d.webp" title="Branch list before git command branch -D" alt="Branch list before git command branch -D">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-27-What-is-the-branch-on-Git/before-git-command-branch-capital-letter-d.webp" title="Branch list before git command branch -D" alt="Branch list before git command branch -D">
 
 - 명령어 실행
-<img src="{{site.baseurl}}/images/posts/2023-09-27-What-is-the-branch-on-Git/git-command-branch-capital-letter-d.webp" title="Git command to force to delete the branch" alt="Git command to force to delete the branch">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-27-What-is-the-branch-on-Git/git-command-branch-capital-letter-d.webp" title="Git command to force to delete the branch" alt="Git command to force to delete the branch">
 
 - 명령어 실행 후
-<img src="{{site.baseurl}}/images/posts/2023-09-27-What-is-the-branch-on-Git/after-git-command-branch-capital-letter-d.webp" title="Branch list after git command branch -D" alt="Branch list after git command branch -D">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-27-What-is-the-branch-on-Git/after-git-command-branch-capital-letter-d.webp" title="Branch list after git command branch -D" alt="Branch list after git command branch -D">
 
 ---
 
@@ -195,7 +195,7 @@ git branch -D <브랜치 이름>
 git rev-parse <브랜치 이름>
 ```
 - 해당 <span style="color: #8D4801">**브랜치 포인터가 가리키는 커밋 해시값을 확인**</span>할 수 있다.
-<img src="{{site.baseurl}}/images/posts/2023-09-27-What-is-the-branch-on-Git/git-command-rev-parse.webp" title="Git command to show commit hash value for the branch pointer" alt="Git command to show commit hash value for the branch pointer">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-27-What-is-the-branch-on-Git/git-command-rev-parse.webp" title="Git command to show commit hash value for the branch pointer" alt="Git command to show commit hash value for the branch pointer">
 
 <br>
 
@@ -204,7 +204,7 @@ git rev-parse <브랜치 이름>
 git branch
 ```
 - 모든 <span style="color: #8D4801">**로컬 브랜치를 목록**</span>으로 볼 수 있다.
-<img src="{{site.baseurl}}/images/posts/2023-09-27-What-is-the-branch-on-Git/git-command-branch.webp" title="Git command to show list of local branch" alt="Git command to show list of local branch">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-27-What-is-the-branch-on-Git/git-command-branch.webp" title="Git command to show list of local branch" alt="Git command to show list of local branch">
 
 <br>
 
@@ -213,7 +213,7 @@ git branch
 git branch -vv
 ```
 - <span style="color: #8D4801">**로컬 저장소의 모든 추적 브랜치를 목록**</span>으로 볼 수 있다.
-<img src="{{site.baseurl}}/images/posts/2023-09-27-What-is-the-branch-on-Git/git-command-branch-vv.webp" title="Git command to show list of tracking branch in local repository" alt="Git command to show list of tracking branch in local repository">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-27-What-is-the-branch-on-Git/git-command-branch-vv.webp" title="Git command to show list of tracking branch in local repository" alt="Git command to show list of tracking branch in local repository">
 
 <br>
 
@@ -225,7 +225,7 @@ git branch -r
 git branch --remotes
 ```
 - 모든 <span style="color: #8D4801">**원격 브랜치를 목록**</span>으로 볼 수 있다.
-<img src="{{site.baseurl}}/images/posts/2023-09-27-What-is-the-branch-on-Git/git-command-branch-r.webp" title="Git command to show list of remote branch" alt="Git command to show list of remote branch">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-27-What-is-the-branch-on-Git/git-command-branch-r.webp" title="Git command to show list of remote branch" alt="Git command to show list of remote branch">
 
 <br>
 
@@ -237,7 +237,7 @@ git branch -a
 git branch --all
 ```
 - <span style="color: #8D4801">**모든 브랜치를 목록**</span>으로 볼 수 있다.
-<img src="{{site.baseurl}}/images/posts/2023-09-27-What-is-the-branch-on-Git/git-command-branch-a.webp" title="Git command to show list of all branch" alt="Git command to show list of all branch">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-27-What-is-the-branch-on-Git/git-command-branch-a.webp" title="Git command to show list of all branch" alt="Git command to show list of all branch">
 
 <br>
 
@@ -246,7 +246,7 @@ git branch --all
 git branch --merged
 ```
 - <span style="color: #8D4801">**병합한 브랜치**</span>를 목록으로 볼 수 있다. 병합한 브랜치는 <span style="color: #8D4801">**애스터리스크(*) 기호**</span>로 표시된다.
-<img src="{{site.baseurl}}/images/posts/2023-09-27-What-is-the-branch-on-Git/git-command-branch-merged.webp" title="Git command to show list of merged local branch" alt="Git command to show list of merged local branch">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-27-What-is-the-branch-on-Git/git-command-branch-merged.webp" title="Git command to show list of merged local branch" alt="Git command to show list of merged local branch">
 
 <br>
 
@@ -254,7 +254,7 @@ git branch --merged
 git branch --no-merged
 ```
 - <span style="color: #8D4801">**병합하지 않은 브랜치**</span>를 목록으로 볼 수 있다.
-<img src="{{site.baseurl}}/images/posts/2023-09-27-What-is-the-branch-on-Git/git-command-branch-no-merged.webp" title="Git command to show list of unmerged local branch" alt="Git command to show list of unmerged local branch">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-27-What-is-the-branch-on-Git/git-command-branch-no-merged.webp" title="Git command to show list of unmerged local branch" alt="Git command to show list of unmerged local branch">
 
 ---
 
@@ -267,7 +267,7 @@ git checkout <브랜치 이름>
 ```
 - 현재 브랜치를 떠나 해당 브랜치로 이동하는 명령어이다. 브랜치를 이동한다는 의미는 <span style="color: #8D4801">**HEAD 포인터가 해당 브랜치를 가리키는 것**</span>이다.
 - Working directory에 작업한 기록이 없고 Stage area가 깨끗하게 비어 있을 때만 이동할 수 있다.
-<img src="{{site.baseurl}}/images/posts/2023-09-27-What-is-the-branch-on-Git/git-command-switch.webp" title="Git command to switch to the branch" alt="Git command to switch to the branch">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-27-What-is-the-branch-on-Git/git-command-switch.webp" title="Git command to switch to the branch" alt="Git command to switch to the branch">
 
 <br>
 
@@ -277,7 +277,7 @@ git checkout -- <파일 이름>
 ```
 - 브랜치뿐만 아니라 <span style="color: #8D4801">**파일로도 checkout**</span> 할 수 있다.
 - Working directory에 작업한 기록이 존재하고 Stage area에 commit 되지 않은 기록이 존재할 경우, 마치 마지막 commit 기준으로 <span style="color: #8D4801">**파일을 복원하는 것과 같이 동작**</span>한다.
-<img src="{{site.baseurl}}/images/posts/2023-09-27-What-is-the-branch-on-Git/git-command-checkout-file.webp" title="Git command to checkout to the file" alt="Git command to checkout to the file">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-27-What-is-the-branch-on-Git/git-command-checkout-file.webp" title="Git command to checkout to the file" alt="Git command to checkout to the file">
 
 <br>
 
@@ -289,7 +289,7 @@ git switch -
 git checkout -
 ```
 - 리눅스에서 대시(-) 기호는 이전 디렉토리를 의미한다. 이 명령어는 <span style="color: #8D4801">**이전 브랜치로의 이동**</span>을 뜻한다.
-<img src="{{site.baseurl}}/images/posts/2023-09-27-What-is-the-branch-on-Git/git-command-switch--.webp" title="Git command to switch to last branch" alt="Git command to switch to last branch">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-27-What-is-the-branch-on-Git/git-command-switch--.webp" title="Git command to switch to last branch" alt="Git command to switch to last branch">
 
 <br>
 
@@ -305,7 +305,7 @@ git checkout HEAD~~~
 git checkout HEAD~3
 ```
 - HEAD 포인터를 기준으로 상대적 위치 이동 명령어이다. <span style="color: #8D4801">**캐럿(^) 또는 물결(~) 기호**</span>를 사용하여 commit의 상대적 위치를 지정할 수 있다. <span style="color: #8D4801">**기호의 숫자만큼 이전 commit으로 이동**</span>한다. <span style="color: #8D4801">**물결(~) 기호를 이용할 경우 기호 1개와 원하는 이동량만큼의 숫자 입력만으로**</span> 이동할 수 있다.
-<img src="{{site.baseurl}}/images/posts/2023-09-27-What-is-the-branch-on-Git/git-command-switch-detach-head.webp" title="Git command to switch back for number of steps from HEAD pointer" alt="Git command to switch back for number of steps from HEAD pointer">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-27-What-is-the-branch-on-Git/git-command-switch-detach-head.webp" title="Git command to switch back for number of steps from HEAD pointer" alt="Git command to switch back for number of steps from HEAD pointer">
 
 - <span style="color: #8D4801">**BEHIND**</span>
   - <span style="color: #8D4801">로컬 저장소로 내려받지 않은 commit이 존재하는 상태</span>이다.
@@ -314,7 +314,7 @@ git checkout HEAD~3
 - <span style="color: #8D4801">**AHEAD**</span>
   - <span style="color: #8D4801">서버로 전송되지 않은 로컬 commit이 존재하는 상태</span>이다.
   - 보통 업로드되어 있는 서버의 commit 개수보다 로컬 저장소의 HEAD 포인터를 기준으로 로컬 브랜치에 존재하는 commit의 개수가 많은 상태를 뜻한다.
-<img src="{{site.baseurl}}/images/posts/2023-09-27-What-is-the-branch-on-Git/branches-in-remote-repository-in-github.webp" title="Branches in remote repository in Github" alt="Branches in remote repository in Github">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-27-What-is-the-branch-on-Git/branches-in-remote-repository-in-github.webp" title="Branches in remote repository in Github" alt="Branches in remote repository in Github">
 
 <br>
 
@@ -331,13 +331,13 @@ git checkout -b <브랜치 이름>
 - <브랜치 이름\> 뒤에 <span style="color: #8D4801">**<원격 저장소 이름/브랜치 이름>**</span> 를 추가할 경우 <span style="color: #8D4801">**업스트림 설정까지 동시에 진행**</span>할 수 있다.
 
 - 명령어 실행 전
-<img src="{{site.baseurl}}/images/posts/2023-09-27-What-is-the-branch-on-Git/before-git-command-switch-c.webp" title="Branch list before git switch -c" alt="Branch list before git switch -c">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-27-What-is-the-branch-on-Git/before-git-command-switch-c.webp" title="Branch list before git switch -c" alt="Branch list before git switch -c">
 
 - 명령어 실행
-<img src="{{site.baseurl}}/images/posts/2023-09-27-What-is-the-branch-on-Git/git-command-switch-c.webp" title="Git command to create new branch and to switch to the branch" alt="Git command to create new branch and to switch to the branch">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-27-What-is-the-branch-on-Git/git-command-switch-c.webp" title="Git command to create new branch and to switch to the branch" alt="Git command to create new branch and to switch to the branch">
 
 - 명령어 실행 후
-<img src="{{site.baseurl}}/images/posts/2023-09-27-What-is-the-branch-on-Git/after-git-command-switch-c.webp" title="Branch list after git switch -c" alt="Branch list after git switch -c">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-27-What-is-the-branch-on-Git/after-git-command-switch-c.webp" title="Branch list after git switch -c" alt="Branch list after git switch -c">
 
 <br>
 
@@ -348,7 +348,7 @@ git switch --detach <커밋 해시값>
 ```bash
 git checkout <커밋 해시값>
 ```
-<img src="{{site.baseurl}}/images/posts/2023-09-27-What-is-the-branch-on-Git/git-command-switch-detach-commit-hash-value.webp" title="Git command to switch to the commit" alt="Git command to switch to the commit">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-27-What-is-the-branch-on-Git/git-command-switch-detach-commit-hash-value.webp" title="Git command to switch to the commit" alt="Git command to switch to the commit">
 
 ---
 

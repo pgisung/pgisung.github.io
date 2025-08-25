@@ -33,7 +33,7 @@ cd : 경로를 입력하지 않으면 최상위 디렉토리로 이동
 cd ~ : 최상위 디렉토리로 이동
 ```
 - <span style="color: #8D4801">**C**</span>hange <span style="color: #8D4801">**D**</span>irectory의 약자로 작업할 디렉토리간 이동에 쓰이는 명령어이다. 매우 자주 쓰인다.
-<img src="{{site.baseurl}}/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-cd.jpg" title="Terminal command to change directory" alt="Terminal command to change directory">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-28-Essential-terminal-commands/terminal-command-cd.jpg" title="Terminal command to change directory" alt="Terminal command to change directory">
 
 ---
 
@@ -50,7 +50,7 @@ ls -lu : 자세한 내용에 수정 시간[mtime] 대신 접근 시간[atime]을
 ls -lc : 자세한 내용에 수정 시간[mtime] 대신 변경 시간[ctime]을 출력
 ```
 - <span style="color: #8D4801">**L**</span>i<span style="color: #8D4801">**s**</span>t의 약자로 현재 디렉토리 안 파일 및 디렉토리들의 리스트를 보여주는 명령어이다. ls 명령어로 폴더 리스트를 확인하고 cd 명령어를 이용해 디렉토리를 이동하는 등 매우 자주 쓰인다.
-<img src="{{site.baseurl}}/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-ls-alh.jpg" title="Terminal command to show the list in the path" alt="Terminal command to show the list in the path">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-28-Essential-terminal-commands/terminal-command-ls-alh.jpg" title="Terminal command to show the list in the path" alt="Terminal command to show the list in the path">
 
 ---
 
@@ -59,7 +59,7 @@ ls -lc : 자세한 내용에 수정 시간[mtime] 대신 변경 시간[ctime]을
 pwd : 현재 디렉토리의 절대경로를 출력
 ```
 - <span style="color: #8D4801">**P**</span>rint <span style="color: #8D4801">**W**</span>orking <span style="color: #8D4801">**D**</span>irectory의 약자로 현재 디렉토리의 경로를 확인할 때 쓰인다.
-<img src="{{site.baseurl}}/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-pwd.jpg" title="Terminal command to print working directory" alt="Terminal command to print working directory">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-28-Essential-terminal-commands/terminal-command-pwd.jpg" title="Terminal command to print working directory" alt="Terminal command to print working directory">
 
 ---
 
@@ -70,7 +70,7 @@ mkdir -p <경로>/<디렉토리명> : 특정 경로에 새로운 디렉토리 �
 mkdir -m <rwx[예) 755]> <디렉토리명> : 현재 경로에 접근 권한이 수정된 새로운 디렉토리 생성
 ```
 - <span style="color: #8D4801">**M**</span>a<span style="color: #8D4801">**k**</span>e <span style="color: #8D4801">**Dir**</span>ectories의 약자로 현재 경로에 새로운 디렉토리들을 생성할 때 쓰인다.
-<img src="{{site.baseurl}}/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-mkdir.jpg" title="Terminal command to make new directories" alt="Terminal command to make new directories">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-28-Essential-terminal-commands/terminal-command-mkdir.jpg" title="Terminal command to make new directories" alt="Terminal command to make new directories">
 
 ---
 
@@ -79,7 +79,7 @@ mkdir -m <rwx[예) 755]> <디렉토리명> : 현재 경로에 접근 권한이 �
 rmdir <디렉토리명> : 현재 경로에 비어있는 디렉토리 삭제 (디렉토리에 1개 이상의 파일 존재 시 삭제 불가능)
 ```
 - <span style="color: #8D4801">**R**</span>e<span style="color: #8D4801">**m**</span>ove <span style="color: #8D4801">**Dir**</span>ectories의 약자로 현재 경로에 비어있는 디렉토리들을 삭제할 때 쓰인다.
-<img src="{{site.baseurl}}/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-rmdir.jpg" title="Terminal command to remove empty directories" alt="Terminal command to remove empty directories">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-28-Essential-terminal-commands/terminal-command-rmdir.jpg" title="Terminal command to remove empty directories" alt="Terminal command to remove empty directories">
 
 ---
 
@@ -91,7 +91,7 @@ touch -d <'YYYY-MM-DD hh:mm:ss'> <파일명> : 접근 시간[atime]과 수정 �
 touch -t <CCYYMMDDhhmm.ss> <파일명> : 접근 시간[atime]과 수정 시간[mtime]을 특정 시간으로 변경
 ```
 - '만지다'라는 뜻을 가진 <span style="color: #8D4801">**touch**</span>와 같이 어루만지듯이 파일에 접근 및 수정하고 빈 파일을 생성할 때 쓰인다.
-<img src="{{site.baseurl}}/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-touch.jpg" title="Terminal command to make new empty files" alt="Terminal command to make new empty files">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-28-Essential-terminal-commands/terminal-command-touch.jpg" title="Terminal command to make new empty files" alt="Terminal command to make new empty files">
 
 ---
 
@@ -102,7 +102,7 @@ rm -r <디렉토리 또는 파일명> : 현재 경로에 비어있지 않은 디
 rm -f <디렉토리 또는 파일명> : 삭제 명령을 강제로 실행 (force)
 ```
 - <span style="color: #8D4801">**R**</span>e<span style="color: #8D4801">**m**</span>ove의 약자로 현재 경로에 비어있지 않은 디렉토리 및 파일들을 삭제할 때 쓰인다.
-<img src="{{site.baseurl}}/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-rm.jpg" title="Terminal command to remove non-empty directories and files" alt="Terminal command to remove non-empty directories and files">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-28-Essential-terminal-commands/terminal-command-rm.jpg" title="Terminal command to remove non-empty directories and files" alt="Terminal command to remove non-empty directories and files">
 
 ---
 
@@ -113,7 +113,7 @@ mv <디렉토리 또는 파일1> <디렉토리 또는 파일2> ... <이동시킬
 mv * <이동시킬 경로> : 현재 경로의 모든 디렉토리 및 파일을 이동
 ```
 - <span style="color: #8D4801">**M**</span>o<span style="color: #8D4801">**v**</span>e의 약자로 디렉토리 및 파일들의 경로를 이동할 때 쓰인다. 이동시킬 경로에 파일명을 다르게 입력할 경우 파일 이름을 변경할 수 있다.
-<img src="{{site.baseurl}}/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-mv.jpg" title="Terminal command to move directories and files" alt="Terminal command to move directories and files">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-28-Essential-terminal-commands/terminal-command-mv.jpg" title="Terminal command to move directories and files" alt="Terminal command to move directories and files">
 
 ---
 
@@ -124,7 +124,7 @@ cp -r <디렉토리 또는 파일의 경로> <복사시킬 경로> : 복사시�
 cp -f <디렉토리 또는 파일의 경로> <복사시킬 경로> : 복사시킬 경로에 이미 같은 이름을 가진 디렉토리 또는 파일이 존재하더라도 복사 명령을 강제로 실행 (force)
 ```
 - <span style="color: #8D4801">**C**</span>o<span style="color: #8D4801">**p**</span>y의 약자로 디렉토리 및 파일들을 복사할 때 쓰인다.
-<img src="{{site.baseurl}}/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-cp.jpg" title="Terminal command to copy directories and files" alt="Terminal command to copy directories and files">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-28-Essential-terminal-commands/terminal-command-cp.jpg" title="Terminal command to copy directories and files" alt="Terminal command to copy directories and files">
 
 ---
 
@@ -136,7 +136,7 @@ echo <"문자열"> > <파일명> : 파일이 존재할 경우 문자열을 덮�
 echo <"문자열"> >> <파일명> : 파일이 존재할 경우 문자열을 이어서 저장 존재하지 않을 경우 파일 생성
 ```
 - '메아리'라는 뜻을 가진 <span style="color: #8D4801">**echo**</span>와 같이 입력한 문자열을 화면에 똑같이 출력할 때 쓰인다. 옵션에 따라 출력 내용을 파일에 입력할 수 있다.
-<img src="{{site.baseurl}}/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-echo.jpg" title="Terminal command to print out the string" alt="Terminal command to print out the string">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-28-Essential-terminal-commands/terminal-command-echo.jpg" title="Terminal command to print out the string" alt="Terminal command to print out the string">
 
 ---
 
@@ -147,7 +147,7 @@ cat <텍스트 파일명1> <텍스트 파일명2> ... : 여러 개의 텍스트 
 cat -n <텍스트 파일명> : 텍스트 파일 내 문자들을 화면에 line number와 함께 출력
 ```
 - Con<span style="color: #8D4801">**cat**</span>enate의 약자로 하나 이상의 텍스트 파일을 화면에 출력할 때 쓰인다.
-<img src="{{site.baseurl}}/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-cat.jpg" title="Terminal command to print out the files" alt="Terminal command to print out the files">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-28-Essential-terminal-commands/terminal-command-cat.jpg" title="Terminal command to print out the files" alt="Terminal command to print out the files">
 
 ---
 
@@ -156,7 +156,7 @@ cat -n <텍스트 파일명> : 텍스트 파일 내 문자들을 화면에 line 
 less <텍스트 파일명> : 텍스트 파일 내 문자들을 터미널 화면에 가득 찰 정도로 일부만 화면에 출력하고 페이지처럼 위아래로 탐색 조회
 ```
 - '적다'라는 뜻을 가진 <span style="color: #8D4801">**less**</span>와 같이 텍스트 파일에서 터미널 화면에 가득 찰 정도로 일부만 출력하고 위아래로 탐색할 수 있게 하여 크기가 큰 텍스트 파일을 편리하게 조회할 때 쓰인다.
-<img src="{{site.baseurl}}/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-less.jpg" title="Terminal command to print out a large size file one screen at a time" alt="Terminal command to print out a large size file one screen at a time">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-28-Essential-terminal-commands/terminal-command-less.jpg" title="Terminal command to print out a large size file one screen at a time" alt="Terminal command to print out a large size file one screen at a time">
 
 ---
 
@@ -173,7 +173,7 @@ find / -name <'파일명'> -exec <터미널 명령어> {} \; : 최상위 디렉�
 find / -name <'파일명'> -exec <터미널 명령어> {} + : 최상위 디렉토리부터 찾고자 하는 파일 검색 후 해당 파일에 명령어 실행 (전체적으로 한 번만 실행)
 ```
 - '찾는다'라는 뜻을 가진 <span style="color: #8D4801">**find**</span>와 같이 파일 시스템에서 파일을 찾을 때 쓰인다. 옵션과 표현식에 따라 사용 방식이 다양하다.
-<img src="{{site.baseurl}}/images/posts/2023-08-28-Essential-terminal-commands/terminal-command-find.jpg" title="Terminal command to search for files on file system" alt="Terminal command to search for files on file system">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-28-Essential-terminal-commands/terminal-command-find.jpg" title="Terminal command to search for files on file system" alt="Terminal command to search for files on file system">
 
 ---
 

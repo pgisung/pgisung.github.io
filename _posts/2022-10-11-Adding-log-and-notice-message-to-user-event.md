@@ -22,8 +22,8 @@ permalink: /csharp/:year/:month/:day/:title/
 [이전 포스트]({{ site.baseurl }}/csharp/2022/05/16/Saving-various-types-of-model-into-files-using-reflection/#작성-동기 "Navigate to Reflection을 이용하여 서로 다른 타입의 값들을 파일에 저장하기 post")의 작성 동기와 같이 작업자가 프로그램의 무엇인가를 잘못 변경하고 그로 인해 생산에 오류가 발생했을 때 예상하지 못한 <span style="color: #8D4801">**오류 발생의 원인을 찾기 어려워서**</span> 힘들었던 경험이 있었고 또한 <span style="color: #8D4801">**책임 소재를 파악하기 어려워**</span> 결국 프로그램 개발자에게 화살을 돌리는 상황을 적지 않게 맞닥뜨렸었다. 이러한 상황에 최소한의 대응을 하기 위해 사용자 이벤트에 로그 추가를 결정했다.
 
 <center>
-  <img src="{{site.baseurl}}/images/posts/2022-10-11-Adding-log-and-notice-message-to-user-event/case-there-is-no-notice-message.gif" title="Example for the case there is no notice message to click event" alt="Example for the case there is no notice message to click event" width="45%">
-  <img src="{{site.baseurl}}/images/posts/2022-10-11-Adding-log-and-notice-message-to-user-event/case-there-is-notice-message.gif" title="Example for the case there is notice message to click event" alt="Example for the case there is notice message to click event" width="45%">
+  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2022-10-11-Adding-log-and-notice-message-to-user-event/case-there-is-no-notice-message.gif" title="Example for the case there is no notice message to click event" alt="Example for the case there is no notice message to click event" width="45%">
+  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2022-10-11-Adding-log-and-notice-message-to-user-event/case-there-is-notice-message.gif" title="Example for the case there is notice message to click event" alt="Example for the case there is notice message to click event" width="45%">
 </center>
 <br>
 알림 메시지는 순전히 필자가 느꼈던 불편함 때문에 추가하게 되었다. 특정 상황에 실행돼선 안되는 이벤트는 존재할 수 있지만 사용자의 작용에 대한 반응이 있어야 하는데 이벤트 동작만 막아둘 경우 <span style="color: #8D4801">**사용자 입장에선 동작하지 않는 원인을 알기 어렵고**</span> 단순히 버그로 치부해 버릴 수 있다. 위의 이미지를 비교해 보자.

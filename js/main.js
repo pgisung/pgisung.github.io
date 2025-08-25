@@ -345,7 +345,7 @@ $(function() {
 
   // Slick.js : image-slider-auto
   $('.image-slider-auto').slick({
-      dots: false,
+      dots: true,
       infinite: true,
       speed: 500,
       slidesToShow: 3,

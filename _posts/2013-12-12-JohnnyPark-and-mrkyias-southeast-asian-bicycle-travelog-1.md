@@ -33,43 +33,43 @@ description: 2013.11~2013.12 생애 첫 해외 여행이자 자전거 여행의 
 ##### **준비물 구비**
 먼저 가장 중요한 자전거는 <span style="color: #8D4801">**JANGO의 투어 전용 자전거**</span>를 준비했다. 갑작스럽게 결정된 여행이기도 했지만, 사실 평소에 개인적으로 자전거 브랜드에 관심이 있던 것도 아니기에 근처 자전거 가게에서 추천받아 구매했었다. 가격은 약 140만 원 정도 들었다.
 <div class="image-slider-static">
-  <img src="{{site.baseurl}}/images/posts/2013-12-12-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-1/bicycle.jpg" title="Bicycle for the trip" alt="Bicycle for the trip">
+  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-12-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-1/bicycle.jpg" title="Bicycle for the trip" alt="Bicycle for the trip">
 </div>
 <br>
 
 다음으로 준비했던 건 자전거용 장비와 도구들로 가장 중요한 <span style="color: #8D4801">**헬멧부터 시작해서 만능 렌치, 예비 타이어 2개, 예비 튜브 4개 등**</span>을 챙겼다. 다녀오고 보니 사실 튜브 잘 때우고, 타이어에서 원인만 잘 제거하면 예비 부품이 없었어도 완주하는 데는 큰 어려움이 없었을 것 같다.
 <div class="image-slider-static">
-  <img src="{{site.baseurl}}/images/posts/2013-12-12-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-1/bicycle-equipments.jpg" title="Tools and utilities for bicycle" alt="Tools and utilities for bicycle">
+  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-12-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-1/bicycle-equipments.jpg" title="Tools and utilities for bicycle" alt="Tools and utilities for bicycle">
 </div>
 <br>
 
 해가 지면 어지간하면 라이딩을 자제했지만 언제나 피치 못할 사정이란 건 존재했고, <span style="color: #8D4801">**야간 라이딩에 문자 그대로 빛이 되어준 라이트들**</span> 
 <div class="image-slider-auto">
-  <img src="{{site.baseurl}}/images/posts/2013-12-12-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-1/bicycle-front-light.jpg" title="Bicycle front light" alt="Bicycle front light">
-  <img src="{{site.baseurl}}/images/posts/2013-12-12-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-1/bicycle-back-light.jpg" title="Bicycle back light" alt="Bicycle back light">
+  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-12-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-1/bicycle-front-light.jpg" title="Bicycle front light" alt="Bicycle front light">
+  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-12-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-1/bicycle-back-light.jpg" title="Bicycle back light" alt="Bicycle back light">
 </div>
 <br>
 <div class="image-slider-static">
-  <img src="{{site.baseurl}}/images/posts/2013-12-12-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-1/bicycle-helmet-back-light.jpg" title="Helmet back light" alt="Helmet back light">
+  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-12-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-1/bicycle-helmet-back-light.jpg" title="Helmet back light" alt="Helmet back light">
 </div>
 <br>
 
 패킹 전에 펼쳐진 모든 짐들, 우려와 달리 신기하게도 <span style="color: #8D4801">**모든 짐들이 자그마한 검은색 가방에 다 들어가서 놀랐다.**</span>
 <div class="image-slider-auto">
-  <img src="{{site.baseurl}}/images/posts/2013-12-12-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-1/baggage.jpg" title="Unpacked baggage" alt="Unpacked baggage">
-  <img src="{{site.baseurl}}/images/posts/2013-12-12-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-1/packed-baggage-into-bags-on-bicycle.jpg" title="Packed baggage" alt="Packed baggage">
+  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-12-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-1/baggage.jpg" title="Unpacked baggage" alt="Unpacked baggage">
+  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-12-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-1/packed-baggage-into-bags-on-bicycle.jpg" title="Packed baggage" alt="Packed baggage">
 </div>
 <br>
 
 <span style="color: #8D4801">**패킹된 자전거 박스**</span>이다. 출국할 때는 도착하자마자 금방 조립해서 짐을 덜 수 있을 줄 알았는데... 그 후 며칠을 옮겨 다니느라 고생했다는 후일담이...
 <div class="image-slider-static">
-  <img src="{{site.baseurl}}/images/posts/2013-12-12-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-1/packed-bicycle.jpg" title="" alt="">
+  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-12-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-1/packed-bicycle.jpg" title="" alt="">
 </div>
 <br>
 
 공항에서 바로 뺏겼다... <span style="color: indianred">**가족 통틀어 첫 해외 여행이었던 터라 당시에는 버너가 비행기 반입이 안 된다는 것을 아무도 몰랐다는...**</span>
 <div class="image-slider-static">
-  <img src="{{site.baseurl}}/images/posts/2013-12-12-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-1/burner.jpg" title="" alt="">
+  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-12-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-1/burner.jpg" title="" alt="">
 </div>
 
 ---

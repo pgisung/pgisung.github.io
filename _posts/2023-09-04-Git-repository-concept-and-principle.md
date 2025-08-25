@@ -34,7 +34,7 @@ git init <경로>
   - <span style="color: #8D4801">**Mac**</span>의 경우 command+shift+. 단축키를 사용하여 숨겨진 항목들이 보이게 할 수 있다.
   - <span style="color: #8D4801">**경로(path)**</span> 상의 .은 <span style="color: #8D4801">**현재 경로**</span>를 뜻한다. 그러나, <span style="color: #8D4801">**파일 및 디렉토리**</span> 앞의 .은 <span style="color: #8D4801">**숨겨진 파일 및 디렉토리**</span>를 의미한다.
 - ls -a 옵션을 통해 숨겨진 항목을 출력해야만 확인할 수 있다.
-<img src="{{site.baseurl}}/images/posts/2023-09-04-Git-repository-concept-and-principle/git-command-init.jpg" title="Git command to initialize the directory as git repository" alt="Git command to initialize the directory as git repository">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-04-Git-repository-concept-and-principle/git-command-init.jpg" title="Git command to initialize the directory as git repository" alt="Git command to initialize the directory as git repository">
 
 ---
 
@@ -46,7 +46,7 @@ git clone <원격 저장소 URL> <새 디렉토리명>
 - clone 명령어를 실행하면 <span style="color: #8D4801">**현재 디렉토리에 원격 저장소를 복제한다.**</span> 복제한 디렉토리 안에는 당연히 .git 디렉토리가 존재하며 기존 원격 저장소의 이력을 저장하고 있다.
 - 새 디렉토리명을 입력하지 않으면 원격 저장소의 디렉토리 명이 기본값으로 설정된다.
 - 원격 저장소의 이름은 origin이 기본값으로 설정된다.
-<img src="{{site.baseurl}}/images/posts/2023-09-04-Git-repository-concept-and-principle/git-command-clone.jpg" title="Git command to copy the remote directory to local repository" alt="Git command to copy the remote directory to local repository">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-04-Git-repository-concept-and-principle/git-command-clone.jpg" title="Git command to copy the remote directory to local repository" alt="Git command to copy the remote directory to local repository">
 
 ---
 
@@ -55,7 +55,7 @@ git clone <원격 저장소 URL> <새 디렉토리명>
 
 - 저장소를 처음 초기화했을 때 .git directory 안에 생성되는 항목들이다.
 
-<img src="{{site.baseurl}}/images/posts/2023-09-04-Git-repository-concept-and-principle/things-inside-of-git-directory-when-initialized.jpg" title="Files and directories in .git directory when it's initialized" alt="Files and directories in .git directory when it's initialized">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-04-Git-repository-concept-and-principle/things-inside-of-git-directory-when-initialized.jpg" title="Files and directories in .git directory when it's initialized" alt="Files and directories in .git directory when it's initialized">
 
 | 항목 | 설명 |
 |:---:|:---:|
@@ -71,7 +71,7 @@ git clone <원격 저장소 URL> <새 디렉토리명>
 
 - 어느 정도 사용한 저장소의 .git directory안에 생성되어 있는 항목들이다. 위에 없었던 항목들만 살펴보자.
 
-<img src="{{site.baseurl}}/images/posts/2023-09-04-Git-repository-concept-and-principle/things-inside-of-git-directory.jpg" title="Files and directories in .git directory" alt="Files and directories in .git directory">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-04-Git-repository-concept-and-principle/things-inside-of-git-directory.jpg" title="Files and directories in .git directory" alt="Files and directories in .git directory">
 
 | 항목 | 설명 |
 |:---:|:---:|
@@ -93,7 +93,7 @@ git clone <원격 저장소 URL> <새 디렉토리명>
 #### <span style="color: brown">**Git 저장소의 구조**</span>
 <span style="color: #8D4801">**Git 저장소**</span>는 크게 <span style="color: #8D4801">**3가지**</span>로 나뉜다.
 
-<img src="{{site.baseurl}}/images/posts/2023-09-04-Git-repository-concept-and-principle/the-structure-of-git-repository.png" title="The structure of git repository" alt="The structure of git repository">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-04-Git-repository-concept-and-principle/the-structure-of-git-repository.png" title="The structure of git repository" alt="The structure of git repository">
 
 ##### <span style="color: green">**Working directory**</span>
 - init 명령어 실행 시 Original directory를 기반으로 Working directory가 존재한다. (쉽게 생각하자면 그냥 일반 directory라고 생각하면 된다. 당연하다. 아직 아무것도 수정되지 않았다.)
@@ -118,7 +118,7 @@ git clone <원격 저장소 URL> <새 디렉토리명>
 #### <span style="color: brown">**Git 저장소 동작 원리**</span>
 <span style="color: #8D4801">**Git 저장소 내 파일들**</span>은 크게 <span style="color: #8D4801">**3종류**</span>의 상태를 갖는다.
 
-<img src="{{site.baseurl}}/images/posts/2023-09-04-Git-repository-concept-and-principle/the-principle-of-git-repository.png" title="The principle of git repository" alt="The principle of git repository">
+<img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-04-Git-repository-concept-and-principle/the-principle-of-git-repository.png" title="The principle of git repository" alt="The principle of git repository">
 
 ##### **<span style="color: dodgerblue">Tracked</span><span style="color: #8D4801"> / </span><span style="color: steelblue">Untracked</span><span style="color: #8D4801"> status</span>**
 - 앞에서 얘기했듯이 Git은 Working directory에 있는 파일을 추적하지 않는다. 즉 <span style="color: #8D4801">**모든 새로운 파일들은 기본적으로 Untracked 상태이다.**</span>
