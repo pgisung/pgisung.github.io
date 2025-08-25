@@ -66,11 +66,10 @@ description: 2025.08.16 살랑고 섬 투어 이야기
 <br>
 
 서쪽 해안가 끝에서 다시 돌아서 <span style="color: #8D4801">**북쪽 해안가**</span> 끝을 향해 보았는데 바로 아래 동네에 비해서 새삼 <span style="color: #8D4801">**을씨년스러웠다**</span>. 이른 아침이라 그런가...
-<div class="image-slider-auto">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/playa-norte-1.jpg" title="The north beach" alt="The north beach">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/playa-norte-2.jpg" title="The north beach" alt="The north beach">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/playa-norte-3.jpg" title="The graffiti" alt="The graffiti">
-</div>
+
+|:---:|:---:|:---:|
+| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/playa-norte-1.jpg" title="The north beach" alt="The north beach"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/playa-norte-2.jpg" title="The north beach" alt="The north beach"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/playa-norte-3.jpg" title="The graffiti" alt="The graffiti"> |
+
 <br>
 
 푸에르토 로페스에 오신 것을 <span style="color: #8D4801">**환영합니다**</span>!
@@ -199,10 +198,10 @@ description: 2025.08.16 살랑고 섬 투어 이야기
 <span style="color: indianred">**식당이 해변 모래 위**</span>에 있어서 발에 모래가 좀 묻을 수 있고, 가게 점원들이 충분해 보였는데도 <span style="color: indianred">**음식이 매우 천천히**</span> 나와서 오래 기다리긴 했지만
 
 <span style="color: #8D4801">**바삭바삭하게 갓 튀겨나온 새우**</span>는 버릴 부분 없이 맛있었고, (처음엔 습관적으로 꼬리를 뗐었지만, 아무튼 다 먹었음) <span style="color: #8D4801">**마늘 소스 뿌린 문어**</span>도 더할 나위 없었다. 그러고 보니 문어를 얼마 만에 먹은 거지? 매우 오랜만에 먹은 기분이었다.
-<div class="image-slider-auto">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/camaron-apanado.jpg" title="Camaron apanado" alt="Camaron apanado">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/pulpo-al-ajillo.jpg" title="Pulpo al ajillo" alt="Pulpo al ajillo">
-</div>
+
+|:---:|:---:|
+| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/camaron-apanado.jpg" title="Camaron apanado" alt="Camaron apanado"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/pulpo-al-ajillo.jpg" title="Pulpo al ajillo" alt="Pulpo al ajillo"> |
+
 <br>
 
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d249.27119196801394!2d-80.81402186304335!3d-1.5602533008840351!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902e9fa44ef6877b%3A0x8544782637927b66!2sLa%20Cabana%20D&#39;Chuky!5e0!3m2!1sko!2sec!4v1755836125299!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
@@ -216,10 +215,10 @@ description: 2025.08.16 살랑고 섬 투어 이야기
 그래서 <span style="color: #8D4801">**같은 식당이지만 어제 먹어서 확실한 숙소 앞 식당을 재방문**</span>했는데... <span style="color: indianred">**오늘은 재료가 없는지**</span> 팔지 않는다고 했다. 그래서 다른 식당으로 옮긴다고 어딘가에서 랍스터를 먹을 수 있는 것도 아니기에 그냥 다른 메뉴를 주문했다.
 
 <span style="color: #8D4801">**새우 요리는 익숙한 감바스의 맛**</span>으로 물론 맛있을 수밖에 없었지만, <span style="color: indianred">**친구가 만들어준 새빨간 자극적인 감바스 맛**</span>에는 미치지 못했다. <span style="color: #8D4801">**오징어는 조리법이 좀 다른 메뉴**</span>였던 것 같은 데 와 이 맛은?! 이럴 정도의 특별함을 느끼지는 못했었다.
-<div class="image-slider-auto">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/camaron-al-ajillo.jpg" title="Camaron al ajillo" alt="Camaron al ajillo">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/calamar-a-la-plancha.jpg" title="Calamar a la plancha" alt="Calamar a la plancha">
-</div>
+
+|:---:|:---:|
+| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/camaron-al-ajillo.jpg" title="Camaron al ajillo" alt="Camaron al ajillo"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/calamar-a-la-plancha.jpg" title="Calamar a la plancha" alt="Calamar a la plancha"> |
+
 <br>
 
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d498.5421549393736!2d-80.81469744443892!3d-1.5612192082110459!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902e9e1f170ea4ab%3A0x4ba38ee45c0e580!2sRestaurant%20Romance%20Marino!5e0!3m2!1sko!2sec!4v1755789625007!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>

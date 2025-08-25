@@ -77,12 +77,8 @@ description: 2013.12.16 싱가포르에서 육로를 통해 말레이시아로 �
 <br>
 90링겟 방이라기엔 수지타산이 안 맞는 것 같았지만 그래도 나름 괜찮았던 호텔이었는데 (사실 <span style="color: #8D4801">**둘 다 멘탈이 반쯤 날아가서**</span> 그런지 숙소는 싼 곳을 알아보고 다니려고 했었는데 그럴 정신도 없었다.) 몹시 지쳤던 우리는 씻고 휴식을 취하다가 <span style="color: #8D4801">**몰려오는 배고픔**</span>에 호텔 앞 식당에 가서 치킨라이스와 미고랭을 시켰다. <span style="color: #8D4801">**미고랭은 말레이시아의 볶음면 요리로 매콤 고소한 맛**</span>이 너무나도 입맛에 잘 맞아서 이후 여행 중에도 자주 먹었던 걸로 기억한다.
 
-<div class="image-slider-static">
+<div class="image-slider-auto">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-16-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-5/blogger-having-dinner.jpg" title="Blogger having dinner" alt="Blogger having dinner">
-</div>
-<br>
-
-<div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-16-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-5/friend-having-dinner.jpg" title="Friend having dinner" alt="Friend having dinner">
 </div>
 <br>

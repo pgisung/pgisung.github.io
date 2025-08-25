@@ -255,21 +255,13 @@ description: 2013.12.14 싱가포르 2일 차 여행기
 <br>
 
 저녁 7시 30분에 <span style="color: #8D4801">**멀라이언 타워 4D 쇼**</span>를 하는데 영상을 타워에 비추는 형식인데 정말 아름다웠다. 저녁 8시 30분에 한 번 더 해 준다고 한다. 
-<div class="image-slider-auto">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-1.jpg" title="Merlion 4D show" alt="Merlion 4D show">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-2.jpg" title="Merlion 4D show" alt="Merlion 4D show">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-3.jpg" title="Merlion 4D show" alt="Merlion 4D show">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-4.jpg" title="Merlion 4D show" alt="Merlion 4D show">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-5.jpg" title="Merlion 4D show" alt="Merlion 4D show">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-6.jpg" title="Merlion 4D show" alt="Merlion 4D show">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-7.jpg" title="Merlion 4D show" alt="Merlion 4D show">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-8.jpg" title="Merlion 4D show" alt="Merlion 4D show">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-9.jpg" title="Merlion 4D show" alt="Merlion 4D show">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-10.jpg" title="Merlion 4D show" alt="Merlion 4D show">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-11.jpg" title="Merlion 4D show" alt="Merlion 4D show">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-12.jpg" title="Merlion 4D show" alt="Merlion 4D show">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-13.jpg" title="Merlion 4D show" alt="Merlion 4D show">
-</div>
+
+|:---:|:---:|:---:|
+| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-1.jpg" title="Merlion 4D show" alt="Merlion 4D show"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-2.jpg" title="Merlion 4D show" alt="Merlion 4D show"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-3.jpg" title="Merlion 4D show" alt="Merlion 4D show"> |
+| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-5.jpg" title="Merlion 4D show" alt="Merlion 4D show"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-6.jpg" title="Merlion 4D show" alt="Merlion 4D show"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-7.jpg" title="Merlion 4D show" alt="Merlion 4D show"> |
+| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-8.jpg" title="Merlion 4D show" alt="Merlion 4D show"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-9.jpg" title="Merlion 4D show" alt="Merlion 4D show"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-10.jpg" title="Merlion 4D show" alt="Merlion 4D show"> |
+| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-11.jpg" title="Merlion 4D show" alt="Merlion 4D show"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-12.jpg" title="Merlion 4D show" alt="Merlion 4D show"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-13.jpg" title="Merlion 4D show" alt="Merlion 4D show"> |
+
 <br>
 
 돌아올 때의 케이블카는 또 다른 감동을 주었다. <span style="color: #8D4801">**센토사와 하버프론트의 야경 전경**</span>을 볼 수 있는데 주얼박스 꼭대기로 가면 안에서 식사도 가능하게 해준다고 한다.

@@ -159,12 +159,11 @@ description: 2013.12.12~13 엉망진창 첫 해외 출국 공항 해프닝 및 �
 
 ##### **가든즈 바이 더 베이**
 하이라이트는 <span style="color: #8D4801">**Gardens by the bay**</span>였다. 아직 초저녁 무렵엔 그냥 큰 나무구나 싶었는데 밤이 되고 조명이 켜지니 그림같이 아름다워 눈을 뗄 수가 없었다.
-<div class="image-slider-auto">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-2.jpg" title="The scenary of Gardens by the bay" alt="The scenary of Gardens by the bay">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-3.jpg" title="The scenary of Gardens by the bay" alt="The scenary of Gardens by the bay">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-6.jpg" title="The scenary of Gardens by the bay" alt="The scenary of Gardens by the bay">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-10.jpg" title="The scenary of Gardens by the bay" alt="The scenary of Gardens by the bay">
-</div>
+
+|:---:|:---:|
+| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-2.jpg" title="The scenary of Gardens by the bay" alt="The scenary of Gardens by the bay"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-3.jpg" title="The scenary of Gardens by the bay" alt="The scenary of Gardens by the bay"> |
+| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-6.jpg" title="The scenary of Gardens by the bay" alt="The scenary of Gardens by the bay"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-10.jpg" title="The scenary of Gardens by the bay" alt="The scenary of Gardens by the bay"> |
+
 <br>
 
 5불에 <span style="color: #8D4801">**티켓**</span>을 구매하면 직접 나무다리 위에 올라갈 수 있었다. 

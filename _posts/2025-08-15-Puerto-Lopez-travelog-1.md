@@ -159,22 +159,21 @@ description: 2025.08.15 키토에서 푸에르토 로페스까지 이동기 및 
 <br>
 
 숙소는 전반적으로 다 마음에 들었는데 <span style="color: #8D4801">**딱 한 가지 단점이 있었다면 머무르는 내내 찬물로밖에 샤워를 못 했다.**</span> 친구 말로는 첫날에 따뜻한 물이 나왔다는데... 내가 고장 낸 건가... 진짜 수도꼭지 돌린 거 말고는 아무것도 안 했다고요 ㅜ.ㅜ
-<div class="image-slider-auto">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/loft-beach-2.jpg" title="The balcony of Loft beach" alt="The balcony of Loft beach">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/loft-beach-3.jpg" title="The living room of Loft beach" alt="The living room of Loft beach">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/loft-beach-4.jpg" title="The small bed room of Loft beach" alt="The small bed room of Loft beach">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/loft-beach-5.jpg" title="The wide bed room of Loft beach" alt="The wide bed room of Loft beach">
-</div>
+
+|:---:|:---:|
+| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/loft-beach-2.jpg" title="The balcony of Loft beach" alt="The balcony of Loft beach"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/loft-beach-3.jpg" title="The balcony of Loft beach" alt="The balcony of Loft beach"> |
+| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/loft-beach-4.jpg" title="The balcony of Loft beach" alt="The balcony of Loft beach"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/loft-beach-5.jpg" title="The balcony of Loft beach" alt="The balcony of Loft beach"> |
+
 <br>
 
 ---
 #### <span style="color: #8D4801">**투어 알아보기**</span>
 ##### **Espuma del mar 식당**
 <span style="color: #8D4801">**친구가 이 식당 오면 먹어야겠다고 생각했던 메뉴**</span>가 있었다고 해서 그대로 시켜서 나눠 먹었다. <span style="color: #8D4801">**Arroz Marinero**</span> 볶음밥이야 말할 것도 없이 맛있었고, <span style="color: #8D4801">**Cazuela Marinera**</span>는 죽 같은 식감에 비린 느낌도 없고 담백하니 맛있었다. 가려져 있지만 그릇 아래쪽에 오징어, 생선과 같은 각종 해산물이 숨어있었다.
-<div class="image-slider-auto">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/cazuela-marinera.jpg" title="Cazuela Marinera" alt="Cazuela Marinera">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/arroz-marinero.jpg" title="Arroz Marinero" alt="Arroz Marinero">
-</div>
+
+|:---:|:---:|
+| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/cazuela-marinera.jpg" title="Cazuela Marinera" alt="Cazuela Marinera"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/arroz-marinero.jpg" title="Arroz Marinero" alt="Arroz Marinero"> |
+
 <br>
 
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d808.0157900556453!2d-80.81321955386272!3d-1.5592811400695787!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902e9e1f7ee47ecb%3A0x10de7eb9d7128f2d!2sRestaurante%20Espuma%20Del%20Mar!5e0!3m2!1sko!2sec!4v1755787745447!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
@@ -212,11 +211,10 @@ description: 2025.08.15 키토에서 푸에르토 로페스까지 이동기 및 
 <br>
 
 모를 때는 여기에 무슨 볼거리가 있어서 사람들이 이렇게 모여있으려나 했는데, 알고 보니 <span style="color: #8D4801">**플라타, 살랑고, 스쿠버다이빙 등 모든 투어가 여기서 출발**</span>해서 사람들이 이렇게 모여있는 거였다.
-<div class="image-slider-auto">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/puerto-lopez-tourist-pier-2.jpg" title="On the Puerto Lopez tourist pier" alt="On the Puerto Lopez tourist pier">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/puerto-lopez-tourist-pier-3.jpg" title="On the Puerto Lopez tourist pier" alt="On the Puerto Lopez tourist pier">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/puerto-lopez-tourist-pier-4.jpg" title="Puerto Lopez tourist pier view from balcony" alt="Puerto Lopez tourist pier view from balcony">
-</div>
+
+|:---:|:---:|:---:|
+| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/puerto-lopez-tourist-pier-2.jpg" title="On the Puerto Lopez tourist pier" alt="On the Puerto Lopez tourist pier"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/puerto-lopez-tourist-pier-3.jpg" title="On the Puerto Lopez tourist pier" alt="On the Puerto Lopez tourist pier"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/puerto-lopez-tourist-pier-4.jpg" title="Puerto Lopez tourist pier view from balcony" alt="Puerto Lopez tourist pier view from balcony"> |
+
 <br>
 
 치열했던 예약의 순간들을 사진에 담을 순 없었지만... 일단 친구가 매우 많은 여행사에 WhatsApp으로 연락했으나 플라타 섬 투어 자리를 찾을 수는 없었다. 그래서 거의 포기한 상태로 <span style="color: #8D4801">**명일 토요일에 살랑고 섬 투어를 FRAGATA XTREME 여행사에서 예약**</span>한 뒤에 쉬던 중 극적으로 하나의 여행사에서 연락이 와서 <span style="color: #8D4801">**일요일에 플라타 섬 투어 예약**</span>을 할 수 있었다. (<span style="color: indianred">**누군가 혹시 주말에 오신다면 플라타 섬 투어는 미리 연락해서 예약**</span>하시고 오시기를)

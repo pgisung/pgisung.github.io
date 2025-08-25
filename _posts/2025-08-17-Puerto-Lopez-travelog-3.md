@@ -428,6 +428,8 @@ description: 2025.08.17 플라타 섬 투어 이야기
 </div>
 <br>
 
+---
+
 #### <span style="color: #8D4801">**Sabor Español 식당**</span>
 어제 아침에 촬영했던 식물이 무성한 식당. <span style="color: #8D4801">**구글 맵에서 Langosta가 메뉴에 있는 식당 중 유일하게 방문하지 않았던 식당**</span>으로 위치는 <span style="color: indianred">**한적한 구석에 있었지만, 리뷰는 제일 높았던**</span> 식당으로 오늘 저녁은 이 식당에서 먹기로 했다.
 
