@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 🇸🇬Johnny와 mrkyia의 동남아 자전거 여행기 (2) - 설레는 첫 출국 날
+title: Johnny와 mrkyia의 동남아 자전거 여행기 (2) - 설레는 첫 출국 날
+flag: sg
 date: 2013-12-13 23:01:45 +0900
 img: 2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2.jpg
 categories: Travel

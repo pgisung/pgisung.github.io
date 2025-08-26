@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 🇸🇬➜🇲🇾Johnny와 mrkyia의 동남아 자전거 여행기 (5) - 조호르바루
+title: Johnny와 mrkyia의 동남아 자전거 여행기 (5) - 조호르바루
+flag: my
 date: 2013-12-16 23:49:35 +0900
 img: 2013-12-16-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-5.jpg
 categories: Travel

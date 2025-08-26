@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 🇪🇨Puerto Lopez 여행기 (3) - 푸른발부비새를 만나다
+title: Puerto Lopez 여행기 (3) - 푸른발부비새를 만나다
+flag: ec
 date: 2025-08-22 19:02:11 -0500
 img: 2025-08-17-Puerto-Lopez-travelog-3.jpg
 categories: Travel

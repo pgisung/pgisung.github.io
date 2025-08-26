@@ -114,6 +114,13 @@
         color: variables.$black;
       }
     }
+    .flag-icon{
+      height: 27px;
+      width: auto;
+      margin-right: 0.3em;
+      border-radius: 0px;
+      border: none;
+    }
   }
 
   p {
@@ -183,6 +190,9 @@
     padding: 20px 15px;
     h2 {
       font-size: 24px;
+      .flag-icon{
+        height: 24px;
+      }
     }
     p {
       margin-bottom: 15px;

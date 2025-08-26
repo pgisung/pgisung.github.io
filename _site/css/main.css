@@ -1739,6 +1739,13 @@ a {
 .post-body h2 a:hover {
   color: #000000;
 }
+.post-body h2 .flag-icon {
+  height: 27px;
+  width: auto;
+  margin-right: 0.3em;
+  border-radius: 0px;
+  border: none;
+}
 .post-body p {
   font-family: "IBM Plex Sans KR", "Roboto", Arial, Helvetica, sans-serif;
   font-size: 15px;
@@ -1799,6 +1806,9 @@ a {
   }
   .post-body h2 {
     font-size: 24px;
+  }
+  .post-body h2 .flag-icon {
+    height: 24px;
   }
   .post-body p {
     margin-bottom: 15px;
@@ -1871,6 +1881,14 @@ a {
   text-shadow: 0px 1px 1px rgba(51, 51, 51, 0.1);
   -webkit-animation: slideup 2s 0.5s ease-out both;
           animation: slideup 2s 0.5s ease-out both;
+}
+.post-header-info .post-title .flag-icon {
+  height: 60px;
+  width: auto;
+  vertical-align: middle;
+  margin-right: 0.3em;
+  border-radius: 0px;
+  border: none;
 }
 .post-header-info .post-meta {
   margin-top: 15px;
@@ -2143,6 +2161,9 @@ a {
   }
   .post-header-info .post-title {
     font-size: 40px;
+  }
+  .post-header-info .post-title .flag-icon {
+    height: 40px;
   }
   .post-header-info .post-meta {
     font-size: 16px;
