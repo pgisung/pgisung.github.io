@@ -4,7 +4,7 @@ title: Johnny와 mrkyia의 동남아 자전거 여행기 (2) - 설레는 첫 출
 flag: sg
 date: 2013-12-13 23:01:45 +0900
 img: 2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2.jpg
-categories: Travel
+categories: Travel Singapore
 tags: [ Singapore trip, Bicycle trip, 싱가포르 여행, 자전거 여행 ]
 description: 2013.12.12~13 엉망진창 첫 해외 출국 공항 해프닝 및 싱가포르 1일 차 여행기
 ---

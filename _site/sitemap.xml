@@ -4,7 +4,23 @@
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
-        <loc>http://localhost:4000/travel/2025/08/25/Puerto-Lopez-travelog-4/</loc>
+        <loc>http://localhost:4000/travel/ecuador/2025/08/26/Yellow-fever-vaccination-and-day-trip-in-quito/</loc>
+        
+        <lastmod>2025-08-26T12:34:06+09:00</lastmod>
+        
+
+        
+        <changefreq>weekly</changefreq>
+        
+
+        
+        <priority>0.5</priority>
+        
+
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/travel/ecuador/2025/08/25/Puerto-Lopez-travelog-4/</loc>
         
         <lastmod>2025-08-25T06:08:56+09:00</lastmod>
         
@@ -20,7 +36,7 @@
     </url>
     
     <url>
-        <loc>http://localhost:4000/travel/2025/08/23/Puerto-Lopez-travelog-3/</loc>
+        <loc>http://localhost:4000/travel/ecuador/2025/08/23/Puerto-Lopez-travelog-3/</loc>
         
         <lastmod>2025-08-23T09:02:11+09:00</lastmod>
         
@@ -36,7 +52,7 @@
     </url>
     
     <url>
-        <loc>http://localhost:4000/travel/2025/08/22/Puerto-Lopez-travelog-2/</loc>
+        <loc>http://localhost:4000/travel/ecuador/2025/08/22/Puerto-Lopez-travelog-2/</loc>
         
         <lastmod>2025-08-22T06:19:44+09:00</lastmod>
         
@@ -52,7 +68,7 @@
     </url>
     
     <url>
-        <loc>http://localhost:4000/travel/2025/08/21/Puerto-Lopez-travelog-1/</loc>
+        <loc>http://localhost:4000/travel/ecuador/2025/08/21/Puerto-Lopez-travelog-1/</loc>
         
         <lastmod>2025-08-21T04:51:02+09:00</lastmod>
         
@@ -356,7 +372,7 @@
     </url>
     
     <url>
-        <loc>http://localhost:4000/travel/2013/12/16/JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-5/</loc>
+        <loc>http://localhost:4000/travel/singapore/malaysia/2013/12/16/JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-5/</loc>
         
         <lastmod>2013-12-16T23:49:35+09:00</lastmod>
         
@@ -372,7 +388,7 @@
     </url>
     
     <url>
-        <loc>http://localhost:4000/travel/2013/12/15/JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-4/</loc>
+        <loc>http://localhost:4000/travel/singapore/2013/12/15/JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-4/</loc>
         
         <lastmod>2013-12-15T23:12:25+09:00</lastmod>
         
@@ -388,7 +404,7 @@
     </url>
     
     <url>
-        <loc>http://localhost:4000/travel/2013/12/14/JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/</loc>
+        <loc>http://localhost:4000/travel/singapore/2013/12/14/JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/</loc>
         
         <lastmod>2013-12-14T23:45:05+09:00</lastmod>
         
@@ -404,7 +420,7 @@
     </url>
     
     <url>
-        <loc>http://localhost:4000/travel/2013/12/13/JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/</loc>
+        <loc>http://localhost:4000/travel/singapore/2013/12/13/JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/</loc>
         
         <lastmod>2013-12-13T23:01:45+09:00</lastmod>
         
@@ -420,7 +436,7 @@
     </url>
     
     <url>
-        <loc>http://localhost:4000/travel/2013/12/12/JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-1/</loc>
+        <loc>http://localhost:4000/travel/korea/2013/12/12/JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-1/</loc>
         
         <lastmod>2013-12-12T23:55:33+09:00</lastmod>
         
@@ -516,6 +532,21 @@
     
         
         <url>
+            <loc>http://localhost:4000/categories/ecuador/</loc>
+
+            
+            <changefreq>weekly</changefreq>
+            
+
+            
+            <priority>0.5</priority>
+            
+
+        </url>
+        
+    
+        
+        <url>
             <loc>http://localhost:4000/categories/github/</loc>
 
             
@@ -544,6 +575,51 @@
         </url>
         
     
+        
+        <url>
+            <loc>http://localhost:4000/categories/korea/</loc>
+
+            
+            <changefreq>weekly</changefreq>
+            
+
+            
+            <priority>0.5</priority>
+            
+
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:4000/categories/malaysia/</loc>
+
+            
+            <changefreq>weekly</changefreq>
+            
+
+            
+            <priority>0.5</priority>
+            
+
+        </url>
+        
+    
+        
+    
+        
+        <url>
+            <loc>http://localhost:4000/categories/singapore/</loc>
+
+            
+            <changefreq>weekly</changefreq>
+            
+
+            
+            <priority>0.5</priority>
+            
+
+        </url>
         
     
         
@@ -613,6 +689,21 @@
         
         <url>
             <loc>http://localhost:4000/page/3/</loc>
+
+            
+            <changefreq>weekly</changefreq>
+            
+
+            
+            <priority>0.5</priority>
+            
+
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:4000/page/4/</loc>
 
             
             <changefreq>weekly</changefreq>

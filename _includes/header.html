@@ -6,12 +6,18 @@
 
     <div class="navigation-wrap">
       <nav class="site-nav">
+        <!-- 카테고리로 추가되는 페이지들을 제외하고 메뉴에 표시 -->
         {% for page in site.pages %}
-          {% unless page.name == 'style-guide.md' or page.name == '404.html' %}
+          {% if page.name == 'about.md' or page.name == 'categories.html' or page.name == 'contact.html' or page.name == 'tags.html' %}
             {% if page.title %}
               <a href='{{ page.url | prepend: site.baseurl }}' title="Navigate to {{ page.title }} page">{{ page.title }}</a>
             {% endif %}
-          {% endunless %}
+          {% endif %}
+          <!-- {% unless page.name == 'style-guide.md' or page.name == '404.html' %}
+            {% if page.title %}
+              <a href='{{ page.url | prepend: site.baseurl }}' title="Navigate to {{ page.title }} page">{{ page.title }}</a>
+            {% endif %}
+          {% endunless %} -->
         {% endfor %}
       </nav>
     </div>

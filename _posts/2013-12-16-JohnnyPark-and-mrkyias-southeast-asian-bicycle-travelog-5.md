@@ -4,7 +4,7 @@ title: Johnny와 mrkyia의 동남아 자전거 여행기 (5) - 조호르바루
 flag: my
 date: 2013-12-16 23:49:35 +0900
 img: 2013-12-16-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-5.jpg
-categories: Travel
+categories: Travel Singapore Malaysia
 tags: [ Singapore trip, Malaysia trip, Bicycle trip, 싱가포르 여행, 말레이시아 여행, 자전거 여행 ]
 description: 2013.12.16 싱가포르에서 육로를 통해 말레이시아로 이동기
 ---

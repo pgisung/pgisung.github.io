@@ -4,7 +4,7 @@ title: Puerto Lopez 여행기 (3) - 푸른발부비새를 만나다
 flag: ec
 date: 2025-08-22 19:02:11 -0500
 img: 2025-08-17-Puerto-Lopez-travelog-3.jpg
-categories: Travel
+categories: Travel Ecuador
 tags: [ Ecuador trip, Puerto Lopez, Humpback whale, Blue-footed booby, 에콰도르 여행, 푸에르토 로페스, 혹등고래, 푸른발부비새 ]
 description: 2025.08.17 플라타 섬 투어 이야기
 ---
