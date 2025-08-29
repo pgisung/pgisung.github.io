@@ -89,12 +89,11 @@ description: 2013.12.12~13 엉망진창 첫 해외 출국 공항 해프닝 및 �
 <br>
 
 아직은 화려한 절의 모습이 생소했던 시절이라 모든 게 신비롭고 아름답게 보였다.
-<div class="image-slider-auto">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/china-town-temple-1.jpg" title="The temple in China town" alt="The temple in China town">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/china-town-temple-2.jpg" title="The temple in China town" alt="The temple in China town">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/china-town-temple-3.jpg" title="The temple in China town" alt="The temple in China town">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/china-town-street.jpg" title="The street in China town" alt="The street in China town">
-</div>
+
+|:---:|:---:|
+| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/china-town-temple-1.jpg" title="The temple in China town" alt="The temple in China town"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/china-town-temple-2.jpg" title="The temple in China town" alt="The temple in China town"> |
+| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/china-town-temple-3.jpg" title="The temple in China town" alt="The temple in China town"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/china-town-street.jpg" title="The street in China town" alt="The street in China town"> |
+
 <br>
 
 배가 고파질 즈음에 푸드코트를 발견하여 가는 중에 영문 모를 줄이 길게 늘어서 있는 것을 보고 맛집인가?하고 줄에 합류했다.

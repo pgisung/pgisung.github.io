@@ -13,6 +13,7 @@ description: 2025.08.19 에콰도르 키토에서 무료로 황열병 예방접�
 2. [파네치요의 성모상](#파네치요의-성모상 "Navigate to Virgin of the Panecillo")
 3. [키토 올드타운](#키토-올드타운 "Navigate to Quito old town")
 4. [독립 광장](#독립-광장 "Navigate to Independence square")
+5. [여행 경비](#여행-경비 "Navigate to Travel expenses")
 
 ---
 
@@ -248,3 +249,15 @@ description: 2025.08.19 에콰도르 키토에서 무료로 황열병 예방접�
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-19-Yellow-fever-vaccination-and-day-trip-to-old-town-in-quito/korean-style-rice-wrapped-in-greens.jpg" title="Korean-style rice wrapped in greens" alt="Korean-style rice wrapped in greens">
 </div>
 <br>
+
+---
+
+#### <span style="color: #8D4801">**여행 경비**</span>
+경비는 <span style="color: #8D4801">**1인 기준**</span>이며, 돌려받은 <span style="color: indianred">**숙박 보증금을 제외**</span>하고 계산한 금액이다.
+
+| 2025.08.19 | 현지 통화 | 원화 |
+|:---:|:---:|:---:|
+| **우버 택시 교통비** | 3.58 USD | 5,110원 |
+| **아이스크림** | 1 USD | 1,393원 |
+| **우버 택시 교통비** | 4.09 USD | 5,830원 |
+| <span style="color: #8D4801">**총합**</span> | **8.67 USD** | **12,333원** |

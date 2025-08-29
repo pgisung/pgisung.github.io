@@ -62,11 +62,10 @@ description: 2013.12.14 싱가포르 2일 차 여행기
 <br>
 
 아무튼 MRT를 타고 하버프론트역에 도착하면 이곳에서 센토사로 가는 방법엔 크게 모노레일과 케이블카(주얼박스), 크루져 이 3가지 방법이 있는데 <span style="color: #8D4801">**우리는 케이블카 1일 자유이용권에 아쿠아리움**</span>이 포함된 표를 샀다.
-<div class="image-slider-auto">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/cable-car-ticket.jpg" title="The ticket for cable car" alt="The ticket for cable car">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/aquarium-ticket.jpg" title="The ticket for aquarium" alt="The ticket for aquarium">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/cable-car-paper-bracelet.jpg" title="The paper bracelet to prove user for cable car" alt="The paper bracelet to prove user for cable car">
-</div>
+
+|:---:|:---:|:---:|
+| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/cable-car-ticket.jpg" title="The ticket for cable car" alt="The ticket for cable car"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/aquarium-ticket.jpg" title="The ticket for aquarium" alt="The ticket for aquarium"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/cable-car-paper-bracelet.jpg" title="The paper bracelet to prove user for cable car" alt="The paper bracelet to prove user for cable car"> |
+
 <br>
 
 이제 출발하는구먼...?
@@ -195,11 +194,10 @@ description: 2013.12.14 싱가포르 2일 차 여행기
 <br>
 
 남자가 둘 이상이 모이면 뭘 한다...?
-<div class="image-slider-auto">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/blogger-in-sentosa-island-1.jpg" title="Blogger taking ridiculous picture" alt="Blogger taking ridiculous picture">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/blogger-in-sentosa-island-2.jpg" title="Blogger taking ridiculous picture" alt="Blogger taking ridiculous picture">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/give-me-money.jpg" title="Hand picture with graffiti of money" alt="Hand picture with graffiti of money">
-</div>
+
+|:---:|:---:|:---:|
+| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/blogger-in-sentosa-island-1.jpg" title="Blogger taking ridiculous picture" alt="Blogger taking ridiculous picture"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/blogger-in-sentosa-island-2.jpg" title="Blogger taking ridiculous picture" alt="Blogger taking ridiculous picture"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/give-me-money.jpg" title="Hand picture with graffiti of money" alt="Hand picture with graffiti of money"> |
+
 <br>
 
 <span style="color: #8D4801">**팔라완 해변**</span>이 보이기 시작했는데 왜 이렇게 우중충해 보이지...
@@ -230,11 +228,10 @@ description: 2013.12.14 싱가포르 2일 차 여행기
 1. <span style="color: indianred">**사진 명소**</span> 표지판
 2. 할 거 없으면 연 날리라고 해놓고 사실은 여기서 <span style="color: indianred">**연 날리면 안 되니까**</span> 다른 거 하라고 하는 표지판
 3. 너무 더우니 <span style="color: indianred">**옷을 덜 입으라는**</span> 표지판
-<div class="image-slider-auto">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/palawan-beach-street-sign-1.jpg" title="The street sign written 'photo opportunity'" alt="The street sign written 'photo opportunity'">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/palawan-beach-street-sign-2.jpg" title="The street sign explained ridiculously there can not go fly kite" alt="The street sign explained ridiculously there can not go fly kite">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/palawan-beach-street-sign-3.jpg" title="The street sign written 'way too hot, wear less'" alt="The street sign written 'way too hot, wear less">
-</div>
+
+|:---:|:---:|:---:|
+| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/palawan-beach-street-sign-1.jpg" title="The street sign written 'photo opportunity'" alt="The street sign written 'photo opportunity'"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/palawan-beach-street-sign-2.jpg" title="The street sign explained ridiculously there can not go fly kite" alt="The street sign explained ridiculously there can not go fly kite"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/palawan-beach-street-sign-3.jpg" title="The street sign written 'way too hot, wear less'" alt="The street sign written 'way too hot, wear less"> |
+
 <br>
 
 실로소 해변에서 비치발리볼도 구경하고 (근데 사진을 못 찍었네...) <span style="color: #8D4801">**일몰**</span>도 보고
