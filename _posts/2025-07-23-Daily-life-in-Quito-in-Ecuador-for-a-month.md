@@ -356,7 +356,7 @@ GPT가 말하길 **검은지빠귀**라는 새
 <br>
 
 ##### **체육관**
-근래에는 블로그 작성한다고 못 갔지만 <span style="color: #8D4801">**한동안 하루도 빠짐없이 다녔던 체육관**</span>. 넓고 나름 있을 건 다 있고, 사람도 많이 안 와서 대부분 혼자 빌려서 운동하는 기분이었다.
+근래에는 블로그 작성한다고 못 갔지만 <span style="color: #8D4801">**한동안 하루도 빠짐없이 다녔던 체육관**</span>. 넓고 나름 있을 건 다 있고, 사람도 많이 안 와서 대부분 혼자 빌려서 운동하는 기분이었다. 무엇보다 좋았던 건 샌드백이 달린 체육관을 한 번도 가본 적이 없어서 샌드백 치는 기분이 궁금했었는데 이곳에선 아무도 없어서 마음 편하게 때려볼 수 있어서 좋았다.
 
 |:---:|:---:|:---:|
 | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/gymnasio-1.gif" title="Gymnasio" alt="Gymnasio"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/gymnasio-2.gif" title="Gymnasio" alt="Gymnasio"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/gymnasio-3.gif" title="Gymnasio" alt="Gymnasio"> |
