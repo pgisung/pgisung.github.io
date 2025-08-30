@@ -332,7 +332,6 @@ GPT가 말하길 **검은지빠귀**라는 새
 | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/quito-morning-view-1.jpg" title="Quito city view at morning" alt="Quito city view at morning"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/quito-night-view-1.jpg" title="Quito city view at night" alt="Quito city view at night"> |
 | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/quito-night-view-2.jpg" title="Quito city view at night" alt="Quito city view at night"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/quito-morning-view-2.jpg" title="Quito city view at morning" alt="Quito city view at morning"> |
 | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/quito-morning-view-3.jpg" title="Quito city view at morning" alt="Quito city view at morning"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/quito-night-view-3.jpg" title="Quito city view at night" alt="Quito city view at night"> |
-| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/quito-night-view-4.jpg" title="Quito city view at night" alt="Quito city view at night"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/quito-morning-view-4.jpg" title="Quito city view at morning" alt="Quito city view at morning"> |
 
 <br>
 
@@ -345,9 +344,9 @@ GPT가 말하길 **검은지빠귀**라는 새
 
 <br>
 
-<span style="color: #8D4801">**적도의 태양은 정확히 6시에 뜨고 6시에 지나요?**</span>
+<span style="color: #8D4801">**적도의 태양은 정확히 6시 30분에 뜨고 6시 30분에 지나요?**</span>
 
-<span style="color: #8D4801">**네, 덕분에 알람이 필요 없어요.**</span> 6시가 되면 저의 눈을 찌르더라고요.
+<span style="color: #8D4801">**네, 덕분에 알람이 필요 없어요.**</span> 6시 30분이 되면 저의 눈을 찌르더라고요.
 
 사진 속인데도 <span style="color: indianred">**자체 발광하는 듯한 적도의 일출**</span>
 <div class="image-slider-static">
@@ -409,10 +408,10 @@ GPT가 말하길 **검은지빠귀**라는 새
 | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/aglio-e-olio-1.jpg" title="Aglio e olio" alt="Aglio e olio"> | **07.28 알리오올리오** | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/perilla-leaf-wraps-with-spicy-stir-fried-pork.jpg" title="Perilla leaf wraps with spicy stir-fried pork" alt="Perilla leaf wraps with spicy stir-fried pork"> | **07.29 깻잎쌈과 제육볶음** |
 | **07.30 미역국과 오징어채무침** | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/seaweed-soup-with-spicy-dried-squid.jpg" title="Seaweed soup with spicy dried squid" alt="Seaweed soup with spicy dried squid"> | **07.31 간장 비빔국수** | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/soy-sauce-noodles.jpg" title="Soy sauce noodles" alt="Soy sauce noodles"> |
 | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/gambas-al-ajillo.jpg" title="Gambas al ajillo" alt="Gambas al ajillo"> | **08.01 감바스 알아히요** | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/curry-rice.jpg" title="Curry rice" alt="Curry rice"> | **08.04 카레라이스** |
-| **08.05 크림파스타** | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/cream-pasta.jpg" title="Cream pasta" alt="Cream pasta"> | **08.08 닭볶음탕** | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/spicy-korean-chicken-stew.jpg" title="Spicy Korean chicken stew" alt="Spicy Korean chicken stew"> |
+| **08.05 크림파스타** | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/cream-pasta.jpg" title="Cream pasta" alt="Cream pasta"> | **08.08 닭도리탕** | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/spicy-korean-chicken-stew.jpg" title="Spicy Korean chicken stew" alt="Spicy Korean chicken stew"> |
 | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/korean-cold-soybean-noodles.jpg" title="Korean cold soybean noodles" alt="Korean cold soybean noodles"> | **08.09 콩국수** | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/carbonara-style-spicy-chicken-rice-cakes.jpg" title="Carbonara style spicy chicken rice cakes" alt="Carbonara style spicy chicken rice cakes"> | **08.11 까르보나라 불닭 떡볶이** |
 | **08.12 된장찌개** | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/doenjangjjigae.jpg" title="Doenjangjjigae" alt="Doenjangjjigae"> | **08.13 비빔국수와 군만두** | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/bibim-noodles-and-crispy-korean-dumplings.jpg" title="Bibim noodles and crispy Korean dumplings" alt="Bibim noodles and crispy Korean dumplings"> |
-| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/korean-style-ham-egg-mayo-rice-bowl.jpg" title="Korean style ham-egg mayo rice bowl" alt="Korean style ham-egg mayo rice bowl"> | **08.14 햄계란마요덮밥** | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/aglio-e-olio-2.jpg" title="Aglio e olio" alt="Aglio e olio"> | **08.20 알리오올리오** |
+| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/korean-style-spam-mayo-rice-bowl.jpg" title="Korean style Spam mayo rice bowl" alt="Korean style Spam mayo rice bowl"> | **08.14 스팸마요덮밥** | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/aglio-e-olio-2.jpg" title="Aglio e olio" alt="Aglio e olio"> | **08.20 알리오올리오** |
 | **08.21 두부김치** | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/korean-tofu-with-stir-fried-kimchi.jpg" title="Korean tofu with stir-fried Kimchi" alt="Korean tofu with stir-fried Kimchi"> | **08.22 지코바 치킨** | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/gcova-chicken.jpg" title="Gcova chicken" alt="Gcova chicken"> |
 
 <br>
@@ -424,13 +423,9 @@ GPT가 말하길 **검은지빠귀**라는 새
 <br>
 
 ##### **과일 및 배달**
-체리모야?
-
-에... 체리 아니고요. <span style="color: indianred">**체리모야**</span>입니다.
-
-식감이 <span style="color: #8D4801">**아이스크림처럼 자연스럽게 녹는데 딱히 무언가를 첨가하지 않아도 자체적으로 굉장히 달콤**</span>한 과일이었다.
+처음 먹어보는 과일로 이름은 <span style="color: indianred">**치리모야**</span>이었다. 식감은 <span style="color: #8D4801">**아이스크림처럼 자연스럽게 녹는데 딱히 무언가를 첨가하지 않아도 자체적으로 굉장히 달콤**</span>한 과일이었다.
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/cherimoya.jpg" title="Cherimoya" alt="Cherimoya">
+  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/chirimoya.jpg" title="Chirimoya" alt="Chirimoya">
 </div>
 <br>
 
