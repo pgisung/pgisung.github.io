@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4. Git 저장소 개념과 원리
+title: 4. 깃 저장소(Git repository) 개념과 원리
 date: 2023-09-04 14:11:27 +0900
 img: github-logo.png
 categories: Github

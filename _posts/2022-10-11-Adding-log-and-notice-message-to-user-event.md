@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 사용자 이벤트에 로그 및 알림 메시지 추가하기
+title: 사용자 이벤트에 로그(Log) 및 알림 메시지(Alarm message) 추가하기
 date: 2022-10-11 19:05:04 +0900
 img: csharp-logo.png
 categories: C#

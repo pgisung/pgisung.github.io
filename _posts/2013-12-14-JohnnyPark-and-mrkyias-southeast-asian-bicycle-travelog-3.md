@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Johnny와 mrkyia의 동남아 자전거 여행기 (3) - 센토사섬 방문기
+title: 조니(Johnny)와 믈캬(mrkyia)의 동남아 자전거 여행기 (3) - 센토사섬 방문기
 flag: sg
 date: 2013-12-14 23:45:05 +0900
 img: 2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3.jpg

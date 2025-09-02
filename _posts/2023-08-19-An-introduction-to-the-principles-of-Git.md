@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 1. Git이란 무엇일까?
+title: 1. 깃(Git)이란 무엇일까?
 date: 2023-08-19 12:13:12 +0900
 img: github-logo.png
 categories: Github

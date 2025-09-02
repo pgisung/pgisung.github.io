@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 10. 병합과 리베이스
+title: 10. 병합(Merge)과 리베이스(Rebase)
 date: 2023-10-14 11:49:32 +0900
 img: github-logo.png
 categories: Github

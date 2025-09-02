@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 9. 작업 변경 사항을 Stash 스택에 임시 저장하기
+title: 9. 작업 변경 사항을 스태쉬(Stash) 스택에 임시 저장하기
 date: 2023-10-12 14:11:02 +0900
 img: github-logo.png
 categories: Github

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 키토에서 황열병 주사 맞고 올드타운 탐방하기
+title: 키토(Quito)에서 황열병 주사 맞고 올드타운 탐방하기
 flag: ec
 date: 2025-08-25 22:34:06 -0500
 img: 2025-08-19-Yellow-fever-vaccination-and-day-trip-to-old-town-in-quito.jpg

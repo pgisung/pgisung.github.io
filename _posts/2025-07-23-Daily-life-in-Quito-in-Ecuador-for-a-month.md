@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 에콰도르 키토에서 한 달 살기 
+title: 에콰도르 키토(Quito)에서 한 달 살기 
 flag: ec
 date: 2025-08-27 13:12:42 -0500
 img: 2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month.jpg
@@ -307,6 +307,10 @@ GPT가 말하길 **검은지빠귀**라는 새
 <br>
 
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.7922644298214!2d-78.4951281!3d-0.20706869999999414!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a1662736c01%3A0x84dca7b76749de4c!2sLa%20Mariscal%20Artisan%20Market!5e0!3m2!1sko!2sec!4v1756443493333!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<br>
+
+사실 이날 옆에 있던 수공예 시장에도 들렸는데 역시나 찍은 사진도 없고 구매한 물건도 없지만 많은 인형과 수공예품들을 보긴 했었다. 당시에 찾고 있던 인형이 너무 추상적이었는데 단순히 기념품을 사려고 했다면 이건 사고 싶은데 하는 물건들도 있었다.
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7979.586529554796!2d-78.50344531440305!3d-0.20305486731297734!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a3fbb8e0733%3A0xf6488c5a9d564f5a!2sQuitus%20Craft%20Market!5e0!3m2!1sko!2sec!4v1756649167624!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---

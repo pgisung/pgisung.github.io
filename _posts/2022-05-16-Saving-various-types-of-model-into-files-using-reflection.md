@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reflection을 이용하여 서로 다른 타입의 값들을 파일에 저장하기
+title: 리플렉션(Reflection)을 이용하여 서로 다른 타입의 값들을 파일에 저장하기
 date: 2022-05-16 23:11:06 +0900
 img: csharp-logo.png
 categories: C#

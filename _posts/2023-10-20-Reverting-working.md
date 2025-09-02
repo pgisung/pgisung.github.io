@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 11. 작업 되돌리기
+title: 11. 작업 되돌리기(Reset)
 date: 2023-10-20 17:21:37 +0900
 img: github-logo.png
 categories: Github

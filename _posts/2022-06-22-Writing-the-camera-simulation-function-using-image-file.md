@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 이미지 파일을 이용하여 카메라 시뮬레이션 동작 함수로 작성하기
+title: 이미지 파일을 이용하여 카메라 시뮬레이션(Camera simulation) 동작 함수로 작성하기
 date: 2022-06-22 22:32:01 +0900
 img: csharp-logo.png
 categories: C#

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 8. Branch란 무엇일까?
+title: 8. 브랜치(Branch)란 무엇일까?
 date: 2023-09-27 19:33:29 +0900
 img: github-logo.png
 categories: Github

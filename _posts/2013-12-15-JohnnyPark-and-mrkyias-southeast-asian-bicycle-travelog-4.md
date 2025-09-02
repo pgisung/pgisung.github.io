@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Johnny와 mrkyia의 동남아 자전거 여행기 (4) - 클라크 퀘이
+title: 조니(Johnny)와 믈캬(mrkyia)의 동남아 자전거 여행기 (4) - 클라크 퀘이
 flag: sg
 date: 2013-12-15 23:12:25 +0900
 img: 2013-12-15-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-4.jpg

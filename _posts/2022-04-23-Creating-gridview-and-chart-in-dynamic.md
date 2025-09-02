@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 동적으로 그리드뷰 및 차트 생성하기
+title: 동적으로 그리드뷰(GridView) 및 차트(Chart) 생성하기
 date: 2022-04-23 21:46:33 +0900
 img: csharp-logo.png
 categories: C#

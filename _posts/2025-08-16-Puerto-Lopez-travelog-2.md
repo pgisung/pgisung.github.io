@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Puerto Lopez 여행기 (2) - 혹등고래 추적기
+title: 푸에르토 로페즈(Puerto Lopez) 여행기 (2) - 혹등고래 추적기
 flag: ec
 date: 2025-08-21 16:19:44 -0500
 img: 2025-08-16-Puerto-Lopez-travelog-2.jpg

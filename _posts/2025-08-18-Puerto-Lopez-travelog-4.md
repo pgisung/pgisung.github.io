@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Puerto Lopez 여행기 (4) - 키토 복귀
+title: 푸에르토 로페즈(Puerto Lopez) 여행기 (4) - 키토 복귀
 flag: ec
 date: 2025-08-24 16:08:56 -0500
 img: 2025-08-18-Puerto-Lopez-travelog-4.jpg

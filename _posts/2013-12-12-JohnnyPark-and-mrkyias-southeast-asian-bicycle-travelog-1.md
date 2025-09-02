@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Johnny와 mrkyia의 동남아 자전거 여행기 (1) - 프롤로그
+title: 조니(Johnny)와 믈캬(mrkyia)의 동남아 자전거 여행기 (1) - 프롤로그
 flag: kr
 date: 2013-12-12 23:55:33 +0900
 img: 2013-12-12-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-1.jpg

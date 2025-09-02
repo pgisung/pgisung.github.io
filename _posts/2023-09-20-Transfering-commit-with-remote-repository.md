@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 7. 원격 저장소와 Commit 주고받기
+title: 7. 원격 저장소(Remote repository)와 커밋(Commit) 주고받기
 date: 2023-09-20 08:31:44 +0900
 img: github-logo.png
 categories: Github

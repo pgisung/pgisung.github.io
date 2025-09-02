@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Puerto Lopez 여행기 (1) - 작은 갈라파고스를 향해서
+title: 푸에르토 로페즈(Puerto Lopez) 여행기 (1) - 작은 갈라파고스를 향해서
 flag: ec
 date: 2025-08-20 14:51:02 -0500
 img: 2025-08-15-Puerto-Lopez-travelog-1.jpg
