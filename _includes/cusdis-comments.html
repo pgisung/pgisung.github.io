@@ -1,0 +1,97 @@
+<div class="comments-area">
+  <h2 class="comments-title">Comments</h2>
+  <div id="cusdis_thread"
+     data-host="https://cusdis.com"
+     data-app-id="{{ site.cusdis-identifier }}"
+     data-page-id="{{ page.url }}"
+     data-page-url="{{ site.url }}{{ page.url }}"
+     data-page-title="{{ page.title }}">
+  </div>
+  <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+  <script>
+  const cusdisContainer = document.getElementById("cusdis_thread");
+
+  // 1. 댓글 폼 스타일 변경
+  const styleObserver = new MutationObserver((mutations) => {
+    mutations.forEach((mutation) => {
+      mutation.addedNodes.forEach(node => {
+        if (node.tagName === 'IFRAME') {
+          // srcdoc 스타일 추가
+          const additionalStyles = `
+            label {
+              font-family: "PT Serif", serif;
+              color: #5b5b5b;
+            }
+            input, textarea {
+              border-radius: 14px;
+              outline: none;
+              resize: none;
+              transition: all .25s ease;
+              &:focus {
+                border: 1.4px solid rgba(141, 72, 1, 0.3);
+              }
+            }
+            button {
+              border-radius: 14px;
+            }
+            button.text-sm.bg-gray-200 {
+              font-family: "Lato", sans-serif;
+              background-color: darkseagreen;
+              color: #ffffff;
+              transition: all 0.3s ease;
+              &:hover {
+                background-color: #8E828E;
+              }
+            }
+            button.text-sm.text-gray-500 {
+              transition: all 0.3s ease;
+              &:hover {
+                color: #8D4801;
+              }
+            }
+          `;
+          if (node.srcdoc) {
+            node.srcdoc = node.srcdoc.replace('</style>', additionalStyles + '</style>');
+          }
+
+          // 2. 스타일 변경 후 iframe DOM을 대상으로 높이 조정
+          const heightObserver = new MutationObserver(() => {
+            try {
+              const scrollHeight = node.contentWindow.document.body.scrollHeight;
+              node.style.height = scrollHeight + "px";
+            } catch(e) { /* iframe 접근 불가 시 무시 */ }
+          });
+          // iframe 내부 DOM 변화를 감지
+          node.addEventListener('load', () => {
+            heightObserver.observe(node.contentWindow.document.body, { childList: true, subtree: true });
+          });
+        }
+      });
+    });
+  });
+
+  // #cusdis_thread 내부 iframe 생성 감지
+  styleObserver.observe(cusdisContainer, { childList: true, subtree: true });
+  </script>
+  <!-- <script>
+  // 댓글 스크롤 없애기
+  window.addEventListener('load', function () {
+      let iframe = document.querySelector("#cusdis_thread iframe");
+      if (iframe) {
+          let observer = new MutationObserver(() => {
+              let scrollHeight = iframe.contentWindow.document.body.scrollHeight;
+              iframe.style.height = scrollHeight + "px";
+          });
+          observer.observe(iframe.contentWindow.document.body, { childList: true, subtree: true });
+      }
+  });
+  </script> -->
+  <!-- <script>
+  window.addEventListener('load', function () {
+              setTimeout(() => {
+                  let scrollHeight = document.querySelector("#cusdis_thread iframe").contentWindow.document.body.scrollHeight;
+                  document.querySelector("#cusdis_thread iframe").style.height = scrollHeight + "px";
+              }, 3000);
+          });
+  </script> -->
+</div> <!-- /.comments-area -->

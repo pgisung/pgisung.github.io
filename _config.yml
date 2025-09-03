@@ -55,8 +55,8 @@ google-analytics: G-0BBELR6071 # Add your identifier. For example UA-99631805-1.
 # Newsletter
 mailchimp: github.us21.list-manage.com/subscribe/post?u=a722e29f0af62cbea1d4fecfe&amp;id=4f8f66c56d&amp;f_id=00dedce6f0 # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
-# Comment Section (Disqus)
-disqus-identifier: pgisung # Add your shortname for Disqus Comment. For example mr-brown
+# Comment Section (Cusdis)
+cusdis-identifier: 9b128654-4128-4227-b3ae-137b9addd055 # Add your App ID for Cusdis Comment. For example mr-brown
 
 # Build settings
 markdown: kramdown
