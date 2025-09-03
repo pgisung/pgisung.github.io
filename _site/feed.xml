@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-09-03T14:17:10+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JohnnyPark</title><subtitle>The growth diary of Software developer JohnnyPark</subtitle><entry><title type="html">키토(Quito)에서 볼리비아(Bolivia) 비자 발급받기</title><link href="http://localhost:4000/travel/ecuador/2025/09/03/Getting-a-Bolivia-visa-in-Quito/" rel="alternate" type="text/html" title="키토(Quito)에서 볼리비아(Bolivia) 비자 발급받기" /><published>2025-09-03T08:12:19+09:00</published><updated>2025-09-03T08:12:19+09:00</updated><id>http://localhost:4000/travel/ecuador/2025/09/03/Getting-a-Bolivia-visa-in-Quito</id><content type="html" xml:base="http://localhost:4000/travel/ecuador/2025/09/03/Getting-a-Bolivia-visa-in-Quito/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-09-03T22:18:15+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JohnnyPark</title><subtitle>The growth diary of Software developer JohnnyPark</subtitle><entry><title type="html">키토(Quito)에서 볼리비아(Bolivia) 비자 발급받기</title><link href="http://localhost:4000/travel/ecuador/2025/09/03/Getting-a-Bolivia-visa-in-Quito/" rel="alternate" type="text/html" title="키토(Quito)에서 볼리비아(Bolivia) 비자 발급받기" /><published>2025-09-03T08:12:19+09:00</published><updated>2025-09-03T08:12:19+09:00</updated><id>http://localhost:4000/travel/ecuador/2025/09/03/Getting-a-Bolivia-visa-in-Quito</id><content type="html" xml:base="http://localhost:4000/travel/ecuador/2025/09/03/Getting-a-Bolivia-visa-in-Quito/"><![CDATA[<blockquote>
   <ol>
     <li><a href="#대사관-방문-전-미리-준비할-것" title="Navigate to Things those have to be prepared in advance before visiting the embassy">대사관 방문 전 미리 준비할 것</a></li>
     <li><a href="#서류-인쇄" title="Navigate to Printing documents">서류 인쇄</a></li>
@@ -22,7 +22,9 @@
 5. 예금잔고 증명서 (온라인 신청 첨부 + 인쇄)
 6. 여행 계획서에 날짜별로 정확히 맞는 숙소 예약 확인서 (온라인 신청 첨부 + 인쇄)
 7. 여행 계획서에 날짜별로 정확히 맞는 출입국 비행기 예약 확인서 또는 육로 이동이라면 버스 예약 확인서 (인쇄 only)
+8. 온라인 신청 완료 후 온라인 신청서 (인쇄 only)
 </code></pre></div></div>
+<p>당연하지만, <span style="color: indianred"><strong>모든 서류는 영문</strong></span>으로 작성하여 제출하여야 한다. 원래 영문으로 제공되는 서류들을 제외하고 <span style="color: #8D4801"><strong>여행 계획서, 숙소 예약 확인서, 비행기 예약 확인서, 예금잔고 증명서</strong></span>의 언어만 신경 쓰면 된다.</p>
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-01-Getting-a-Bolivia-visa-in-Quito/bolivia-visa-online-application.jpg" title="Bolivia visa online application" alt="Bolivia visa online application" />
 </div>
@@ -42,6 +44,23 @@
   <li>비자 비용이 <span style="color: indianred"><strong>30불에서 50불로 인상</strong></span>되었다.</li>
   <li><span style="color: indianred"><strong>대사관에 방문</strong></span>해서 오프라인 비자 신청 중에 입금할 계좌를 알려주고 입금 후에 대사관이 문 닫기 직전인 4시쯤이 되면 <span style="color: indianred"><strong>다시 방문해서 비자를 받아야</strong></span> 했는데, 이제 <span style="color: indianred"><strong>온라인에서 바로 입금 계좌를 받게</strong></span> 되어서 방문 전에 먼저 입금 후에 입금했던 영수증의 정보들을 온라인상에서 마저 입력하면 오프라인에서 어렵게 입금하고 오랜 시간 기다릴 필요가 없어졌다.</li>
 </ol>
+
+<div class="image-slider-static">
+  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-01-Getting-a-Bolivia-visa-in-Quito/bolivia-visa-payment.jpg" title="Bolivia visa payment" alt="Bolivia visa payment" />
+</div>
+<center>
+  <span style="color: #8D4801">
+    <small><b>온라인 신청 중 예금 양식</b></small>
+  </span>
+</center>
+<p><br /></p>
+
+<p>위에서부터 차례로 다음과 같다.</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>1. 입금 후 예금 번호
+2. 입금 날짜
+3. 입금 액수 - 어차피 수정이 안된다.
+4. 영수증 파일
+</code></pre></div></div>
 
 <p>필자의 경우 <span style="color: #8D4801"><strong>대사관 방문 시점으로부터 약 30분 만에 비자 발급을 완료</strong></span>할 수 있었다.</p>
 

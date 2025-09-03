@@ -30,7 +30,9 @@ description: 2025.09.01 에콰도르 키토에서 볼리비아 비자 발급받�
 5. 예금잔고 증명서 (온라인 신청 첨부 + 인쇄)
 6. 여행 계획서에 날짜별로 정확히 맞는 숙소 예약 확인서 (온라인 신청 첨부 + 인쇄)
 7. 여행 계획서에 날짜별로 정확히 맞는 출입국 비행기 예약 확인서 또는 육로 이동이라면 버스 예약 확인서 (인쇄 only)
+8. 온라인 신청 완료 후 온라인 신청서 (인쇄 only)
 ```
+당연하지만, <span style="color: indianred">**모든 서류는 영문**</span>으로 작성하여 제출하여야 한다. 원래 영문으로 제공되는 서류들을 제외하고 <span style="color: #8D4801">**여행 계획서, 숙소 예약 확인서, 비행기 예약 확인서, 예금잔고 증명서**</span>의 언어만 신경 쓰면 된다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-01-Getting-a-Bolivia-visa-in-Quito/bolivia-visa-online-application.jpg" title="Bolivia visa online application" alt="Bolivia visa online application">
 </div>
@@ -46,6 +48,24 @@ description: 2025.09.01 에콰도르 키토에서 볼리비아 비자 발급받�
 위의 서류들을 모두 준비한 채로 온라인 비자 신청을 진행하다 보면 <span style="color: #8D4801">**최근에 변경된 것들이 몇 가지**</span> 있는데
 1. 비자 비용이 <span style="color: indianred">**30불에서 50불로 인상**</span>되었다.
 2. <span style="color: indianred">**대사관에 방문**</span>해서 오프라인 비자 신청 중에 입금할 계좌를 알려주고 입금 후에 대사관이 문 닫기 직전인 4시쯤이 되면 <span style="color: indianred">**다시 방문해서 비자를 받아야**</span> 했는데, 이제 <span style="color: indianred">**온라인에서 바로 입금 계좌를 받게**</span> 되어서 방문 전에 먼저 입금 후에 입금했던 영수증의 정보들을 온라인상에서 마저 입력하면 오프라인에서 어렵게 입금하고 오랜 시간 기다릴 필요가 없어졌다.
+
+<div class="image-slider-static">
+  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-01-Getting-a-Bolivia-visa-in-Quito/bolivia-visa-payment.jpg" title="Bolivia visa payment" alt="Bolivia visa payment">
+</div>
+<center>
+  <span style="color: #8D4801">
+    <small><b>온라인 신청 중 예금 양식</b></small>
+  </span>
+</center>
+<br>
+
+위에서부터 차례로 다음과 같다.
+```
+1. 입금 후 예금 번호
+2. 입금 날짜
+3. 입금 액수 - 어차피 수정이 안 된다.
+4. 영수증 파일
+```
 
 필자의 경우 <span style="color: #8D4801">**대사관 방문 시점으로부터 약 30분 만에 비자 발급을 완료**</span>할 수 있었다.
 
