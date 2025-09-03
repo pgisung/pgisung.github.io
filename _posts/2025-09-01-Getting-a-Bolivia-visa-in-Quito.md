@@ -95,9 +95,9 @@ description: 2025.09.01 에콰도르 키토에서 볼리비아 비자 발급받�
 </div>
 <br>
 
-인쇄를 마치고 대사관을 가는 길 사실 서둘러서 인쇄를 마치고 <span style="color: #8D4801">**점심시간이 되기 전에 대사관에 도착**</span>하고 싶었는데, 인쇄 가게 직원이 뭔가 나의 인쇄보다 그때그때 <span style="color: indianred">**찾아오는 현지인 손님들 복사, 인쇄를 자꾸 먼저 해줘서**</span> 시간이 한참 걸렸다.
+인쇄를 마치고 대사관에 가는 길 사실 서둘러서 인쇄를 마치고 <span style="color: #8D4801">**점심시간이 되기 전에 대사관에 도착**</span>하고 싶었는데, 인쇄 가게 직원이 뭔가 나의 인쇄보다 그때그때 <span style="color: indianred">**찾아오는 현지인 손님들 복사, 인쇄를 자꾸 먼저 해줘서**</span> 시간이 한참 걸렸다.
 
-결국 대사관에 도착했을 때 거의 12시가 다 되어서 그런지 벨 소리에 응답한 경비분이 <span style="color: indianred">**1시간 뒤에 다시 오라고**</span> 하셨다. 
+결국 대사관에 도착했을 때 거의 12시가 다 되어서 그런지 벨소리에 응답한 경비분이 <span style="color: indianred">**1시간 뒤에 다시 오라고**</span> 하셨다. 
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-01-Getting-a-Bolivia-visa-in-Quito/quito-street.jpg" title="On the way to Bolivia embassy" alt="On the way to Bolivia embassy">
 </div>
