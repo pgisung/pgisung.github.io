@@ -4,7 +4,7 @@ title: 푸에르토 로페즈(Puerto Lopez) 여행기 (1) - 작은 갈라파고�
 flag: ec
 date: 2025-08-20 14:51:02 -0500
 img: 2025-08-15-Puerto-Lopez-travelog-1.jpg
-categories: Travel Ecuador
+categories: [ Travel, Ecuador ]
 tags: [ Ecuador trip, Puerto Lopez, 에콰도르 여행, 푸에르토 로페스 ]
 description: 2025.08.15 키토에서 푸에르토 로페스까지 이동기 및 투어 예약 이야기
 ---

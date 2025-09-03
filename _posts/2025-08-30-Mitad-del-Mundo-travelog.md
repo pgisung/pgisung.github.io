@@ -4,7 +4,7 @@ title: 위도 0 세계의 중심에 서보다 - 미타 델 문도(Mitad del Mund
 flag: ec
 date: 2025-09-01 18:01:37 -0500
 img: 2025-08-30-Mitad-del-Mundo-travelog.jpg
-categories: Travel Ecuador
+categories: [ Travel, Ecuador ]
 tags: [ Ecuador trip, Quito, Mitad del Mundo, Latitude 0, 에콰도르 여행, 키토, 미타 델 문도, 위도 0 ]
 description: 2025.08.30 에콰도르 키토에서 적도 박물관 탐방기
 ---

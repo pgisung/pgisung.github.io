@@ -4,7 +4,7 @@ title: 키토(Quito)에서 황열병 주사 맞고 올드타운 탐방하기
 flag: ec
 date: 2025-08-25 22:34:06 -0500
 img: 2025-08-19-Yellow-fever-vaccination-and-day-trip-to-old-town-in-quito.jpg
-categories: Travel Ecuador
+categories: [ Travel, Ecuador ]
 tags: [ Ecuador trip, Quito, Yellow fever vaccination, 에콰도르 여행, 키토, 황열병 예방접종 ]
 description: 2025.08.19 에콰도르 키토에서 무료로 황열병 예방접종 후 성모상까지 가벼운 트래킹 및 올드타운 거리 탐방기
 ---

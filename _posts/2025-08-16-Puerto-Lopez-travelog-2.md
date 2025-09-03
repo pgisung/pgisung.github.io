@@ -4,7 +4,7 @@ title: 푸에르토 로페즈(Puerto Lopez) 여행기 (2) - 혹등고래 추적�
 flag: ec
 date: 2025-08-21 16:19:44 -0500
 img: 2025-08-16-Puerto-Lopez-travelog-2.jpg
-categories: Travel Ecuador
+categories: [ Travel, Ecuador ]
 tags: [ Ecuador trip, Puerto Lopez, Humpback whale, 에콰도르 여행, 푸에르토 로페스, 혹등고래 ]
 description: 2025.08.16 살랑고 섬 투어 이야기
 ---

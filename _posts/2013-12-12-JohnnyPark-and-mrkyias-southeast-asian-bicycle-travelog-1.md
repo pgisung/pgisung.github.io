@@ -4,7 +4,7 @@ title: 조니(Johnny)와 믈캬(mrkyia)의 동남아 자전거 여행기 (1) - �
 flag: kr
 date: 2013-12-12 23:55:33 +0900
 img: 2013-12-12-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-1.jpg
-categories: Travel Korea
+categories: [ Travel, Korea ]
 tags: [ Singapore trip, Bicycle trip, 싱가포르 여행, 자전거 여행 ]
 description: 2013.11~2013.12 생애 첫 해외 여행이자 자전거 여행의 동기와 준비 과정을 짧게 적어보았다.
 ---

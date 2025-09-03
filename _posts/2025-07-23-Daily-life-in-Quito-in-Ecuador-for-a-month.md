@@ -4,7 +4,7 @@ title: 에콰도르 키토(Quito)에서 한 달 살기
 flag: ec
 date: 2025-08-27 13:12:42 -0500
 img: 2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month.jpg
-categories: Travel Ecuador
+categories: [ Travel, Ecuador ]
 tags: [ Ecuador trip, Quito, 에콰도르 여행, 키토 ]
 description: 2025.07.23 ~ 2025.08.24 카롤리나 공원 아침 운동 일지 및 근교 관광기, 머나먼 타지에서 더 많이 먹었던 한식 메뉴 리스트
 ---
