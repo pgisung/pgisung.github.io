@@ -2,7 +2,7 @@
 layout: post
 title: 조니(Johnny)와 믈캬(mrkyia)의 동남아 자전거 여행기 (2) - 설레는 첫 출국 날
 flag: sg
-date: 2013-12-13 23:01:45 +0900
+date: 2013-12-13 23:01:45 +0800
 img: 2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2.jpg
 categories: [ Travel, Singapore ]
 tags: [ Singapore trip, Bicycle trip, 싱가포르 여행, 자전거 여행 ]

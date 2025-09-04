@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 조니(Johnny)와 믈캬(mrkyia)의 동남아 자전거 여행기 (5) - 조호르바루
+title: 조니(Johnny)와 믈캬(mrkyia)의 동남아 자전거 여행기 (5) - 조호르 바루
 flag: my
-date: 2013-12-16 23:49:35 +0900
+date: 2013-12-16 23:49:35 +0800
 img: 2013-12-16-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-5.jpg
 categories: [ Travel, Singapore, Malaysia ]
 tags: [ Singapore trip, Malaysia trip, Bicycle trip, 싱가포르 여행, 말레이시아 여행, 자전거 여행 ]
@@ -72,7 +72,7 @@ description: 2013.12.16 싱가포르에서 육로를 통해 말레이시아로 �
 
 그렇게 정신을 놓고 있을 때 mrkyia가 옆에 청년과 대화해서 (<span style="color: #8D4801">**자전거니까 들고 옆길로 빠지라는 조언**</span>을 들은 것 같다) 사이에 콘크리트 길을 이용하여 순식간에 빠져나오는 데 무섭게 생긴 그들은 외모나 분위기와 달리 흔쾌히 길을 비켜주었고 <span style="color: #8D4801">**마치 모세의 기적같이 오토바이 수백 대들 사이에 길**</span>이 생겨서 우리에게 길을 양보해 주었다. (당시엔 정말 무서웠는데 모든 게 다 지나가고 쉬면서 생각해 보니 참 친절한 사람들일세...) 드디어 그 이륜차 지옥에서 탈출하고 나오면서 보니 <span style="color: indianred">**몇몇 수상한 오토바이 운전자의 짐을 검색하는 것을 보니 불시 검문**</span>을 했던 것 같다. 지금 생각해도 정말 아찔하고 무서운 다시 없을 경험이었다. 
 
-그렇게 <span style="color: #8D4801">**말레이시아 조호르바루에 진입**</span>하는데 편의점에서 음료수를 마시며 쉬던 중에 샘이라는 자전거 가게에서 일하는 열정 넘쳐 보이는 친구가 시내까지 길 안내를 해준다고 하여 따라가다 도착지가 진짜 시내인지 아닌지도 관심 없을 정도로 너무 피곤한 나머지 바로 근처에서 숙소를 잡았다. (샘 따라가는데 나는 자전거를 타고 도로 정중앙을 처음 달려봐서 얼마나 후덜거렸는지...)
+그렇게 <span style="color: #8D4801">**말레이시아 조호르 바루에 진입**</span>하는데 편의점에서 음료수를 마시며 쉬던 중에 샘이라는 자전거 가게에서 일하는 열정 넘쳐 보이는 친구가 시내까지 길 안내를 해준다고 하여 따라가다 도착지가 진짜 시내인지 아닌지도 관심 없을 정도로 너무 피곤한 나머지 바로 근처에서 숙소를 잡았다. (샘 따라가는데 나는 자전거를 타고 도로 정중앙을 처음 달려봐서 얼마나 후덜거렸는지...)
 
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.4850566233627!2d103.76369926167128!3d1.481259659634485!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da6d3237053251%3A0x6cf9fd3d0c7d1f59!2z7ZmA66eI7YGsIOumrOygoOyLnCDtmLjthZQ!5e0!3m2!1sko!2sec!4v1755222535600!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
