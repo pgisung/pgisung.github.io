@@ -253,7 +253,7 @@ description: 2025.08.19 에콰도르 키토에서 무료로 황열병 예방접�
 ---
 
 #### <span style="color: #8D4801">**여행 경비**</span>
-경비는 <span style="color: #8D4801">**1인 기준**</span>이며, 돌려받은 <span style="color: indianred">**숙박 보증금을 제외**</span>하고 계산한 금액이다.
+경비는 <span style="color: indianred">**1인 기준**</span>이다.
 
 | 2025.08.19 | 현지 통화 | 원화 |
 |:---:|:---:|:---:|

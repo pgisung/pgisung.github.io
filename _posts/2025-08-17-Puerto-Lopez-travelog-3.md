@@ -494,7 +494,7 @@ description: 2025.08.17 플라타 섬 투어 이야기
 ---
 
 #### <span style="color: #8D4801">**여행 경비**</span>
-경비는 <span style="color: #8D4801">**2인 기준**</span>이며, 돌려받은 <span style="color: indianred">**숙박 보증금을 제외**</span>하고 계산한 금액이다.
+경비는 <span style="color: indianred">**2인 기준**</span>이다.
 
 | 2025.08.17 | 현지 통화 | 원화 |
 |:---:|:---:|:---:|

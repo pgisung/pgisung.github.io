@@ -289,7 +289,7 @@ description: 2013.12.14 싱가포르 2일 차 여행기
 ---
 
 #### <span style="color: #8D4801">**여행 경비**</span>
-경비는 <span style="color: #8D4801">**2인 기준**</span>이며, 돌려받은 <span style="color: indianred">**숙박 보증금을 제외**</span>하고 계산한 금액이다.
+경비는 <span style="color: indianred">**2인 기준**</span>이다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/budget-book.jpg" title="Budget book" alt="Budget book">
 </div>
