@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-09-07T00:28:20+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JohnnyPark</title><subtitle>The growth diary of Software developer JohnnyPark</subtitle><entry><title type="html">보토 나시오날 대성당(Basilica of the Voto Nacional)의 탑에 오르다</title><link href="http://localhost:4000/travel/ecuador/2025/09/06/Climbing-the-towers-of-the-Basilica-of-the-Voto-National/" rel="alternate" type="text/html" title="보토 나시오날 대성당(Basilica of the Voto Nacional)의 탑에 오르다" /><published>2025-09-06T00:28:37+09:00</published><updated>2025-09-06T00:28:37+09:00</updated><id>http://localhost:4000/travel/ecuador/2025/09/06/Climbing-the-towers-of-the-Basilica-of-the-Voto-National</id><content type="html" xml:base="http://localhost:4000/travel/ecuador/2025/09/06/Climbing-the-towers-of-the-Basilica-of-the-Voto-National/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-09-07T07:02:54+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JohnnyPark</title><subtitle>The growth diary of Software developer JohnnyPark</subtitle><entry><title type="html">보토 나시오날 대성당(Basilica of the Voto Nacional)의 탑에 오르다</title><link href="http://localhost:4000/travel/ecuador/2025/09/06/Climbing-the-towers-of-the-Basilica-of-the-Voto-National/" rel="alternate" type="text/html" title="보토 나시오날 대성당(Basilica of the Voto Nacional)의 탑에 오르다" /><published>2025-09-06T00:28:37+09:00</published><updated>2025-09-06T00:28:37+09:00</updated><id>http://localhost:4000/travel/ecuador/2025/09/06/Climbing-the-towers-of-the-Basilica-of-the-Voto-National</id><content type="html" xml:base="http://localhost:4000/travel/ecuador/2025/09/06/Climbing-the-towers-of-the-Basilica-of-the-Voto-National/"><![CDATA[<blockquote>
   <ol>
     <li><a href="#보토-나시오날-대성당" title="Navigate to Basilica of the Voto Nacional">보토 나시오날 대성당</a>
       <ul>
@@ -6,6 +6,7 @@
         <li><a href="#외관" title="Navigate to Exterior">외관</a></li>
         <li><a href="#매표소" title="Navigate to Ticket office">매표소</a></li>
         <li><a href="#첨탑-올라가-보기" title="Navigate to Climbing the Spire">첨탑 올라가 보기</a></li>
+        <li><a href="#240도-파노라마-키토-도시-전경" title="Navigate to 240-degree panoramic view for Quito city">240도 파노라마 키토 도시 전경</a></li>
       </ul>
     </li>
     <li><a href="#처음-먹어보는-엠빠나다" title="Navigate to First try for empanada">처음 먹어보는 엠빠나다</a>
@@ -214,6 +215,10 @@
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-04-Climbing-the-towers-of-the-Basilica-of-the-Voto-National/blogger-in-tiny-observatory.jpg" title="Blogger in tiny observatory" alt="Blogger in tiny observatory" />
 </div>
+<p><br /></p>
+
+<h6 id="240도-파노라마-키토-도시-전경"><span style="color: #8D4801"><strong>240도 파노라마 키토 도시 전경</strong></span></h6>
+<center><div id="panorama-1" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;"></div></center>
 <p><br /></p>
 
 <p>다음으로 길을 따라 쭉 올라가 보았다.</p>
@@ -574,7 +579,20 @@
       <td style="text-align: center"><strong>105,489원</strong></td>
     </tr>
   </tbody>
-</table>]]></content><author><name></name></author><category term="Travel" /><category term="Ecuador" /><category term="Ecuador trip" /><category term="Quito" /><category term="Basilica of the Voto Nacional" /><category term="에콰도르 여행" /><category term="키토" /><category term="보토 나시오날 대성당" /><summary type="html"><![CDATA[2025.09.04 에콰도르 키토에서 보토 나시오날 대성당 방문기]]></summary></entry><entry><title type="html">키토(Quito)에서 볼리비아(Bolivia) 비자 발급받기</title><link href="http://localhost:4000/travel/ecuador/2025/09/03/Getting-a-Bolivia-visa-in-Quito/" rel="alternate" type="text/html" title="키토(Quito)에서 볼리비아(Bolivia) 비자 발급받기" /><published>2025-09-03T08:12:19+09:00</published><updated>2025-09-03T08:12:19+09:00</updated><id>http://localhost:4000/travel/ecuador/2025/09/03/Getting-a-Bolivia-visa-in-Quito</id><content type="html" xml:base="http://localhost:4000/travel/ecuador/2025/09/03/Getting-a-Bolivia-visa-in-Quito/"><![CDATA[<blockquote>
+</table>
+
+<script>
+pannellum.viewer('panorama-1', {
+    "type": "equirectangular",
+    "panorama": "https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-04-Climbing-the-towers-of-the-Basilica-of-the-Voto-National/panorama-quito-city.jpg", 
+    "autoLoad": true,
+    "autoRotate": -2,
+    "compass": true,
+    "title": "Quito City view",
+    "author": "Jisung Park",
+    "showZoomCtrl": true
+});
+</script>]]></content><author><name></name></author><category term="Travel" /><category term="Ecuador" /><category term="Ecuador trip" /><category term="Quito" /><category term="Basilica of the Voto Nacional" /><category term="에콰도르 여행" /><category term="키토" /><category term="보토 나시오날 대성당" /><summary type="html"><![CDATA[2025.09.04 에콰도르 키토에서 보토 나시오날 대성당 방문기]]></summary></entry><entry><title type="html">키토(Quito)에서 볼리비아(Bolivia) 비자 발급받기</title><link href="http://localhost:4000/travel/ecuador/2025/09/03/Getting-a-Bolivia-visa-in-Quito/" rel="alternate" type="text/html" title="키토(Quito)에서 볼리비아(Bolivia) 비자 발급받기" /><published>2025-09-03T08:12:19+09:00</published><updated>2025-09-03T08:12:19+09:00</updated><id>http://localhost:4000/travel/ecuador/2025/09/03/Getting-a-Bolivia-visa-in-Quito</id><content type="html" xml:base="http://localhost:4000/travel/ecuador/2025/09/03/Getting-a-Bolivia-visa-in-Quito/"><![CDATA[<blockquote>
   <ol>
     <li><a href="#대사관-방문-전-미리-준비할-것" title="Navigate to Things those have to be prepared in advance before visiting the embassy">대사관 방문 전 미리 준비할 것</a></li>
     <li><a href="#서류-인쇄" title="Navigate to Printing documents">서류 인쇄</a></li>

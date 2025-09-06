@@ -14,6 +14,7 @@ description: 2013.12.12~13 엉망진창 첫 해외 출국 공항 해프닝 및 �
 3. [싱가포르 여행 1일 차 시작](#싱가포르-여행-1일-차-시작 "Navigate to Day 1. Singapore trip")
 - [차이나타운](#차이나타운 "Navigate to China town")
 - [마리나 베이 샌즈 호텔](#마리나-베이-샌즈-호텔 "Navigate to Marina bay sands hotel")
+- [240도 파노라마 싱가포르 도시 전경](#240도-파노라마-싱가포르-도시-전경 "Navigate to 240-degree panoramic view for Singapore city")
 - [가든즈 바이 더 베이](#가든즈-바이-더-베이 "Navigate to Gardens by the bay")
 4. [여행 경비](#여행-경비 "Navigate to Travel expenses")
 
@@ -131,6 +132,10 @@ description: 2013.12.12~13 엉망진창 첫 해외 출국 공항 해프닝 및 �
 </div>
 <br>
 
+###### <span style="color: #8D4801">**240도 파노라마 싱가포르 도시 전경**</span>
+<center><div id="panorama-1" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;"></div></center>
+<br>
+
 싱가포르의 국회의사당. 처음에 Parliament를 보고 <span style="color: #8D4801">**담배 회사**</span>인가 생각했다...
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/the-house-of-parliament-in-singapore.jpg" title="The house of parliament in Singapore" alt="The house of parliament in Singapore">
@@ -236,3 +241,16 @@ description: 2013.12.12~13 엉망진창 첫 해외 출국 공항 해프닝 및 �
 | **MRT 교통비** | 2.8 SGD | 2,345원 |
 | **콜라** | 3 SGD | 2,512원 |
 | <span style="color: #8D4801">**총합**</span> | **54.1 SGD** | **45,308원** |
+
+<script>
+pannellum.viewer('panorama-1', {
+    "type": "equirectangular",
+    "panorama": "https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/panorama-singapore-city.jpg", 
+    "autoLoad": true,
+    "autoRotate": -2,
+    "compass": true,
+    "title": "Singapore City view",
+    "author": "Hagyun Kim",
+    "showZoomCtrl": true,
+});
+</script>

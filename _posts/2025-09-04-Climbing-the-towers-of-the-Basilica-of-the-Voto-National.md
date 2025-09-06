@@ -15,6 +15,7 @@ description: 2025.09.04 에콰도르 키토에서 보토 나시오날 대성당 
 - [외관](#외관 "Navigate to Exterior")
 - [매표소](#매표소 "Navigate to Ticket office")
 - [첨탑 올라가 보기](#첨탑-올라가-보기 "Navigate to Climbing the Spire")
+- [240도 파노라마 키토 도시 전경](#240도-파노라마-키토-도시-전경 "Navigate to 240-degree panoramic view for Quito city")
 2. [처음 먹어보는 엠빠나다](#처음-먹어보는-엠빠나다 "Navigate to First try for empanada")
 - [찾아가는 길](#찾아가는-길 "Navigate to On the way")
 - [Juan Fogonero 식당](#juan-fogonero-식당 "Navigate to Juan Fogonero restaurant")
@@ -193,6 +194,10 @@ description: 2025.09.04 에콰도르 키토에서 보토 나시오날 대성당 
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-04-Climbing-the-towers-of-the-Basilica-of-the-Voto-National/blogger-in-tiny-observatory.jpg" title="Blogger in tiny observatory" alt="Blogger in tiny observatory">
 </div>
+<br>
+
+###### <span style="color: #8D4801">**240도 파노라마 키토 도시 전경**</span>
+<center><div id="panorama-1" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;"></div></center>
 <br>
 
 다음으로 길을 따라 쭉 올라가 보았다. 
@@ -465,3 +470,16 @@ description: 2025.09.04 에콰도르 키토에서 보토 나시오날 대성당 
 | **저녁 식비** | 52 USD | 72,436원 |
 | **우버 택시 교통비** | 5.57 USD | 7,761원 |
 | <span style="color: #8D4801">**총합**</span> | **75.76 USD** | **105,489원** |
+
+<script>
+pannellum.viewer('panorama-1', {
+    "type": "equirectangular",
+    "panorama": "https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-04-Climbing-the-towers-of-the-Basilica-of-the-Voto-National/panorama-quito-city.jpg", 
+    "autoLoad": true,
+    "autoRotate": -2,
+    "compass": true,
+    "title": "Quito City view",
+    "author": "Jisung Park",
+    "showZoomCtrl": true
+});
+</script>

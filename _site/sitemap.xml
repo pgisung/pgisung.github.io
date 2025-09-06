@@ -686,6 +686,21 @@
         
     
         
+        <url>
+            <loc>http://localhost:4000/rss.xml</loc>
+
+            
+            <changefreq>weekly</changefreq>
+            
+
+            
+            <priority>0.5</priority>
+            
+
+        </url>
+        
+    
+        
     
         
         <url>

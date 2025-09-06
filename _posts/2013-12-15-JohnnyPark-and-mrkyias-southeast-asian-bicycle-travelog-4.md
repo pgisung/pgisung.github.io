@@ -13,6 +13,7 @@ description: 2013.12.15 싱가포르 3일 차 여행기
 2. [점보 레스토랑](#점보-레스토랑 "Navigate to Jumbo restaurant")
 3. [브루웍스](#브루웍스 "Navigate to Brewerkz")
 4. [싱가포르에서의 마지막 밤](#싱가포르에서의-마지막-밤 "Navigate to The last night in Singapore")
+- [240도 파노라마 클라크 퀘이 전경](#240도-파노라마-클라크-퀘이-전경 "Navigate to 240-degree panoramic view for Clarke Quay")
 5. [여행 경비](#여행-경비 "Navigate to Travel expenses")
 
 ---
@@ -143,6 +144,10 @@ description: 2013.12.15 싱가포르 3일 차 여행기
 </div>
 <br>
 
+###### <span style="color: #8D4801">**240도 파노라마 클라크 퀘이 전경**</span>
+<center><div id="panorama-1" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;"></div></center>
+<br>
+
 <span style="color: #8D4801">**마지막 밤**</span>이라 그런지 무언가 괜히 아쉬웠다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-15-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-4/clark-quay-street-at-night-2.jpg" title="" alt="">
@@ -186,3 +191,16 @@ description: 2013.12.15 싱가포르 3일 차 여행기
 | **MRT 교통비** | 3 SGD | 2,512원 |
 | **야식 식비** | 10 SGD | 8,375원 |
 | <span style="color: #8D4801">**총합**</span> | **208.65 SGD** | **174,744원** |
+
+<script>
+pannellum.viewer('panorama-1', {
+    "type": "equirectangular",
+    "panorama": "https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-15-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-4/panorama-clarke-quay.jpg", 
+    "autoLoad": true,
+    "autoRotate": -2,
+    "compass": true,
+    "title": "Clarke Quay view",
+    "author": "Hagyun Kim",
+    "showZoomCtrl": true,
+});
+</script>
