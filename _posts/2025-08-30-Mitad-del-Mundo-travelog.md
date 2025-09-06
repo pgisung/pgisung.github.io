@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 위도 0 세계의 중심에 서보다 - 미타 델 문도(Mitad del Mundo)
+title: 위도 0 세계의 중심에 서보다 - 미타 델 문도(Mitad del Mundo), 키토 적도 박물관
 flag: ec
 date: 2025-09-01 18:01:37 -0500
 img: 2025-08-30-Mitad-del-Mundo-travelog.jpg
