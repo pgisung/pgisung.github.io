@@ -32,7 +32,7 @@ description: 2025.08.30 에콰도르 키토에서 적도 박물관 탐방기
 </div>
 <br>
 
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.8068969863834!2d-78.47731886050795!3d-0.13710649986211698!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d58f1279ae6ee5%3A0x97d2c7f26c4113c9!2sManabiche%20Los%20Pinos!5e0!3m2!1sko!2sec!4v1756619623001!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.8068969863834!2d-78.47731886050795!3d-0.13710649986211698!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d58f1279ae6ee5%3A0x97d2c7f26c4113c9!2sManabiche%20Los%20Pinos!5e0!3m2!1sko!2sec!4v1756619623001!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 약속 시간보다 일찍 도착해서 근처 운동장에서 여성분들의 풋살 경기를 구경했다. 풋살처럼 팀당 총 6명씩 뛰었는데, 운동장이 내가 알던 풋살 경기장의 크기가 아니라 거의 축구 경기장 크기보다 약간 작은 정도 같아서 <span style="color: indianred">**풋살하기엔 너무 큰 게 아닌가?**</span> 싶었었다.
@@ -58,7 +58,7 @@ description: 2025.08.30 에콰도르 키토에서 적도 박물관 탐방기
 </div>
 <br>
 
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d89190.7560968259!2d-78.54012425644173!3d-0.05962782082519612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d5881ef89bad91%3A0xb2e1699b00a1a9b8!2sMiddle%20of%20the%20World!5e0!3m2!1sko!2sec!4v1756619687859!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d89190.7560968259!2d-78.54012425644173!3d-0.05962782082519612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d5881ef89bad91%3A0xb2e1699b00a1a9b8!2sMiddle%20of%20the%20World!5e0!3m2!1sko!2sec!4v1756619687859!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ##### **입구 및 과거 주거 형태**
@@ -287,7 +287,7 @@ description: 2025.08.30 에콰도르 키토에서 적도 박물관 탐방기
 </div>
 <br>
 
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d865.326164581857!2d-78.4801961187489!3d-0.17987820988299946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a8141487355%3A0x8e013addeaa2a179!2sSweet%20%26%20Coffee%20%E2%80%A2%20Rep%C3%BAblica%20de%20El%20Salvador!5e0!3m2!1sko!2sec!4v1756619753560!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d865.326164581857!2d-78.4801961187489!3d-0.17987820988299946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a8141487355%3A0x8e013addeaa2a179!2sSweet%20%26%20Coffee%20%E2%80%A2%20Rep%C3%BAblica%20de%20El%20Salvador!5e0!3m2!1sko!2sec!4v1756619753560!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---
@@ -300,7 +300,7 @@ description: 2025.08.30 에콰도르 키토에서 적도 박물관 탐방기
 
 <br>
 
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d997.4498850297531!2d-78.47874846946739!3d-0.17579706742542914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a7c342eadad%3A0xb325d53a1b2e9ea6!2sTasty%20Korean%20Food!5e0!3m2!1sko!2sec!4v1756619787486!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d997.4498850297531!2d-78.47874846946739!3d-0.17579706742542914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a7c342eadad%3A0xb325d53a1b2e9ea6!2sTasty%20Korean%20Food!5e0!3m2!1sko!2sec!4v1756619787486!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 저녁을 너무 많이 먹어서 소화할 겸 끼센뜨로 몰을 걷던 중 줄이 줄어들지를 않던 가게 나중에 너무 궁금해서 뭔가하고 들려서 봤는데 <span style="color: #8D4801">**특별 할인 행사**</span>를 했던 것 같다.

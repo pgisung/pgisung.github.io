@@ -115,7 +115,7 @@ description: 2013.12.14 싱가포르 2일 차 여행기
 </div>
 <br>
 
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1972.6622014106488!2d103.8183859568519!3d1.2544368105600805!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1bb1b3888f2f%3A0xcbd6074502ce477b!2sKFC%20Sentosa!5e0!3m2!1sko!2sec!4v1755037807180!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1972.6622014106488!2d103.8183859568519!3d1.2544368105600805!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1bb1b3888f2f%3A0xcbd6074502ce477b!2sKFC%20Sentosa!5e0!3m2!1sko!2sec!4v1755037807180!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---

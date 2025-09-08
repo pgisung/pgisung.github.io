@@ -49,7 +49,7 @@ description: 2013.12.15 싱가포르 3일 차 여행기
 <br>
 
 예약해 둔 식당을 찾는데 유명한 레스토랑이라 그런지 바로 눈에 띄어서 금방 찾아 들어갔다.
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.809746365909!2d103.84355632988581!3d1.2883210371296918!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1975553e3fe5%3A0xdbda8b3e22b39132!2z7KCQ67O0IOyLnO2RuOuTnCAtIOumrOuyhOyCrOydtOuTnCDtj6zsnbjtirg!5e0!3m2!1sko!2sec!4v1755207344235!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.809746365909!2d103.84355632988581!3d1.2883210371296918!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1975553e3fe5%3A0xdbda8b3e22b39132!2z7KCQ67O0IOyLnO2RuOuTnCAtIOumrOuyhOyCrOydtOuTnCDtj6zsnbjtirg!5e0!3m2!1sko!2sec!4v1755207344235!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 <span style="color: indianred">**예약석을 알아봤더니 사실은 우리가 예약한 곳은 이스트사이드 지점이었고, 이곳은 리버사이드 지점이라 예약이 된 게 아니었으나,**</span> 직원이 친절하게 일 처리를 해줘서 <span style="color: #8D4801">**1시간 후에 예약 손님이 들어오는 자리**</span>에 앉아 식사할 수 있었다.
 
@@ -101,7 +101,7 @@ description: 2013.12.15 싱가포르 3일 차 여행기
 <br>
 
 점보 레스토랑 바로 옆에는 <span style="color: #8D4801">**Brewerkz라는 맥주 판매점이 있었는데, 세계적인 맥주 성지**</span>로도 유명하다고 하여 들어가 보았다.
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1994.4038753200562!2d103.8440046!3d1.2895951000000083!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19195b7af921%3A0x1dbe7c851eb8cc7!2sBrewerkz%20Riverside%20Point!5e0!3m2!1sko!2sec!4v1755210150541!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1994.4038753200562!2d103.8440046!3d1.2895951000000083!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19195b7af921%3A0x1dbe7c851eb8cc7!2sBrewerkz%20Riverside%20Point!5e0!3m2!1sko!2sec!4v1755210150541!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 응? 앞뒤로 맥주를 들고 계시네
 <div class="image-slider-auto">
@@ -145,7 +145,7 @@ description: 2013.12.15 싱가포르 3일 차 여행기
 <br>
 
 ###### <span style="color: #8D4801">**240도 파노라마 클라크 퀘이 전경**</span>
-<center><div id="panorama-1" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;"></div></center>
+<center><div id="panorama-1"></div></center>
 <br>
 
 <span style="color: #8D4801">**마지막 밤**</span>이라 그런지 무언가 괜히 아쉬웠다.

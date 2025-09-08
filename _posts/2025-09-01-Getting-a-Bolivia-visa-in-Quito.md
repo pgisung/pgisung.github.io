@@ -80,7 +80,7 @@ description: 2025.09.01 에콰도르 키토에서 볼리비아 비자 발급받�
 </div>
 <br>
 
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d997.4499251310542!2d-78.48461050000004!3d-0.1750446999999954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a853da9eef7%3A0xa7e6e0f6b5be9ee4!2sGavidia%20Consultores!5e0!3m2!1sko!2sec!4v1756762885734!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d997.4499251310542!2d-78.48461050000004!3d-0.1750446999999954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a853da9eef7%3A0xa7e6e0f6b5be9ee4!2sGavidia%20Consultores!5e0!3m2!1sko!2sec!4v1756762885734!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 본래 가게명을 보면 세금 자문과 같은 업무를 하시는 것 같은데 <span style="color: #8D4801">**대부분의 손님은 인쇄와 복사를 하시는 분들**</span>이 주를 이루는 듯했다.
@@ -112,7 +112,7 @@ description: 2025.09.01 에콰도르 키토에서 볼리비아 비자 발급받�
 </div>
 <br>
 
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d997.4494262686597!2d-78.47681503041096!3d-0.18418563471988633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a656b4a7a97%3A0xbfb644f74bdbf6aa!2sStop!5e0!3m2!1sko!2sec!4v1756762980720!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d997.4494262686597!2d-78.47681503041096!3d-0.18418563471988633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a656b4a7a97%3A0xbfb644f74bdbf6aa!2sStop!5e0!3m2!1sko!2sec!4v1756762980720!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 근데 구글 맵에는 Stop 식당이라고 적혀있는데 <span style="color: #8D4801">**대체 어느 이름이 진짜**</span> 식당 이름인 거죠?
@@ -154,7 +154,7 @@ description: 2025.09.01 에콰도르 키토에서 볼리비아 비자 발급받�
 </div>
 <br>
 
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d997.449363485669!2d-78.47730250000004!3d-0.1853041000000052!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a7f03e4713b%3A0xdb3397b7e04e47c!2sEmbassy%20of%20Bolivia!5e0!3m2!1sko!2sec!4v1756763250784!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d997.449363485669!2d-78.47730250000004!3d-0.1853041000000052!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a7f03e4713b%3A0xdb3397b7e04e47c!2sEmbassy%20of%20Bolivia!5e0!3m2!1sko!2sec!4v1756763250784!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 경비분께서 문을 열어주시면 <span style="color: indianred">**들어가서 왼쪽으로 돌면**</span> 볼리비아 대사관 입구가 보이고 경비분께서 <span style="color: #8D4801">**위층으로 올라가**</span>라고 안내해 주신다.

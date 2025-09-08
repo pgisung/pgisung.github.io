@@ -49,7 +49,7 @@ Bolon과 간단한 계란후라이 하나가 나왔다. <span style="color: #8D4
 </div>
 <br>
 
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d249.271447644812!2d-80.8103876602493!3d-1.558094251743104!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902e9f1eeb0b6c13%3A0xf54e1e7e54eb489e!2sEncebollados%20de%20Brian!5e0!3m2!1sko!2sec!4v1756100444619!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d249.271447644812!2d-80.8103876602493!3d-1.558094251743104!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902e9f1eeb0b6c13%3A0xf54e1e7e54eb489e!2sEncebollados%20de%20Brian!5e0!3m2!1sko!2sec!4v1756100444619!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 식사가 다 끝날 무렵 <span style="color: #8D4801">**김이 펄펄 나는 뜨거운 물**</span>을 가져다주셨는데, 처음엔 이게 뭔가 싶다가 식탁 위 조미료통에 커피 비스름한 것을 발견하고 설탕 커피를 직접 타 마시라고 주셨다는 것을 알았다.
@@ -76,7 +76,7 @@ Bolon과 직접 타 먹는 설탕 커피의 가격은 <span style="color: indian
 </div>
 <br>
 
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1492.2280688917492!2d-80.80263509332443!3d-1.5406865735430604!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902c208776215975%3A0x7272c8c8a037bf72!2sTerminal%20Terrestre%20Puerto%20Lopez!5e0!3m2!1sko!2sec!4v1755782683004!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1492.2280688917492!2d-80.80263509332443!3d-1.5406865735430604!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902c208776215975%3A0x7272c8c8a037bf72!2sTerminal%20Terrestre%20Puerto%20Lopez!5e0!3m2!1sko!2sec!4v1755782683004!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 <span style="color: #8D4801">**만타로 향하는 버스 티켓**</span>. 만타에서 올 때는 휴일이어서 그랬는지 정류장에서부터 탑승객도 많았고 그래서 붙어있는 자리에 앉을 수도 없었는데 갈 때는 여유롭게 옆자리에 앉아서 갈 수 있었다.
@@ -105,7 +105,7 @@ Bolon과 직접 타 먹는 설탕 커피의 가격은 <span style="color: indian
 </div>
 <br>
 
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4638.317635826178!2d-80.7018901927238!3d-1.0037664661302823!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902be46128632d43%3A0x6cab71ffb74e5353!2sPETROECUADOR%20Gasolinera%20Jose%20Antonio!5e0!3m2!1sko!2sec!4v1756100579579!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4638.317635826178!2d-80.7018901927238!3d-1.0037664661302823!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902be46128632d43%3A0x6cab71ffb74e5353!2sPETROECUADOR%20Gasolinera%20Jose%20Antonio!5e0!3m2!1sko!2sec!4v1756100579579!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---
@@ -118,7 +118,7 @@ Bolon과 직접 타 먹는 설탕 커피의 가격은 <span style="color: indian
 </div>
 <br>
 
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.2645171403233!2d-80.68424690926207!3d-0.9546492271615287!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902be6f60633c6ed%3A0x1260e2f387f7d729!2sEloy%20Alfaro%20International%20Airport!5e0!3m2!1sko!2sec!4v1755779250660!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.2645171403233!2d-80.68424690926207!3d-0.9546492271615287!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902be6f60633c6ed%3A0x1260e2f387f7d729!2sEloy%20Alfaro%20International%20Airport!5e0!3m2!1sko!2sec!4v1755779250660!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 일정상 점심을 먹을 수 없었던 우리는 <span style="color: #8D4801">**친구가 자판기에서 뽑아온 감자칩으로 점심**</span>을 해결하고 비행기를 기다렸다.
@@ -141,7 +141,7 @@ Bolon과 직접 타 먹는 설탕 커피의 가격은 <span style="color: indian
 
 ##### **마리스칼 수크레 국제공항**
 
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.808942339798!2d-78.36056839999999!3d-0.12422709999999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d58db4352baa87%3A0x2f9f7623e0894b8b!2z66eI66as7Iqk7Lm8IOyImO2BrOugiCDqta3soJzqs7Xtla0!5e0!3m2!1sko!2sec!4v1755779329466!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.808942339798!2d-78.36056839999999!3d-0.12422709999999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d58db4352baa87%3A0x2f9f7623e0894b8b!2z66eI66as7Iqk7Lm8IOyImO2BrOugiCDqta3soJzqs7Xtla0!5e0!3m2!1sko!2sec!4v1755779329466!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 지상이 보이기 시작하는 것을 보니 키토에 거의 다 온 것 같다.
@@ -173,7 +173,7 @@ Bolon과 직접 타 먹는 설탕 커피의 가격은 <span style="color: indian
 </div>
 <br>
 
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.7992735318808!2d-78.48501699999996!3d-0.17704039999999352!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a85d978be5b%3A0x983383de2b51af58!2sKOBE%20sushi%20%26%20rolls%20-%20C.%20C.%20I.!5e0!3m2!1sko!2sec!4v1756100164220!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.7992735318808!2d-78.48501699999996!3d-0.17704039999999352!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a85d978be5b%3A0x983383de2b51af58!2sKOBE%20sushi%20%26%20rolls%20-%20C.%20C.%20I.!5e0!3m2!1sko!2sec!4v1756100164220!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---

@@ -35,7 +35,7 @@ description: 2025.08.17 플라타 섬 투어 이야기
 <span style="color: indianred">**진짜 플라타 섬 못 갈 뻔했던 우리를 구원해 준 Naturis 여행사**</span>. 공교롭게도 어제 투어했던 FRAGATA XTREME 여행사의 근처에 자리 잡고 있었다. 여행사에 도착하니 어제와 달리 우리 말곤 아무도 안 와있었는데 몇 분 정도 기다리고 나니 하나의 대가족이 도착했다. 보아하니 <span style="color: #8D4801">**그 가족 이외에 투어 일행은 우리뿐**</span>인 듯했다.
 
 간단한 브리핑을 마치고 어제와 마찬가지로 <span style="color: #8D4801">**부두로 이동**</span>했다.
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d964.7911222541691!2d-80.81272142259844!3d-1.559633326753971!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902e9f1e8e002d53%3A0xefb3e71d032b8cf6!2sIsla%20de%20la%20Plata%20Ecuador%20%7C%20Puerto%20L%C3%B3pez%20-Naturis%20tours!5e0!3m2!1sko!2sec!4v1755977571809!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d964.7911222541691!2d-80.81272142259844!3d-1.559633326753971!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902e9f1e8e002d53%3A0xefb3e71d032b8cf6!2sIsla%20de%20la%20Plata%20Ecuador%20%7C%20Puerto%20L%C3%B3pez%20-Naturis%20tours!5e0!3m2!1sko!2sec!4v1755977571809!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 <span style="color: #8D4801">**손님들을 기다리는 수많은 여행사의 보트들**</span>... 오늘도 어제처럼 약 1시간 기다리려나 하고 편하게 줄 서서 보트들을 구경하고 있었는데, 갑자기 <span style="color: #8D4801">**가이드가 우리 그룹원들을 앞쪽**</span>으로 불렀다.
@@ -74,7 +74,7 @@ description: 2025.08.17 플라타 섬 투어 이야기
 
 ##### **반겨주는 바다거북**
 드디어 도착한 <span style="color: #8D4801">**작은 갈라파고스 플라타 섬**</span>!
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11101.12579532487!2d-81.07309157009428!3d-1.2721772315088908!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902eb3fb61c48bcd%3A0x89c982c7bbef00b2!2sProtection%20Center%20Isla%20de%20La%20Plata!5e0!3m2!1sko!2sec!4v1755982055021!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11101.12579532487!2d-81.07309157009428!3d-1.2721772315088908!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902eb3fb61c48bcd%3A0x89c982c7bbef00b2!2sProtection%20Center%20Isla%20de%20La%20Plata!5e0!3m2!1sko!2sec!4v1755982055021!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 아직 하선하기 전 섬에 도착하면 먼저 <span style="color: #8D4801">**여러 마리의 바다거북들이 우리를 반겨준다**</span>. (물론 우리가 아니라 가이드들이 주는 과자나 먹이를 반기는 거겠지...)
@@ -440,7 +440,7 @@ description: 2025.08.17 플라타 섬 투어 이야기
 </div>
 <br>
 
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7976.66746265409!2d-80.8215594899536!3d-1.563067233691937!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902e9e1f16e726e3%3A0x1a6d73cf5b6738dd!2sRestaurante%20Sabor%20Espa%C3%B1ol!5e0!3m2!1sko!2sec!4v1755985614033!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7976.66746265409!2d-80.8215594899536!3d-1.563067233691937!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902e9e1f16e726e3%3A0x1a6d73cf5b6738dd!2sRestaurante%20Sabor%20Espa%C3%B1ol!5e0!3m2!1sko!2sec!4v1755985614033!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 과거 메뉴판을 보면 메뉴들 가격이 더 비쌌는데 지금이 여기가 성수기임에도 불구하고 가격들이 더 싸져서 좋았다. <span style="color: #8D4801">**Langsta가 15불이었는데 12불로**</span> 적혀있네?

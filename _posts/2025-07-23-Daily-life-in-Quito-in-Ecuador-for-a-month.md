@@ -52,11 +52,11 @@ description: 2025.07.23 ~ 2025.08.24 카롤리나 공원 아침 운동 일지 �
 에? 열차까지 타고 이동해야 한다고요? <span style="color: indianred">**놀래서 후다닥 달려서 셔틀 열차 타고 T2 도착**</span>했더니 위에 언급했듯이 <span style="color: indianred">**짐 검사를 또 한다. 남은 초조한데 아주 여유가 넘치는 검시관들**</span> 덕에 복장이 터질 뻔했지만, 아무튼 막상 도착해보니 줄도 엄청 길고 아직 탑승도 못 하고 있어서 다행스럽게 생각했던 기억이 난다. 근데 아직도 이해가 안 가는 게... 환승하는데 대체 짐 검사를 왜 두 번이나 다시 하시는 건데요? 왜요? 왜?
 
 아무튼 갑자기 멕시코에 안 좋은 이미지 잔뜩 남기고 리마행 비행기에 올랐는데 <span style="color: #8D4801">**Latam 비행기**</span>는 짧은 거리를 이동해서 그런가? <span style="color: indianred">**좌석도 매우 비좁고 불편**</span>했다. 심지어 좌석도 셀프 체크인 때 돈을 따로 지불하지 않으면 선택할 수 없어서 <span style="color: indianred">**가운데 자리**</span>... 다음 항공편 또한 상동이어서 쉽지 않았다.
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12174.919705998!2d-99.07463621116284!3d19.436024902901806!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1fc77bd93229f%3A0x2d07ef561bad244!2sMexico%20City%20International%20Airport%20Benito%20Ju%C3%A1rez!5e0!3m2!1sko!2sec!4v1756416076518!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12174.919705998!2d-99.07463621116284!3d19.436024902901806!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1fc77bd93229f%3A0x2d07ef561bad244!2sMexico%20City%20International%20Airport%20Benito%20Ju%C3%A1rez!5e0!3m2!1sko!2sec!4v1756416076518!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 약 6시간 정도 비행 후 리마에 도착했다. 환승 표시를 따라 이동하는데 일단 시설부터 뭔가 멕시코시티 공항보다 훨씬 <span style="color: #8D4801">**깔끔한 신형**</span> 느낌이다. (나중에 알고 보니 실제로 최근에 새로 지었다고 한다.) 아무튼 여느 공항과 다르게 <span style="color: indianred">**여권과 티켓 확인만으로 탑승장에 바로 이동**</span>할 수 있었다. (멕시코 진짜...) 경유의 마지막 비행기로 대기시간도 짧아서 사실상 금방 줄 서고 비행기에 올랐다.
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30735.7169966038!2d-77.11668597770729!3d-12.01920958233598!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105cc3d52f51e01%3A0x1f75ae97fb12652c!2z7Zi466W07ZekIOywqOuyoOyKpCDqta3soJzqs7Xtla0!5e0!3m2!1sko!2sec!4v1756417121673!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30735.7169966038!2d-77.11668597770729!3d-12.01920958233598!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105cc3d52f51e01%3A0x1f75ae97fb12652c!2z7Zi466W07ZekIOywqOuyoOyKpCDqta3soJzqs7Xtla0!5e0!3m2!1sko!2sec!4v1756417121673!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 이제 <span style="color: #8D4801">**마지막 비행기**</span>라서 다 왔다고 마음 편히 착륙을 기다리고 있었는데 <span style="color: indianred">**뭔가 싸한 기분**</span>이 들기 시작했다. 일단 도착 예정 시간보다 벌써 30분 일찍 뭔가 지상이 보여서 진짜 일찍 도착했다고 좋아하고 있었는데 이때부터 이미 도착 예정 시간이 지날 때까지 <span style="color: indianred">**비행기가 착륙할 기미가 없어**</span> 보였다.
@@ -77,7 +77,7 @@ description: 2025.07.23 ~ 2025.08.24 카롤리나 공원 아침 운동 일지 �
 당시엔 목적지가 변경된 것도 모르고 언제 착륙하나 기다리는데 비행기가 이상한 방향으로 트는 것이다. 나중에야 친구가 메시지로 알려줘서 <span style="color: indianred">**이 비행기가 일단 과야킬로 간다는 것**</span>을 알았고, 그곳에서 하루 자고 다시 비행기를 타야 할 수도 있겠구나! 각오하고 있었는데
 
 비행기가 착륙은 했는데 문은 안 열어주고 <span style="color: indianred">**몇 시간 기내에서 대기**</span>하다가 다시 이륙해서 키토로 향했다. 그렇게 키토에 도착하니 <span style="color: #8D4801">**무려 4시간 오버된 아침 6시**</span>였다.
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d50172.327165538714!2d-78.36234604564642!3d-0.12001745859262389!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d58db4352baa87%3A0x2f9f7623e0894b8b!2z66eI66as7Iqk7Lm8IOyImO2BrOugiCDqta3soJzqs7Xtla0!5e0!3m2!1sko!2sec!4v1756417545153!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d50172.327165538714!2d-78.36234604564642!3d-0.12001745859262389!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d58db4352baa87%3A0x2f9f7623e0894b8b!2z66eI66as7Iqk7Lm8IOyImO2BrOugiCDqta3soJzqs7Xtla0!5e0!3m2!1sko!2sec!4v1756417545153!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 원래는 <span style="color: #8D4801">**친구를 만나서 유심칩을 같이 사기로 한 상태**</span>라 데이터가 없는 채로 이동했다가 연락이 안 되면 어쩌는지 걱정하다가 우버 <span style="color: indianred">**기사님의 핫스팟을 쓰면 되겠다**</span>는 생각하고 있었는데
@@ -125,7 +125,7 @@ description: 2025.07.23 ~ 2025.08.24 카롤리나 공원 아침 운동 일지 �
 알고 보니 <span style="color: indianred">**일부러 묻혀놓고 닦아준다고 접근한 다음에 온 데 간 데 다 묻혀서 정신을 빼놓고 돈을 훔치는 전형적인 소매치기 수법**</span> 중 하나라고 하니 진짜 주의해야겠다고 느꼈었다.
 
 **가방은 앞으로 메는 힙색을 하고 카라바이너나 자물쇠를 꼭 채우고 주변에 다가오는 인물들은 될 수 있으면 경계하는 게 좋다.**
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2299.4885074965805!2d-78.50087624396078!3d-0.21385727444745173!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a9e4ffffe59%3A0xa23a1f09e0530743!2sNational%20Assembly%20of%20Ecuador!5e0!3m2!1sko!2sec!4v1756428988410!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2299.4885074965805!2d-78.50087624396078!3d-0.21385727444745173!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a9e4ffffe59%3A0xa23a1f09e0530743!2sNational%20Assembly%20of%20Ecuador!5e0!3m2!1sko!2sec!4v1756428988410!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ##### **카롤리나 공원**
@@ -137,7 +137,7 @@ description: 2025.07.23 ~ 2025.08.24 카롤리나 공원 아침 운동 일지 �
 </div>
 <br>
 
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12681.45987568623!2d-78.49089693343001!3d-0.1840580963984691!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a87ac56537d%3A0x56b246bdb3f6ad13!2z7LqQ66Gk66as64KYIOqzteybkA!5e0!3m2!1sko!2sec!4v1756431657334!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12681.45987568623!2d-78.49089693343001!3d-0.1840580963984691!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a87ac56537d%3A0x56b246bdb3f6ad13!2z7LqQ66Gk66as64KYIOqzteybkA!5e0!3m2!1sko!2sec!4v1756431657334!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 공원 안에는 정말 <span style="color: #8D4801">**다양한 스포츠 시설**</span>들이 존재했다. 한국에도 서울 어딘가에 존재할 수 있을지도 모르지만 적어도 내가 살던 천안에선 이 정도로 많은 종류와 신기한 스포츠들을 즐길 수 있는 장소를 본 적이 없다.
@@ -174,7 +174,7 @@ description: 2025.07.23 ~ 2025.08.24 카롤리나 공원 아침 운동 일지 �
 </div>
 <br>
 
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.802144167939!2d-78.48538686089937!3d-0.16315453056583812!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59bd10a2e38e7%3A0xb5bdd868a862efa4!2sPlaza%20de%20Toros%20Quito!5e0!3m2!1sko!2sec!4v1756432950438!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.802144167939!2d-78.48538686089937!3d-0.16315453056583812!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59bd10a2e38e7%3A0xb5bdd868a862efa4!2sPlaza%20de%20Toros%20Quito!5e0!3m2!1sko!2sec!4v1756432950438!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 건널목을 보며 문득 생각난 게 그래도 한 나라의 수도인데 그냥 많이들 <span style="color: indianred">**당연한 듯이 무단횡단을 하더라고요**</span> 베트남인 줄 알았어요
@@ -190,7 +190,7 @@ description: 2025.07.23 ~ 2025.08.24 카롤리나 공원 아침 운동 일지 �
 </div>
 <br>
 
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8007.298108644319!2d-78.46809478784908!3d-0.18475924382595524!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d5906498c4aeb9%3A0xd105e7ffd5a171a7!2sParque%20Metropolitano%20Guang%C3%BCiltagua!5e0!3m2!1sko!2sec!4v1756434712733!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8007.298108644319!2d-78.46809478784908!3d-0.18475924382595524!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d5906498c4aeb9%3A0xd105e7ffd5a171a7!2sParque%20Metropolitano%20Guang%C3%BCiltagua!5e0!3m2!1sko!2sec!4v1756434712733!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 올림픽 경기장 옆길로 열심히 경사를 올라오니 나타난 <span style="color: #8D4801">**초입부**</span>
@@ -230,7 +230,7 @@ description: 2025.07.23 ~ 2025.08.24 카롤리나 공원 아침 운동 일지 �
 </div>
 <br>
 
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7979.598256274848!2d-78.47779780408413!3d-0.17771483774502012!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a821461e36b%3A0xdb3865e29796fa4f!2z7JeQ7Iqk7YOA65SU7JikIOyYrOumvO2UvOy9lCDslYTtg4DsmrDslYztjIw!5e0!3m2!1sko!2sec!4v1756436701712!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7979.598256274848!2d-78.47779780408413!3d-0.17771483774502012!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a821461e36b%3A0xdb3865e29796fa4f!2z7JeQ7Iqk7YOA65SU7JikIOyYrOumvO2UvOy9lCDslYTtg4DsmrDslYztjIw!5e0!3m2!1sko!2sec!4v1756436701712!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 방에서 자주 볼 수 있었던 풍경으로 이렇게 <span style="color: indianred">**소소한 불꽃**</span>도 자주 터트렸다.
@@ -275,7 +275,7 @@ GPT가 말하길 **검은지빠귀**라는 새
 </div>
 <br>
 
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.7958781046864!2d-78.52170713245872!3d-0.192173880627253!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a52a41cda27%3A0x5aa39335bc4a86b3!2z7YKk7YagIOy8gOydtOu4lOy5tA!5e0!3m2!1sko!2sec!4v1756438485212!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.7958781046864!2d-78.52170713245872!3d-0.192173880627253!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a52a41cda27%3A0x5aa39335bc4a86b3!2z7YKk7YagIOy8gOydtOu4lOy5tA!5e0!3m2!1sko!2sec!4v1756438485212!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 아는 사람끼리 따로따로 탑승하고 싶지만, <span style="color: #8D4801">**모르는 사람까지 꾸역꾸역 6명**</span>을 다 채워서 올려보낸다.
@@ -306,11 +306,11 @@ GPT가 말하길 **검은지빠귀**라는 새
 </div>
 <br>
 
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.7922644298214!2d-78.4951281!3d-0.20706869999999414!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a1662736c01%3A0x84dca7b76749de4c!2sLa%20Mariscal%20Artisan%20Market!5e0!3m2!1sko!2sec!4v1756443493333!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.7922644298214!2d-78.4951281!3d-0.20706869999999414!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a1662736c01%3A0x84dca7b76749de4c!2sLa%20Mariscal%20Artisan%20Market!5e0!3m2!1sko!2sec!4v1756443493333!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 사실 이날 옆에 있던 수공예 시장에도 들렸는데 역시나 찍은 사진도 없고 구매한 물건도 없지만 많은 인형과 수공예품들을 보긴 했었다. 당시에 찾고 있던 인형이 너무 추상적이었는데 단순히 기념품을 사려고 했다면 이건 사고 싶은데 하는 물건들도 있었다.
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7979.586529554796!2d-78.50344531440305!3d-0.20305486731297734!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a3fbb8e0733%3A0xf6488c5a9d564f5a!2sQuitus%20Craft%20Market!5e0!3m2!1sko!2sec!4v1756649167624!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7979.586529554796!2d-78.50344531440305!3d-0.20305486731297734!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a3fbb8e0733%3A0xf6488c5a9d564f5a!2sQuitus%20Craft%20Market!5e0!3m2!1sko!2sec!4v1756649167624!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---

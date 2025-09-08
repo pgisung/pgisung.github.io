@@ -53,7 +53,7 @@ description: 2025.09.04 에콰도르 키토에서 보토 나시오날 대성당 
 </div>
 <br>
 
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.790233654692!2d-78.50765179999996!3d-0.21498669999999256!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a25c31db3b5%3A0x6c011283454d8bce!2z67O07YagIOuCmOyLnOyYpOuCoCDrjIDshLHri7k!5e0!3m2!1sko!2sec!4v1757105149902!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.790233654692!2d-78.50765179999996!3d-0.21498669999999256!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a25c31db3b5%3A0x6c011283454d8bce!2z67O07YagIOuCmOyLnOyYpOuCoCDrjIDshLHri7k!5e0!3m2!1sko!2sec!4v1757105149902!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 일단 도착했으니까 한 컷 근데 <span style="color: indianred">**여기가 정문이 아니었다**</span>.
@@ -83,7 +83,7 @@ description: 2025.09.04 에콰도르 키토에서 보토 나시오날 대성당 
 </div>
 <br>
 
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d997.4475450620794!2d-78.5074029!3d-0.21519099999999122!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59b34627f7213%3A0x2a941f77aa98dd29!2sAgencia%20de%20Viajes%20Your%20Tours!5e0!3m2!1sko!2sec!4v1757105214686!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d997.4475450620794!2d-78.5074029!3d-0.21519099999999122!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59b34627f7213%3A0x2a941f77aa98dd29!2sAgencia%20de%20Viajes%20Your%20Tours!5e0!3m2!1sko!2sec!4v1757105214686!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ##### **외관**
@@ -197,7 +197,7 @@ description: 2025.09.04 에콰도르 키토에서 보토 나시오날 대성당 
 <br>
 
 ###### <span style="color: #8D4801">**240도 파노라마 키토 도시 전경**</span>
-<center><div id="panorama-1" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;"></div></center>
+<center><div id="panorama-1"></div></center>
 <br>
 
 다음으로 길을 따라 쭉 올라가 보았다. 
@@ -345,7 +345,7 @@ description: 2025.09.04 에콰도르 키토에서 보토 나시오날 대성당 
 </div>
 <br>
 
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d997.4472745808225!2d-78.51165449999995!3d-0.21928879999999093!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a282c1ca6f5%3A0xf2e4c05c7fafdbc2!2sJuan%20Fogonero!5e0!3m2!1sko!2sec!4v1757105295397!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d997.4472745808225!2d-78.51165449999995!3d-0.21928879999999093!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a282c1ca6f5%3A0xf2e4c05c7fafdbc2!2sJuan%20Fogonero!5e0!3m2!1sko!2sec!4v1757105295397!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 일단 <span style="color: indianred">**상그리아를 컵으로도 판매**</span>하셔서 너무 좋았고, <span style="color: #8D4801">**엠빠나다는 만두 비슷한 요리**</span>라는 건 알고 있었지만, 생각보다 양이 쬐끔 많이 적었다. 겉은 바삭하고 속엔 고기가 들어있었는데, 크기가 큰데 <span style="color: indianred">**칼로 썰어서 먹자니 내용물을 유지하면서 먹기가 좀 불편**</span>하긴 했다. 소스는 "삐깐떼"라고 하셔서 매운 소스인가? 했는데 새콤한 맛이 나고 하나도 맵지는 않았다.
@@ -376,7 +376,7 @@ description: 2025.09.04 에콰도르 키토에서 보토 나시오날 대성당 
 </div>
 <br>
 
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d498.72359412651383!2d-78.51233691102865!3d-0.22058064393683338!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d5998777862fb3%3A0x58bdbdb54ec52db!2sDulceria%20Colonial!5e0!3m2!1sko!2sec!4v1757109106983!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d498.72359412651383!2d-78.51233691102865!3d-0.22058064393683338!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d5998777862fb3%3A0x58bdbdb54ec52db!2sDulceria%20Colonial!5e0!3m2!1sko!2sec!4v1757109106983!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ##### **야경 찾아가는 길**
@@ -418,7 +418,7 @@ description: 2025.09.04 에콰도르 키토에서 보토 나시오날 대성당 
 
 <br>
 
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.7887441227654!2d-78.50339570000001!3d-0.22061380000000116!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d5998af85031d9%3A0x78c592f4d6423b6c!2sCaf%C3%A9%20Mosaico!5e0!3m2!1sko!2sec!4v1757105354011!5m2!1sko!2sec" style="border:1px solid #8D4801;border-radius:14px;width:80%;max-width:1080px;aspect-ratio:4/3;height:auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.7887441227654!2d-78.50339570000001!3d-0.22061380000000116!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d5998af85031d9%3A0x78c592f4d6423b6c!2sCaf%C3%A9%20Mosaico!5e0!3m2!1sko!2sec!4v1757105354011!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 예약을 했냐고 물으셔서 <span style="color: indianred">**순간 예약 안 하면 뷰 좋은 자리에 못 앉으려나 덜컥 걱정**</span>했지만, 다행히도 예약석 손님인지 아닌지만 확인하신 것 같고 <span style="color: #8D4801">**좋은 자리로 안내받을 수 있었다**</span>. 앉은 자리에서 성모상이 바로 눈앞에 보여서 너무 아름다웠다.
