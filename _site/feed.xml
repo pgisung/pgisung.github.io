@@ -1,45 +1,210 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-09-09T00:12:26+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JohnnyPark</title><subtitle>The growth diary of Software developer JohnnyPark</subtitle><entry><title type="html">킬로토아 호수(Quilotoa Lake)를 내려다보다 - 휴화산 하이킹</title><link href="http://localhost:4000/travel/ecuador/2025/09/08/Looking-down-Quilotoa-Lake/" rel="alternate" type="text/html" title="킬로토아 호수(Quilotoa Lake)를 내려다보다 - 휴화산 하이킹" /><published>2025-09-08T13:47:19+09:00</published><updated>2025-09-08T13:47:19+09:00</updated><id>http://localhost:4000/travel/ecuador/2025/09/08/Looking-down-Quilotoa-Lake</id><content type="html" xml:base="http://localhost:4000/travel/ecuador/2025/09/08/Looking-down-Quilotoa-Lake/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-09-09T02:50:40+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JohnnyPark</title><subtitle>The growth diary of Software developer JohnnyPark</subtitle><entry><title type="html">킬로토아 호수(Quilotoa Lake)를 내려다보다 - 휴화산 하이킹</title><link href="http://localhost:4000/travel/ecuador/2025/09/08/Looking-down-Quilotoa-Lake/" rel="alternate" type="text/html" title="킬로토아 호수(Quilotoa Lake)를 내려다보다 - 휴화산 하이킹" /><published>2025-09-08T13:47:19+09:00</published><updated>2025-09-08T13:47:19+09:00</updated><id>http://localhost:4000/travel/ecuador/2025/09/08/Looking-down-Quilotoa-Lake</id><content type="html" xml:base="http://localhost:4000/travel/ecuador/2025/09/08/Looking-down-Quilotoa-Lake/"><![CDATA[<blockquote>
   <ol>
-    <li><a href="#" title="Navigate to ">투어 시작</a>
+    <li><a href="#투어-시작" title="Navigate to Tour start">투어 시작</a>
       <ul>
-        <li><a href="#" title="Navigate to ">챠스키 카페</a></li>
-        <li><a href="#" title="Navigate to ">론다도르 코토팍시</a></li>
+        <li><a href="#챠스키-카페" title="Navigate to Chasky Kfé">챠스키 카페</a></li>
+        <li><a href="#론다도르-코토팍시" title="Navigate to Rondador Cotopaxi">론다도르 코토팍시</a></li>
       </ul>
     </li>
-    <li><a href="#" title="Navigate to ">돈 훌리안 아저씨 댁</a></li>
-    <li><a href="#" title="Navigate to ">호수 가는 길</a>
+    <li><a href="#돈-훌리안-아저씨-댁" title="Navigate to Don Julian's house">돈 훌리안 아저씨 댁</a></li>
+    <li><a href="#호수-가는-길" title="Navigate to On the way to the lake">호수 가는 길</a>
       <ul>
-        <li><a href="#" title="Navigate to ">티구아의 첫 번째 화가 갤러리</a></li>
-        <li><a href="#" title="Navigate to ">챠미 와이쿠</a></li>
-        <li><a href="#" title="Navigate to ">츄키라와 식당</a></li>
+        <li><a href="#티구아의-첫-번째-화가-갤러리" title="Navigate to The gallery of first painter in Tigua">티구아의 첫 번째 화가 갤러리</a></li>
+        <li><a href="#챠미-와이쿠" title="Navigate to Chami Wayku">챠미 와이쿠</a></li>
+        <li><a href="#240도-파노라마-챠미-와이쿠-전경" title="Navigate to 240-degree panoramic view for Chami Wayku">240도 파노라마 챠미 와이쿠 전경</a></li>
+        <li><a href="#츄키라와-식당" title="Navigate to Chukirawa restaurant">츄키라와 식당</a></li>
       </ul>
     </li>
-    <li><a href="#" title="Navigate to ">킬로토아 호수</a></li>
-    <li><a href="#" title="Navigate to ">돌아오는 길</a>
+    <li><a href="#킬로토아-호수" title="Navigate to Quilotoa Lake">킬로토아 호수</a>
       <ul>
-        <li><a href="#" title="Navigate to ">레이 판 푸힐리 베이커리</a></li>
+        <li><a href="#240도-파노라마-킬로토아-호수-전경" title="Navigate to 240-degree panoramic view for Quilotoa Lake">240도 파노라마 킬로토아 호수 전경</a></li>
       </ul>
     </li>
+    <li><a href="#돌아오는-길" title="Navigate to On the way back to home">돌아오는 길</a>
+      <ul>
+        <li><a href="#레이-판-푸힐리-베이커리" title="Navigate to Rey Pan Pujili Bakery">레이 판 푸힐리 베이커리</a></li>
+      </ul>
+    </li>
+    <li><a href="#여행-경로" title="Navigate to Travel route">여행 경로</a></li>
     <li><a href="#여행-경비" title="Navigate to Travel expenses">여행 경비</a></li>
   </ol>
 </blockquote>
 
 <hr />
 
-<h4><span style="color: #8D4801"><em>**</em></span></h4>
+<p>가이드 이름 아드리안
+기사님 이름 바훌</p>
+
+<p>어머님 아들 세계여행하시는지 짐이 많아보임, 궁금한것도 말도 많으심 이스라엘인 딸도 둘있음 아들이 막내 남미여행을 8개월넘게 했고</p>
+
+<p>이름이 핫산이신거보니 중동이나 북아프리카 분들 같은데 자기들 아마존 투어하면서 원주민 투어 해봤다고 스킵할수 없냐고 물음- 쿠웨이트 비자때문에 에콰도르랑 페루만</p>
+
+<p>브라질 여성 말레이시아 남자</p>
+
+<p>첫번째 화산 Pasochoa</p>
+
+<p>https://maps.app.goo.gl/8SSgwc2GfHnu8CiSA?g_st=ipc</p>
+
+<p>https://maps.google.com?q=Rondador%20Cotopaxi,%20Entrda%20al%20Parque%20Nacional%20Cotopaxi,%20PASTOCALLE%20050115%20%EC%97%90%EC%BD%B0%EB%8F%84%EB%A5%B4&amp;ftid=0x91d45714d5790457:0x9cccf84529e92588&amp;entry=gps&amp;lucs=,94284484,94224825,94227247,94227248,94231188,47071704,94259573,47069508,94273883,94218641,94282134,94203019,47084304&amp;g_st=ipc</p>
+
+<p>새우 수출
+장미 수출
+장미 총 약 75-80송이 꽃다발 3개를 5달러면 살수있다고 한다</p>
+
+<p>화산97 활화산22</p>
+
+<p>에코시스템으로 농사에 따로 물 공급이 필요하지 않다</p>
+
+<p>https://maps.app.goo.gl/RSS3RN3V4esoXGM76?g_st=ipc</p>
+
+<p>케추아어, 스페인어 76세 70세 최근에 빙하로 집이 피해를 입으셔서 수리하셨다함, 엄청 추운데 식사준비하실때 불로 난방을 하신다는데 난방 하나도 안될거같음, 양털로 만든 판초, 4명의 자식 10명의 손주
+감자 농사지으심 ,마슈아 모제또</p>
+
+<p>대부분의 감자, 옥수수는 아메리카로 부터 난다</p>
+
+<p>안좋은 사람이 오면 기니피그가 울고 그럼 그사람을 쫓아낸다</p>
+
+<p>Sleeping 무슨 산?</p>
+
+<p>https://maps.app.goo.gl/kbXYXjvPpR4bDw2x9?g_st=ipc</p>
+
+<p>갤러리</p>
+
+<p>Zumbahua 숨바와 커뮤니티 - 많은 원주민들이 거주한다, 90퍼센트 이상의 인디지니어스 사람들, 세상이 현대화되면서 그들의 모습도 달라졌다?</p>
+
+<p>농사 후 불태우는 이유 흙이 부드러워져서</p>
+
+<p>https://maps.app.goo.gl/QUsi3zFiWaekBmMaA?g_st=ipc</p>
+
+<p>화산 폭발 후 빙하가 녹아서 형성 된 지형</p>
+
+<p>4200미터</p>
+
+<p>https://maps.app.goo.gl/i48bn7B2JqVk7aEk6?g_st=ipc
+호수 투어 끝나고</p>
+
+<p>볼로네 파스타, 과나바나 주스</p>
+
+<p>https://maps.google.com?q=PANADERIA%20Y%20PASTELERIA%20REY%20PAN%20PUJILI,%20050450,%20Pujil%C3%AD%20050454%20%EC%97%90%EC%BD%B0%EB%8F%84%EB%A5%B4&amp;ftid=0x91d48baaf63ebb27:0xebe8744a473c3991&amp;entry=gps&amp;lucs=,94284484,94224825,94227247,94227248,94231188,47071704,94259573,47069508,94273883,94218641,94282134,94203019,47084304&amp;g_st=ipc</p>
+
+<h4 id="투어-시작"><span style="color: #8D4801"><strong>투어 시작</strong></span></h4>
 
 <div class="image-slider-static">
   <img src="/images/posts/2025-09-07-Looking-down-Quilotoa-Lake/.jpg" title="" alt="" />
 </div>
 <p><br /></p>
 
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.3621706035447!2d-78.91715032204752!3d-0.8664009574714319!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d4ec973f217617%3A0x44e6e6c2c69094b9!2sMirador%20to%20Laguna%20Quilotoa!5e0!3m2!1sko!2sec!4v1757343312318!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1361.769884688251!2d-78.48206211832948!3d-0.17636891274545957!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a846449b88b%3A0xb5ca75d150fcbb8c!2sQuito%20Tour%20Bus%20%2F%20Bulevar%20Naciones%20Unidas!5e0!3m2!1sko!2sec!4v1757346253476!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <p><br /></p>
 
+<h5 id="챠스키-카페"><strong>챠스키 카페</strong></h5>
+
+<div class="image-slider-static">
+  <img src="/images/posts/2025-09-07-Looking-down-Quilotoa-Lake/.jpg" title="" alt="" />
+</div>
+<p><br /></p>
+
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.6532779720224!2d-78.57909768122862!3d-0.5211470628491083!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d5abe4b3ba39b1%3A0x32257dced0efee4!2sChasky%20Kfe%20Restaurante%20-%20Mini%20Market!5e0!3m2!1sko!2sec!4v1757346201906!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<p><br /></p>
+
+<h5 id="론다도르-코토팍시"><strong>론다도르 코토팍시</strong></h5>
+
+<div class="image-slider-static">
+  <img src="/images/posts/2025-09-07-Looking-down-Quilotoa-Lake/.jpg" title="" alt="" />
+</div>
+<p><br /></p>
+
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.5204640779043!2d-78.58859123704833!3d-0.7001113878597516!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d45714d5790457%3A0x9cccf84529e92588!2sRondador%20Cotopaxi!5e0!3m2!1sko!2sec!4v1757346307587!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<p><br /></p>
+
+<hr />
+
+<h4 id="돈-훌리안-아저씨-댁"><span style="color: #8D4801"><strong>돈 훌리안 아저씨 댁</strong></span></h4>
+
+<div class="image-slider-static">
+  <img src="/images/posts/2025-09-07-Looking-down-Quilotoa-Lake/.jpg" title="" alt="" />
+</div>
+<p><br /></p>
+
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.3342779957975!2d-78.78374866773686!3d-0.8924977709766415!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d48da9a73aa98b%3A0xacf83a09dec45e9f!2zTGEgQ2FzYSBEZSBEb24gSnVsaWFu4puw77iP!5e0!3m2!1sko!2sec!4v1757346375046!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<p><br /></p>
+
+<hr />
+
+<h4 id="호수-가는-길"><span style="color: #8D4801"><strong>호수 가는 길</strong></span></h4>
+
+<div class="image-slider-static">
+  <img src="/images/posts/2025-09-07-Looking-down-Quilotoa-Lake/.jpg" title="" alt="" />
+</div>
+<p><br /></p>
+
+<h5 id="티구아의-첫-번째-화가-갤러리"><strong>티구아의 첫 번째 화가 갤러리</strong></h5>
+
+<div class="image-slider-static">
+  <img src="/images/posts/2025-09-07-Looking-down-Quilotoa-Lake/.jpg" title="" alt="" />
+</div>
+<p><br /></p>
+
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.268818454162!2d-78.867346!3d-0.9509345999999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d493bae9885995%3A0x3531d86fc18b919d!2sGaleria%20del%20Primer%20Pintor%20de%20Tigua%20%22Julio%20Toaquiza%20Tigasi%22!5e0!3m2!1sko!2sec!4v1757346489099!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<p><br /></p>
+
+<h5 id="챠미-와이쿠"><strong>챠미 와이쿠</strong></h5>
+
+<div class="image-slider-static">
+  <img src="/images/posts/2025-09-07-Looking-down-Quilotoa-Lake/.jpg" title="" alt="" />
+</div>
+<p><br /></p>
+
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.2719062487567!2d-78.900335!3d-0.9482589999999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d493250fef4bd7%3A0xdff28fc043e389fc!2sChami%20Wayku!5e0!3m2!1sko!2sec!4v1757346529842!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<p><br /></p>
+
+<h6 id="240도-파노라마-챠미-와이쿠-전경"><span style="color: #8D4801"><strong>240도 파노라마 챠미 와이쿠 전경</strong></span></h6>
 <center><div id="panorama-1"></div></center>
 <p><br /></p>
 
+<h5 id="츄키라와-식당"><strong>츄키라와 식당</strong></h5>
+
+<div class="image-slider-static">
+  <img src="/images/posts/2025-09-07-Looking-down-Quilotoa-Lake/.jpg" title="" alt="" />
+</div>
+<p><br /></p>
+
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.36160094242!2d-78.9162672!3d-0.8669418!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d48a30f1ec3a15%3A0x96246423457b42cf!2sHosteria%20Chukirawa!5e0!3m2!1sko!2sec!4v1757346593917!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<p><br /></p>
+
+<hr />
+
+<h4 id="킬로토아-호수"><span style="color: #8D4801"><strong>킬로토아 호수</strong></span></h4>
+
+<div class="image-slider-static">
+  <img src="/images/posts/2025-09-07-Looking-down-Quilotoa-Lake/.jpg" title="" alt="" />
+</div>
+<p><br /></p>
+
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d5242.755384422679!2d-78.91300445809607!3d-0.86521024709723!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x91d4ec973f217617%3A0x44e6e6c2c69094b9!2sMirador%20to%20Laguna%20Quilotoa!3m2!1d-0.8664004!2d-78.915958!4m5!1s0x91d4ec923bd75833%3A0xc806b80138208c0f!2zNDNRUSs0TTQg7YKs66Gc7Yag7JWEIO2ZlOyCsO2YuOyImCBMYWd1bmEgZGUgUXVpbG90b2EsIENodWNjaGlsw6Fu!3m2!1d-0.8622466999999999!2d-78.9108088!5e0!3m2!1sko!2sec!4v1757346746447!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<p><br /></p>
+
+<h6 id="240도-파노라마-킬로토아-호수-전경"><span style="color: #8D4801"><strong>240도 파노라마 킬로토아 호수 전경</strong></span></h6>
 <center><div id="panorama-2"></div></center>
+<p><br /></p>
+
+<hr />
+
+<h4 id="돌아오는-길"><span style="color: #8D4801"><strong>돌아오는 길</strong></span></h4>
+<h5 id="레이-판-푸힐리-베이커리"><strong>레이 판 푸힐리 베이커리</strong></h5>
+
+<div class="image-slider-static">
+  <img src="/images/posts/2025-09-07-Looking-down-Quilotoa-Lake/.jpg" title="" alt="" />
+</div>
+<p><br /></p>
+
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.285903686055!2d-78.6810201!3d-0.9360342!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d48baaf63ebb27%3A0xebe8744a473c3991!2sPANADERIA%20Y%20PASTELERIA%20REY%20PAN%20PUJILI!5e0!3m2!1sko!2sec!4v1757346794951!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<p><br /></p>
+
+<hr />
+
+<h4 id="여행-경로"><span style="color: #8D4801"><strong>여행 경로</strong></span></h4>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m70!1m12!1m3!1d707752.7532437582!2d-79.04008994256263!3d-0.4991088747249437!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m55!3e0!4m5!1s0x91d59a846449b88b%3A0xb5ca75d150fcbb8c!2sQuito%20Tour%20Bus%20%2F%20Bulevar%20Naciones%20Unidas!3m2!1d-0.1767204!2d-78.4818741!4m5!1s0x91d5abe4b3ba39b1%3A0x32257dced0efee4!2sChasky%20Kfe%20Restaurante%20-%20Mini%20Market!3m2!1d-0.5206320999999999!2d-78.577542!4m5!1s0x91d45714d5790457%3A0x9cccf84529e92588!2sRondador%20Cotopaxi!3m2!1d-0.7001543!2d-78.5870892!4m5!1s0x91d48da9a73aa98b%3A0xacf83a09dec45e9f!2zTGEgQ2FzYSBEZSBEb24gSnVsaWFu4puw77iP!3m2!1d-0.8921973999999999!2d-78.7821608!4m5!1s0x91d493bae9885995%3A0x3531d86fc18b919d!2sGaleria%20del%20Primer%20Pintor%20de%20Tigua%20%22Julio%20Toaquiza%20Tigasi%22!3m2!1d-0.9508907!2d-78.8673549!4m5!1s0x91d493250fef4bd7%3A0xdff28fc043e389fc!2sChami%20Wayku!3m2!1d-0.948259!2d-78.900335!4m5!1s0x91d48a30f1ec3a15%3A0x96246423457b42cf!2sHosteria%20Chukirawa!3m2!1d-0.8669418!2d-78.9162672!4m5!1s0x91d4ec973f217617%3A0x44e6e6c2c69094b9!2sMirador%20to%20Laguna%20Quilotoa!3m2!1d-0.8664004!2d-78.915958!4m5!1s0x91d48baaf63ebb27%3A0xebe8744a473c3991!2sPANADERIA%20Y%20PASTELERIA%20REY%20PAN%20PUJILI!3m2!1d-0.9360341999999999!2d-78.6810201!5e0!3m2!1sko!2sec!4v1757349518303!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <p><br /></p>
 
 <hr />
@@ -125,6 +290,7 @@ pannellum.viewer('panorama-2', {
         <li><a href="#cafe-mosaico-식당" title="Navigate to Café Mosaico restaurant">Café Mosaico 식당</a></li>
       </ul>
     </li>
+    <li><a href="#여행-경로" title="Navigate to Travel route">여행 경로</a></li>
     <li><a href="#여행-경비" title="Navigate to Travel expenses">여행 경비</a></li>
   </ol>
 </blockquote>
@@ -638,6 +804,12 @@ pannellum.viewer('panorama-2', {
 
 <hr />
 
+<h4 id="여행-경로"><span style="color: #8D4801"><strong>여행 경로</strong></span></h4>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d31918.35256084284!2d-78.49675415!3d-0.19976494999998817!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e0!4m5!1s0x91d59a85e62ca895%3A0x217098644d0182ff!2sCentro%20Comercial%20I%C3%B1aquito%20(CCI)%2C%20RGF7%2B7XM%2C%20Av.%20Naciones%20Unidas%2C%20Quito%20170506!3m2!1d-0.1767993!2d-78.4850658!4m5!1s0x91d59b34627f7213%3A0x2a941f77aa98dd29!2sAgencia%20de%20Viajes%20Your%20Tours%2C%20Venezuela%2C%20y%2C%20Quito!3m2!1d-0.215191!2d-78.5074029!4m5!1s0x91d59a25c31db3b5%3A0x6c011283454d8bce!2z67O07YagIOuCmOyLnOyYpOuCoCDrjIDshLHri7kgMTcwMTMwIFF1aXRvLCBWZW5lenVlbGE!3m2!1d-0.2149867!2d-78.50765179999999!4m5!1s0x91d59a282c1ca6f5%3A0xf2e4c05c7fafdbc2!2sJuan%20Fogonero%2C%20Chile%2C%20OE4%2C%20Quito%20170136!3m2!1d-0.21928879999999998!2d-78.51165449999999!4m5!1s0x91d5998777862fb3%3A0x58bdbdb54ec52db!2sDulceria%20Colonial%2C%20Eugenio%20Espejo%20Oe4-21%2C%20Quito%20170401!3m2!1d-0.2205666!2d-78.5122104!4m5!1s0x91d5998af85031d9%3A0x78c592f4d6423b6c!2sCaf%C3%A9%20Mosaico%2C%20Manuel%20Samaniego%20N8-95%2C%20Quito%20170136!3m2!1d-0.2206138!2d-78.5033957!5e0!3m2!1sko!2sec!4v1757349208439!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<p><br /></p>
+
+<hr />
+
 <h4 id="여행-경비"><span style="color: #8D4801"><strong>여행 경비</strong></span></h4>
 <p>경비는 <span style="color: indianred"><strong>1인 기준</strong></span>이다.</p>
 
@@ -700,6 +872,7 @@ pannellum.viewer('panorama-1', {
     <li><a href="#서류-인쇄" title="Navigate to Printing documents">서류 인쇄</a></li>
     <li><a href="#stop-식당" title="Navigate to Stop restaurant">Stop 식당</a></li>
     <li><a href="#대사관-방문" title="Navigate to Visiting embassy">대사관 방문</a></li>
+    <li><a href="#여행-경로" title="Navigate to Travel route">여행 경로</a></li>
     <li><a href="#여행-경비" title="Navigate to Travel expenses">여행 경비</a></li>
   </ol>
 </blockquote>
@@ -874,6 +1047,12 @@ pannellum.viewer('panorama-1', {
 
 <hr />
 
+<h4 id="여행-경로"><span style="color: #8D4801"><strong>여행 경로</strong></span></h4>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d7685.554077524386!2d-78.48032948720851!3d-0.1798378618826671!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e2!4m5!1s0x91d59a85e62ca895%3A0x217098644d0182ff!2sCentro%20Comercial%20I%C3%B1aquito%20(CCI)%2C%20RGF7%2B7XM%2C%20Av.%20Naciones%20Unidas%2C%20Quito%20170506!3m2!1d-0.1767993!2d-78.4850658!4m5!1s0x91d59a853da9eef7%3A0xa7e6e0f6b5be9ee4!2sGavidia%20Consultores%2C%20CC%20Naciones%20Unidas%2C%20Local%20PB%2034%2C%20Calle%20Uni%C3%B3n%20Nacional%20de%20Periodistas%2C%20I%C3%B1aquito%20n%2C%20Quito%20170135!3m2!1d-0.1750447!2d-78.4846105!4m5!1s0x91d59a7f03e4713b%3A0xdb3397b7e04e47c!2sEmbassy%20of%20Bolivia%2C%20RG7F%2BV3G%2C%20Av.%20Eloy%20Alfaro%2C%20Quito%20170135!3m2!1d-0.1853041!2d-78.4773025!4m5!1s0x91d59a656b4a7a97%3A0xbfb644f74bdbf6aa!2sStop%2C%20Av.%20Eloy%20Alfaro%20N34-248%2C%20Quito%20170518!3m2!1d-0.1841854!2d-78.47639459999999!4m5!1s0x91d59a7f03e4713b%3A0xdb3397b7e04e47c!2sEmbassy%20of%20Bolivia%2C%20RG7F%2BV3G%2C%20Av.%20Eloy%20Alfaro%2C%20Quito%20170135!3m2!1d-0.1853041!2d-78.4773025!5e0!3m2!1sko!2sec!4v1757349362175!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<p><br /></p>
+
+<hr />
+
 <h4 id="여행-경비"><span style="color: #8D4801"><strong>여행 경비</strong></span></h4>
 <p>경비는 <span style="color: indianred"><strong>1인 기준</strong></span>이다.</p>
 
@@ -924,6 +1103,7 @@ pannellum.viewer('panorama-1', {
     </li>
     <li><a href="#sweet--coffee-카페" title="Navigate to Sweet &amp; Coffee cafe">Sweet &amp; Coffee 카페</a></li>
     <li><a href="#tasty-korean-food-식당" title="Navigate to Tasty Korean Food restaurant">Tasty Korean Food 식당</a></li>
+    <li><a href="#여행-경로" title="Navigate to Travel route">여행 경로</a></li>
     <li><a href="#여행-경비" title="Navigate to Travel expenses">여행 경비</a></li>
   </ol>
 </blockquote>
@@ -1266,6 +1446,12 @@ pannellum.viewer('panorama-1', {
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/long-queue-in-quicentro-mall.jpg" title="Long queue in Quicentro mall" alt="Long queue in Quicentro mall" />
 </div>
+<p><br /></p>
+
+<hr />
+
+<h4 id="여행-경로"><span style="color: #8D4801"><strong>여행 경로</strong></span></h4>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d87962.75408984741!2d-78.49230865106448!3d-0.10116905279532266!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e0!4m5!1s0x91d59a85e62ca895%3A0x217098644d0182ff!2sRGF7%2B7XM%20Centro%20Comercial%20I%C3%B1aquito%20(CCI)%2C%20Av.%20Naciones%20Unidas%2C%20Quito%20170506!3m2!1d-0.1767993!2d-78.4850658!4m5!1s0x91d58f1279ae6ee5%3A0x97d2c7f26c4113c9!2zTWFuYWJpY2hlIExvcyBQaW5vcywgQ2FsbGUsIO2CpO2GoA!3m2!1d-0.1371065!2d-78.4747493!4m5!1s0x91d5881ef89bad91%3A0xb2e1699b00a1a9b8!2sMiddle%20of%20the%20World%2C%20Avenida%20Manuel%20C%C3%B3rdova%20Galarza%2C%20%ED%82%A4%ED%86%A0!3m2!1d-0.0021692!2d-78.45582499999999!4m5!1s0x91d59a8141487355%3A0x8e013addeaa2a179!2zU3dlZXQgJiBDb2ZmZWUg4oCiIFJlcMO6YmxpY2EgZGUgRWwgU2FsdmFkb3IsIEF2ZW5pZGEgUmVww7pibGljYSBkZSBFbCBTYWx2YWRvciwg7YKk7Yag!3m2!1d-0.17947839999999998!2d-78.479698!4m5!1s0x91d59a7c342eadad%3A0xb325d53a1b2e9ea6!2zVGFzdHkgS29yZWFuIEZvb2QsIEVsIERpYSwg7YKk7Yag!3m2!1d-0.1757967!2d-78.47836629999999!5e0!3m2!1sko!2sec!4v1757349017572!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <p><br /></p>
 
 <hr />
@@ -1994,6 +2180,7 @@ pannellum.viewer('panorama-1', {
     <li><a href="#파네치요의-성모상" title="Navigate to Virgin of the Panecillo">파네치요의 성모상</a></li>
     <li><a href="#키토-올드타운" title="Navigate to Quito old town">키토 올드타운</a></li>
     <li><a href="#독립-광장" title="Navigate to Independence square">독립 광장</a></li>
+    <li><a href="#여행-경로" title="Navigate to Travel route">여행 경로</a></li>
     <li><a href="#여행-경비" title="Navigate to Travel expenses">여행 경비</a></li>
   </ol>
 </blockquote>
@@ -2246,6 +2433,12 @@ pannellum.viewer('panorama-1', {
 
 <hr />
 
+<h4 id="여행-경로"><span style="color: #8D4801"><strong>여행 경로</strong></span></h4>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d47001.822557559506!2d-78.5229786764282!3d-0.23001555213763308!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e0!4m5!1s0x91d59a85e62ca895%3A0x217098644d0182ff!2sCentro%20Comercial%20I%C3%B1aquito%20(CCI)!3m2!1d-0.1767993!2d-78.4850658!4m5!1s0x91d59986ce9fc975%3A0x2efbb6d53da8c834!2sQFGP%2BQ63%20Health%20Center%20No%201%20HISTORICAL%20CENTER%2C%20Quito%20170130!3m2!1d-0.2231066!2d-78.5144598!4m5!1s0x91d5990051e15f39%3A0x62512709ba9c92f4!2sCentro%20Cultural%20Olguita%20Rengifo%2C%20QFFM%2B26R%2C%20Gral.%20Melchor%20Aymerich%2C%20Quito%20170111!3m2!1d-0.2273989!2d-78.5169762!4m5!1s0x91d59982ce830869%3A0x52b4c746cac24eca!2sVirgin%20of%20the%20Panecillo%2C%20General%20Melchor%20Aymerich%2C%20%ED%82%A4%ED%86%A0!3m2!1d-0.22915839999999998!2d-78.518597!4m5!1s0x91d59987820f190f%3A0x294cb69e1f4ca35e!2sIndependence%20Square!3m2!1d-0.220124!2d-78.512081!5e0!3m2!1sko!2sec!4v1757350253825!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<p><br /></p>
+
+<hr />
+
 <h4 id="여행-경비"><span style="color: #8D4801"><strong>여행 경비</strong></span></h4>
 <p>경비는 <span style="color: indianred"><strong>1인 기준</strong></span>이다.</p>
 
@@ -2298,6 +2491,7 @@ pannellum.viewer('panorama-1', {
         <li><a href="#kobe-식당" title="Navigate to Kobe restaurant">Kobe 식당</a></li>
       </ul>
     </li>
+    <li><a href="#여행-경로" title="Navigate to Travel route">여행 경로</a></li>
     <li><a href="#여행-경비" title="Navigate to Travel expenses">여행 경비</a></li>
   </ol>
 </blockquote>
@@ -2461,6 +2655,12 @@ pannellum.viewer('panorama-1', {
 
 <hr />
 
+<h4 id="여행-경로"><span style="color: #8D4801"><strong>여행 경로</strong></span></h4>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m58!1m12!1m3!1d2282370.481319756!2d-79.60148413561984!3d-0.16207560126639642!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m43!3e0!4m5!1s0x902e9f3524423219%3A0xa7fdda1621f08bc6!2sCoffee%20One%20Dolar!3m2!1d-1.5614697!2d-80.8147219!4m5!1s0x902e9f1eeb0b6c13%3A0xf54e1e7e54eb489e!2sC5RQ%2BQV8%20Encebollados%20de%20Brian%2C%20Puerto%20L%C3%B3pez!3m2!1d-1.5580756!2d-80.81030009999999!4m5!1s0x902c208776215975%3A0x7272c8c8a037bf72!2sTerminal%20Terrestre%20Puerto%20Lopez%2C%20Puerto%20Lopez!3m2!1d-1.5404421!2d-80.8018603!4m5!1s0x902be46128632d43%3A0x6cab71ffb74e5353!2sPETROECUADOR%20Gasolinera%20Jose%20Antonio%2C%20%EB%A7%8C%ED%83%80!3m2!1d-1.0027336!2d-80.7021817!4m5!1s0x902be6f60633c6ed%3A0x1260e2f387f7d729!2sEloy%20Alfaro%20International%20Airport%20(MEC)%2C%20%EB%A7%8C%ED%83%80!3m2!1d-0.9533834!2d-80.6838714!4m5!1s0x91d58db4352baa87%3A0x2f9f7623e0894b8b!2z7YKk7YagIOuniOumrOyKpOy5vCDsiJjtgazroIgg6rWt7KCc6rO17ZWt!3m2!1d-0.1242271!2d-78.36056839999999!4m5!1s0x91d59a85d978be5b%3A0x983383de2b51af58!2sKOBE%20sushi%20%26%20rolls%20-%20C.%20C.%20I.%2C%20Centro%20Comercial%2C%20y%2C%20%ED%82%A4%ED%86%A0!3m2!1d-0.1770404!2d-78.485017!5e0!3m2!1sko!2sec!4v1757350745188!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<p><br /></p>
+
+<hr />
+
 <h4 id="여행-경비"><span style="color: #8D4801"><strong>여행 경비</strong></span></h4>
 <p>경비는 <span style="color: indianred"><strong>2인 기준</strong></span>이다.</p>
 
@@ -2513,6 +2713,7 @@ pannellum.viewer('panorama-1', {
       </ul>
     </li>
     <li><a href="#sabor-español-식당" title="Navigate to Sabor Español restaurant">Sabor Español 식당</a></li>
+    <li><a href="#여행-경로" title="Navigate to Travel route">여행 경로</a></li>
     <li><a href="#여행-경비" title="Navigate to Travel expenses">여행 경비</a></li>
   </ol>
 </blockquote>
@@ -2991,6 +3192,12 @@ pannellum.viewer('panorama-1', {
 
 <hr />
 
+<h4 id="여행-경로"><span style="color: #8D4801"><strong>여행 경로</strong></span></h4>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m40!1m12!1m3!1d6197.224059190071!2d-80.81683619190656!3d-1.5592611540096164!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m25!3e2!4m5!1s0x902e9f3524423219%3A0xa7fdda1621f08bc6!2sC5QP%2BC4P%20Coffee%20One%20Dolar%2C%20Mal.%20Julio%20Izurieta%2C%20Puerto%20L%C3%B3pez!3m2!1d-1.5614697!2d-80.8147219!4m5!1s0x902e9f1e8e002d53%3A0xefb3e71d032b8cf6!2sIsla%20de%20la%20Plata%20Ecuador%20%7C%20Puerto%20L%C3%B3pez%20-Naturis%20tours%2C%20y%2C%20Puerto%20Lopez!3m2!1d-1.5596138!2d-80.8123904!4m5!1s0x902e9f00545654e5%3A0x87f42cec0aa40f97!2sMuelle%20de%20Puerto%20Lopez%2C%20Malecon%20Julio%20Izurieta%2C%20Puerto%20Lopez!3m2!1d-1.5609933!2d-80.8174011!4m5!1s0x902e9e1f16e726e3%3A0x1a6d73cf5b6738dd!2sRestaurante%20Sabor%20Espa%C3%B1ol!3m2!1d-1.5630678!2d-80.8188411!5e0!3m2!1sko!2sec!4v1757351227262!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<p><br /></p>
+
+<hr />
+
 <h4 id="여행-경비"><span style="color: #8D4801"><strong>여행 경비</strong></span></h4>
 <p>경비는 <span style="color: indianred"><strong>2인 기준</strong></span>이다.</p>
 
@@ -3046,6 +3253,7 @@ pannellum.viewer('panorama-1', {
         <li><a href="#romance-marino-식당" title="Navigate to Romance Marino restaurant">Romance Marino 식당</a></li>
       </ul>
     </li>
+    <li><a href="#여행-경로" title="Navigate to Travel route">여행 경로</a></li>
     <li><a href="#여행-경비" title="Navigate to Travel expenses">여행 경비</a></li>
   </ol>
 </blockquote>
@@ -3282,6 +3490,12 @@ pannellum.viewer('panorama-1', {
 
 <hr />
 
+<h4 id="여행-경로"><span style="color: #8D4801"><strong>여행 경로</strong></span></h4>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d3988.338530687649!2d-80.81501324999999!3d-1.5605384999999967!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e2!4m5!1s0x902e9f3524423219%3A0xa7fdda1621f08bc6!2sC5QP%2BC4P%20Coffee%20One%20Dolar%2C%20Mal.%20Julio%20Izurieta%2C%20Puerto%20L%C3%B3pez!3m2!1d-1.5614697!2d-80.8147219!4m5!1s0x902e9f0a2c869adb%3A0xf2b9eef3176fc60a!2sMercado%20de%20Pescado%20Fresco%2C%20Puerto%20Lopez!3m2!1d-1.5617009!2d-80.8156473!4m5!1s0x902e9fe8871268e7%3A0xcbc625a91e5bfc22!2sFRAGATA%20XTREME%20(Subwing)%2C%20Puerto%20Lopez!3m2!1d-1.5592884!2d-80.8127248!4m5!1s0x902e9f00545654e5%3A0x87f42cec0aa40f97!2sMuelle%20de%20Puerto%20Lopez!3m2!1d-1.5609933!2d-80.8174011!4m5!1s0x902e9fa44ef6877b%3A0x8544782637927b66!2sLa%20Cabana%20D&#39;Chuky%2C%20Malecon%20Julio%20Izurieta%2C%20Puerto%20Lopez!3m2!1d-1.5602532999999998!2d-80.81388489999999!4m5!1s0x902e9e1f170ea4ab%3A0x4ba38ee45c0e580!2sRestaurant%20Romance%20Marino%2C%20Malecon%20Julio%20Izurieta%2C%20Puerto%20Lopez!3m2!1d-1.561219!2d-80.8144239!5e0!3m2!1sko!2sec!4v1757351434909!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<p><br /></p>
+
+<hr />
+
 <h4 id="여행-경비"><span style="color: #8D4801"><strong>여행 경비</strong></span></h4>
 <p>경비는 <span style="color: indianred"><strong>2인 기준</strong></span>이다.</p>
 
@@ -3338,6 +3552,7 @@ pannellum.viewer('panorama-1', {
         <li><a href="#romance-marino-식당" title="Navigate to Romance Marino restaurant">Romance Marino 식당</a></li>
       </ul>
     </li>
+    <li><a href="#여행-경로" title="Navigate to Travel route">여행 경로</a></li>
     <li><a href="#여행-경비" title="Navigate to Travel expenses">여행 경비</a></li>
   </ol>
 </blockquote>
@@ -3575,6 +3790,12 @@ pannellum.viewer('panorama-1', {
 <p><br /></p>
 
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d498.5421549393736!2d-80.81469744443892!3d-1.5612192082110459!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902e9e1f170ea4ab%3A0x4ba38ee45c0e580!2sRestaurant%20Romance%20Marino!5e0!3m2!1sko!2sec!4v1755789625007!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<p><br /></p>
+
+<hr />
+
+<h4 id="여행-경로"><span style="color: #8D4801"><strong>여행 경로</strong></span></h4>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d78338.70827434002!2d-80.7852230928671!3d-1.5128481310961!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0x91d59a85e62ca895%3A0x217098644d0182ff!2sCentro%20Comercial%20I%C3%B1aquito%20(CCI)!3m2!1d-0.1767993!2d-78.4850658!4m5!1s0x91d58db4352baa87%3A0x2f9f7623e0894b8b!2z66eI66as7Iqk7Lm8IOyImO2BrOugiCDqta3soJzqs7Xtla0!3m2!1d-0.1242271!2d-78.36056839999999!4m5!1s0x902be6f60633c6ed%3A0x1260e2f387f7d729!2sEloy%20Alfaro%20International%20Airport!3m2!1d-0.9533834!2d-80.6838714!4m5!1s0x902be69a8c47e8ab%3A0xd2d4d38082b8b234!2zVGVybWluYWwgVGVycmVzdHJlIERlIE1hbnRhLCDrp4ztg4A!3m2!1d-0.9606631999999999!2d-80.6904709!4m5!1s0x902c208776215975%3A0x7272c8c8a037bf72!2sTerminal%20Terrestre%20Puerto%20Lopez!3m2!1d-1.5404421!2d-80.8018603!4m5!1s0x902e9f3524423219%3A0xa7fdda1621f08bc6!2sCoffee%20One%20Dolar!3m2!1d-1.5614697!2d-80.8147219!4m5!1s0x902e9e1f7ee47ecb%3A0x10de7eb9d7128f2d!2sRestaurante%20Espuma%20Del%20Mar!3m2!1d-1.5590112999999999!2d-80.8130405!4m5!1s0x902e9fe8871268e7%3A0xcbc625a91e5bfc22!2sFRAGATA%20XTREME%20(Subwing)%2C%20Puerto%20Lopez!3m2!1d-1.5592884!2d-80.8127248!4m5!1s0x902e9f00545654e5%3A0x87f42cec0aa40f97!2sMuelle%20de%20Puerto%20Lopez!3m2!1d-1.5609933!2d-80.8174011!4m5!1s0x902e9e1f170ea4ab%3A0x4ba38ee45c0e580!2sRestaurant%20Romance%20Marino%2C%20Malecon%20Julio%20Izurieta%2C%20Puerto%20Lopez!3m2!1d-1.561219!2d-80.8144239!5e0!3m2!1sko!2sec!4v1757351861847!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <p><br /></p>
 
 <hr />

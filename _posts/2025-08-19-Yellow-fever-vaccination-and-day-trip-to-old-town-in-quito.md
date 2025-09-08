@@ -13,7 +13,8 @@ description: 2025.08.19 에콰도르 키토에서 무료로 황열병 예방접�
 2. [파네치요의 성모상](#파네치요의-성모상 "Navigate to Virgin of the Panecillo")
 3. [키토 올드타운](#키토-올드타운 "Navigate to Quito old town")
 4. [독립 광장](#독립-광장 "Navigate to Independence square")
-5. [여행 경비](#여행-경비 "Navigate to Travel expenses")
+5. [여행 경로](#여행-경로 "Navigate to Travel route")
+6. [여행 경비](#여행-경비 "Navigate to Travel expenses")
 
 ---
 
@@ -248,6 +249,12 @@ description: 2025.08.19 에콰도르 키토에서 무료로 황열병 예방접�
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-19-Yellow-fever-vaccination-and-day-trip-to-old-town-in-quito/korean-style-rice-wrapped-in-greens.jpg" title="Korean-style rice wrapped in greens" alt="Korean-style rice wrapped in greens">
 </div>
+<br>
+
+---
+
+#### <span style="color: #8D4801">**여행 경로**</span>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d47001.822557559506!2d-78.5229786764282!3d-0.23001555213763308!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e0!4m5!1s0x91d59a85e62ca895%3A0x217098644d0182ff!2sCentro%20Comercial%20I%C3%B1aquito%20(CCI)!3m2!1d-0.1767993!2d-78.4850658!4m5!1s0x91d59986ce9fc975%3A0x2efbb6d53da8c834!2sQFGP%2BQ63%20Health%20Center%20No%201%20HISTORICAL%20CENTER%2C%20Quito%20170130!3m2!1d-0.2231066!2d-78.5144598!4m5!1s0x91d5990051e15f39%3A0x62512709ba9c92f4!2sCentro%20Cultural%20Olguita%20Rengifo%2C%20QFFM%2B26R%2C%20Gral.%20Melchor%20Aymerich%2C%20Quito%20170111!3m2!1d-0.2273989!2d-78.5169762!4m5!1s0x91d59982ce830869%3A0x52b4c746cac24eca!2sVirgin%20of%20the%20Panecillo%2C%20General%20Melchor%20Aymerich%2C%20%ED%82%A4%ED%86%A0!3m2!1d-0.22915839999999998!2d-78.518597!4m5!1s0x91d59987820f190f%3A0x294cb69e1f4ca35e!2sIndependence%20Square!3m2!1d-0.220124!2d-78.512081!5e0!3m2!1sko!2sec!4v1757350253825!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---

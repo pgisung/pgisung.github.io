@@ -14,7 +14,8 @@ description: 2013.12.15 싱가포르 3일 차 여행기
 3. [브루웍스](#브루웍스 "Navigate to Brewerkz")
 4. [싱가포르에서의 마지막 밤](#싱가포르에서의-마지막-밤 "Navigate to The last night in Singapore")
 - [240도 파노라마 클라크 퀘이 전경](#240도-파노라마-클라크-퀘이-전경 "Navigate to 240-degree panoramic view for Clarke Quay")
-5. [여행 경비](#여행-경비 "Navigate to Travel expenses")
+5. [여행 경로](#여행-경로 "Navigate to Travel route")
+6. [여행 경비](#여행-경비 "Navigate to Travel expenses")
 
 ---
 
@@ -170,6 +171,12 @@ description: 2013.12.15 싱가포르 3일 차 여행기
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-15-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-4/supper.jpg" title="" alt="">
 </div>
+<br>
+
+---
+
+#### <span style="color: #8D4801">**여행 경로**</span>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m40!1m12!1m3!1d15955.146504723021!2d103.85144890000001!3d1.3030045000000055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m25!3e0!4m5!1s0x31da19cef14217db%3A0xa940c6966b2d5cf1!2zTGF2ZW5kZXIgU3RyZWV0LCBHcmVlbiBLaXdpIEJhY2twYWNrZXIgSG9zdGVsLCDsi7HqsIDtj6zrpbQ!3m2!1d1.3143083!2d103.8603667!4m5!1s0x31da19c59d456bc7%3A0xd91e374a1469abbb!2zVGVzc2Vuc29obiBSb2FkLCBIZWFwIEhvbmcgJiBDbywg7Iux6rCA7Y-s66W0!3m2!1d1.314558!2d103.8562511!4m5!1s0x31da1975553e3fe5%3A0xdbda8b3e22b39132!2z7Iux6rCA7Y-s66W0IE1lcmNoYW50IFJvYWQsIOumrOuyhOyCrOydtOuTnCDtj6zsnbjtirgg7KCQ67O0IOyLnO2RuOuTnCAtIOumrOuyhOyCrOydtOuTnCDtj6zsnbjtirg!3m2!1d1.2889217!2d103.84466139999999!4m5!1s0x31da19195b7af921%3A0x1dbe7c851eb8cc7!2zTWVyY2hhbnQgUm9hZCwgQnJld2Vya3ogUml2ZXJzaWRlIFBvaW50LCDrpqzrsoTsgqzsnbTrk5wg7Y-s7J247Yq4IOyLseqwgO2PrOultA!3m2!1d1.2895950999999999!2d103.84400459999999!5e0!3m2!1sko!2sec!4v1757353823067!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---

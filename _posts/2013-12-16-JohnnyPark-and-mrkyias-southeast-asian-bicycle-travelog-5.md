@@ -27,6 +27,9 @@ description: 2013.12.16 싱가포르에서 육로를 통해 말레이시아로 �
 </div>
 <br>
 
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7682545052076!2d103.8562536!3d1.314555299999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19c59d456bc7%3A0xd91e374a1469abbb!2sHeap%20Hong%20%26%20Co!5e0!3m2!1sko!2sec!4v1757353614432!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<br>
+
 ---
 
 #### <span style="color: #8D4801">**첫 라이딩**</span>

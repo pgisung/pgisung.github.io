@@ -16,7 +16,8 @@ description: 2013.12.12~13 엉망진창 첫 해외 출국 공항 해프닝 및 �
 - [마리나 베이 샌즈 호텔](#마리나-베이-샌즈-호텔 "Navigate to Marina bay sands hotel")
 - [240도 파노라마 싱가포르 도시 전경](#240도-파노라마-싱가포르-도시-전경 "Navigate to 240-degree panoramic view for Singapore city")
 - [가든즈 바이 더 베이](#가든즈-바이-더-베이 "Navigate to Gardens by the bay")
-4. [여행 경비](#여행-경비 "Navigate to Travel expenses")
+4. [여행 경로](#여행-경로 "Navigate to Travel route")
+5. [여행 경비](#여행-경비 "Navigate to Travel expenses")
 
 ---
 
@@ -208,6 +209,12 @@ description: 2013.12.12~13 엉망진창 첫 해외 출국 공항 해프닝 및 �
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/the-song-stage.jpg" title="" alt="">
 </div>
+<br>
+
+---
+
+#### <span style="color: #8D4801">**여행 경로**</span>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d146789.02133685426!2d103.88048312270166!3d1.3312359043714284!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e0!4m5!1s0x31da17d693d0cde3%3A0xd6d6dd5e414e4503!2zNjAgQWlycG9ydCBCbHZkLiwg7Iux6rCA7Y-s66W0IOywveydtCDqta3soJzqs7Xtla0gKFNJTikg7Iux6rCA7Y-s66W0IDgxOTY0Mw!3m2!1d1.358604!2d103.98994359999999!4m5!1s0x31da19cef14217db%3A0xa940c6966b2d5cf1!2zTGF2ZW5kZXIgU3RyZWV0LCBHcmVlbiBLaXdpIEJhY2twYWNrZXIgSG9zdGVsLCDsi7HqsIDtj6zrpbQ!3m2!1d1.3143083!2d103.8603667!4m5!1s0x31da19731fe5e901%3A0xb475a831c42577e0!2z7Iqk66-47IqkIOyKpO2KuOumrO2KuCBYaXUgSmkgSWthbiBCaWxpcyBZb25nIFRhdSBGdSAoIzAyLTg4KSwg7Iux6rCA7Y-s66W0!3m2!1d1.2826290999999999!2d103.8430906!4m5!1s0x31da19085926dadb%3A0x9f427391c9f64c38!2z66i465287J207Ja4IOqzteybkCBNZXJsaW9u!3m2!1d1.2867891999999999!2d103.85450139999999!4m5!1s0x31da196d2fffffed%3A0x6c0c3f2856edd6b7!2z7Iux6rCA7Y-s66W0IOuemO2UjOyKpCDslaDruYTribQgRXNwbGFuYWRlIE1hbGwsIOuniOy5uOyImO2KuOudvCDquIDro6jthLTsiqQg67Kg7J20!3m2!1d1.2894024!2d103.8568698!4m5!1s0x31da1904937e1633%3A0x62099677b59fca76!2z6rCA65Og7IqkIOuwlOydtCDrjZQg67Kg7J20IEdhcmRlbnMgYnkgdGhlIEJheQ!3m2!1d1.2815683!2d103.86361319999999!5e0!3m2!1sko!2sec!4v1757352382261!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---

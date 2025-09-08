@@ -13,7 +13,8 @@ description: 2025.09.01 에콰도르 키토에서 볼리비아 비자 발급받�
 2. [서류 인쇄](#서류-인쇄 "Navigate to Printing documents")
 3. [Stop 식당](#stop-식당 "Navigate to Stop restaurant")
 4. [대사관 방문](#대사관-방문 "Navigate to Visiting embassy")
-5. [여행 경비](#여행-경비 "Navigate to Travel expenses")
+5. [여행 경로](#여행-경로 "Navigate to Travel route")
+6. [여행 경비](#여행-경비 "Navigate to Travel expenses")
 
 ---
 
@@ -179,6 +180,12 @@ description: 2025.09.01 에콰도르 키토에서 볼리비아 비자 발급받�
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-01-Getting-a-Bolivia-visa-in-Quito/blogger-gotten-bolivia-visa.jpg" title="Blogger gotten Bolivia visa" alt="Blogger gotten Bolivia visa">
 </div>
+<br>
+
+---
+
+#### <span style="color: #8D4801">**여행 경로**</span>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d7685.554077524386!2d-78.48032948720851!3d-0.1798378618826671!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e2!4m5!1s0x91d59a85e62ca895%3A0x217098644d0182ff!2sCentro%20Comercial%20I%C3%B1aquito%20(CCI)%2C%20RGF7%2B7XM%2C%20Av.%20Naciones%20Unidas%2C%20Quito%20170506!3m2!1d-0.1767993!2d-78.4850658!4m5!1s0x91d59a853da9eef7%3A0xa7e6e0f6b5be9ee4!2sGavidia%20Consultores%2C%20CC%20Naciones%20Unidas%2C%20Local%20PB%2034%2C%20Calle%20Uni%C3%B3n%20Nacional%20de%20Periodistas%2C%20I%C3%B1aquito%20n%2C%20Quito%20170135!3m2!1d-0.1750447!2d-78.4846105!4m5!1s0x91d59a7f03e4713b%3A0xdb3397b7e04e47c!2sEmbassy%20of%20Bolivia%2C%20RG7F%2BV3G%2C%20Av.%20Eloy%20Alfaro%2C%20Quito%20170135!3m2!1d-0.1853041!2d-78.4773025!4m5!1s0x91d59a656b4a7a97%3A0xbfb644f74bdbf6aa!2sStop%2C%20Av.%20Eloy%20Alfaro%20N34-248%2C%20Quito%20170518!3m2!1d-0.1841854!2d-78.47639459999999!4m5!1s0x91d59a7f03e4713b%3A0xdb3397b7e04e47c!2sEmbassy%20of%20Bolivia%2C%20RG7F%2BV3G%2C%20Av.%20Eloy%20Alfaro%2C%20Quito%20170135!3m2!1d-0.1853041!2d-78.4773025!5e0!3m2!1sko!2sec!4v1757349362175!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---

@@ -17,7 +17,8 @@ description: 2025.08.18 여행 마지막 날 푸에르토 로페스에서 키토
 - [엘로이 알파로 국제공항](#엘로이-알파로-국제공항 "Navigate to Eloy Alfaro international airport")
 - [마리스칼 수크레 국제공항](#마리스칼-수크레-국제공항 "Navigate to Mariscal Sucre international airport")
 - [Kobe 식당](#kobe-식당 "Navigate to Kobe restaurant")
-4. [여행 경비](#여행-경비 "Navigate to Travel expenses")
+4. [여행 경로](#여행-경로 "Navigate to Travel route")
+5. [여행 경비](#여행-경비 "Navigate to Travel expenses")
 
 ---
 
@@ -174,6 +175,12 @@ Bolon과 직접 타 먹는 설탕 커피의 가격은 <span style="color: indian
 <br>
 
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.7992735318808!2d-78.48501699999996!3d-0.17704039999999352!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a85d978be5b%3A0x983383de2b51af58!2sKOBE%20sushi%20%26%20rolls%20-%20C.%20C.%20I.!5e0!3m2!1sko!2sec!4v1756100164220!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<br>
+
+---
+
+#### <span style="color: #8D4801">**여행 경로**</span>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m58!1m12!1m3!1d2282370.481319756!2d-79.60148413561984!3d-0.16207560126639642!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m43!3e0!4m5!1s0x902e9f3524423219%3A0xa7fdda1621f08bc6!2sCoffee%20One%20Dolar!3m2!1d-1.5614697!2d-80.8147219!4m5!1s0x902e9f1eeb0b6c13%3A0xf54e1e7e54eb489e!2sC5RQ%2BQV8%20Encebollados%20de%20Brian%2C%20Puerto%20L%C3%B3pez!3m2!1d-1.5580756!2d-80.81030009999999!4m5!1s0x902c208776215975%3A0x7272c8c8a037bf72!2sTerminal%20Terrestre%20Puerto%20Lopez%2C%20Puerto%20Lopez!3m2!1d-1.5404421!2d-80.8018603!4m5!1s0x902be46128632d43%3A0x6cab71ffb74e5353!2sPETROECUADOR%20Gasolinera%20Jose%20Antonio%2C%20%EB%A7%8C%ED%83%80!3m2!1d-1.0027336!2d-80.7021817!4m5!1s0x902be6f60633c6ed%3A0x1260e2f387f7d729!2sEloy%20Alfaro%20International%20Airport%20(MEC)%2C%20%EB%A7%8C%ED%83%80!3m2!1d-0.9533834!2d-80.6838714!4m5!1s0x91d58db4352baa87%3A0x2f9f7623e0894b8b!2z7YKk7YagIOuniOumrOyKpOy5vCDsiJjtgazroIgg6rWt7KCc6rO17ZWt!3m2!1d-0.1242271!2d-78.36056839999999!4m5!1s0x91d59a85d978be5b%3A0x983383de2b51af58!2sKOBE%20sushi%20%26%20rolls%20-%20C.%20C.%20I.%2C%20Centro%20Comercial%2C%20y%2C%20%ED%82%A4%ED%86%A0!3m2!1d-0.1770404!2d-78.485017!5e0!3m2!1sko!2sec!4v1757350745188!5m2!1sko!2sec"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---

@@ -21,7 +21,8 @@ description: 2025.08.30 에콰도르 키토에서 적도 박물관 탐방기
 - [천문관](#천문관 "Navigate to Planetarium")
 3. [Sweet & Coffee 카페](#sweet--coffee-카페 "Navigate to Sweet & Coffee cafe")
 4. [Tasty Korean Food 식당](#tasty-korean-food-식당 "Navigate to Tasty Korean Food restaurant")
-5. [여행 경비](#여행-경비 "Navigate to Travel expenses")
+5. [여행 경로](#여행-경로 "Navigate to Travel route")
+6. [여행 경비](#여행-경비 "Navigate to Travel expenses")
 
 ---
 
@@ -307,6 +308,12 @@ description: 2025.08.30 에콰도르 키토에서 적도 박물관 탐방기
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/long-queue-in-quicentro-mall.jpg" title="Long queue in Quicentro mall" alt="Long queue in Quicentro mall">
 </div>
+<br>
+
+---
+
+#### <span style="color: #8D4801">**여행 경로**</span>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d87962.75408984741!2d-78.49230865106448!3d-0.10116905279532266!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e0!4m5!1s0x91d59a85e62ca895%3A0x217098644d0182ff!2sRGF7%2B7XM%20Centro%20Comercial%20I%C3%B1aquito%20(CCI)%2C%20Av.%20Naciones%20Unidas%2C%20Quito%20170506!3m2!1d-0.1767993!2d-78.4850658!4m5!1s0x91d58f1279ae6ee5%3A0x97d2c7f26c4113c9!2zTWFuYWJpY2hlIExvcyBQaW5vcywgQ2FsbGUsIO2CpO2GoA!3m2!1d-0.1371065!2d-78.4747493!4m5!1s0x91d5881ef89bad91%3A0xb2e1699b00a1a9b8!2sMiddle%20of%20the%20World%2C%20Avenida%20Manuel%20C%C3%B3rdova%20Galarza%2C%20%ED%82%A4%ED%86%A0!3m2!1d-0.0021692!2d-78.45582499999999!4m5!1s0x91d59a8141487355%3A0x8e013addeaa2a179!2zU3dlZXQgJiBDb2ZmZWUg4oCiIFJlcMO6YmxpY2EgZGUgRWwgU2FsdmFkb3IsIEF2ZW5pZGEgUmVww7pibGljYSBkZSBFbCBTYWx2YWRvciwg7YKk7Yag!3m2!1d-0.17947839999999998!2d-78.479698!4m5!1s0x91d59a7c342eadad%3A0xb325d53a1b2e9ea6!2zVGFzdHkgS29yZWFuIEZvb2QsIEVsIERpYSwg7YKk7Yag!3m2!1d-0.1757967!2d-78.47836629999999!5e0!3m2!1sko!2sec!4v1757349017572!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---

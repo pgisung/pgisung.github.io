@@ -21,7 +21,8 @@ description: 2025.08.15 키토에서 푸에르토 로페스까지 이동기 및 
 - [FRAGATA XTREME 여행사](#fragata-xtreme-여행사 "Navigate to FRAGATA XTREME tour company")
 - [푸에르토 로페스 관광 부두](#푸에르토-로페스-관광-부두 "Navigate to Puerto Lopez tourist pier")
 - [Romance Marino 식당](#romance-marino-식당 "Navigate to Romance Marino restaurant")
-4. [여행 경비](#여행-경비 "Navigate to Travel expenses")
+4. [여행 경로](#여행-경로 "Navigate to Travel route")
+5. [여행 경비](#여행-경비 "Navigate to Travel expenses")
 
 ---
 
@@ -234,6 +235,12 @@ description: 2025.08.15 키토에서 푸에르토 로페스까지 이동기 및 
 <br>
 
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d498.5421549393736!2d-80.81469744443892!3d-1.5612192082110459!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902e9e1f170ea4ab%3A0x4ba38ee45c0e580!2sRestaurant%20Romance%20Marino!5e0!3m2!1sko!2sec!4v1755789625007!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<br>
+
+---
+
+#### <span style="color: #8D4801">**여행 경로**</span>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d78338.70827434002!2d-80.7852230928671!3d-1.5128481310961!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0x91d59a85e62ca895%3A0x217098644d0182ff!2sCentro%20Comercial%20I%C3%B1aquito%20(CCI)!3m2!1d-0.1767993!2d-78.4850658!4m5!1s0x91d58db4352baa87%3A0x2f9f7623e0894b8b!2z66eI66as7Iqk7Lm8IOyImO2BrOugiCDqta3soJzqs7Xtla0!3m2!1d-0.1242271!2d-78.36056839999999!4m5!1s0x902be6f60633c6ed%3A0x1260e2f387f7d729!2sEloy%20Alfaro%20International%20Airport!3m2!1d-0.9533834!2d-80.6838714!4m5!1s0x902be69a8c47e8ab%3A0xd2d4d38082b8b234!2zVGVybWluYWwgVGVycmVzdHJlIERlIE1hbnRhLCDrp4ztg4A!3m2!1d-0.9606631999999999!2d-80.6904709!4m5!1s0x902c208776215975%3A0x7272c8c8a037bf72!2sTerminal%20Terrestre%20Puerto%20Lopez!3m2!1d-1.5404421!2d-80.8018603!4m5!1s0x902e9f3524423219%3A0xa7fdda1621f08bc6!2sCoffee%20One%20Dolar!3m2!1d-1.5614697!2d-80.8147219!4m5!1s0x902e9e1f7ee47ecb%3A0x10de7eb9d7128f2d!2sRestaurante%20Espuma%20Del%20Mar!3m2!1d-1.5590112999999999!2d-80.8130405!4m5!1s0x902e9fe8871268e7%3A0xcbc625a91e5bfc22!2sFRAGATA%20XTREME%20(Subwing)%2C%20Puerto%20Lopez!3m2!1d-1.5592884!2d-80.8127248!4m5!1s0x902e9f00545654e5%3A0x87f42cec0aa40f97!2sMuelle%20de%20Puerto%20Lopez!3m2!1d-1.5609933!2d-80.8174011!4m5!1s0x902e9e1f170ea4ab%3A0x4ba38ee45c0e580!2sRestaurant%20Romance%20Marino%2C%20Malecon%20Julio%20Izurieta%2C%20Puerto%20Lopez!3m2!1d-1.561219!2d-80.8144239!5e0!3m2!1sko!2sec!4v1757351861847!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---

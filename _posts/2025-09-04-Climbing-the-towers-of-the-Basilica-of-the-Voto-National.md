@@ -24,7 +24,8 @@ description: 2025.09.04 에콰도르 키토에서 보토 나시오날 대성당 
 - [야경 찾아가는 길](#야경-찾아가는-길 "Navigate to On the way to the night view")
 - [신기한 트롤리버스](#신기한-트롤리버스 "Navigate to Amazing Trolleybus")
 - [Café Mosaico 식당](#cafe-mosaico-식당 "Navigate to Café Mosaico restaurant")
-4. [여행 경비](#여행-경비 "Navigate to Travel expenses")
+4. [여행 경로](#여행-경로 "Navigate to Travel route")
+5. [여행 경비](#여행-경비 "Navigate to Travel expenses")
 
 ---
 
@@ -455,6 +456,12 @@ description: 2025.09.04 에콰도르 키토에서 보토 나시오날 대성당 
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-04-Climbing-the-towers-of-the-Basilica-of-the-Voto-National/firework-at-independence-square.gif" title="Firework at Independence square" alt="Firework at Independence square">
 </div>
+<br>
+
+---
+
+#### <span style="color: #8D4801">**여행 경로**</span>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d31918.35256084284!2d-78.49675415!3d-0.19976494999998817!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e0!4m5!1s0x91d59a85e62ca895%3A0x217098644d0182ff!2sCentro%20Comercial%20I%C3%B1aquito%20(CCI)%2C%20RGF7%2B7XM%2C%20Av.%20Naciones%20Unidas%2C%20Quito%20170506!3m2!1d-0.1767993!2d-78.4850658!4m5!1s0x91d59b34627f7213%3A0x2a941f77aa98dd29!2sAgencia%20de%20Viajes%20Your%20Tours%2C%20Venezuela%2C%20y%2C%20Quito!3m2!1d-0.215191!2d-78.5074029!4m5!1s0x91d59a25c31db3b5%3A0x6c011283454d8bce!2z67O07YagIOuCmOyLnOyYpOuCoCDrjIDshLHri7kgMTcwMTMwIFF1aXRvLCBWZW5lenVlbGE!3m2!1d-0.2149867!2d-78.50765179999999!4m5!1s0x91d59a282c1ca6f5%3A0xf2e4c05c7fafdbc2!2sJuan%20Fogonero%2C%20Chile%2C%20OE4%2C%20Quito%20170136!3m2!1d-0.21928879999999998!2d-78.51165449999999!4m5!1s0x91d5998777862fb3%3A0x58bdbdb54ec52db!2sDulceria%20Colonial%2C%20Eugenio%20Espejo%20Oe4-21%2C%20Quito%20170401!3m2!1d-0.2205666!2d-78.5122104!4m5!1s0x91d5998af85031d9%3A0x78c592f4d6423b6c!2sCaf%C3%A9%20Mosaico%2C%20Manuel%20Samaniego%20N8-95%2C%20Quito%20170136!3m2!1d-0.2206138!2d-78.5033957!5e0!3m2!1sko!2sec!4v1757349208439!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---

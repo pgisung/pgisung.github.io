@@ -20,7 +20,8 @@ description: 2025.08.16 살랑고 섬 투어 이야기
 3. [아무것도 하지 않는 게 가장 근사한 오후](#아무것도-하지-않는-게-가장-근사한-오후 "Navigate to Nothing is more splendid than an idle afternoon.")
 - [La Cabana D'Chuky 식당](#la-cabana-dchuky-식당 "Navigate to Romance Marino restaurant")
 - [Romance Marino 식당](#romance-marino-식당 "Navigate to Romance Marino restaurant")
-4. [여행 경비](#여행-경비 "Navigate to Travel expenses")
+4. [여행 경로](#여행-경로 "Navigate to Travel route")
+5. [여행 경비](#여행-경비 "Navigate to Travel expenses")
 
 ---
 
@@ -231,6 +232,12 @@ description: 2025.08.16 살랑고 섬 투어 이야기
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/chatting-with-a-girl-2.jpg" title="Chatting with a cute girl" alt="Chatting with a cute girl">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/chatting-with-a-girl-3.jpg" title="Chatting with a cute girl" alt="Chatting with a cute girl">
 </div>
+<br>
+
+---
+
+#### <span style="color: #8D4801">**여행 경로**</span>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d3988.338530687649!2d-80.81501324999999!3d-1.5605384999999967!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e2!4m5!1s0x902e9f3524423219%3A0xa7fdda1621f08bc6!2sC5QP%2BC4P%20Coffee%20One%20Dolar%2C%20Mal.%20Julio%20Izurieta%2C%20Puerto%20L%C3%B3pez!3m2!1d-1.5614697!2d-80.8147219!4m5!1s0x902e9f0a2c869adb%3A0xf2b9eef3176fc60a!2sMercado%20de%20Pescado%20Fresco%2C%20Puerto%20Lopez!3m2!1d-1.5617009!2d-80.8156473!4m5!1s0x902e9fe8871268e7%3A0xcbc625a91e5bfc22!2sFRAGATA%20XTREME%20(Subwing)%2C%20Puerto%20Lopez!3m2!1d-1.5592884!2d-80.8127248!4m5!1s0x902e9f00545654e5%3A0x87f42cec0aa40f97!2sMuelle%20de%20Puerto%20Lopez!3m2!1d-1.5609933!2d-80.8174011!4m5!1s0x902e9fa44ef6877b%3A0x8544782637927b66!2sLa%20Cabana%20D&#39;Chuky%2C%20Malecon%20Julio%20Izurieta%2C%20Puerto%20Lopez!3m2!1d-1.5602532999999998!2d-80.81388489999999!4m5!1s0x902e9e1f170ea4ab%3A0x4ba38ee45c0e580!2sRestaurant%20Romance%20Marino%2C%20Malecon%20Julio%20Izurieta%2C%20Puerto%20Lopez!3m2!1d-1.561219!2d-80.8144239!5e0!3m2!1sko!2sec!4v1757351434909!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---

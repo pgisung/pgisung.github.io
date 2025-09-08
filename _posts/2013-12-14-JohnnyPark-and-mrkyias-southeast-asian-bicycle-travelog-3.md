@@ -12,7 +12,8 @@ description: 2013.12.14 싱가포르 2일 차 여행기
 > 1. [센토사 가는 길](#센토사-가는-길 "Navigate to The way to Sentosa")
 2. [아쿠아리움](#아쿠아리움 "Navigate to Aquarium")
 3. [해변에서 일몰 구경](#해변에서-일몰-구경 "Navigate to The sunset on the beach")
-4. [여행 경비](#여행-경비 "Navigate to Travel expenses")
+4. [여행 경로](#여행-경로 "Navigate to Travel route")
+5. [여행 경비](#여행-경비 "Navigate to Travel expenses")
 
 ---
 
@@ -284,6 +285,12 @@ description: 2013.12.14 싱가포르 2일 차 여행기
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/the-number-at-bottom-of-the-beer-cup.jpg" title="" alt="">
 </div>
+<br>
+
+---
+
+#### <span style="color: #8D4801">**여행 경로**</span>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m69!1m12!1m3!1d3319.5270714846124!2d103.81934822645852!3d1.253665969845826!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m54!3e0!4m5!1s0x31da19cef14217db%3A0xa940c6966b2d5cf1!2sGreen%20Kiwi%20Backpacker%20Hostel!3m2!1d1.3143083!2d103.8603667!4m5!1s0x31da1bcdaa1d7c95%3A0x7551eb601b91a89e!2sHarbourFront%20MRT%20Station%20(CC29)!3m2!1d1.2650371999999999!2d103.8215381!4m5!1s0x31da1bfebf758393%3A0x11e9b1a30bc5fed7!2zU2VudG9zYSBTdGF0aW9uLCDsi7HqsIDtj6zrpbQ!3m2!1d1.25538!2d103.8171!4m5!1s0x31da1bb1b3888f2f%3A0xcbd6074502ce477b!2sKFC%20Sentosa!3m2!1d1.2544714!2d103.81922949999999!4m5!1s0x31da1bfdabc2ed8f%3A0xf4b09544068cfd26!2sSingapore%20Oceanarium!3m2!1d1.2583209!2d103.82051469999999!4m5!1s0x31da1bfdfe722735%3A0x2eeae4fb48ea3cdb!2z7Jyg64uI67KE7IWcIOyKpO2KnOuUlOyYpCDsi7HqsIDtj6zrpbQg7KeA6rWs67O4!3m2!1d1.2566325!2d103.821243!4m5!1s0x31da1eaa0c21d3fd%3A0x633b560cebfaa12c!2sPalawan%20Beach!3m2!1d1.2482777!2d103.8225374!4m4!1s0x31da1bf8fa5d45eb%3A0xf2cb8031cdb3a7cc!3m2!1d1.2554915!2d103.8123885!4m5!1s0x31da1bffa708a047%3A0x68c73870017cb2fa!2zMzAgSW1iaWFoIFJkLCDsi7HqsIDtj6zrpbQgMDk5NzA1!3m2!1d1.2534181!2d103.8188155!5e0!3m2!1sko!2sec!4v1757353305269!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---

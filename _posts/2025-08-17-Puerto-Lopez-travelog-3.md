@@ -18,7 +18,8 @@ description: 2025.08.17 플라타 섬 투어 이야기
 - [눈으로만 즐긴 스노클링](#눈으로만-즐긴-스노클링 "Naviate to Snorkeling enjoyed only with the eyes")
 - [놀고 있는 혹등고래들](#놀고-있는-혹등고래들 "Navigate to Humpback whales playing")
 2. [Sabor Español 식당](#sabor-español-식당 "Navigate to Sabor Español restaurant")
-3. [여행 경비](#여행-경비 "Navigate to Travel expenses")
+3. [여행 경로](#여행-경로 "Navigate to Travel route")
+4. [여행 경비](#여행-경비 "Navigate to Travel expenses")
 
 ---
 
@@ -489,6 +490,12 @@ description: 2025.08.17 플라타 섬 투어 이야기
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/la-cuenta-con-plato-pequeno-de-chocolates.jpg" title="La cuenta con plato pequeño de chocolates" alt="La cuenta con plato pequeño de chocolates">
 </div>
+<br>
+
+---
+
+#### <span style="color: #8D4801">**여행 경로**</span>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m40!1m12!1m3!1d6197.224059190071!2d-80.81683619190656!3d-1.5592611540096164!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m25!3e2!4m5!1s0x902e9f3524423219%3A0xa7fdda1621f08bc6!2sC5QP%2BC4P%20Coffee%20One%20Dolar%2C%20Mal.%20Julio%20Izurieta%2C%20Puerto%20L%C3%B3pez!3m2!1d-1.5614697!2d-80.8147219!4m5!1s0x902e9f1e8e002d53%3A0xefb3e71d032b8cf6!2sIsla%20de%20la%20Plata%20Ecuador%20%7C%20Puerto%20L%C3%B3pez%20-Naturis%20tours%2C%20y%2C%20Puerto%20Lopez!3m2!1d-1.5596138!2d-80.8123904!4m5!1s0x902e9f00545654e5%3A0x87f42cec0aa40f97!2sMuelle%20de%20Puerto%20Lopez%2C%20Malecon%20Julio%20Izurieta%2C%20Puerto%20Lopez!3m2!1d-1.5609933!2d-80.8174011!4m5!1s0x902e9e1f16e726e3%3A0x1a6d73cf5b6738dd!2sRestaurante%20Sabor%20Espa%C3%B1ol!3m2!1d-1.5630678!2d-80.8188411!5e0!3m2!1sko!2sec!4v1757351227262!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---
