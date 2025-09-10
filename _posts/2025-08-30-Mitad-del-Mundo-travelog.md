@@ -250,13 +250,13 @@ description: 2025.08.30 에콰도르 키토에서 적도 박물관 탐방기
 에콰도르에 존재하는 <span style="color: #8D4801">**정확한 적도를 측량**</span>하기 위해 방문했었다는 프랑스, 스페인의 <span style="color: #8D4801">**탐사단이 사용했다는 도구들**</span>
 
 |:---:|:---:|:---:|
-| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/france-pavilion-2.jpg" title="" alt=""> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/france-pavilion-3.jpg" title="" alt=""> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/france-pavilion-4.jpg" title="" alt=""> |
+| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/france-pavilion-2.jpg" title="The tools France pavilion used" alt="The tools France pavilion used"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/france-pavilion-3.jpg" title="The tools France pavilion used" alt="The tools France pavilion used"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/france-pavilion-4.jpg" title="The tools France pavilion used" alt="The tools France pavilion used"> |
 
 <br>
 
 <span style="color: indianred">**문제는 당시 그들이 측량한 적도가 사실은 틀렸다**</span>는 것이다. 철석같이 믿었던 적도의 위치는 정확히는 기념비가 아니라 <span style="color: #8D4801">**이곳에서 조금 떨어진 학교 근처**</span>라고 한다. (그래서 그 주변에 새로 박물관을 지었다고...)
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/france-pavilion-1.jpg" title="" alt="">
+  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/france-pavilion-1.jpg" title="France pavilion" alt="France pavilion">
 </div>
 <br>
 

@@ -193,21 +193,21 @@ description: 2013.12.12~13 엉망진창 첫 해외 출국 공항 해프닝 및 �
 
 정원 구경을 마치고 돌아가는 길의 야경 또한 매우 아름다웠다.
 <div class="image-slider-auto">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/night-view-in-singapore-1.jpg" title="" alt="">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/night-view-in-singapore-2.jpg" title="" alt="">
+  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/night-view-in-singapore-1.jpg" title="Night view in Singapore" alt="Night view in Singapore">
+  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/night-view-in-singapore-2.jpg" title="Night view in Singapore" alt="Night view in Singapore">
 </div>
 <br>
 
 술자리는 이제부터 시작인 야시장 사람들...
 <div class="image-slider-auto">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/night-market-1.jpg" title="" alt="">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/night-market-2.jpg" title="" alt="">
+  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/night-market-1.jpg" title="Night market in Singapore" alt="Night market in Singapore">
+  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/night-market-2.jpg" title="Night market in Singapore" alt="Night market in Singapore">
 </div>
 <br>
 
 마지막으로 숙소로 돌아가기 전에 빌보드 차트 <span style="color: #8D4801">**팝송을 부르시는 무대**</span>를 감상하고 복귀했다 끄읕!
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/the-song-stage.jpg" title="" alt="">
+  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/the-song-stage.jpg" title="The song stage" alt="The song stage">
 </div>
 <br>
 

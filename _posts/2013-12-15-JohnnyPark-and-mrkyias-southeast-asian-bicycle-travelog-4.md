@@ -141,7 +141,7 @@ description: 2013.12.15 싱가포르 3일 차 여행기
 #### <span style="color: #8D4801">**싱가포르에서의 마지막 밤**</span>
 기분 좋게 맥주 한잔하고 숙소로 돌아가는 길
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-15-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-4/clark-quay-street-at-night-1.jpg" title="" alt="">
+  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-15-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-4/clark-quay-street-at-night-1.jpg" title="Clark Quay street at night" alt="Clark Quay street at night">
 </div>
 <br>
 
@@ -151,25 +151,25 @@ description: 2013.12.15 싱가포르 3일 차 여행기
 
 <span style="color: #8D4801">**마지막 밤**</span>이라 그런지 무언가 괜히 아쉬웠다.
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-15-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-4/clark-quay-street-at-night-2.jpg" title="" alt="">
+  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-15-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-4/clark-quay-street-at-night-2.jpg" title="Clark Quay street at night" alt="Clark Quay street at night">
 </div>
 <br>
 
 이<span style="color: #8D4801">**거↗︎**</span> 어디까<span style="color: #8D4801">**지➚**</span> 올라가는 거에<span style="color: #8D4801">**요?➹**</span>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-15-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-4/clark-quay-street-at-night-3.jpg" title="" alt="">
+  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-15-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-4/clark-quay-street-at-night-3.jpg" title="Clark Quay street at night" alt="Clark Quay street at night">
 </div>
 <br>
 
 마리나 호텔 <span style="color: #8D4801">**안녕**</span>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-15-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-4/clark-quay-street-at-night-4.jpg" title="" alt="">
+  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-15-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-4/clark-quay-street-at-night-4.jpg" title="Clark Quay street at night" alt="Clark Quay street at night">
 </div>
 <br>
 
 숙소에 돌아와서는 근처 식당에서 <span style="color: #8D4801">**간단한 야식으로 딤섬과 수박 주스**</span>를 먹었는데 우리나라 만두와 비슷하면서 속에 육수 같은 국물이 담겨 있어서 더 깊은 맛을 즐길 수 있었다.
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-15-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-4/supper.jpg" title="" alt="">
+  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-15-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-4/supper.jpg" title="The restaurant blogger had supper" alt="The restaurant blogger had supper">
 </div>
 <br>
 

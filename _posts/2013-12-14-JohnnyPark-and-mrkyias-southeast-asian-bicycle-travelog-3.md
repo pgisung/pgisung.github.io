@@ -249,7 +249,7 @@ description: 2013.12.14 싱가포르 2일 차 여행기
 
 멀라이언 타워 위에 올라가면 센토사 풍경이 보이고 사진기사가 있고 돈을 줘야 찍을 수 있는데 화질이 그리 좋진 않아서 PASS
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/blogger-with-merlion-tower.jpg" title="" alt="">
+  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/blogger-with-merlion-tower.jpg" title="Blogger with Merlion tower" alt="Blogger with Merlion tower">
 </div>
 <br>
 
@@ -265,25 +265,25 @@ description: 2013.12.14 싱가포르 2일 차 여행기
 
 돌아올 때의 케이블카는 또 다른 감동을 주었다. <span style="color: #8D4801">**센토사와 하버프론트의 야경 전경**</span>을 볼 수 있는데 주얼박스 꼭대기로 가면 안에서 식사도 가능하게 해준다고 한다.
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/night-view-in-cable-car.jpg" title="" alt="">
+  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/night-view-in-cable-car.jpg" title="Night view in cable car" alt="Night view in cable car">
 </div>
 <br>
 
 도미토리에 돌아와 근처 식당에서 면 요리로 저녁을 간단히 먹고
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/dinner-with-noodle.jpg" title="" alt="">
+  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/dinner-with-noodle.jpg" title="Dinner with noodle" alt="Dinner with noodle">
 </div>
 <br>
 
 사타이(우리나라의 닭꼬치류)를 안주삼아 <span style="color: #8D4801">**타이거 맥주로 하루를 마무리했다. 사실 자전거 여행 중에 매일 이 시간이 가장 행복했던 것 같다.**</span> 밤에 맥주 한 잔으로 그날의 갈증을 날려버릴 수 있었기에...
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/beer-time.jpg" title="" alt="">
+  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/beer-time.jpg" title="Blogger drinking a beer" alt="Blogger drinking a beer">
 </div>
 <br>
 
 근데 맥주잔 밑에 <span style="color: indianred">**이 번호**</span>는 뭐였지...?
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/the-number-at-bottom-of-the-beer-cup.jpg" title="" alt="">
+  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/the-number-at-bottom-of-the-beer-cup.jpg" title="The number at bottom of the beer cup" alt="The number at bottom of the beer cup">
 </div>
 <br>
 

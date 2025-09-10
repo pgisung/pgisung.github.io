@@ -149,8 +149,8 @@ description: 2025.09.04 에콰도르 키토에서 보토 나시오날 대성당 
 
 어라 뭐야 찍히고 있던 건가...? 정신 차리고 다시 한 컷
 <div class="image-slider-auto">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-04-Climbing-the-towers-of-the-Basilica-of-the-Voto-National/blogger-at-6th-floor-1.jpg" title="" alt="">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-04-Climbing-the-towers-of-the-Basilica-of-the-Voto-National/blogger-at-6th-floor-2.jpg" title="" alt="">
+  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-04-Climbing-the-towers-of-the-Basilica-of-the-Voto-National/blogger-at-6th-floor-1.jpg" title="Blogger at 6th floor" alt="Blogger at 6th floor">
+  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-04-Climbing-the-towers-of-the-Basilica-of-the-Voto-National/blogger-at-6th-floor-2.jpg" title="Blogger at 6th floor" alt="Blogger at 6th floor">
 </div>
 <br>
 
@@ -315,7 +315,7 @@ description: 2025.09.04 에콰도르 키토에서 보토 나시오날 대성당 
 ##### **찾아가는 길**
 사실 <span style="color: indianred">**원래 계획대로는 엠빠나다를 먼저 먹고 성당에 올까**</span> 했었는데, 성당에 먼저 왔더니 많은 허기가 져서 식당을 향해 서둘러 출발했다.
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-04-Climbing-the-towers-of-the-Basilica-of-the-Voto-National/entrance-of-basilica.jpg" title="" alt="">
+  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-04-Climbing-the-towers-of-the-Basilica-of-the-Voto-National/entrance-of-basilica.jpg" title="Entrance of Basilica" alt="Entrance of Basilica">
 </div>
 <br>
 
@@ -471,12 +471,12 @@ description: 2025.09.04 에콰도르 키토에서 보토 나시오날 대성당 
 
 | 2025.09.04 | 현지 통화 | 원화 |
 |:---:|:---:|:---:|
-| **우버 택시 교통비** | 3.19 USD | 4,445원 |
+| **우버 택시 교통비** | 3.19 USD | 4,525원 |
 | **성당 첨탑 입장료** | 4 USD | 5,559원 |
 | **점심 식비** | 11 USD | 15,288원 |
 | **저녁 식비** | 52 USD | 72,436원 |
-| **우버 택시 교통비** | 5.57 USD | 7,761원 |
-| <span style="color: #8D4801">**총합**</span> | **75.76 USD** | **105,489원** |
+| **우버 택시 교통비** | 5.57 USD | 7,912원 |
+| <span style="color: #8D4801">**총합**</span> | **75.76 USD** | **105,720원** |
 
 <script>
 pannellum.viewer('panorama-1', {

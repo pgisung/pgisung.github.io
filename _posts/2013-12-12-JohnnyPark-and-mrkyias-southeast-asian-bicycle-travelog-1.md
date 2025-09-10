@@ -65,13 +65,13 @@ description: 2013.11~2013.12 생애 첫 해외 여행이자 자전거 여행의 
 
 <span style="color: #8D4801">**패킹된 자전거 박스**</span>이다. 출국할 때는 도착하자마자 금방 조립해서 짐을 덜 수 있을 줄 알았는데... 그 후 며칠을 옮겨 다니느라 고생했다는 후일담이...
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-12-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-1/packed-bicycle.jpg" title="" alt="">
+  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-12-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-1/packed-bicycle.jpg" title="Packed bicycle" alt="Packed bicycle">
 </div>
 <br>
 
 공항에서 바로 뺏겼다... <span style="color: indianred">**가족 통틀어 첫 해외 여행이었던 터라 당시에는 버너가 비행기 반입이 안 된다는 것을 아무도 몰랐다는...**</span>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-12-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-1/burner.jpg" title="" alt="">
+  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-12-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-1/burner.jpg" title="Burner" alt="Burner">
 </div>
 
 ---
