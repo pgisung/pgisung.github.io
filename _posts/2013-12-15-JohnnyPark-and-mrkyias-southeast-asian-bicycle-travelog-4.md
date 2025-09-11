@@ -200,14 +200,40 @@ description: 2013.12.15 싱가포르 3일 차 여행기
 | <span style="color: #8D4801">**총합**</span> | **208.65 SGD** | **174,744원** |
 
 <script>
-pannellum.viewer('panorama-1', {
-    "type": "equirectangular",
-    "panorama": "https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-15-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-4/panorama-clarke-quay.jpg", 
-    "autoLoad": true,
-    "autoRotate": -2,
-    "compass": true,
-    "title": "Clarke Quay view",
-    "author": "Hagyun Kim",
-    "showZoomCtrl": true,
+document.addEventListener("DOMContentLoaded", function () {
+  const panoramas = [
+    {
+      id: "panorama-1",
+      config: {
+        type: "equirectangular",
+        panorama: "https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-15-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-4/panorama-clarke-quay.jpg",
+        autoLoad: true,
+        autoRotate: -2,
+        compass: true,
+        title: "Clarke Quay view",
+        author: "Hagyun Kim",
+        showZoomCtrl: true
+      }
+    }
+  ];
+
+  // Lazy Load observer
+  const observer = new IntersectionObserver((entries, obs) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        const pano = panoramas.find(p => p.id === entry.target.id);
+        if (pano) {
+          pannellum.viewer(pano.id, pano.config);
+          obs.unobserve(entry.target); // 초기화 후 관찰 중지
+        }
+      }
+    });
+  }, { threshold: 0.2 }); // 20% 보이면 로드
+
+  // 각 파노라마 div 등록
+  panoramas.forEach(p => {
+    const element = document.getElementById(p.id);
+    if (element) observer.observe(element);
+  });
 });
 </script>

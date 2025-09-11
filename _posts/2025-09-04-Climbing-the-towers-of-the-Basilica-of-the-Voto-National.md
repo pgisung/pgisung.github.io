@@ -1,5 +1,4 @@
 ---
-
 layout: post
 title: 보토 나시오날 대성당(Basilica of the Voto Nacional)의 탑에 오르다
 flag: ec
@@ -479,14 +478,40 @@ description: 2025.09.04 에콰도르 키토에서 보토 나시오날 대성당 
 | <span style="color: #8D4801">**총합**</span> | **75.76 USD** | **105,720원** |
 
 <script>
-pannellum.viewer('panorama-1', {
-    "type": "equirectangular",
-    "panorama": "https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-04-Climbing-the-towers-of-the-Basilica-of-the-Voto-National/panorama-quito-city.jpg", 
-    "autoLoad": true,
-    "autoRotate": -2,
-    "compass": true,
-    "title": "Quito City view",
-    "author": "Jisung Park",
-    "showZoomCtrl": true
+document.addEventListener("DOMContentLoaded", function () {
+  const panoramas = [
+    {
+      id: "panorama-1",
+      config: {
+        type: "equirectangular",
+        panorama: "https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-04-Climbing-the-towers-of-the-Basilica-of-the-Voto-National/panorama-quito-city.jpg",
+        autoLoad: true,
+        autoRotate: -2,
+        compass: true,
+        title: "Quito City view",
+        author: "Jisung Park",
+        showZoomCtrl: true
+      }
+    }
+  ];
+
+  // Lazy Load observer
+  const observer = new IntersectionObserver((entries, obs) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        const pano = panoramas.find(p => p.id === entry.target.id);
+        if (pano) {
+          pannellum.viewer(pano.id, pano.config);
+          obs.unobserve(entry.target); // 초기화 후 관찰 중지
+        }
+      }
+    });
+  }, { threshold: 0.2 }); // 20% 보이면 로드
+
+  // 각 파노라마 div 등록
+  panoramas.forEach(p => {
+    const element = document.getElementById(p.id);
+    if (element) observer.observe(element);
+  });
 });
 </script>
