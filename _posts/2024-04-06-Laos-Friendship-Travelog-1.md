@@ -27,14 +27,14 @@ description: 2024.04.06 한국에서 라오스 비엔티안까지 이동기
 #### <span style="color: #8D4801">**여행 동기**</span>
 2024년 어느 날 다가오는 4월에 식목일과 22대 국회의원 선거일이 겹치면서 <span style="color: indianred">**굉장히 긴 연휴**</span>가 다가오고 있었다.
 
-<span style="color: #8D4801">**곧 결혼을 앞둔 mrkyia의 소식**</span>을 듣고 이번이 아니면 다 같이 할 수 있는 <span style="color: indianred">**여행의 기회가 쉽사리 다시 찾아오지 않을 거**</span>로 생각했다. 특히나 이전에 우리가 <span style="color: #8D4801">**함께했던 여행 경험들이 앞으로 살아 나갈 날에 커다란 에너지와 동기부여**</span>가 된다는 점을 상기해 보면 더더욱 놓칠 수 없었고 우리는 실행에 옮기기 시작했다.
+<span style="color: #8D4801">**곧 결혼을 앞둔 mrkyia의 소식**</span>을 듣고 이번이 아니면 다 같이 할 수 있는 <span style="color: indianred">**여행의 기회가 쉽사리 다시 찾아오지 않으리라**</span> 생각했다. 특히나 이전에 우리가 <span style="color: #8D4801">**함께했던 여행 경험들이 앞으로 살아 나갈 날에 커다란 에너지와 동기부여**</span>가 된다는 점을 상기해 보면 더더욱 놓칠 수 없었고 우리는 실행에 옮기기 시작했다.
 
 공교롭게도 함께 다녀왔던 일본 가고시마 여행과 <span style="color: indianred">**똑같은 4월**</span>에 또다시 여행을 같이 가게 되었다.
 
 ---
 
 #### <span style="color: #8D4801">**여행 준비 중에 일어난 일**</span>
-친구끼리 떠나는 오랜만의 여행이라 설레는 마음으로 <span style="color: indianred">**여행 계획서**</span>를 작성했었다. <span style="color: #8D4801">**노션으로 작성**</span>한 여행 계획서는 다 같이 공유하기에 생각보다 편리했다.
+친구끼리 떠나는 오랜만의 여행이라 설레는 마음으로 <span style="color: indianred">**여행 계획서**</span>를 작성했었다. [노션](https://www.notion.com/ko "Navigate to Notion website")<span style="color: #8D4801">**으로 작성**</span>한 여행 계획서는 다 같이 공유하기에 생각보다 편리했다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/travel-itinerary-in-notion.jpg" title="Travel itinerary in Notion" alt="Travel itinerary in Notion">
 </div>
@@ -42,12 +42,14 @@ description: 2024.04.06 한국에서 라오스 비엔티안까지 이동기
 
 지구마불 세계여행에서 곽튜브가 몸소 보여주기도 했지만, <span style="color: indianred">**라오스에서 기차 예약은 쉽지 않다**</span>. 심지어 반드시 방문 예약만 가능하므로 차질 없는 일정을 위해 에이전시가 필요했고 [트래블라오](https://travellao.com "Navigate to Travellao website")<span style="color: #8D4801">**를 통해 미리 이동하는 기차들을 예약**</span>했었다.
 
+만약 <span style="color: indianred">**방비엥 등에서 액티비티 예약을 고려**</span>할 경우 <span style="color: #8D4801">**기차 예약자만 할인이 가능한 액티비티 상품들**</span>이 있는 것으로 알고 있다. 하지만, 우리는 더 가격이 저렴한 <span style="color: indianred">**로컬 여행사에서 직접 예약**</span>을 했다.
+
 |:---:|:---:|
 | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/train-tickets.jpg" title="Train tickets to another city in Laos" alt="Train tickets to another city in Laos"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/ticket-qr-code.jpg" title="Ticket QR code" alt="Ticket QR code"> |
 
 <br>
 
-라오스에서는 <span style="color: indianred">**USD 특히 100달러 지폐**</span>가 가치가 가장 높다고 하여서 어느 정도 <span style="color: #8D4801">**미리 환전**</span>을 해두었다.
+라오스에서는 <span style="color: indianred">**USD 특히 100달러 지폐**</span>가 가치가 가장 높다고 하여서 어느 정도 <span style="color: #8D4801">**미리 환전**</span>을 해두었다. 기왕이면 <span style="color: indianred">**신권 달러의 가치를 더**</span> 쳐준다고 한다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/exchange-kwd-to-usd.jpg" title="Exchanged Korean dollar to US dollar" alt="Exchanged Korean dollar to US dollar">
 </div>
