@@ -180,6 +180,22 @@
     </url>
     
     <url>
+        <loc>http://localhost:4000/travel/laos/2024/04/14/Laos-Friendship-Travelog-1/</loc>
+        
+        <lastmod>2024-04-14T17:54:09+09:00</lastmod>
+        
+
+        
+        <changefreq>weekly</changefreq>
+        
+
+        
+        <priority>0.5</priority>
+        
+
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/github/2023/10/23/Managing-project/</loc>
         
         <lastmod>2023-10-23T09:03:29+09:00</lastmod>
@@ -720,6 +736,21 @@
     
         
         <url>
+            <loc>http://localhost:4000/categories/laos/</loc>
+
+            
+            <changefreq>weekly</changefreq>
+            
+
+            
+            <priority>0.5</priority>
+            
+
+        </url>
+        
+    
+        
+        <url>
             <loc>http://localhost:4000/categories/malaysia/</loc>
 
             
@@ -847,6 +878,21 @@
         
         <url>
             <loc>http://localhost:4000/page/4/</loc>
+
+            
+            <changefreq>weekly</changefreq>
+            
+
+            
+            <priority>0.5</priority>
+            
+
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:4000/page/5/</loc>
 
             
             <changefreq>weekly</changefreq>

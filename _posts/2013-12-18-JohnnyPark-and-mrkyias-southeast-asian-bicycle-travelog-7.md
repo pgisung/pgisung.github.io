@@ -26,7 +26,7 @@ description: 2013.12.18 말레이시아 겔랑 파타에서 폰티안까지 이�
 <span style="color: indianred">**아이스티를 마시기 위해 잠시 들렀던 주유소**</span>에서 편의점 직원과 찍었던 사진
 
 |:---:|:---:|
-| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-18-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-7/blogger-with-staff-in-convenient-shop.jpg" title="Blogger with staff in convenient shop" alt="Blogger with staff in convenient shop"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-18-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-7/friend-with-staff-in-convenient-shop.jpg" title="Friend with staff in convenient shop" alt="Friend with staff in convenient shop"> |
+| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-18-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-7/blogger-with-staff-in-convenience-store.jpg" title="Blogger with staff in convenience store" alt="Blogger with staff in convenience store"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-18-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-7/friend-with-staff-in-convenience-store.jpg" title="Friend with staff in convenience store" alt="Friend with staff in convenience store"> |
 
 <br>
 
