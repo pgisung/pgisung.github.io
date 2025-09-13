@@ -165,7 +165,7 @@ description: 2025.08.19 에콰도르 키토에서 무료로 황열병 예방접�
 
 조금만 버텨! 버티면 우린 마를 수 있어. <span style="color: #8D4801">**건조한 날씨 덕에 빨래가 금방 말라서 너무 좋은 키토의 기후**</span>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-19-Yellow-fever-vaccination-and-day-trip-to-old-town-in-quito/swing-laundry.gif" title="Swing laundry" alt="Swing laundry">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-19-Yellow-fever-vaccination-and-day-trip-to-old-town-in-quito/swing-laundry.gif" title="Swing laundry" alt="Swing laundry">
 </div>
 <br>
 

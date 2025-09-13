@@ -423,4 +423,27 @@ $(function() {
     e.preventDefault();
   });
 
+  // data-src 입력한 img들 전부 lazy loading
+  // UX 생각했을 때 gif 같은 이미지들만 하는게 나을 것 같다.
+  function initLazyLoad() {
+    const lazyImages = document.querySelectorAll('img[data-src]');
+
+    const observer = new IntersectionObserver((entries, obs) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.src = entry.target.dataset.src;
+          obs.unobserve(entry.target);
+        }
+      });
+    }, { threshold: [0.2] });
+
+    lazyImages.forEach(img => observer.observe(img));
+  }
+  // 이미 DOMContentLoaded가 지나갔는지 확인
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", initLazyLoad);
+  } else {
+    initLazyLoad(); // 이미 DOM이 준비되었으면 바로 실행
+  }
+
 });

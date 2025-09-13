@@ -44,7 +44,7 @@ description: 2025.08.16 살랑고 섬 투어 이야기
 
 어부들이 옮기다가 <span style="color: #8D4801">**떨어뜨린 물고기를 주워 먹는 군함조**</span>. 뒤에 상황은 촬영하지 않았지만, 무리에서 조금 더 강해 보이는 군함조가 이 새를 쫓아내고 생선을 점유했다.
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/fragata.gif" title="Fragata eating dropped fish" alt="Fragata eating dropped fish">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/fragata.gif" title="Fragata eating dropped fish" alt="Fragata eating dropped fish">
 </div>
 <br>
 
@@ -139,15 +139,15 @@ description: 2025.08.16 살랑고 섬 투어 이야기
 
 <span style="color: #8D4801">**예 봤습니다. 한두 마리도 아니고 매우 많이**</span>요! 일단 이쪽저쪽에서 다들 고래를 발견하면 탄성부터 지르셔서 나타나는 것도 핸드폰 알림 오듯이 알 수 있어서 좋았어요...
 <div class="image-slider-passive">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-1.gif" title="Humpback whale" alt="Humpback whale">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-2.gif" title="Humpback whale" alt="Humpback whale">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-3.gif" title="Humpback whale" alt="Humpback whale">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-1.gif" title="Humpback whale" alt="Humpback whale">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-2.gif" title="Humpback whale" alt="Humpback whale">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-3.gif" title="Humpback whale" alt="Humpback whale">
 </div>
 <br>
 
 <span style="color: #8D4801">**진짜 바로 옆**</span>까지 와 준 고마운 녀석
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-4.gif" title="Humpback whale" alt="Humpback whale">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-4.gif" title="Humpback whale" alt="Humpback whale">
 </div>
 <br>
 
@@ -165,10 +165,10 @@ description: 2025.08.16 살랑고 섬 투어 이야기
 
 결론적으로 고래를 볼 수 있을까 걱정했던 것이 무색하게 <span style="color: #8D4801">**진짜 많은 고래를 볼 수 있어서 너무 좋았다**</span>. 다만, 사람의 욕심이 참 끝이 없는 게 고래를 보고 나니 <span style="color: indianred">**고래가 브리칭하는 모습을 한 번만 봤으면**</span> 하고 생각하고 있었던...
 <div class="image-slider-passive">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-7.gif" title="Humpback whale" alt="Humpback whale">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-8.gif" title="Humpback whale" alt="Humpback whale">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-9.gif" title="Humpback whale" alt="Humpback whale">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-10.gif" title="Humpback whale" alt="Humpback whale">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-7.gif" title="Humpback whale" alt="Humpback whale">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-8.gif" title="Humpback whale" alt="Humpback whale">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-9.gif" title="Humpback whale" alt="Humpback whale">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-10.gif" title="Humpback whale" alt="Humpback whale">
 </div>
 <br>
 

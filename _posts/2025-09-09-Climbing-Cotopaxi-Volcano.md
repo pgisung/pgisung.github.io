@@ -113,7 +113,7 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 
 고도 3,500m쯤부터 <span style="color: indianred">**길이 비포장도로에 경사**</span>가 있어서 그런지 <span style="color: #8D4801">**차가 엄청나게 흔들리기 시작**</span>했다.
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/a-bumpy-van-ride-on-a-dirt-road.gif" title="A bumpy van ride on a dirt road" alt="A bumpy van ride on a dirt road">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/a-bumpy-van-ride-on-a-dirt-road.gif" title="A bumpy van ride on a dirt road" alt="A bumpy van ride on a dirt road">
 </div>
 <br>
 
@@ -203,7 +203,7 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 
 고도 4,500m <span style="color: indianred">**밴의 바퀴도 모래에 헛돌기 시작**</span>했다. 차도 이렇게 힘들게 올라오는데 <span style="color: #8D4801">**여길 걸어오려면 사람은 얼마나 힘들려나**</span> 싶었다.
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/the-vans-wheels-were-spinning-in-the-sand.gif" title="The van’s wheels were spinning in the sand" alt="The van’s wheels were spinning in the sand">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/the-vans-wheels-were-spinning-in-the-sand.gif" title="The van’s wheels were spinning in the sand" alt="The van’s wheels were spinning in the sand">
 </div>
 <br>
 
@@ -225,7 +225,7 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 
 차에서 막 내렸을 때 진짜 공기가 달라졌다. <span style="color: indianred">**차가운 공기**</span>에 구름인지 <span style="color: indianred">**수분이 마구 부딪혀오고 사람도 날아갈 것 같을 정도로 바람이 강하게 불었다**</span>.
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/strong-wind-at-cotopaxi-refugio-parking.gif" title="Strong wind at Cotopaxi refugio parking" alt="Strong wind at Cotopaxi refugio parking">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/strong-wind-at-cotopaxi-refugio-parking.gif" title="Strong wind at Cotopaxi refugio parking" alt="Strong wind at Cotopaxi refugio parking">
 </div>
 <br>
 
@@ -342,7 +342,7 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 
 명칭을 뭐라고 해야 할지 모르겠는 것이 구름 속에 있으니 <span style="color: indianred">**구름이라고 해야 할지**</span> 피부에 닿으면 따가우니까 <span style="color: indianred">**눈이나 우박이라고 해야 할지**</span> 정확히는 모르겠지만 아무튼 신기했다. 조금만 내려가면 무려 적도의 태양이 떠 있는 밝은 대낮인데 <span style="color: #8D4801">**눈에 보이는 얼음 결정들**</span>이 날아다닌다니요
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/hiking-on-cotopaxi-volcano-8.gif" title="Hiking on Cotopaxi Volcano" alt="Hiking on Cotopaxi Volcano">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/hiking-on-cotopaxi-volcano-8.gif" title="Hiking on Cotopaxi Volcano" alt="Hiking on Cotopaxi Volcano">
 </div>
 <br>
 

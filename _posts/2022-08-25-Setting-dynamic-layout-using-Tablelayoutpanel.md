@@ -216,7 +216,7 @@ public bool InitializeForm()
 #### <span style="color: brown">**컨트롤에 확대 이벤트를 적용해 보자**</span>
 ##### **기존의 레이아웃에 적용**
 <center>
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2022-08-25-Setting-dynamic-layout-using-Tablelayoutpanel/button-zoom-inout-in-form.gif" title="Example of button zoom inout action in form" alt="Example of button zoom inout action in form" Width="70%">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2022-08-25-Setting-dynamic-layout-using-Tablelayoutpanel/button-zoom-inout-in-form.gif" title="Example of button zoom inout action in form" alt="Example of button zoom inout action in form" Width="70%">
 </center>
 
 - 컨트롤의 실제 위치 및 크기의 조정이 필요하므로 위에 표시되는 <span style="color: #8D4801">**Location과 Size는 모두 직접 지정한 값**</span>인 것을 아래의 코드에서 확인할 수 있다.
@@ -265,7 +265,7 @@ private void ChangeButtonSize( object sender, EventArgs e )
 
 ##### **TableLayoutPanel을 이용한 레이아웃에 적용**
 <center>
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2022-08-25-Setting-dynamic-layout-using-Tablelayoutpanel/button-zoom-inout-in-tablelayoutpanel.gif" title="Example of button zoom inout action in tablelayoutpanel" alt="Example of button zoom inout action in tablelayoutpanel" Width="70%">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2022-08-25-Setting-dynamic-layout-using-Tablelayoutpanel/button-zoom-inout-in-tablelayoutpanel.gif" title="Example of button zoom inout action in tablelayoutpanel" alt="Example of button zoom inout action in tablelayoutpanel" Width="70%">
 </center>
 
 - TableLayoutPanel에서 해당 컨트롤의 Row 및 Column으로 위치를 지정하고 Span으로 크기를 지정하면 <span style="color: #8D4801">**동적으로 변화하는 Location과 Size**</span>를 확인할 수 있다.

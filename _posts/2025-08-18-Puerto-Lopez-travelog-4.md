@@ -40,7 +40,7 @@ description: 2025.08.18 여행 마지막 날 푸에르토 로페스에서 키토
 
 이 작은 마을의 초등학생들로 보였다. 이동 수업인지 교실을 옮기는 모습
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/moving-students.gif" title="Moving students" alt="Moving students">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/moving-students.gif" title="Moving students" alt="Moving students">
 </div>
 <br>
 
@@ -130,7 +130,7 @@ Bolon과 직접 타 먹는 설탕 커피의 가격은 <span style="color: indian
 
 드디어 이륙 <span style="color: #8D4801">**만타 안녕**</span>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/a-plane-on-takeoff.gif" title="A plane on takeoff" alt="A plane on takeoff">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/a-plane-on-takeoff.gif" title="A plane on takeoff" alt="A plane on takeoff">
 </div>
 <br>
 
@@ -153,7 +153,7 @@ Bolon과 직접 타 먹는 설탕 커피의 가격은 <span style="color: indian
 
 다시 봐서 반갑다. <span style="color: #8D4801">**키토**</span>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/a-landing-plane.gif" title="A landing plane" alt="A landing plane">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/a-landing-plane.gif" title="A landing plane" alt="A landing plane">
 </div>
 <br>
 

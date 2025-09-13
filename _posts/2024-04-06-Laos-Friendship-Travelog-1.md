@@ -144,7 +144,7 @@ description: 2024.04.06 한국에서 라오스 비엔티안까지 이동기
 
 님들 찍는 건데 왜 숨어있으세요? <span style="color: indianred">**하하하**</span>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/friends-in-the-giftown-vientiane.gif" title="Friends in the Giftown Vientiane" alt="Friends in the Giftown Vientiane">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/friends-in-the-giftown-vientiane.gif" title="Friends in the Giftown Vientiane" alt="Friends in the Giftown Vientiane">
 </div>
 <br>
 

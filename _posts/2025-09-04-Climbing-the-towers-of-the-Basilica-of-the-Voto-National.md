@@ -37,7 +37,7 @@ description: 2025.09.04 에콰도르 키토에서 보토 나시오날 대성당 
 
 다윈 선생님이 비둘기로 종에 대해 실험하셨을 때 이런 그림이었을까요?
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-04-Climbing-the-towers-of-the-Basilica-of-the-Voto-National/doves-that-feed-on-food.gif" title="Doves that feed on food" alt="Doves that feed on food">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-04-Climbing-the-towers-of-the-Basilica-of-the-Voto-National/doves-that-feed-on-food.gif" title="Doves that feed on food" alt="Doves that feed on food">
 </div>
 <br>
 
@@ -453,7 +453,7 @@ description: 2025.09.04 에콰도르 키토에서 보토 나시오날 대성당 
 
 보토 나시오날 대성당 앞에서도 불꽃을 쏘아 올리시던데 그건 못 찍고, <span style="color: #8D4801">**독립 광장에서 쏘아지던 불꽃놀이**</span>. 아무튼 <span style="color: indianred">**왜 밤에 와야만 하는 가게인지 알 것 같았던 야경이 너무나도 아름다운 가게**</span>였다.
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-04-Climbing-the-towers-of-the-Basilica-of-the-Voto-National/firework-at-independence-square.gif" title="Firework at Independence square" alt="Firework at Independence square">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-04-Climbing-the-towers-of-the-Basilica-of-the-Voto-National/firework-at-independence-square.gif" title="Firework at Independence square" alt="Firework at Independence square">
 </div>
 <br>
 

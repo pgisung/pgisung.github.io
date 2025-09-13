@@ -43,7 +43,7 @@ permalink: /csharp/:year/:month/:day/:title/
 #### <span style="color: brown">**발생할 수 있는 사용자 이벤트를 확인하자**</span>
 ##### **CheckedChanged 이벤트**
 <center>
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2022-06-22-Writing-the-camera-simulation-function-using-image-file/checked-changed-event.gif" title="Reference of CheckedChanged event" alt="Reference of CheckedChanged event">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2022-06-22-Writing-the-camera-simulation-function-using-image-file/checked-changed-event.gif" title="Reference of CheckedChanged event" alt="Reference of CheckedChanged event">
 </center>
 
 - 카메라별 Checkbox의 체크 상태가 달라질 경우 발생하는 이벤트이다. 4개의 체크박스 이벤트가 eChangedValue에 입력되는 열거형 변수를 제외하고 동일하므로 카메라 1번 함수만 살펴보자.
@@ -78,7 +78,7 @@ private void checkBoxCamera1_CheckedChanged( object sender, EventArgs e )
 
 ##### **Load image button Click 이벤트**
 <center>
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2022-06-22-Writing-the-camera-simulation-function-using-image-file/load-image-button-click-event.gif" title="Reference of Load image button Click event" alt="Reference of Load image button Click event">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2022-06-22-Writing-the-camera-simulation-function-using-image-file/load-image-button-click-event.gif" title="Reference of Load image button Click event" alt="Reference of Load image button Click event">
 </center>
 
 - Load Image Button을 마우스 클릭할 경우 발생하는 이벤트이다.
@@ -181,7 +181,7 @@ private IEnumerable<System.IO.FileInfo> GetFiles( string path )
 
 ##### **ValueChanged 이벤트**
 <center>
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2022-06-22-Writing-the-camera-simulation-function-using-image-file/value-changed-event.gif" title="Reference of ValueChanged event" alt="Reference of ValueChanged event">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2022-06-22-Writing-the-camera-simulation-function-using-image-file/value-changed-event.gif" title="Reference of ValueChanged event" alt="Reference of ValueChanged event">
 </center>
 
 - 반복 횟수 및 지연시간 NumericUpDown의 값이 변경될 경우 발생하는 이벤트이다. iOriginValue에 입력되는 변수를 제외하고 동일하므로 반복 횟수 NumericUpDown의 함수만 살펴보자.
@@ -216,7 +216,7 @@ private void numericSearchCount_ValueChanged( object sender, EventArgs e )
 
 ##### **검색 시작 및 정지 button의 Click 이벤트**
 <center>
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2022-06-22-Writing-the-camera-simulation-function-using-image-file/search-start-stop-button-click-event.gif" title="Reference of Search start button and Search stop button Click event" alt="Reference of Search start button and Search stop button Click event">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2022-06-22-Writing-the-camera-simulation-function-using-image-file/search-start-stop-button-click-event.gif" title="Reference of Search start button and Search stop button Click event" alt="Reference of Search start button and Search stop button Click event">
 </center>
 
 - 검색 시작 Button과 검색 정지 Button을 마우스 클릭할 경우 발생하는 이벤트로 Bool 타입의 플래그만 변경해 준다.
@@ -452,7 +452,7 @@ private static void ThreadSearch( object state )
 #### <span style="color: brown">**결과를 확인해 보자**</span>
 실제 자재 이미지를 사용할 수는 없으므로 <span style="color: #8D4801">**예시 이미지를 사용하여 시뮬레이션**</span> 해보았다.
 <center>
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2022-06-22-Writing-the-camera-simulation-function-using-image-file/image-search-test.gif" title="Example of image search test" alt="Example of image search test">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2022-06-22-Writing-the-camera-simulation-function-using-image-file/image-search-test.gif" title="Example of image search test" alt="Example of image search test">
 </center>
 
 ---

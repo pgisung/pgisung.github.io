@@ -53,13 +53,13 @@ description: 2025.08.15 키토에서 푸에르토 로페스까지 이동기 및 
 
 에...? <span style="color: indianred">**안 기다리고 걸어가는 게 빠르지**</span> 않았을까요?
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/the-bus-going-to-airplane-2.gif" title="On bus going to plane" alt="On bus going to plane">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/the-bus-going-to-airplane-2.gif" title="On bus going to plane" alt="On bus going to plane">
 </div>
 <br>
 
 드디어 이륙 <span style="color: #8D4801">**키토 안녕**</span>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/a-plane-on-takeoff.gif" title="A plane on takeoff" alt="A plane on takeoff">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/a-plane-on-takeoff.gif" title="A plane on takeoff" alt="A plane on takeoff">
 </div>
 <br>
 
@@ -78,13 +78,13 @@ description: 2025.08.15 키토에서 푸에르토 로페스까지 이동기 및 
 ##### **엘로이 알파로 국제공항**
 어라... 잠깐 시선 돌렸는데 비행기가 <span style="color: indianred">**왜 이렇게 낮게 날고**</span> 있지?
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/sea-view-on-plane.gif" title="Sea view on plane" alt="Sea view on plane">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/sea-view-on-plane.gif" title="Sea view on plane" alt="Sea view on plane">
 </div>
 <br>
 
 ...? 착륙? 원래 비행시간이 50분 아니었나... <span style="color: #8D4801">**아무튼 그만큼 금방 도착했음**</span>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/a-landing-plane.gif" title="A landing plane" alt="A landing plane">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/a-landing-plane.gif" title="A landing plane" alt="A landing plane">
 </div>
 <br>
 

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-09-12T23:25:18+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JohnnyPark</title><subtitle>The growth diary of Software developer JohnnyPark</subtitle><entry><title type="html">코토팍시 화산(Cotopaxi Volcano)에 오르다 - 활화산 하이킹</title><link href="http://localhost:4000/travel/ecuador/2025/09/10/Climbing-Cotopaxi-Volcano/" rel="alternate" type="text/html" title="코토팍시 화산(Cotopaxi Volcano)에 오르다 - 활화산 하이킹" /><published>2025-09-10T11:10:59+09:00</published><updated>2025-09-10T11:10:59+09:00</updated><id>http://localhost:4000/travel/ecuador/2025/09/10/Climbing-Cotopaxi-Volcano</id><content type="html" xml:base="http://localhost:4000/travel/ecuador/2025/09/10/Climbing-Cotopaxi-Volcano/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-09-14T05:06:48+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JohnnyPark</title><subtitle>The growth diary of Software developer JohnnyPark</subtitle><entry><title type="html">코토팍시 화산(Cotopaxi Volcano)에 오르다 - 활화산 하이킹</title><link href="http://localhost:4000/travel/ecuador/2025/09/10/Climbing-Cotopaxi-Volcano/" rel="alternate" type="text/html" title="코토팍시 화산(Cotopaxi Volcano)에 오르다 - 활화산 하이킹" /><published>2025-09-10T11:10:59+09:00</published><updated>2025-09-10T11:10:59+09:00</updated><id>http://localhost:4000/travel/ecuador/2025/09/10/Climbing-Cotopaxi-Volcano</id><content type="html" xml:base="http://localhost:4000/travel/ecuador/2025/09/10/Climbing-Cotopaxi-Volcano/"><![CDATA[<blockquote>
   <ol>
     <li><a href="#투어-시작" title="Navigate to Tour start">투어 시작</a>
       <ul>
@@ -118,7 +118,7 @@
 
 <p>고도 3,500m쯤부터 <span style="color: indianred"><strong>길이 비포장도로에 경사</strong></span>가 있어서 그런지 <span style="color: #8D4801"><strong>차가 엄청나게 흔들리기 시작</strong></span>했다.</p>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/a-bumpy-van-ride-on-a-dirt-road.gif" title="A bumpy van ride on a dirt road" alt="A bumpy van ride on a dirt road" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/a-bumpy-van-ride-on-a-dirt-road.gif" title="A bumpy van ride on a dirt road" alt="A bumpy van ride on a dirt road" />
 </div>
 <p><br /></p>
 
@@ -233,7 +233,7 @@
 
 <p>고도 4,500m <span style="color: indianred"><strong>밴의 바퀴도 모래에 헛돌기 시작</strong></span>했다. 차도 이렇게 힘들게 올라오는데 <span style="color: #8D4801"><strong>여길 걸어오려면 사람은 얼마나 힘들려나</strong></span> 싶었다.</p>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/the-vans-wheels-were-spinning-in-the-sand.gif" title="The van’s wheels were spinning in the sand" alt="The van’s wheels were spinning in the sand" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/the-vans-wheels-were-spinning-in-the-sand.gif" title="The van’s wheels were spinning in the sand" alt="The van’s wheels were spinning in the sand" />
 </div>
 <p><br /></p>
 
@@ -255,7 +255,7 @@
 
 <p>차에서 막 내렸을 때 진짜 공기가 달라졌다. <span style="color: indianred"><strong>차가운 공기</strong></span>에 구름인지 <span style="color: indianred"><strong>수분이 마구 부딪혀오고 사람도 날아갈 것 같을 정도로 바람이 강하게 불었다</strong></span>.</p>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/strong-wind-at-cotopaxi-refugio-parking.gif" title="Strong wind at Cotopaxi refugio parking" alt="Strong wind at Cotopaxi refugio parking" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/strong-wind-at-cotopaxi-refugio-parking.gif" title="Strong wind at Cotopaxi refugio parking" alt="Strong wind at Cotopaxi refugio parking" />
 </div>
 <p><br /></p>
 
@@ -379,7 +379,7 @@
 
 <p>명칭을 뭐라고 해야 할지 모르겠는 것이 구름 속에 있으니 <span style="color: indianred"><strong>구름이라고 해야 할지</strong></span> 피부에 닿으면 따가우니까 <span style="color: indianred"><strong>눈이나 우박이라고 해야 할지</strong></span> 정확히는 모르겠지만 아무튼 신기했다. 조금만 내려가면 무려 적도의 태양이 떠 있는 밝은 대낮인데 <span style="color: #8D4801"><strong>눈에 보이는 얼음 결정들</strong></span>이 날아다닌다니요</p>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/hiking-on-cotopaxi-volcano-8.gif" title="Hiking on Cotopaxi Volcano" alt="Hiking on Cotopaxi Volcano" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/hiking-on-cotopaxi-volcano-8.gif" title="Hiking on Cotopaxi Volcano" alt="Hiking on Cotopaxi Volcano" />
 </div>
 <p><br /></p>
 
@@ -825,7 +825,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <p>반갑게 악수를 청해오신 <span style="color: #8D4801"><strong>훌리안 아저씨</strong></span></p>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/don-julian-1.gif" title="Mr. Don Julian" alt="Mr. Don Julian" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/don-julian-1.gif" title="Mr. Don Julian" alt="Mr. Don Julian" />
 </div>
 <p><br /></p>
 
@@ -845,7 +845,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <p>보통 <span style="color: #8D4801"><strong>식사 준비를 하실 때 피운 불로 난방</strong></span>을 하신다는데 <span style="color: indianred"><strong>외투까지 입고 집 안에 있는데도 한기</strong></span>가 느껴지는데 여기서 어떻게 생활하시나 신기했다.</p>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/don-julian-2.gif" title="Mr. Don Julian" alt="Mr. Don Julian" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/don-julian-2.gif" title="Mr. Don Julian" alt="Mr. Don Julian" />
 </div>
 <p><br /></p>
 
@@ -1073,13 +1073,13 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <p>내려갈 시간에 <span style="color: indianred"><strong>이쁜 풍경을 조금이라도 더 담고 싶어서</strong></span> 찍은 영상</p>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/quilotoa-lake-3.gif" title="Quilotoa Lake" alt="Quilotoa Lake" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/quilotoa-lake-3.gif" title="Quilotoa Lake" alt="Quilotoa Lake" />
 </div>
 <p><br /></p>
 
 <p>역시 <span style="color: #8D4801"><strong>남는 건 사진뿐</strong></span> 아니겠나?</p>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/blogger-with-quilotoa-lake-4.gif" title="Blogger with Quilotoa Lake" alt="Blogger with Quilotoa Lake" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/blogger-with-quilotoa-lake-4.gif" title="Blogger with Quilotoa Lake" alt="Blogger with Quilotoa Lake" />
 </div>
 <p><br /></p>
 
@@ -1266,7 +1266,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <p>다윈 선생님이 비둘기로 종에 대해 실험하셨을 때 이런 그림이었을까요?</p>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-04-Climbing-the-towers-of-the-Basilica-of-the-Voto-National/doves-that-feed-on-food.gif" title="Doves that feed on food" alt="Doves that feed on food" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-04-Climbing-the-towers-of-the-Basilica-of-the-Voto-National/doves-that-feed-on-food.gif" title="Doves that feed on food" alt="Doves that feed on food" />
 </div>
 <p><br /></p>
 
@@ -1758,7 +1758,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <p>보토 나시오날 대성당 앞에서도 불꽃을 쏘아 올리시던데 그건 못 찍고, <span style="color: #8D4801"><strong>독립 광장에서 쏘아지던 불꽃놀이</strong></span>. 아무튼 <span style="color: indianred"><strong>왜 밤에 와야만 하는 가게인지 알 것 같았던 야경이 너무나도 아름다운 가게</strong></span>였다.</p>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-04-Climbing-the-towers-of-the-Basilica-of-the-Voto-National/firework-at-independence-square.gif" title="Firework at Independence square" alt="Firework at Independence square" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-04-Climbing-the-towers-of-the-Basilica-of-the-Voto-National/firework-at-independence-square.gif" title="Firework at Independence square" alt="Firework at Independence square" />
 </div>
 <p><br /></p>
 
@@ -1991,7 +1991,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <p>대망의 <span style="color: indianred"><strong>메인 디쉬 까마로네스 알아히요</strong></span>. 한국어로 마늘 새우! 역시나 친구의 매콤한 감바스 알아히요에 비할 바는 아니었지만, 일단 <span style="color: #8D4801"><strong>우리나라의 돌솥처럼 열기가 유지되는 그릇</strong></span>에 나와서 요리가 따뜻해서 좋았고, <span style="color: #8D4801"><strong>빵이 계속 리필</strong></span>이 되어서 곁들여서 배불리 먹을 수 있어서 좋았다.</p>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-01-Getting-a-Bolivia-visa-in-Quito/camarones-al-ajillo.gif" title="Camarones al ajillo" alt="Camarones al ajillo" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-01-Getting-a-Bolivia-visa-in-Quito/camarones-al-ajillo.gif" title="Camarones al ajillo" alt="Camarones al ajillo" />
 </div>
 <p><br /></p>
 
@@ -2222,7 +2222,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <p>열차 탑승을 위해 기다리던 중 보이던 <span style="color: #8D4801"><strong>남동생을 위해 그네를 돌려주는 여자아이</strong></span></p>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/sister-helping-younger-brother-for-swing.gif" title="The girl helping her young brother to enjoy the swing" alt="The girl helping her young brother to enjoy the swing" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/sister-helping-younger-brother-for-swing.gif" title="The girl helping her young brother to enjoy the swing" alt="The girl helping her young brother to enjoy the swing" />
 </div>
 <p><br /></p>
 
@@ -2253,7 +2253,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <p>맥주를 내리는 중(?)인 직원</p>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/the-staff-dropping-beer.gif" title="The staff dropping beer" alt="The staff dropping beer" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/the-staff-dropping-beer.gif" title="The staff dropping beer" alt="The staff dropping beer" />
 </div>
 <p><br /></p>
 
@@ -2275,13 +2275,13 @@ document.addEventListener("DOMContentLoaded", function () {
 <h5 id="기념품-가게"><strong>기념품 가게</strong></h5>
 <p>다들 콜럼버스의 달걀 이야기는 들어보셨죠? (아니, 그건 달걀을 깨서 세우는 건데요?) 아무튼 어떤 원리인지는 몰라도 <span style="color: indianred"><strong>중심으로부터 남북으로 2.5km 반경 안에서는 어떤 자기장의 현상으로 인해 달걀이 저렇게 설 수 있다</strong></span>고 합니다.</p>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/a-shopkeeper-putting-up-egg-on-the-nail.gif" title="A shopkeeper putting up egg on the nail" alt="A shopkeeper putting up egg on the nail" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/a-shopkeeper-putting-up-egg-on-the-nail.gif" title="A shopkeeper putting up egg on the nail" alt="A shopkeeper putting up egg on the nail" />
 </div>
 <p><br /></p>
 
 <p>그래서 저도 해봤는데요? 저는 잘 안되더라고요. 여기 <span style="color: #8D4801"><strong>세우고 10초간 버티면 작은 선물을 주신대서</strong></span> 열심히 했건만… 근데 기분 탓인지 <span style="color: indianred"><strong>달걀 중심에 무언가 당기는 힘</strong></span>이 느껴졌던 것만 같아서 신기하긴 했다.</p>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/blogger-trying-to-put-up-egg-on-the-nail.gif" title="Blogger trying to put up egg on the nail" alt="Blogger trying to put up egg on the nail" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/blogger-trying-to-put-up-egg-on-the-nail.gif" title="Blogger trying to put up egg on the nail" alt="Blogger trying to put up egg on the nail" />
 </div>
 <p><br /></p>
 
@@ -2381,13 +2381,13 @@ document.addEventListener("DOMContentLoaded", function () {
 <h5 id="천문관"><strong>천문관</strong></h5>
 <p>천문관에 입장하기 위해선 몇 분 동안 대기해야 했는데 그 이유가 <span style="color: #8D4801"><strong>입장하면 대략 10분이 안 되는 시간 동안 태양계의 행성들을 탐험하는 시뮬레이션</strong></span>을 상영해 준다.</p>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/simulation-video-to-space.gif" title="Simulation video to space" alt="Simulation video to space" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/simulation-video-to-space.gif" title="Simulation video to space" alt="Simulation video to space" />
 </div>
 <p><br /></p>
 
 <p>무슨 새인지 모르겠는데 <span style="color: #8D4801"><strong>노란색</strong></span>으로 귀여웠던 새</p>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/yellow-bird.gif" title="Yellow bird" alt="Yellow bird" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/yellow-bird.gif" title="Yellow bird" alt="Yellow bird" />
 </div>
 <p><br /></p>
 
@@ -2664,7 +2664,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <p>주말이면 많은 아이들이 분수대 앞에서 놀고 있다. 어느 나라를 가도 아이들의 동심은 똑같구나</p>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/playing-children-with-fountain.gif" title="Playing children with fountain" alt="Playing children with fountain" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/playing-children-with-fountain.gif" title="Playing children with fountain" alt="Playing children with fountain" />
 </div>
 <p><br /></p>
 
@@ -2676,12 +2676,12 @@ document.addEventListener("DOMContentLoaded", function () {
 <table>
   <tbody>
     <tr>
-      <td><img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/skateboard.gif" title="Skateboard" alt="Skateboard" /></td>
-      <td><img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/teqball.gif" title="Teqball" alt="Teqball" /></td>
+      <td><img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/skateboard.gif" title="Skateboard" alt="Skateboard" /></td>
+      <td><img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/teqball.gif" title="Teqball" alt="Teqball" /></td>
     </tr>
     <tr>
-      <td><img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/cycle-road.gif" title="Children riding bicycle at a curved road" alt="Children riding bicycle at a curved road" /></td>
-      <td><img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/bicycle.gif" title="Bicycle show" alt="Bicycle show" /></td>
+      <td><img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/cycle-road.gif" title="Children riding bicycle at a curved road" alt="Children riding bicycle at a curved road" /></td>
+      <td><img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/bicycle.gif" title="Bicycle show" alt="Bicycle show" /></td>
     </tr>
   </tbody>
 </table>
@@ -2690,7 +2690,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <p>꽤 <span style="color: #8D4801"><strong>작은 호수</strong></span>였지만 나름 <span style="color: indianred"><strong>오리배</strong></span>도 존재한다.</p>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/lake.gif" title="Tiny lake" alt="Tiny lake" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/lake.gif" title="Tiny lake" alt="Tiny lake" />
 </div>
 <p><br /></p>
 
@@ -2705,7 +2705,7 @@ document.addEventListener("DOMContentLoaded", function () {
 <table>
   <tbody>
     <tr>
-      <td><img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/aerobic-class.gif" title="Aerobic class at outdoor" alt="Aerobic class at outdoor" /></td>
+      <td><img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/aerobic-class.gif" title="Aerobic class at outdoor" alt="Aerobic class at outdoor" /></td>
       <td><img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/yoga-class.jpg" title="Yoga class at outdoor" alt="Yoga class at outdoor" /></td>
     </tr>
   </tbody>
@@ -2788,7 +2788,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <p>방에서 자주 볼 수 있었던 풍경으로 이렇게 <span style="color: indianred"><strong>소소한 불꽃</strong></span>도 자주 터트렸다.</p>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/firework-at-atahualpa-olympic-stadium.gif" title="Firework at Atahualpa olympic stadium" alt="Firework at Atahualpa olympic stadium" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/firework-at-atahualpa-olympic-stadium.gif" title="Firework at Atahualpa olympic stadium" alt="Firework at Atahualpa olympic stadium" />
 </div>
 <p><br /></p>
 
@@ -2803,7 +2803,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <p>열매를 맛있게 쪼아먹는 <strong>검은지빠귀</strong></p>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/common-blackbird-2.gif" title="Common blackbird eating some fruit" alt="Common blackbird eating some fruit" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/common-blackbird-2.gif" title="Common blackbird eating some fruit" alt="Common blackbird eating some fruit" />
 </div>
 <p><br /></p>
 
@@ -2812,9 +2812,9 @@ document.addEventListener("DOMContentLoaded", function () {
 <table>
   <tbody>
     <tr>
-      <td><img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/hummingbird-1.gif" title="Hummingbird" alt="Hummingbird" /></td>
-      <td><img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/hummingbird-2.gif" title="Hummingbird" alt="Hummingbird" /></td>
-      <td><img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/hummingbird-3.gif" title="Hummingbird" alt="Hummingbird" /></td>
+      <td><img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/hummingbird-1.gif" title="Hummingbird" alt="Hummingbird" /></td>
+      <td><img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/hummingbird-2.gif" title="Hummingbird" alt="Hummingbird" /></td>
+      <td><img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/hummingbird-3.gif" title="Hummingbird" alt="Hummingbird" /></td>
     </tr>
   </tbody>
 </table>
@@ -2925,8 +2925,8 @@ document.addEventListener("DOMContentLoaded", function () {
 <table>
   <tbody>
     <tr>
-      <td><img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/overflow-1.gif" title="Overflowing water from underground" alt="Overflowing water from underground" /></td>
-      <td><img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/overflow-2.gif" title="Overflowing water from underground" alt="Overflowing water from underground" /></td>
+      <td><img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/overflow-1.gif" title="Overflowing water from underground" alt="Overflowing water from underground" /></td>
+      <td><img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/overflow-2.gif" title="Overflowing water from underground" alt="Overflowing water from underground" /></td>
     </tr>
   </tbody>
 </table>
@@ -2949,9 +2949,9 @@ document.addEventListener("DOMContentLoaded", function () {
 <table>
   <tbody>
     <tr>
-      <td><img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/gymnasio-1.gif" title="Gymnasio" alt="Gymnasio" /></td>
-      <td><img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/gymnasio-2.gif" title="Gymnasio" alt="Gymnasio" /></td>
-      <td><img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/gymnasio-3.gif" title="Gymnasio" alt="Gymnasio" /></td>
+      <td><img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/gymnasio-1.gif" title="Gymnasio" alt="Gymnasio" /></td>
+      <td><img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/gymnasio-2.gif" title="Gymnasio" alt="Gymnasio" /></td>
+      <td><img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/gymnasio-3.gif" title="Gymnasio" alt="Gymnasio" /></td>
     </tr>
   </tbody>
 </table>
@@ -2960,7 +2960,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <p>운동하다 잠깐 창밖을 봤다가 잘못 봤는지 의심하며 눈 비비고 다시 봤는데 대체 왜 저러는 걸까요? 이러시는 이유가 있을 거 아니에요?</p>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/weird-couple.gif" title="Weird couple on the road" alt="Weird couple on the road" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/weird-couple.gif" title="Weird couple on the road" alt="Weird couple on the road" />
 </div>
 <p><br /></p>
 
@@ -3322,7 +3322,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <p>조금만 버텨! 버티면 우린 마를 수 있어. <span style="color: #8D4801"><strong>건조한 날씨 덕에 빨래가 금방 말라서 너무 좋은 키토의 기후</strong></span></p>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-19-Yellow-fever-vaccination-and-day-trip-to-old-town-in-quito/swing-laundry.gif" title="Swing laundry" alt="Swing laundry" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-19-Yellow-fever-vaccination-and-day-trip-to-old-town-in-quito/swing-laundry.gif" title="Swing laundry" alt="Swing laundry" />
 </div>
 <p><br /></p>
 
@@ -3502,7 +3502,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <p>이 작은 마을의 초등학생들로 보였다. 이동 수업인지 교실을 옮기는 모습</p>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/moving-students.gif" title="Moving students" alt="Moving students" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/moving-students.gif" title="Moving students" alt="Moving students" />
 </div>
 <p><br /></p>
 
@@ -3592,7 +3592,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <p>드디어 이륙 <span style="color: #8D4801"><strong>만타 안녕</strong></span></p>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/a-plane-on-takeoff.gif" title="A plane on takeoff" alt="A plane on takeoff" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/a-plane-on-takeoff.gif" title="A plane on takeoff" alt="A plane on takeoff" />
 </div>
 <p><br /></p>
 
@@ -3615,7 +3615,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <p>다시 봐서 반갑다. <span style="color: #8D4801"><strong>키토</strong></span></p>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/a-landing-plane.gif" title="A landing plane" alt="A landing plane" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/a-landing-plane.gif" title="A landing plane" alt="A landing plane" />
 </div>
 <p><br /></p>
 
@@ -3743,8 +3743,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <p>어찌 됐든 오늘도 우리를 반겨주던 귀여운 혹등고래들</p>
 <div class="image-slider-passive">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/humpback-whale-1.gif" title="Humpback whale" alt="Humpback whale" />
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/humpback-whale-2.gif" title="Humpback whale" alt="Humpback whale" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/humpback-whale-1.gif" title="Humpback whale" alt="Humpback whale" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/humpback-whale-2.gif" title="Humpback whale" alt="Humpback whale" />
 </div>
 <p><br /></p>
 
@@ -3752,7 +3752,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <p>사진을 찍진 못했지만 섬에 도착하기 전에 <span style="color: #8D4801"><strong>가볍게 빵과 콜라</strong></span>를 주셨다. (처음엔 이게 포함된 점심인가? 하고 너무 적다고 생각했었지만 <span style="color: indianred"><strong>나중에 점심은 따로 준다</strong></span>.)</p>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/the-sailing-boats.gif" title="The sailing boats" alt="The sailing boats" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/the-sailing-boats.gif" title="The sailing boats" alt="The sailing boats" />
 </div>
 <p><br /></p>
 
@@ -3763,7 +3763,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <p>아직 하선하기 전 섬에 도착하면 먼저 <span style="color: #8D4801"><strong>여러 마리의 바다거북들이 우리를 반겨준다</strong></span>. (물론 우리가 아니라 가이드들이 주는 과자나 먹이를 반기는 거겠지…)</p>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/sea-turtle-1.gif" title="Sea turtle" alt="Sea turtle" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/sea-turtle-1.gif" title="Sea turtle" alt="Sea turtle" />
 </div>
 <p><br /></p>
 
@@ -3817,7 +3817,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <p>플라타 섬에서 <span style="color: #8D4801"><strong>유일하게 열매를 맺는 나무 종류</strong></span>로 이 열매는 <span style="color: indianred"><strong>주로 접착제</strong></span>로 쓰인다고 한다.</p>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/the-only-fruit-tree-on-the-plata-island.gif" title="The only fruit tree on the Plata island" alt="The only fruit tree on the Plata island" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/the-only-fruit-tree-on-the-plata-island.gif" title="The only fruit tree on the Plata island" alt="The only fruit tree on the Plata island" />
 </div>
 <p><br /></p>
 
@@ -3854,7 +3854,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <p>사람이 옆을 지나가도 전혀 경계하지 않고 <span style="color: #8D4801"><strong>바보같이 바라만 보는</strong></span> 게 너무 귀여운 <span style="color: skyblue"><strong>푸른발얼가니새</strong></span></p>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-9.gif" title="Blue-footed booby" alt="Blue-footed booby" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-9.gif" title="Blue-footed booby" alt="Blue-footed booby" />
 </div>
 <p><br /></p>
 
@@ -3877,7 +3877,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <p>섬에서 <span style="color: skyblue"><strong>푸른발부비새</strong></span>를 관람하는 동안 느낀 점이 진짜 <span style="color: #8D4801"><strong>대부분은 암수가 함께 머무르는 모습</strong></span>을 보여서 질투가 날 정도였다. (그래서 뜬금없이 황조가가 생각난)</p>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-2.gif" title="Blue-footed booby" alt="Blue-footed booby" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-2.gif" title="Blue-footed booby" alt="Blue-footed booby" />
 </div>
 <p><br /></p>
 
@@ -3889,9 +3889,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <p>아장아장 걷는 게 너무 귀여운 <span style="color: skyblue"><strong>푸른발부비새</strong></span> 나중에 설명으로 알게 된 것이 <span style="color: #8D4801"><strong>부비새의 발은 물갈퀴로 되어있어서 걷기에는 불편하지만 먹이를 사냥할 때 약간의 수영을 할 수 있도록 도움 되게 진화</strong></span>되었다고 한다. 그래서 부비새가 사냥할 때는 <span style="color: #8D4801"><strong>수심 3m까지도 잠수</strong></span>해 들어가서 사냥을 할 수 있다고 한다.</p>
 <div class="image-slider-passive">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-3.gif" title="Blue-footed booby" alt="Blue-footed booby" />
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-10.gif" title="Blue-footed booby" alt="Blue-footed booby" />
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-11.gif" title="Blue-footed booby" alt="Blue-footed booby" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-3.gif" title="Blue-footed booby" alt="Blue-footed booby" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-10.gif" title="Blue-footed booby" alt="Blue-footed booby" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-11.gif" title="Blue-footed booby" alt="Blue-footed booby" />
 </div>
 <p><br /></p>
 
@@ -3916,7 +3916,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <p><span style="color: darkblue"><strong>고마워 여보</strong></span></p>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-21.gif" title="Blue-footed booby" alt="Blue-footed booby" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-21.gif" title="Blue-footed booby" alt="Blue-footed booby" />
 </div>
 <p><br /></p>
 
@@ -3931,7 +3931,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <p><span style="color: darkblue"><strong>뭐? 어이 거기 잠깐 서보슈! 우리 얘기 좀 합시다.</strong></span></p>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-22.gif" title="Blue-footed booby" alt="Blue-footed booby" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-22.gif" title="Blue-footed booby" alt="Blue-footed booby" />
 </div>
 <p><br /></p>
 
@@ -3947,7 +3947,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <p><strong>우리 오늘 저녁 뭐 먹어?</strong></p>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-19.gif" title="Blue-footed booby" alt="Blue-footed booby" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-19.gif" title="Blue-footed booby" alt="Blue-footed booby" />
 </div>
 <p><br /></p>
 
@@ -3959,13 +3959,13 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <p>어미와 아기 <span style="color: skyblue"><strong>푸른발부비새</strong></span></p>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-4.gif" title="Blue-footed booby with baby" alt="Blue-footed booby with baby" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-4.gif" title="Blue-footed booby with baby" alt="Blue-footed booby with baby" />
 </div>
 <p><br /></p>
 
 <p>아직 태어나지 않은 알을 품고 있는 어미 <span style="color: skyblue"><strong>푸른발부비새</strong></span></p>
 <div class="image-slider-passive">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-5.gif" title="Blue-footed booby with eggs" alt="Blue-footed booby with eggs" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-5.gif" title="Blue-footed booby with eggs" alt="Blue-footed booby with eggs" />
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-20.jpg" title="Blue-footed booby with eggs" alt="Blue-footed booby with eggs" />
 </div>
 <p><br /></p>
@@ -4053,9 +4053,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <p>그래도 빵조각으로 유혹하며 <span style="color: #8D4801"><strong>물 밖에서 물고기들을 감상</strong></span>했다.</p>
 <div class="image-slider-passive">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/fishes-in-plata-island-1.gif" title="Fishes in Plata island" alt="Fishes in Plata island" />
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/fishes-in-plata-island-2.gif" title="Fishes in Plata island" alt="Fishes in Plata island" />
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/fishes-in-plata-island-3.gif" title="Fishes in Plata island" alt="Fishes in Plata island" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/fishes-in-plata-island-1.gif" title="Fishes in Plata island" alt="Fishes in Plata island" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/fishes-in-plata-island-2.gif" title="Fishes in Plata island" alt="Fishes in Plata island" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/fishes-in-plata-island-3.gif" title="Fishes in Plata island" alt="Fishes in Plata island" />
 </div>
 <p><br /></p>
 
@@ -4070,27 +4070,27 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <p>그리고 돌아가는 길에 다시 마주친 <span style="color: #8D4801"><strong>혹등고래 출몰</strong></span> 지역</p>
 <div class="image-slider-passive">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/humpback-whale-3.gif" title="Humpback whale" alt="Humpback whale" />
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/humpback-whale-4.gif" title="Humpback whale" alt="Humpback whale" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/humpback-whale-3.gif" title="Humpback whale" alt="Humpback whale" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/humpback-whale-4.gif" title="Humpback whale" alt="Humpback whale" />
 </div>
 <p><br /></p>
 
 <p>확실히 어제 투어에서 <span style="color: indianred"><strong>오랜 시간 찾아다니며 마주친 고래들의 개체수보단 적은 수의 고래들</strong></span>을 만나긴 했지만, 플라타 섬까지 오기 위해 외해로 멀리 나와서 그런지 <span style="color: #8D4801"><strong>오늘 만난 고래들이 훨씬 장난기(?)도 많아 보이고 역동적이게 계속 움직이며 노는 모습</strong></span>을 보여줘서 다른 의미로 만족스러운 고래 투어였다.</p>
 <div class="image-slider-passive">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/humpback-whale-5.gif" title="Humpback whale" alt="Humpback whale" />
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/humpback-whale-6.gif" title="Humpback whale" alt="Humpback whale" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/humpback-whale-5.gif" title="Humpback whale" alt="Humpback whale" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/humpback-whale-6.gif" title="Humpback whale" alt="Humpback whale" />
 </div>
 <p><br /></p>
 
 <p>둘이서 뭐가 그리 즐거운지 <span style="color: #8D4801"><strong>물장구 삼매경</strong></span></p>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/humpback-whale-9.gif" title="Humpback whale" alt="Humpback whale" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/humpback-whale-9.gif" title="Humpback whale" alt="Humpback whale" />
 </div>
 <p><br /></p>
 
 <p>노는 걸 <span style="color: indianred"><strong>멈추지 않는</strong></span> 녀석들</p>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/humpback-whale-10.gif" title="Humpback whale" alt="Humpback whale" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/humpback-whale-10.gif" title="Humpback whale" alt="Humpback whale" />
 </div>
 <p><br /></p>
 
@@ -4102,7 +4102,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <p>그렇게 고래들이 놀다 지치기 전에 <span style="color: #8D4801"><strong>우리가 먼저 출발</strong></span>했다.</p>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/humpback-whale-7.gif" title="Humpback whale" alt="Humpback whale" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/humpback-whale-7.gif" title="Humpback whale" alt="Humpback whale" />
 </div>
 <p><br /></p>
 
@@ -4265,7 +4265,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <p>어부들이 옮기다가 <span style="color: #8D4801"><strong>떨어뜨린 물고기를 주워 먹는 군함조</strong></span>. 뒤에 상황은 촬영하지 않았지만, 무리에서 조금 더 강해 보이는 군함조가 이 새를 쫓아내고 생선을 점유했다.</p>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/fragata.gif" title="Fragata eating dropped fish" alt="Fragata eating dropped fish" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/fragata.gif" title="Fragata eating dropped fish" alt="Fragata eating dropped fish" />
 </div>
 <p><br /></p>
 
@@ -4367,15 +4367,15 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <p><span style="color: #8D4801"><strong>예 봤습니다. 한두 마리도 아니고 매우 많이</strong></span>요! 일단 이쪽저쪽에서 다들 고래를 발견하면 탄성부터 지르셔서 나타나는 것도 핸드폰 알림 오듯이 알 수 있어서 좋았어요…</p>
 <div class="image-slider-passive">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-1.gif" title="Humpback whale" alt="Humpback whale" />
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-2.gif" title="Humpback whale" alt="Humpback whale" />
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-3.gif" title="Humpback whale" alt="Humpback whale" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-1.gif" title="Humpback whale" alt="Humpback whale" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-2.gif" title="Humpback whale" alt="Humpback whale" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-3.gif" title="Humpback whale" alt="Humpback whale" />
 </div>
 <p><br /></p>
 
 <p><span style="color: #8D4801"><strong>진짜 바로 옆</strong></span>까지 와 준 고마운 녀석</p>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-4.gif" title="Humpback whale" alt="Humpback whale" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-4.gif" title="Humpback whale" alt="Humpback whale" />
 </div>
 <p><br /></p>
 
@@ -4393,10 +4393,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <p>결론적으로 고래를 볼 수 있을까 걱정했던 것이 무색하게 <span style="color: #8D4801"><strong>진짜 많은 고래를 볼 수 있어서 너무 좋았다</strong></span>. 다만, 사람의 욕심이 참 끝이 없는 게 고래를 보고 나니 <span style="color: indianred"><strong>고래가 브리칭하는 모습을 한 번만 봤으면</strong></span> 하고 생각하고 있었던…</p>
 <div class="image-slider-passive">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-7.gif" title="Humpback whale" alt="Humpback whale" />
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-8.gif" title="Humpback whale" alt="Humpback whale" />
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-9.gif" title="Humpback whale" alt="Humpback whale" />
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-10.gif" title="Humpback whale" alt="Humpback whale" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-7.gif" title="Humpback whale" alt="Humpback whale" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-8.gif" title="Humpback whale" alt="Humpback whale" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-9.gif" title="Humpback whale" alt="Humpback whale" />
+  <img src="/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/humpback-whale-10.gif" title="Humpback whale" alt="Humpback whale" />
 </div>
 <p><br /></p>
 

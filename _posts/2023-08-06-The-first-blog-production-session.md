@@ -94,7 +94,7 @@ description: 처음 블로그를 작성하고 순수한 소감을 두서없이 �
 근데 이제부터 줄줄이 나온다... <span style="color: #8D4801">**내가 강제로 접해야만 했던 신세계**</span>... Jekyll의 Liquid, node.js, npm, 빌드 자동화 도구 gulp, live sass compiler, javascript compressor / beautify, 접근성을 위한 alt 태그 추가, SEO를 위한 image 최적화, markdown 언어 ( 음..? 잠깐만 markdown이면 notion에서 이미 익숙해지ㄴ.. 다르네? vscode snippet에 추가하자….)
 
 <center>
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-06-The-first-blog-production-session/confused-confused-math.gif" title="Expression that blogger felts confused" alt="Expression that blogger felts confused" width="40%">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-06-The-first-blog-production-session/confused-confused-math.gif" title="Expression that blogger felts confused" alt="Expression that blogger felts confused" width="40%">
 </center>
 <br>
 

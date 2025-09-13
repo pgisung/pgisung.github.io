@@ -133,7 +133,7 @@ description: 2025.07.23 ~ 2025.08.24 카롤리나 공원 아침 운동 일지 �
 
 주말이면 많은 아이들이 분수대 앞에서 놀고 있다. 어느 나라를 가도 아이들의 동심은 똑같구나
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/playing-children-with-fountain.gif" title="Playing children with fountain" alt="Playing children with fountain">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/playing-children-with-fountain.gif" title="Playing children with fountain" alt="Playing children with fountain">
 </div>
 <br>
 
@@ -143,14 +143,14 @@ description: 2025.07.23 ~ 2025.08.24 카롤리나 공원 아침 운동 일지 �
 공원 안에는 정말 <span style="color: #8D4801">**다양한 스포츠 시설**</span>들이 존재했다. 한국에도 서울 어딘가에 존재할 수 있을지도 모르지만 적어도 내가 살던 천안에선 이 정도로 많은 종류와 신기한 스포츠들을 즐길 수 있는 장소를 본 적이 없다.
 
 |:---:|:---:|
-| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/skateboard.gif" title="Skateboard" alt="Skateboard"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/teqball.gif" title="Teqball" alt="Teqball"> |
-|  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/cycle-road.gif" title="Children riding bicycle at a curved road" alt="Children riding bicycle at a curved road"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/bicycle.gif" title="Bicycle show" alt="Bicycle show"> |
+| <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/skateboard.gif" title="Skateboard" alt="Skateboard"> | <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/teqball.gif" title="Teqball" alt="Teqball"> |
+|  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/cycle-road.gif" title="Children riding bicycle at a curved road" alt="Children riding bicycle at a curved road"> | <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/bicycle.gif" title="Bicycle show" alt="Bicycle show"> |
 
 <br>
 
 꽤 <span style="color: #8D4801">**작은 호수**</span>였지만 나름 <span style="color: indianred">**오리배**</span>도 존재한다.
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/lake.gif" title="Tiny lake" alt="Tiny lake">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/lake.gif" title="Tiny lake" alt="Tiny lake">
 </div>
 <br>
 
@@ -163,7 +163,7 @@ description: 2025.07.23 ~ 2025.08.24 카롤리나 공원 아침 운동 일지 �
 야외에서 진행되는 에어로빅과 요가 클래스
 
 |:---:|:---:|
-| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/aerobic-class.gif" title="Aerobic class at outdoor" alt="Aerobic class at outdoor"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/yoga-class.jpg" title="Yoga class at outdoor" alt="Yoga class at outdoor"> |
+| <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/aerobic-class.gif" title="Aerobic class at outdoor" alt="Aerobic class at outdoor"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/yoga-class.jpg" title="Yoga class at outdoor" alt="Yoga class at outdoor"> |
 
 <br>
 
@@ -235,7 +235,7 @@ description: 2025.07.23 ~ 2025.08.24 카롤리나 공원 아침 운동 일지 �
 
 방에서 자주 볼 수 있었던 풍경으로 이렇게 <span style="color: indianred">**소소한 불꽃**</span>도 자주 터트렸다.
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/firework-at-atahualpa-olympic-stadium.gif" title="Firework at Atahualpa olympic stadium" alt="Firework at Atahualpa olympic stadium">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/firework-at-atahualpa-olympic-stadium.gif" title="Firework at Atahualpa olympic stadium" alt="Firework at Atahualpa olympic stadium">
 </div>
 <br>
 
@@ -250,14 +250,14 @@ GPT가 말하길 **검은지빠귀**라는 새
 
 열매를 맛있게 쪼아먹는 **검은지빠귀**
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/common-blackbird-2.gif" title="Common blackbird eating some fruit" alt="Common blackbird eating some fruit">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/common-blackbird-2.gif" title="Common blackbird eating some fruit" alt="Common blackbird eating some fruit">
 </div>
 <br>
 
 그리고 대망의 벌새 찍고 싶어도 너무 빨라서 촬영하기가 매우 어려웠다. 어쨌든 <span style="color: indianred">**집 앞 공원에서 벌새**</span>를 볼 수 있다니 너무 신기했다.
 
 |:---:|:---:|:---:|
-| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/hummingbird-1.gif" title="Hummingbird" alt="Hummingbird"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/hummingbird-2.gif" title="Hummingbird" alt="Hummingbird"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/hummingbird-3.gif" title="Hummingbird" alt="Hummingbird"> |
+| <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/hummingbird-1.gif" title="Hummingbird" alt="Hummingbird"> | <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/hummingbird-2.gif" title="Hummingbird" alt="Hummingbird"> | <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/hummingbird-3.gif" title="Hummingbird" alt="Hummingbird"> |
 
 <br>
 
@@ -344,7 +344,7 @@ GPT가 말하길 **검은지빠귀**라는 새
 신기해서 머선 일이고 하고 아침 운동 중에 들러봤는데 아무렇지 않게 갈 길 가시는 키토 시민분들 (사실 나처럼 사진 찍는 분들도 더러 있는 것을 보아하니 흔한 광경은 아닌 듯)
 
 |:---:|:---:|
-| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/overflow-1.gif" title="Overflowing water from underground" alt="Overflowing water from underground"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/overflow-2.gif" title="Overflowing water from underground" alt="Overflowing water from underground"> |
+| <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/overflow-1.gif" title="Overflowing water from underground" alt="Overflowing water from underground"> | <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/overflow-2.gif" title="Overflowing water from underground" alt="Overflowing water from underground"> |
 
 <br>
 
@@ -362,13 +362,13 @@ GPT가 말하길 **검은지빠귀**라는 새
 근래에는 블로그 작성한다고 못 갔지만 <span style="color: #8D4801">**한동안 하루도 빠짐없이 다녔던 체육관**</span>. 넓고 나름 있을 건 다 있고, 사람도 많이 안 와서 대부분 혼자 빌려서 운동하는 기분이었다. 무엇보다 좋았던 건 샌드백이 달린 체육관을 한 번도 가본 적이 없어서 샌드백 치는 기분이 궁금했었는데 이곳에선 아무도 없어서 마음 편하게 때려볼 수 있어서 좋았다.
 
 |:---:|:---:|:---:|
-| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/gymnasio-1.gif" title="Gymnasio" alt="Gymnasio"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/gymnasio-2.gif" title="Gymnasio" alt="Gymnasio"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/gymnasio-3.gif" title="Gymnasio" alt="Gymnasio"> |
+| <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/gymnasio-1.gif" title="Gymnasio" alt="Gymnasio"> | <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/gymnasio-2.gif" title="Gymnasio" alt="Gymnasio"> | <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/gymnasio-3.gif" title="Gymnasio" alt="Gymnasio"> |
 
 <br>
 
 운동하다 잠깐 창밖을 봤다가 잘못 봤는지 의심하며 눈 비비고 다시 봤는데 대체 왜 저러는 걸까요? 이러시는 이유가 있을 거 아니에요?
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/weird-couple.gif" title="Weird couple on the road" alt="Weird couple on the road">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/weird-couple.gif" title="Weird couple on the road" alt="Weird couple on the road">
 </div>
 <br>
 
