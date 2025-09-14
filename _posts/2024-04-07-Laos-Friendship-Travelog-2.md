@@ -55,7 +55,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 <br>
 
 ##### **딸랏싸오 아침시장**
-누군가가 <span style="color: indianred">**라오스에 방문하면 반드시 먹어봐야 할 과일**</span>이라고 강력히 추천하신 <span style="color: #8D4801">**과일 렁꿩**</span>. 실제로 <span style="color: indianred">**열매가 매우 달콤**</span>했다.
+누군가가 <span style="color: indianred">**라오스에 방문하면 반드시 먹어봐야 할 과일**</span>이라고 강력히 추천하신 <span style="color: #8D4801">**과일 렁껑**</span>. 실제로 <span style="color: indianred">**열매가 매우 달콤**</span>했다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/longkong-fruit.jpg" title="Longkong fruit" alt="Longkong fruit">
 </div>
@@ -295,7 +295,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 
 성수기 등에는 보안 검색 줄이 매우 길 수 있기 때문에 <span style="color: indianred">**기차를 놓치지 않기 위해서 약 1시간 정도 일찍 도착하도록 계획**</span>하는 것을 추천한다.
 
-그나저나 친구가 들고 있는 저 <span style="color: #8D4801">**렁꿩**</span>이 언제까지 그의 손에 들려있는지 지켜봐 주시길 바란다.
+그나저나 친구가 들고 있는 저 <span style="color: #8D4801">**렁껑**</span>이 언제까지 그의 손에 들려있는지 지켜봐 주시길 바란다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/security-check-for-the-train.jpg" title="Security check for the train" alt="Security check for the train">
 </div>
@@ -314,7 +314,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 <br>
 
 ##### **루앙 프라방 고속철도역**
-줄어들지 않는 렁꿩과 역에서 구매했던 커피
+줄어들지 않는 렁껑과 역에서 구매했던 커피
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/longkong-and-coffee.jpg" title="Longkong and coffee" alt="Longkong and coffee">
 </div>
@@ -575,7 +575,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 | 2024.04.07 | 현지 통화 | 원화 |
 |:---:|:---:|:---:|
 | **아침 식비** | 90,000 LAK | 5,606원 |
-| **과일 렁꿩** | 60,000 LAK | 3,737원 |
+| **과일 렁껑** | 60,000 LAK | 3,737원 |
 | **시장 도넛** | 10,000 LAK | 622원 |
 | **씨 사켓 사원 입장료** | 90,000 LAK | 5,606원 |
 | **탓 루앙 황금사원 입장료** | 90,000 LAK | 5,606원 |
