@@ -10,7 +10,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 ---
 
 > 1. [비엔티안 시내 탐방기](#비엔티안-시내-탐방기 "Navigate to Visiting the city of Vientiane")
-- [딸랏싸오 아침시장](#딸랏싸오-아침시장 "Navigate to Talat Sao Morning Market")
+- [딸랏싸오 아침 시장](#딸랏싸오-아침-시장 "Navigate to Talat Sao Morning Market")
 - [씨 사켓 사원](#씨-사켓-사원 "Navigate to Wat Si Saket")
 - [빠뚜사이 독립기념문](#빠뚜사이-독립기념문 "Navigate to Patuxai Victory Monument")
 - [탓 루앙 황금사원](#탓-루앙-황금사원 "Navigate to Pha That Luang (Golden Stupa)")
@@ -36,7 +36,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 </div>
 <br>
 
-루앙프라방으로 향하는 <span style="color: #8D4801">**기차를 오후에 예약**</span>해 뒀기 때문에 <span style="color: indianred">**오전 안에 비엔티안을 구경**</span>해야 했는데 금강산도 식후경이라고 <span style="color: #8D4801">**아침을 먹기 위해**</span> 일단 숙소를 나섰다. 걷기 시작한 지 얼마 안 되어서 발견한 분수대
+루앙 프라방으로 향하는 <span style="color: #8D4801">**기차를 오후에 예약**</span>해 뒀기 때문에 <span style="color: indianred">**오전 안에 비엔티안을 구경**</span>해야 했는데 금강산도 식후경이라고 <span style="color: #8D4801">**아침을 먹기 위해**</span> 일단 숙소를 나섰다. 걷기 시작한 지 얼마 안 되어서 발견한 분수대
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-group-photo-in-nam-phou-park.jpg" title="The group photo in Nam Phou park" alt="The group photo in Nam Phou park">
 </div>
@@ -54,7 +54,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 </div>
 <br>
 
-##### **딸랏싸오 아침시장**
+##### **딸랏싸오 아침 시장**
 누군가가 <span style="color: indianred">**라오스에 방문하면 반드시 먹어봐야 할 과일**</span>이라고 강력히 추천하신 <span style="color: #8D4801">**과일 렁껑**</span>. 실제로 <span style="color: indianred">**열매가 매우 달콤**</span>했다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/longkong-fruit.jpg" title="Longkong fruit" alt="Longkong fruit">
