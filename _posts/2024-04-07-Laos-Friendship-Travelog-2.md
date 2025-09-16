@@ -190,6 +190,12 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 </div>
 <br>
 
+매표소에서 <span style="color: indianred">**표를 구매**</span>하고 입구로 출발!
+<div class="image-slider-static">
+  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-tickets-for-pha-that-luang.jpg" title="The tickets for Pha That Luang" alt="The tickets for Pha That Luang">
+</div>
+<br>
+
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15180.18282082088!2d102.62767582594107!3d17.976610451254064!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312467c5990ad2d1%3A0x47442b3d67b20290!2z7YOTIOujqOyVmSDsgqzsm5Ao7Zmp6riI7IKs7JuQKQ!5e0!3m2!1sko!2sec!4v1757705119594!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
@@ -375,6 +381,12 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 올라가기 전 다 같이 한 컷
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-group-photo-at-the-entrance-of-phou-si-hill.jpg" title="The group photo at the entrance of Phou Si hill" alt="The group photo at the entrance of Phou Si hill">
+</div>
+<br>
+
+계단을 조금 오르니 최근에 <span style="color: indianred">**가격이 1.5배나 인상된 입장권을 구매할 수 있는 매표소**</span>가 있었다.
+<div class="image-slider-static">
+  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-tickets-for-phou-si-hill.jpg" title="The tickets for Phou Si hill" alt="The tickets for Phou Si hill">
 </div>
 <br>
 

@@ -68,7 +68,13 @@ description: 2024.04.08 루앙 프라방 국립 박물관, 씨 앙통 사원 방
 <br>
 
 ##### **루앙 프라방 국립 박물관**
-도착한 국립 박물관. 루앙 프라방 왕궁을 지은 <span style="color: #8D4801">**시사방 봉 왕**</span>이 우리를 맞이해 준다.
+도착한 국립 박물관. 이곳의 <span style="color: indianred">**입장료는 최근에 2배나 인상**</span>되었다.
+<div class="image-slider-static">
+  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/the-tickets-for-the-national-museum.jpg" title="The tickets for the National museum" alt="The tickets for the National museum">
+</div>
+<br>
+
+루앙 프라방 왕궁을 지은 <span style="color: #8D4801">**시사방 봉 왕**</span>이 우리를 맞이해 준다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/king-sisavang-vong-statue.jpg" title="King Sisavang Vong statue" alt="King Sisavang Vong statue">
 </div>
@@ -118,7 +124,13 @@ description: 2024.04.08 루앙 프라방 국립 박물관, 씨 앙통 사원 방
 <br>
 
 ##### **씨앙 통 사원**
-국립 박물관을 지나서 도착한 씨앙 통 사원. 이 사원은 2일 차 여행 중 탓 루앙 황금사원 앞에서 볼 수 있었던 동상의 인물인 <span style="color: #8D4801">**셋타티라스 왕이 오래전에 건립한 사원**</span>이라고 한다.
+국립 박물관을 지나서 도착한 씨앙 통 사원. <span style="color: indianred">**이곳의 입장료 또한 최근에 1.5배가 인상**</span>되었다.
+<div class="image-slider-static">
+  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/the-tickets-for-wat-xieng-thong.jpg" title="The tickets for Wat Xieng Thong" alt="The tickets for Wat Xieng Thong">
+</div>
+<br>
+
+이 사원은 2일 차 여행 중 탓 루앙 황금사원 앞에서 볼 수 있었던 동상의 인물인 <span style="color: #8D4801">**셋타티라스 왕이 오래전에 건립한 사원**</span>이라고 한다.
 
 |:---:|:---:|
 | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/wat-xieng-thong-1.jpg" title="Wat Xieng Thong" alt="Wat Xieng Thong"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/wat-xieng-thong-2.jpg" title="Wat Xieng Thong" alt="Wat Xieng Thong"> |
