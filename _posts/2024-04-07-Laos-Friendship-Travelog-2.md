@@ -10,20 +10,20 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 ---
 
 > 1. [비엔티안 시내 탐방기](#비엔티안-시내-탐방기 "Navigate to Visiting the city of Vientiane")
-- [딸랏싸오 아침 시장](#딸랏싸오-아침-시장 "Navigate to Talat Sao Morning Market")
+- [딸랏싸오 아침 시장](#딸랏싸오-아침-시장 "Navigate to Talat Sao morning market")
 - [씨 사켓 사원](#씨-사켓-사원 "Navigate to Wat Si Saket")
-- [빠뚜사이 독립기념문](#빠뚜사이-독립기념문 "Navigate to Patuxai Victory Monument")
+- [빠뚜사이 독립기념문](#빠뚜사이-독립기념문 "Navigate to Patuxai Victory monument")
 - [탓 루앙 황금사원](#탓-루앙-황금사원 "Navigate to Pha That Luang (Golden Stupa)")
 2. [기차 타고 루앙 프라방 숙소로 이동](#기차-타고-루앙-프라방-숙소로-이동 "Navigate to Heading to accommodation in Luang Prabang by train")
-- [비엔티안 고속철도역](#비엔티안-고속철도역 "Navigate to Vientiane Railway Station")
-- [루앙 프라방 고속철도역](#루앙-프라방-고속철도역 "Navigate to Luang Prabang Railway Station")
-- [빌라 부아 통 호텔](#빌라-부아-통-호텔 "Navigate to Villa Boua Thong Hotel")
+- [비엔티안 고속철도역](#비엔티안-고속철도역 "Navigate to Vientiane Railway station")
+- [루앙 프라방 고속철도역](#루앙-프라방-고속철도역 "Navigate to Luang Prabang Railway station")
+- [빌라 부아 통 호텔](#빌라-부아-통-호텔 "Navigate to Villa Boua Thong hotel")
 3. [푸시산 일몰 하이킹](#푸시산-일몰-하이킹 "Navigate to Phou Si hill sunset hiking")
 - [푸시산](#푸시산 "Navigate to Phou Si hill")
 - [몽족 야시장](#몽족-야시장 "Navigate to Luang Prabang night market")
 - [굿 나이트 마켓](#굿-나이트-마켓 "Navigate to Good Night market")
 - [인디고 카페](#인디고-카페 "Navigate to Indigo cafe")
-- [이름 모를 선술집](#이름-모를-선술집 "Navigate to Nameless Tavern")
+- [이름 모를 선술집](#이름-모를-선술집 "Navigate to Nameless tavern")
 4. [여행 경로](#여행-경로 "Navigate to Travel route")
 5. [여행 경비](#여행-경비 "Navigate to Travel expenses")
 
@@ -595,6 +595,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 | **편의점** | 110,000 LAK | 6,852원 |
 | **커피** | 32,000 LAK | 1,993원 |
 | **택시 교통비** | 150,000 LAK | 9,343원 |
+| **2박 숙박비** | 2,278,760 LAK | 141,948원 |
 | **편의점** | 77,000 LAK | 4,796원 |
 | **푸시산 입장료** | 90,000 LAK | 5,606원 |
 | **물** | 5,000 LAK | 311원 |
@@ -602,4 +603,4 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 | **꼬치** | 50,000 LAK | 3,114원 |
 | **커피** | 162,000 LAK | 10,091원 |
 | **선술집** | 234,000 LAK | 14,576원 |
-| <span style="color: #8D4801">**총합**</span> | **1,590,000 LAK** | **99,043원** |
+| <span style="color: #8D4801">**총합**</span> | **3,868,760 LAK** | **240,991원** |
