@@ -12,7 +12,7 @@
       {% include google-analytics.html %}
     {% endif %}
 
-    <div class="full-page-container">
+    <div class="full-page-container {% if page.url == '/' %}home{% else %}page-{{ page.slug | default: page.url | slugify }}{% endif %}">
       <div class="overlay"></div>
       {% include header.html %}
       {% include search.html %}

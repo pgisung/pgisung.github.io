@@ -26,7 +26,7 @@ description: 2025.08.30 에콰도르 키토에서 적도 박물관 탐방기
 
 ---
 
-#### <span style="color: #8D4801">**Manabiche Los Pinos 식당**</span>
+## Manabiche Los Pinos 식당
 유난히 밝았던 아침, 구름 한 점 없이 맑은 날씨에 코토팍시 화산마저 환하게 나를 반겨주는 거리에서 우버를 타고 약속 장소로 이동했다. <span style="color: #8D4801">**맛있는 Encebollado를 먹을 수 있는 식당**</span>이라고 추천받은 곳으로 공원 근처의 큰 도로에서 꺾은 후 조금 깊숙이 들어와야 발견할 수 있었다. 
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/manabiche-los-pinos-restaurante.jpg" title="Manabiche Los Pinos restaurant" alt="Manabiche Los Pinos restaurant">
@@ -52,7 +52,7 @@ description: 2025.08.30 에콰도르 키토에서 적도 박물관 탐방기
 
 ---
 
-#### <span style="color: #8D4801">**적도 박물관**</span>
+## 적도 박물관
 오늘의 목적지인 적도 박물관은 바이센테니얼 공원 기준으로 약 30분, <span style="color: #8D4801">**카롤리나 공원 기준으로 약 40분 정도 거리로 체감상 마리스칼 수크레 공항과 비슷한 거리**</span>에 존재했는데, 우버 <span style="color: indianred">**가격은 절반 이하**</span>라는 게 의문이었다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/travel-time.jpg" title="Travel time to Mitad del Mundo" alt="Travel time to Mitad del Mundo">
@@ -62,7 +62,7 @@ description: 2025.08.30 에콰도르 키토에서 적도 박물관 탐방기
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d89190.7560968259!2d-78.54012425644173!3d-0.05962782082519612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d5881ef89bad91%3A0xb2e1699b00a1a9b8!2sMiddle%20of%20the%20World!5e0!3m2!1sko!2sec!4v1756619687859!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
-##### **입구 및 과거 주거 형태**
+### 입구 및 과거 주거 형태
 아이들의 방학이어서 그런지 <span style="color: #8D4801">**줄 서 있는 가족 손님이 많았던 Boleteria**</span>
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/long-queue-at-the-ticket-office.jpg" title="Long queue at the ticket office" alt="Long queue at the ticket office">
@@ -109,7 +109,7 @@ description: 2025.08.30 에콰도르 키토에서 적도 박물관 탐방기
 </div>
 <br>
 
-##### **관광열차**
+### 관광열차
 오래된 집들을 지나 들어온 경기장 같은 건물. 한 <span style="color: #8D4801">**오케스트라**</span>가 관중 없이 연주 중이었는데 오후에 야외 다른 장소에서 또 연주하시는 것을 보았던 것으로 미루어보아 <span style="color: #8D4801">**아마도 리허설**</span>이었던 것으로 보인다.
 
 과거에는, 이 건물이 <span style="color: indianred">**소와 투우사의 쇼를 볼 수 있는 투우장**</span>
@@ -137,7 +137,7 @@ description: 2025.08.30 에콰도르 키토에서 적도 박물관 탐방기
 </div>
 <br>
 
-##### **수제 맥주 박물관**
+### 수제 맥주 박물관
 다음 장소로 <span style="color: #8D4801">**맥주 박물관**</span>에 들어가던 중 낯익은 언어를 발견했다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/entrance-of-museum-for-craft-beer.jpg" title="Entrance of museum for craft beer" alt="Entrance of museum for craft beer">
@@ -177,7 +177,7 @@ description: 2025.08.30 에콰도르 키토에서 적도 박물관 탐방기
 </div>
 <br>
 
-##### **기념품 가게**
+### 기념품 가게
 다들 콜럼버스의 달걀 이야기는 들어보셨죠? (아니, 그건 달걀을 깨서 세우는 건데요?) 아무튼 어떤 원리인지는 몰라도 <span style="color: indianred">**중심으로부터 남북으로 2.5km 반경 안에서는 어떤 자기장의 현상으로 인해 달걀이 저렇게 설 수 있다**</span>고 합니다.
 <div class="image-slider-static">
   <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/a-shopkeeper-putting-up-egg-on-the-nail.webp" title="A shopkeeper putting up egg on the nail" alt="A shopkeeper putting up egg on the nail">
@@ -196,7 +196,7 @@ description: 2025.08.30 에콰도르 키토에서 적도 박물관 탐방기
 </div>
 <br>
 
-##### **raqeri cacao 카페**
+### raqeri cacao 카페
 옆에 카카오 박물관이라고는 하는데 아이들 놀이터인 듯 보여서 바로 카페에 들어와 봤다. 이곳에서 판매하는 제품들은 <span style="color: #8D4801">**실제로 에콰도르에서 생산된 카카오들임이 확실**</span>하지만 <span style="color: indianred">**가공, 제조는 유럽에서**</span> 이뤄지기 때문에 초콜릿들은 유럽산이라고 할 수 있겠다.
 
 약간 에콰도르는 이런 부류의 산업들이 많은데 <span style="color: #8D4801">**원유를 생산하는 산유국**</span>임에도 불구하고 <span style="color: indianred">**정유 공장의 규모가 충분하지 않아 정제된 석유 제품을 일부 수입해서 사용**</span>하고 있다고 한다.
@@ -206,7 +206,7 @@ description: 2025.08.30 에콰도르 키토에서 적도 박물관 탐방기
 
 <br>
 
-##### **적도 기념비**
+### 적도 기념비
 <span style="color: #8D4801">**위도 0 세계의 중심**</span>임을 기념하는 <span style="color: #8D4801">**기념비**</span>
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/equatorial-monument-1.jpg" title="Equatorial monument" alt="Equatorial monument">
@@ -246,7 +246,7 @@ description: 2025.08.30 에콰도르 키토에서 적도 박물관 탐방기
 </div>
 <br>
 
-##### **프랑스 전시관**
+### 프랑스 전시관
 에콰도르에 존재하는 <span style="color: #8D4801">**정확한 적도를 측량**</span>하기 위해 방문했었다는 프랑스, 스페인의 <span style="color: #8D4801">**탐사단이 사용했다는 도구들**</span>
 
 |:---:|:---:|:---:|
@@ -260,7 +260,7 @@ description: 2025.08.30 에콰도르 키토에서 적도 박물관 탐방기
 </div>
 <br>
 
-##### **천문관**
+### 천문관
 천문관에 입장하기 위해선 몇 분 동안 대기해야 했는데 그 이유가 <span style="color: #8D4801">**입장하면 대략 10분이 안 되는 시간 동안 태양계의 행성들을 탐험하는 시뮬레이션**</span>을 상영해 준다.
 <div class="image-slider-static">
   <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/simulation-video-to-space.webp" title="Simulation video to space" alt="Simulation video to space">
@@ -281,7 +281,7 @@ description: 2025.08.30 에콰도르 키토에서 적도 박물관 탐방기
 
 ---
 
-#### <span style="color: #8D4801">**Sweet & Coffee 카페**</span>
+## Sweet & Coffee 카페
 <span style="color: #8D4801">**에콰도르 커피**</span>로 말랐던 목을 축이고 대화를 나누는 데, <span style="color: indianred">**행상인들이 수차례 와서 자꾸 대화 흐름이 끊겨서**</span> 금방 나왔다. 보통 가게에서 막는다고는 하는데 오늘은 바빠서 못 막았나?
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/sweet-and-coffee-cafe.jpg" title="Sweet & coffee cafe" alt="Sweet & coffee cafe">
@@ -293,7 +293,7 @@ description: 2025.08.30 에콰도르 키토에서 적도 박물관 탐방기
 
 ---
 
-#### <span style="color: #8D4801">**Tasty Korean Food 식당**</span>
+## Tasty Korean Food 식당
 저녁 식사로 방문했던 한식당 <span style="color: #8D4801">**잡채 메뉴 1개를 시켰는데 두 명인 것을 확인하고 미리 접시 두 개로 나눠**</span>주셔서 좋았다. (근데 잡채 이게 둘로 나눈 양이 맞나...?) 제육 덮밥도 그렇고 <span style="color: indianred">**머나먼 이국에서 진짜 한국의 맛**</span>이 느껴져서 좋았다.
 
 |:---:|:---:|
@@ -312,13 +312,13 @@ description: 2025.08.30 에콰도르 키토에서 적도 박물관 탐방기
 
 ---
 
-#### <span style="color: #8D4801">**여행 경로**</span>
+## 여행 경로
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d87962.75408984741!2d-78.49230865106448!3d-0.10116905279532266!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e0!4m5!1s0x91d59a85e62ca895%3A0x217098644d0182ff!2sRGF7%2B7XM%20Centro%20Comercial%20I%C3%B1aquito%20(CCI)%2C%20Av.%20Naciones%20Unidas%2C%20Quito%20170506!3m2!1d-0.1767993!2d-78.4850658!4m5!1s0x91d58f1279ae6ee5%3A0x97d2c7f26c4113c9!2zTWFuYWJpY2hlIExvcyBQaW5vcywgQ2FsbGUsIO2CpO2GoA!3m2!1d-0.1371065!2d-78.4747493!4m5!1s0x91d5881ef89bad91%3A0xb2e1699b00a1a9b8!2sMiddle%20of%20the%20World%2C%20Avenida%20Manuel%20C%C3%B3rdova%20Galarza%2C%20%ED%82%A4%ED%86%A0!3m2!1d-0.0021692!2d-78.45582499999999!4m5!1s0x91d59a8141487355%3A0x8e013addeaa2a179!2zU3dlZXQgJiBDb2ZmZWUg4oCiIFJlcMO6YmxpY2EgZGUgRWwgU2FsdmFkb3IsIEF2ZW5pZGEgUmVww7pibGljYSBkZSBFbCBTYWx2YWRvciwg7YKk7Yag!3m2!1d-0.17947839999999998!2d-78.479698!4m5!1s0x91d59a7c342eadad%3A0xb325d53a1b2e9ea6!2zVGFzdHkgS29yZWFuIEZvb2QsIEVsIERpYSwg7YKk7Yag!3m2!1d-0.1757967!2d-78.47836629999999!5e0!3m2!1sko!2sec!4v1757349017572!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---
 
-#### <span style="color: #8D4801">**여행 경비**</span>
+## 여행 경비
 경비는 <span style="color: indianred">**2인 기준**</span>이다.
 
 | 2025.08.30 | 현지 통화 | 원화 |

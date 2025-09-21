@@ -19,14 +19,14 @@ permalink: /csharp/:year/:month/:day/:title/
 
 ---
 
-#### <span style="color: brown">**작성 동기**</span>
+## 작성 동기
 업무 중 Form designer에 컨트롤을 추가, 변경 등의 작업을 진행할 때, 컨트롤을 배치한 작업자에 따라서 또는 PC의 해상도에 따라서 <span style="color: #8D4801">**컨트롤의 위치나 크기가 의도치 않게 변해있거나 Form 실행 화면에서 컨트롤이 잘려있는 상황**</span>이 빈번하게 발생했고 그때마다 작지만, 반복되는 effort가 발생했다. 더 나아가서 <span style="color: #8D4801">**이미 정렬된 컨트롤들 사이에 새로운 컨트롤을 추가할 때 매번 다른 컨트롤의 위치 및 크기에 대한 작업이 동반**</span>되는 것이 매우 비효율적이라는 생각이 들었고 레이아웃 추가를 구상하게 되었다.
 
 ---
 
-#### <span style="color: brown">**배치 방식**</span>
+## 배치 방식
 작업했던 원본을 사용할 수 없는 관계로 <span style="color: #8D4801">**간단한 예시**</span>를 만들어 보았다. 실제로는 Form designer상에서 디자인하듯이 작업할 수 있는 부분도 차이점을 확인하기 위해 <span style="color: #8D4801">**모두 코드로 구현**</span>하였다.
-##### **기존의 컨트롤 배치 방식**
+### 기존의 컨트롤 배치 방식
 [아래의 초기화 함수](#기존-방식-초기화-함수 "Navigate to Code block that initializing function")에서 확인해 볼 수 있듯이 <span style="color: #8D4801">**컨트롤의 위치 및 크기를 직접 지정**</span>해서 배치한다. <span style="color: #8D4801">**Margin과 Padding 값이 존재할 경우 함께 계산**</span>하고 고려하여 배치해야 한다.
 <center>
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2022-08-25-Setting-dynamic-layout-using-Tablelayoutpanel/buttons-in-form.jpg" title="Reference of the layout by absolute positioning" alt="Reference of the layout by absolute positioning" Width="70%">
@@ -117,7 +117,7 @@ public bool InitializeForm()
 
 <br>
 
-##### **TableLayoutPanel을 이용한 배치 방식**
+### TableLayoutPanel을 이용한 배치 방식
 [아래의 초기화 함수](#tablelayoutpanel-사용-방식-초기화-함수 "Navigate to Code block that initializing function")에서 확인해 볼 수 있듯이 <span style="color: #8D4801">**초기화한 위치 및 크기 값에 상관없이**</span> 컨트롤이 배치된다. TabelLayoutPanel에 추가될 때의 Row 및 Column과 DockStyle, Anchor 그리고 Margin과 Padding에 따라 <span style="color: #8D4801">**동적으로 위치 및 크기가 결정**</span>된다.
 <center>
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2022-08-25-Setting-dynamic-layout-using-Tablelayoutpanel/buttons-in-tablelayoutpanel.jpg" title="Reference of the layout using TableLayoutPanel" alt="Reference of the layout using TableLayoutPanel" Width="70%">
@@ -213,8 +213,8 @@ public bool InitializeForm()
 
 ---
 
-#### <span style="color: brown">**컨트롤에 확대 이벤트를 적용해 보자**</span>
-##### **기존의 레이아웃에 적용**
+## 컨트롤에 확대 이벤트를 적용해 보자
+### 기존의 레이아웃에 적용
 <center>
   <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2022-08-25-Setting-dynamic-layout-using-Tablelayoutpanel/button-zoom-inout-in-form.gif" title="Example of button zoom inout action in form" alt="Example of button zoom inout action in form" Width="70%">
 </center>
@@ -263,7 +263,7 @@ private void ChangeButtonSize( object sender, EventArgs e )
 
 <br>
 
-##### **TableLayoutPanel을 이용한 레이아웃에 적용**
+### TableLayoutPanel을 이용한 레이아웃에 적용
 <center>
   <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2022-08-25-Setting-dynamic-layout-using-Tablelayoutpanel/button-zoom-inout-in-tablelayoutpanel.gif" title="Example of button zoom inout action in tablelayoutpanel" alt="Example of button zoom inout action in tablelayoutpanel" Width="70%">
 </center>
@@ -303,5 +303,5 @@ private void ChangeButtonSize( object sender, EventArgs e )
 
 ---
 
-#### 마무리하며...
+## 마무리하며...
 이번 포스트에서는 TableLayoutPanel 컨테이너를 이용한 컨트롤의 동적 배치를 알아보았다. SplitContainer도 추가하고 더 복잡한 TableLayoutPanel의 행과 열을 만들어서 비교해 보면 두 방식의 차이점을 더욱 극명하게 느낄 수 있다. 요즘같이 다양한 크기의 장치가 쏟아져나오는 때 컨테이너를 이용하여 반응형 레이아웃을 구현해 보는 것 어떨까?

@@ -24,7 +24,7 @@ description: 2024.04.06 한국에서 라오스 비엔티안까지 이동기
 
 ---
 
-#### <span style="color: #8D4801">**여행 동기**</span>
+## 여행 동기
 2024년 어느 날 다가오는 4월에 식목일과 22대 국회의원 선거일이 겹치면서 <span style="color: indianred">**굉장히 긴 연휴**</span>가 다가오고 있었다.
 
 <span style="color: #8D4801">**곧 결혼을 앞둔 mrkyia의 소식**</span>을 듣고 이번이 아니면 다 같이 할 수 있는 <span style="color: indianred">**여행의 기회가 쉽사리 다시 찾아오지 않으리라**</span> 생각했다. 특히나 이전에 우리가 <span style="color: #8D4801">**함께했던 여행 경험들이 앞으로 살아 나갈 날에 커다란 에너지와 동기부여**</span>가 된다는 점을 상기해 보면 더더욱 놓칠 수 없었고 우리는 실행에 옮기기 시작했다.
@@ -33,7 +33,7 @@ description: 2024.04.06 한국에서 라오스 비엔티안까지 이동기
 
 ---
 
-#### <span style="color: #8D4801">**여행 준비 중에 일어난 일**</span>
+## 여행 준비 중에 일어난 일
 친구끼리 떠나는 오랜만의 여행이라 설레는 마음으로 <span style="color: indianred">**여행 계획서**</span>를 작성했었다. [노션](https://www.notion.com/ko "Navigate to Notion website")<span style="color: #8D4801">**으로 작성**</span>한 여행 계획서는 다 같이 공유하기에 생각보다 편리했다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/travel-itinerary-in-notion.jpg" title="Travel itinerary in Notion" alt="Travel itinerary in Notion">
@@ -66,8 +66,8 @@ description: 2024.04.06 한국에서 라오스 비엔티안까지 이동기
 
 ---
 
-#### <span style="color: #8D4801">**국내 이동**</span>
-##### **천안아산역**
+## 국내 이동
+### 천안아산역
 부산에 사는 친구가 일단 <span style="color: #8D4801">**KTX를 통해 올라와서**</span> 먼저 만나고 <span style="color: indianred">**서울에서 사는 친구는 공항**</span>에서 만나기로 했다.
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3194.997634921248!2d127.10456079999999!3d36.7946071!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ad81332a96935%3A0xe9dff7d1c8fb4f1f!2z7LKc7JWI7JWE7IKw!5e0!3m2!1sko!2sec!4v1757648879582!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
@@ -78,7 +78,7 @@ description: 2024.04.06 한국에서 라오스 비엔티안까지 이동기
 </div>
 <br>
 
-##### **인천국제공항**
+### 인천국제공항
 우리 비행기가 <span style="color: #8D4801">**어디**</span>에 있나
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/incheon-international-airport.jpg" title="Incheon international airport" alt="Incheon international airport">
@@ -120,8 +120,8 @@ description: 2024.04.06 한국에서 라오스 비엔티안까지 이동기
 
 ---
 
-#### <span style="color: #8D4801">**비엔티안에서**</span>
-##### **와따이국제공항**
+## 비엔티안에서
+### 와따이국제공항
 도착한 비엔티안 공항. <span style="color: indianred">**공항에서 USIM을 구매 후 택시를 이용해 숙소로 바로 이동**</span>했다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/wattay-international-airport.jpg" title="Wattay international airport" alt="Wattay international airport">
@@ -131,7 +131,7 @@ description: 2024.04.06 한국에서 라오스 비엔티안까지 이동기
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30358.42454852179!2d102.54672251197815!3d17.987896911190408!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312469b9e9408103%3A0x2437295adc2faacd!2sWattay%20International%20Airport!5e0!3m2!1sko!2sec!4v1757649022280!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
-##### **더 기프타운 숙소**
+### 더 기프타운 숙소
 아늑했던 비엔티안 숙소. 방은 <span style="color: #8D4801">**2층**</span>에 존재했는데, 방을 나서서 <span style="color: indianred">**왼쪽에 바로 테라스**</span>도 있어서 좋았다.
 
 |:---:|:---:|:---:|
@@ -148,7 +148,7 @@ description: 2024.04.06 한국에서 라오스 비엔티안까지 이동기
 </div>
 <br>
 
-##### **마누 식당**
+### 마누 식당
 길거리에 깔끔하고 더 좋아 보이는 식당은 많지만, <span style="color: #8D4801">**항상 마음을 당기는 곳은 로컬 노점**</span>인 것 같다. 처음에는 1병만 시켰던 비어라오 마시다 보니 <span style="color: indianred">**결국 1인 1병이 되었다는 후문**</span>이... 
 
 <span style="color: #8D4801">**비어라오는 라오스 정부와 덴마크 맥주회사 칼스버그가 공동 운영하는 브랜드**</span>로 고소하고 부드러운 맥주 맛을 느낄 수 있었다.
@@ -162,7 +162,7 @@ description: 2024.04.06 한국에서 라오스 비엔티안까지 이동기
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d237.20483530080492!2d102.60458589999999!3d17.9658282!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31246900965a790d%3A0x513ee91a6861e515!2sManu%20Restaurant!5e0!3m2!1sko!2sec!4v1757649475472!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
-##### **편의점 야식 구매**
+### 편의점 야식 구매
 <span style="color: #8D4801">**여행 첫날인데 그냥 잘 순 없지**</span>하고 들렸던 편의점. 근데 다들 배부르게 먹고 일어난 상태라 막상 맥주 1병과 물, 음료수 그리고 과일 같은 안주를 구매했던 것 같은데 <span style="color: indianred">**내일 아침 일정을 위해 가볍게 먹고 휴식**</span>을 취했다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/big-c-convenience-store.jpg" title="Big C convenience store" alt="Big C convenience store">
@@ -186,13 +186,13 @@ description: 2024.04.06 한국에서 라오스 비엔티안까지 이동기
 
 ---
 
-#### <span style="color: #8D4801">**여행 경로**</span>
+## 여행 경로
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m40!1m12!1m3!1d1764.4309160194339!2d102.60373448599022!3d17.966124597311264!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m25!3e2!4m5!1s0x312469b9e9408103%3A0x2437295adc2faacd!2zWEhRNys1NTMgV2F0dGF5IEludGVybmF0aW9uYWwgQWlycG9ydCwgVmllbnRpYW5lLCDrnbzsmKTsiqQ!3m2!1d17.9878947!2d102.5629101!4m5!1s0x312469e3c6880ae3%3A0x8a7022cf28e4a57b!2zVGhlIEdpZnRvd24gVmllbnRpYW5lLCBIYXlzb2tlLCBTZXR0aGF0aGlyYXRoIFJkLCDruYTsl5Tti7DslYgg65287Jik7Iqk!3m2!1d17.9661716!2d102.6051931!4m5!1s0x31246900965a790d%3A0x513ee91a6861e515!2zTWFudSBSZXN0YXVyYW50LCDruYTsl5Tti7DslYgg65287Jik7Iqk!3m2!1d17.965654!2d102.6044929!4m5!1s0x31246900123f5199%3A0x2cb2e07b22e48a22!2sMini%20Big%20C!3m2!1d17.9658192!2d102.604884!5e0!3m2!1sko!2sec!4v1757650252242!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---
 
-#### <span style="color: #8D4801">**여행 경비**</span>
+## 여행 경비
 경비는 <span style="color: indianred">**3인 기준**</span>이다.
 
 | 2024.04.06 | 현지 통화 | 원화 |

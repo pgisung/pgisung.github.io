@@ -17,7 +17,7 @@ description: 2013.12.14 싱가포르 2일 차 여행기
 
 ---
 
-#### <span style="color: #8D4801">**센토사 가는 길**</span>
+## 센토사 가는 길
 아침 식사를 하며 <span style="color: #8D4801">**오늘의 주요 일정을 센토사로 정했다.**</span> 그래서 일단 MRT역으로 출발~!은... 눈에 보이는 절에 또 들어가서 둘러보았다. 
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/temple-entrance.jpg" title="The entrance of temple we visited" alt="The entrance of temple we visited">
@@ -121,7 +121,7 @@ description: 2013.12.14 싱가포르 2일 차 여행기
 
 ---
 
-#### <span style="color: #8D4801">**아쿠아리움**</span>
+## 아쿠아리움
 식사 후 다음 목적지인 아쿠아리움으로 이동하며 사진 몇 장 찍고...
 <div class="image-slider-auto">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/blogger-in-sentosa-1.jpg" title="Blogger in Sentosa island" alt="Blogger in Sentosa island">
@@ -187,7 +187,7 @@ description: 2013.12.14 싱가포르 2일 차 여행기
 
 ---
 
-#### <span style="color: #8D4801">**해변에서 일몰 구경**</span>
+## 해변에서 일몰 구경
 <span style="color: #8D4801">**유니버설 스튜디오**</span> 다녀온 척하기
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/universal-studio.jpg" title="Blogger in front of Universal studio entrance" alt="Blogger in front of Universal studio entrance">
@@ -289,13 +289,13 @@ description: 2013.12.14 싱가포르 2일 차 여행기
 
 ---
 
-#### <span style="color: #8D4801">**여행 경로**</span>
+## 여행 경로
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m69!1m12!1m3!1d3319.5270714846124!2d103.81934822645852!3d1.253665969845826!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m54!3e0!4m5!1s0x31da19cef14217db%3A0xa940c6966b2d5cf1!2sGreen%20Kiwi%20Backpacker%20Hostel!3m2!1d1.3143083!2d103.8603667!4m5!1s0x31da1bcdaa1d7c95%3A0x7551eb601b91a89e!2sHarbourFront%20MRT%20Station%20(CC29)!3m2!1d1.2650371999999999!2d103.8215381!4m5!1s0x31da1bfebf758393%3A0x11e9b1a30bc5fed7!2zU2VudG9zYSBTdGF0aW9uLCDsi7HqsIDtj6zrpbQ!3m2!1d1.25538!2d103.8171!4m5!1s0x31da1bb1b3888f2f%3A0xcbd6074502ce477b!2sKFC%20Sentosa!3m2!1d1.2544714!2d103.81922949999999!4m5!1s0x31da1bfdabc2ed8f%3A0xf4b09544068cfd26!2sSingapore%20Oceanarium!3m2!1d1.2583209!2d103.82051469999999!4m5!1s0x31da1bfdfe722735%3A0x2eeae4fb48ea3cdb!2z7Jyg64uI67KE7IWcIOyKpO2KnOuUlOyYpCDsi7HqsIDtj6zrpbQg7KeA6rWs67O4!3m2!1d1.2566325!2d103.821243!4m5!1s0x31da1eaa0c21d3fd%3A0x633b560cebfaa12c!2sPalawan%20Beach!3m2!1d1.2482777!2d103.8225374!4m4!1s0x31da1bf8fa5d45eb%3A0xf2cb8031cdb3a7cc!3m2!1d1.2554915!2d103.8123885!4m5!1s0x31da1bffa708a047%3A0x68c73870017cb2fa!2zMzAgSW1iaWFoIFJkLCDsi7HqsIDtj6zrpbQgMDk5NzA1!3m2!1d1.2534181!2d103.8188155!5e0!3m2!1sko!2sec!4v1757353305269!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---
 
-#### <span style="color: #8D4801">**여행 경비**</span>
+## 여행 경비
 경비는 <span style="color: indianred">**2인 기준**</span>이다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/budget-book.jpg" title="Budget book" alt="Budget book">

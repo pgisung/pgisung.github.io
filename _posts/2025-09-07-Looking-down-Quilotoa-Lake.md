@@ -16,10 +16,10 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 3. [호수 가는 길](#호수-가는-길 "Navigate to On the way to the lake")
 - [티구아의 첫 번째 화가 갤러리](#티구아의-첫-번째-화가-갤러리 "Navigate to The gallery of first painter in Tigua")
 - [챠미 와이쿠](#챠미-와이쿠 "Navigate to Chami Wayku")
-- [240도 파노라마 챠미 와이쿠 전경](#240도-파노라마-챠미-와이쿠-전경 "Navigate to 240-degree panoramic view for Chami Wayku")
+  - [240도 파노라마 챠미 와이쿠 전경](#240도-파노라마-챠미-와이쿠-전경 "Navigate to 240-degree panoramic view for Chami Wayku")
 - [츄키라와 식당](#츄키라와-식당 "Navigate to Chukirawa restaurant")
 4. [킬로토아 호수](#킬로토아-호수 "Navigate to Quilotoa Lake")
-- [240도 파노라마 킬로토아 호수 전경](#240도-파노라마-킬로토아-호수-전경 "Navigate to 240-degree panoramic view for Quilotoa Lake")
+  - [240도 파노라마 킬로토아 호수 전경](#240도-파노라마-킬로토아-호수-전경 "Navigate to 240-degree panoramic view for Quilotoa Lake")
 5. [돌아오는 길](#돌아오는-길 "Navigate to On the way back to home")
 - [레이 판 푸힐리 베이커리](#레이-판-푸힐리-베이커리 "Navigate to Rey Pan Pujili Bakery")
 6. [여행 경로](#여행-경로 "Navigate to Travel route")
@@ -27,7 +27,7 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 
 ---
 
-#### <span style="color: #8D4801">**투어 시작**</span>
+## 투어 시작
 토요일 밤 오랜만에 과음하고 짧은 선잠만 자고 깬 후로 다시 잠에 들지 못해서 <span style="color: indianred">**조금 피곤한 컨디션**</span>으로 숙소를 나섰다.
 
 밴은 6시 50분부터 나를 기다리고 있었고, <span style="color: #8D4801">**가이드가 나를 반갑게 맞아주었다**</span>.
@@ -57,7 +57,7 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 </div>
 <br>
 
-##### **챠스키 카페**
+### 챠스키 카페
 약 1시간을 달려서 도착한 식당으로 <span style="color: #8D4801">**ATM도 존재하니 현금이 필요하다면**</span> 이곳에서 인출하고 출발하면 된다. (<span style="color: indianred">**킬로토아 호수 근처 식당에서 카드 계산이 안 되었다**</span>.) 
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/chasky-kfe.jpg" title="Chasky Kfé" alt="Chasky Kfé">
@@ -82,7 +82,7 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 </div>
 <br>
 
-##### **론다도르 코토팍시**
+### 론다도르 코토팍시
 아침 식사를 마치고 이동하던 중 <span style="color: indianred">**창문 밖으로 안개가 많이 보여서 호수가 안개로 가려져 있을까 봐 걱정**</span>했었다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/fog-weather.jpg" title="Fog weather" alt="Fog weather">
@@ -107,7 +107,7 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 
 ---
 
-#### <span style="color: #8D4801">**돈 훌리안 아저씨 댁**</span>
+## 돈 훌리안 아저씨 댁
 출발하고 약 1시간 40분이 지나서 <span style="color: indianred">**사실상 첫 번째 투어 지역인 원주민 아저씨 댁에 도착**</span>했다. 이곳에 도착하기 거의 직전에 가이드가 에콰도르의 농사에 관해서 에코시스템이 이렇다저렇다 하시면서 농사에 따로 물 공급이 필요하지 않다고 설명해 주셨는데, 자세한 내용은 놓쳐버렸었다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/the-sign-of-julians-house.jpg" title="The sign of Don Julian's house" alt="The sign of Don Julian's house">
@@ -199,7 +199,7 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 
 ---
 
-#### <span style="color: #8D4801">**호수 가는 길**</span>
+## 호수 가는 길
 훌리안 아저씨와 헤어지고 다시 호수로 향하는 길, <span style="color: indianred">**가이드가 잠자는 호랑이 산이라고 설명을 해준 것으로 기억**</span>하는데 구글이나 AI에도 관련한 정보가 없다. 
 
 |:---:|:---:|
@@ -207,7 +207,7 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 
 <br>
 
-##### **티구아의 첫 번째 화가 갤러리**
+### 티구아의 첫 번째 화가 갤러리
 사실 막상 도착했을 당시에는 건물 외관도 그렇고 <span style="color: #8D4801">**큰 기대를 하지 않고 방문**</span>했던 갤러리. 하지만, 막상 갤러리에 들어서서 관람을 시작하면서 느낀 것이 그려져 있는 <span style="color: indianred">**그림들이 굉장히 나이브한 느낌에 밝고 기운찬 느낌**</span>을 주는 것 같다고 생각했었다. 물론 이런 예술에 문외한이라서 뭐가 대단한지 아닌지는 모르겠지만, 그저 그림을 보고 느낀 감상은 그랬다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/the-gallery-of-first-painter-in-tigua.jpg" title="The gallery of first painter in Tigua" alt="The gallery of first painter in Tigua">
@@ -225,7 +225,7 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 
 <br>
 
-##### **챠미 와이쿠**
+### 챠미 와이쿠
 <span style="color: #8D4801">**원주민의 비율이 90% 이상이라는 Zumbahua 커뮤니티**</span>에 대한 가이드의 설명을 들으며 이동하다 보니 금방 도착한 짧게 들리는 전망대이다.
 <div class="image-slider-auto">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/chami-wayku.jpg" title="Chami Wayku" alt="Chami Wayku">
@@ -243,12 +243,12 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 </div>
 <br>
 
-###### <span style="color: #8D4801">**240도 파노라마 챠미 와이쿠 전경**</span>
+#### 240도 파노라마 챠미 와이쿠 전경
 이곳까지 오는 내내 눈에 보이는 대부분의 산은 사진에서 볼 수 있듯이 <span style="color: indianred">**대부분 농장**</span>으로 덮여있어서 농산물 공급이 뛰어난 이유를 알 수 있었다.
 <center><div id="panorama-1"></div></center>
 <br>
 
-##### **츄키라와 식당**
+### 츄키라와 식당
 드디어 도착한 <span style="color: #8D4801">**킬로토아 호수의 매표소**</span>
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/ticket-office-for-quilotoa-lake.jpg" title="The ticket office for Quilotoa Lake " alt="The ticket office for Quilotoa Lake">
@@ -266,7 +266,7 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 
 ---
 
-#### <span style="color: #8D4801">**킬로토아 호수**</span>
+## 킬로토아 호수
 호수에 오는 동안 <span style="color: indianred">**가이드가 여러 번 반복해서 얘기했던 내용**</span>이 다른 보편적인 하이킹들과 달리 <span style="color: #8D4801">**해발 4,200m인 이곳까지 차로 올라와서는**</span> 걸어서 호수까지 내려갔다가 다시 올라오는 것이기 때문에, 본인이 2시간 안에 올라올 자신이 없으면 어지간하면 위에서 전망대나 주변을 즐기는 것을 추천한다고 했다.
 
 다른 산의 경우에는 하이킹을 포기할 경우 차에서 대기해야 해서 지루하고 즐길 거리가 없을 수 있지만, <span style="color: indianred">**이곳은 이미 정상이기 때문에 위에 있는 것만으로도 충분히 풍경이 좋기도**</span> 했다.
@@ -305,7 +305,7 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 
 <br>
 
-###### <span style="color: #8D4801">**240도 파노라마 킬로토아 호수 전경**</span>
+#### 240도 파노라마 킬로토아 호수 전경
 <center><div id="panorama-2"></div></center>
 <br>
 
@@ -369,8 +369,8 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 
 ---
 
-#### <span style="color: #8D4801">**돌아오는 길**</span>
-##### **레이 판 푸힐리 베이커리**
+## 돌아오는 길
+### 레이 판 푸힐리 베이커리
 키토에 복귀하기 전 마지막으로 들렸던 휴게소 느낌으로 <span style="color: #8D4801">**이곳에서 이스라엘 모자와 브라질 여성, 말레이시아 남성**</span>과는 목적지가 달라서 헤어졌다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/rey-pan-pujili-bakery.jpg" title="Rey Pan Pujili Bakery" alt="Rey Pan Pujili Bakery">
@@ -394,13 +394,13 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 
 ---
 
-#### <span style="color: #8D4801">**여행 경로**</span>
+## 여행 경로
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m70!1m12!1m3!1d707752.7532437582!2d-79.04008994256263!3d-0.4991088747249437!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m55!3e0!4m5!1s0x91d59a846449b88b%3A0xb5ca75d150fcbb8c!2sQuito%20Tour%20Bus%20%2F%20Bulevar%20Naciones%20Unidas!3m2!1d-0.1767204!2d-78.4818741!4m5!1s0x91d5abe4b3ba39b1%3A0x32257dced0efee4!2sChasky%20Kfe%20Restaurante%20-%20Mini%20Market!3m2!1d-0.5206320999999999!2d-78.577542!4m5!1s0x91d45714d5790457%3A0x9cccf84529e92588!2sRondador%20Cotopaxi!3m2!1d-0.7001543!2d-78.5870892!4m5!1s0x91d48da9a73aa98b%3A0xacf83a09dec45e9f!2zTGEgQ2FzYSBEZSBEb24gSnVsaWFu4puw77iP!3m2!1d-0.8921973999999999!2d-78.7821608!4m5!1s0x91d493bae9885995%3A0x3531d86fc18b919d!2sGaleria%20del%20Primer%20Pintor%20de%20Tigua%20%22Julio%20Toaquiza%20Tigasi%22!3m2!1d-0.9508907!2d-78.8673549!4m5!1s0x91d493250fef4bd7%3A0xdff28fc043e389fc!2sChami%20Wayku!3m2!1d-0.948259!2d-78.900335!4m5!1s0x91d48a30f1ec3a15%3A0x96246423457b42cf!2sHosteria%20Chukirawa!3m2!1d-0.8669418!2d-78.9162672!4m5!1s0x91d4ec973f217617%3A0x44e6e6c2c69094b9!2sMirador%20to%20Laguna%20Quilotoa!3m2!1d-0.8664004!2d-78.915958!4m5!1s0x91d48baaf63ebb27%3A0xebe8744a473c3991!2sPANADERIA%20Y%20PASTELERIA%20REY%20PAN%20PUJILI!3m2!1d-0.9360341999999999!2d-78.6810201!5e0!3m2!1sko!2sec!4v1757349518303!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---
 
-#### <span style="color: #8D4801">**여행 경비**</span>
+## 여행 경비
 경비는 <span style="color: indianred">**1인 기준**</span>이다.
 
 | 2025.09.07 | 현지 통화 | 원화 |

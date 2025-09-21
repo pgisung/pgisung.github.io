@@ -19,7 +19,7 @@ description: 2013.12.15 싱가포르 3일 차 여행기
 
 ---
 
-#### <span style="color: #8D4801">**문을 닫은 자전거 가게들**</span>
+## 문을 닫은 자전거 가게들
 이제 내일이면 진짜로 자전거 일주를 시작해야 하는 날이라 <span style="color: indianred">**아침 일찍**</span>부터 자전거 가게를 찾아 나섰다. <span style="color: #8D4801">**mrkyia의 자전거는 반드시 가게에서 조립해야 하는 상황**</span>이어서 더위에 땀을 뻘뻘 흘리며 자전거를 끌고 다녔는데 문을 연 자전거 가게가 없었다.
 
 날씨도 너무 심하게 덥고 오전의 목표도 성취하지를 못해서 힘없이 축 늘어진 채로, 숙소로 돌아와 간단하게 컵라면으로 점심을 때우고 호스텔에서 휴식을 취하며 <span style="color: #8D4801">**싱가포르에 방문하면 꼭 먹고 싶었던 칠리크랩 식당**</span>을 알아보기 시작했다.
@@ -30,7 +30,7 @@ description: 2013.12.15 싱가포르 3일 차 여행기
 
 ---
 
-#### <span style="color: #8D4801">**점보 레스토랑**</span>
+## 점보 레스토랑
 몇 시간의 휴식 후 식당 예약 시간이 다가오자 슬슬 몸을 일으켜 <span style="color: #8D4801">**MRT를 타고 클라크 퀘이**</span>를 향했다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-15-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-4/clarke-quay.jpg" title="Clarke Quay" alt="Clarke Quay">
@@ -82,7 +82,7 @@ description: 2013.12.15 싱가포르 3일 차 여행기
 
 ---
 
-#### <span style="color: #8D4801">**브루웍스**</span>
+## 브루웍스
 밥을 먹었으면? 이제 움직여야지
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-15-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-4/clarke-quay-street-in-the-evening.jpg" title="Clarke Quay street" alt="Clarke Quay street">
@@ -138,14 +138,14 @@ description: 2013.12.15 싱가포르 3일 차 여행기
 
 ---
 
-#### <span style="color: #8D4801">**싱가포르에서의 마지막 밤**</span>
+## 싱가포르에서의 마지막 밤
 기분 좋게 맥주 한잔하고 숙소로 돌아가는 길
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-15-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-4/clark-quay-street-at-night-1.jpg" title="Clark Quay street at night" alt="Clark Quay street at night">
 </div>
 <br>
 
-###### <span style="color: #8D4801">**240도 파노라마 클라크 퀘이 전경**</span>
+#### 240도 파노라마 클라크 퀘이 전경
 <center><div id="panorama-1"></div></center>
 <br>
 
@@ -175,13 +175,13 @@ description: 2013.12.15 싱가포르 3일 차 여행기
 
 ---
 
-#### <span style="color: #8D4801">**여행 경로**</span>
+## 여행 경로
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m40!1m12!1m3!1d15955.146504723021!2d103.85144890000001!3d1.3030045000000055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m25!3e0!4m5!1s0x31da19cef14217db%3A0xa940c6966b2d5cf1!2zTGF2ZW5kZXIgU3RyZWV0LCBHcmVlbiBLaXdpIEJhY2twYWNrZXIgSG9zdGVsLCDsi7HqsIDtj6zrpbQ!3m2!1d1.3143083!2d103.8603667!4m5!1s0x31da19c59d456bc7%3A0xd91e374a1469abbb!2zVGVzc2Vuc29obiBSb2FkLCBIZWFwIEhvbmcgJiBDbywg7Iux6rCA7Y-s66W0!3m2!1d1.314558!2d103.8562511!4m5!1s0x31da1975553e3fe5%3A0xdbda8b3e22b39132!2z7Iux6rCA7Y-s66W0IE1lcmNoYW50IFJvYWQsIOumrOuyhOyCrOydtOuTnCDtj6zsnbjtirgg7KCQ67O0IOyLnO2RuOuTnCAtIOumrOuyhOyCrOydtOuTnCDtj6zsnbjtirg!3m2!1d1.2889217!2d103.84466139999999!4m5!1s0x31da19195b7af921%3A0x1dbe7c851eb8cc7!2zTWVyY2hhbnQgUm9hZCwgQnJld2Vya3ogUml2ZXJzaWRlIFBvaW50LCDrpqzrsoTsgqzsnbTrk5wg7Y-s7J247Yq4IOyLseqwgO2PrOultA!3m2!1d1.2895950999999999!2d103.84400459999999!5e0!3m2!1sko!2sec!4v1757353823067!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---
 
-#### <span style="color: #8D4801">**여행 경비**</span>
+## 여행 경비
 경비는 <span style="color: indianred">**2인 기준**</span>이다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-15-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-4/budget-book.jpg" title="Budget book" alt="Budget book">

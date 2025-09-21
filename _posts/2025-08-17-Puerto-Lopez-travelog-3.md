@@ -23,7 +23,7 @@ description: 2025.08.17 플라타 섬 투어 이야기
 
 ---
 
-#### <span style="color: #8D4801">**플라타 섬 투어**</span>
+## 플라타 섬 투어
 <span style="color: #8D4801">**여행 셋째 날**</span> 푸에르토 로페스는 워낙 작은 마을이라 어제 아침 산책 한 번으로 사실상 마을을 전부 돌아다녀 봐서 여느 때와 같이 발코니에 앉아 멀리 보이는 수산시장을 구경하며 투어 예약 시간인 8시 40분이 되기를 기다렸다.
 
 벌써 내일이 키토로 복귀하는 날이라 우리는 <span style="color: #8D4801">**만타로 돌아가는 버스 시간표**</span>를 확인하고 10시 30분 버스를 타기로 결정했다.
@@ -32,7 +32,7 @@ description: 2025.08.17 플라타 섬 투어 이야기
 </div>
 <br>
 
-##### **Naturis 여행사**
+### Naturis 여행사
 <span style="color: indianred">**진짜 플라타 섬 못 갈 뻔했던 우리를 구원해 준 Naturis 여행사**</span>. 공교롭게도 어제 투어했던 FRAGATA XTREME 여행사의 근처에 자리 잡고 있었다. 여행사에 도착하니 어제와 달리 우리 말곤 아무도 안 와있었는데 몇 분 정도 기다리고 나니 하나의 대가족이 도착했다. 보아하니 <span style="color: #8D4801">**그 가족 이외에 투어 일행은 우리뿐**</span>인 듯했다.
 
 간단한 브리핑을 마치고 어제와 마찬가지로 <span style="color: #8D4801">**부두로 이동**</span>했다.
@@ -53,7 +53,7 @@ description: 2025.08.17 플라타 섬 투어 이야기
 </div>
 <br>
 
-##### **스쳐 간 혹등고래 출몰지**
+### 스쳐 간 혹등고래 출몰지
 오늘의 메인이자 목적지인 <span style="color: #8D4801">**플라타 섬**</span>은 사실 Puerto Cayo라는 더 북쪽의 마을에서 출발해야 가까울 정도로 <span style="color: indianred">**먼 곳에 존재하는 섬으로 보트를 타고 1시간 넘게 이동해서야 도착**</span>할 수 있었고
 
 그 중간에 <span style="color: #8D4801">**혹등고래가 출몰하는 지역이 있어 정말 잠깐의 시간 동안 고래를 발견하면 멈췄다가 이동하는 방식**</span>이어서 어제의 살랑고 섬 투어처럼 막 오랜 시간 혹등고래를 추적하거나 하지는 않았고 머무른 시간도 꽤 짧았었다.
@@ -73,7 +73,7 @@ description: 2025.08.17 플라타 섬 투어 이야기
 </div>
 <br>
 
-##### **반겨주는 바다거북**
+### 반겨주는 바다거북
 드디어 도착한 <span style="color: #8D4801">**작은 갈라파고스 플라타 섬**</span>!
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11101.12579532487!2d-81.07309157009428!3d-1.2721772315088908!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902eb3fb61c48bcd%3A0x89c982c7bbef00b2!2sProtection%20Center%20Isla%20de%20La%20Plata!5e0!3m2!1sko!2sec!4v1755982055021!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
@@ -158,7 +158,7 @@ description: 2025.08.17 플라타 섬 투어 이야기
 </div>
 <br>
 
-##### **드디어 만난 푸른발부비새**
+### 드디어 만난 푸른발부비새
 동선을 걷기 시작하자마자 바로 만날 수 있는 <span style="color: skyblue">**푸른발부비새**</span>. 발이 정말 신기하게도 <span style="color: blue">**새파란 색깔**</span>이다!
 
 제가 보고 싶으셨나요?
@@ -306,7 +306,7 @@ description: 2025.08.17 플라타 섬 투어 이야기
 </div>
 <br>
 
-##### **부비새의 원조 나스카부비새**
+### 부비새의 원조 나스카부비새
 아기 <span style="color: #8D4801">**나스카부비새**</span>이다. 아직 털이 보송보송한 게 너무 귀엽다.
 <div class="image-slider-auto">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/nazca-booby-1.jpg" title="Nazca booby baby" alt="Nazca booby baby">
@@ -352,7 +352,7 @@ description: 2025.08.17 플라타 섬 투어 이야기
 </div>
 <br>
 
-##### **눈으로만 즐긴 스노클링**
+### 눈으로만 즐긴 스노클링
 트래킹을 마치고 보트에 복귀하면 스노클링 포인트로 이동한 후에 <span style="color: #8D4801">**점심으로 샌드위치와 콜라**</span>를 나눠주신다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/lunch-time-1.jpg" title="Tour staff giving out sandwiches" alt="Tour staff giving out sandwiches">
@@ -377,7 +377,7 @@ description: 2025.08.17 플라타 섬 투어 이야기
 
 스노클링을 끝내고 돌아가는 중에 <span style="color: #8D4801">**수박, 파인애플과 같은 과일들**</span>도 주셔서 좋았다.
 
-##### **놀고 있는 혹등고래들**
+### 놀고 있는 혹등고래들
 푸에르토 로페스로 복귀하는 길옆에 보트가 <span style="color: #8D4801">**반쯤 하늘을 날듯이 항해**</span>하고 있다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/flying-boat.jpg" title="Flying boat" alt="Flying boat">
@@ -432,7 +432,7 @@ description: 2025.08.17 플라타 섬 투어 이야기
 
 ---
 
-#### <span style="color: #8D4801">**Sabor Español 식당**</span>
+## Sabor Español 식당
 어제 아침에 촬영했던 식물이 무성한 식당. <span style="color: #8D4801">**구글 맵에서 Langosta가 메뉴에 있는 식당 중 유일하게 방문하지 않았던 식당**</span>으로 위치는 <span style="color: indianred">**한적한 구석에 있었지만, 리뷰는 제일 높았던**</span> 식당으로 오늘 저녁은 이 식당에서 먹기로 했다.
 
 사실 주말이어서 그랬는지 <span style="color: indianred">**번화가 쪽 근처 식당들은 정말 고막이 터져나갈 듯한 볼륨으로 시끄러운 음악**</span>을 틀어놔서 엊그제랑 어제 조용한 식당을 매우 찾고 싶었는데 <span style="color: #8D4801">**위치가 멀찍이 떨어져 있는 곳이라서 시끄러운 음악 소리도 안 들려서 평화롭게 식사**</span>할 수 있어서 좋았다.
@@ -494,13 +494,13 @@ description: 2025.08.17 플라타 섬 투어 이야기
 
 ---
 
-#### <span style="color: #8D4801">**여행 경로**</span>
+## 여행 경로
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m40!1m12!1m3!1d6197.224059190071!2d-80.81683619190656!3d-1.5592611540096164!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m25!3e2!4m5!1s0x902e9f3524423219%3A0xa7fdda1621f08bc6!2sC5QP%2BC4P%20Coffee%20One%20Dolar%2C%20Mal.%20Julio%20Izurieta%2C%20Puerto%20L%C3%B3pez!3m2!1d-1.5614697!2d-80.8147219!4m5!1s0x902e9f1e8e002d53%3A0xefb3e71d032b8cf6!2sIsla%20de%20la%20Plata%20Ecuador%20%7C%20Puerto%20L%C3%B3pez%20-Naturis%20tours%2C%20y%2C%20Puerto%20Lopez!3m2!1d-1.5596138!2d-80.8123904!4m5!1s0x902e9f00545654e5%3A0x87f42cec0aa40f97!2sMuelle%20de%20Puerto%20Lopez%2C%20Malecon%20Julio%20Izurieta%2C%20Puerto%20Lopez!3m2!1d-1.5609933!2d-80.8174011!4m5!1s0x902e9e1f16e726e3%3A0x1a6d73cf5b6738dd!2sRestaurante%20Sabor%20Espa%C3%B1ol!3m2!1d-1.5630678!2d-80.8188411!5e0!3m2!1sko!2sec!4v1757351227262!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---
 
-#### <span style="color: #8D4801">**여행 경비**</span>
+## 여행 경비
 경비는 <span style="color: indianred">**2인 기준**</span>이다.
 
 | 2025.08.17 | 현지 통화 | 원화 |

@@ -29,13 +29,13 @@ description: Github에 접속하여 원격 저장소를 생성해 보자. 기록
 
 ---
 
-#### 들어가기 전에
+## 들어가기 전에
 원격 저장소와 commit을 주고받으려면 일단 원격 저장소가 존재해야 한다. 먼저, 원격 저장소를 생성해 보자. 원격 저장소는 당장 내 컴퓨터 경로 내에 생성할 수도 있고 Github와 같은 Git 호스팅 서버를 이용할 수도 있다.
 
 ---
 
-#### <span style="color: brown">**원격 저장소 생성하기**</span>
-##### **내 컴퓨터에 원격 저장소를 생성해 보자**
+## 원격 저장소 생성하기
+### 내 컴퓨터에 원격 저장소를 생성해 보자
 ```bash
 git remote add <원격 저장소 이름> <디렉토리 경로>
 ```
@@ -44,7 +44,7 @@ git remote add <원격 저장소 이름> <디렉토리 경로>
 
 <br>
 
-##### **Github 회원가입**
+### Github 회원가입
 1. 이제 서버에 내 원격 저장소를 생성하기 위해 대표적인 Git 호스팅 플랫폼인 Github에 회원가입을 해보자. 이메일을 입력하고 Sign up 버튼을 클릭하면 바로 다음 페이지로 진행된다.
 <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-20-Transfering-commit-with-remote-repository/signing-up-to-github-official-website-1.webp" title="Home page of Github official website" alt="Home page of Github official website">
 
@@ -59,7 +59,7 @@ git remote add <원격 저장소 이름> <디렉토리 경로>
 
 <br>
 
-##### **Personal access tokens**
+### Personal access tokens
 <span style="color: #8D4801">**Github의 API를 사용하여 원격 저장소에 명령어를 사용하여 작업을 수행하려면 이 Personal access token이 필요**</span>하다. 터미널 환경에서 인증 화면이 표시되었을 때 아이디와 비밀번호가 아닌 이 token을 입력해야 권한이 생긴다. 그럼, 이제 Personal access token을 만들어보자.
 
 1. 먼저 처음 Github에 로그인했을 때 나타나는 홈 화면 우측 상단의 프로필사진을 클릭한다.
@@ -91,7 +91,7 @@ git remote add <원격 저장소 이름> <디렉토리 경로>
 
 <br>
 
-##### **Github 서버에 원격 저장소를 생성해 보자**
+### Github 서버에 원격 저장소를 생성해 보자
 1. 자 이제 회원가입도 완료되었고 원격 저장소를 생성해 보자. 먼저 처음 Github에 로그인했을 때 나타나는 홈 화면 우측 상단의 프로필사진을 클릭한다.
 <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-20-Transfering-commit-with-remote-repository/creating-remote-repository-1.webp" title="Home page when login status to Github" alt="Home page when login status to Github">
 
@@ -114,8 +114,8 @@ git remote add <원격 저장소 이름> <디렉토리 경로>
 
 ---
 
-#### <span style="color: brown">**원격 저장소 관리하기**</span>
-##### **원격 저장소 목록**
+## 원격 저장소 관리하기
+### 원격 저장소 목록
 ```bash
 git remote
 ```
@@ -135,7 +135,7 @@ git remote --verbose
 
 <br>
 
-##### **로컬 저장소와 원격 저장소 연결**
+### 로컬 저장소와 원격 저장소 연결
 ```bash
 git remote add <원격 저장소 이름> <원격 저장소 URL>
 ```
@@ -144,7 +144,7 @@ git remote add <원격 저장소 이름> <원격 저장소 URL>
 
 <br>
 
-##### **원격 저장소 이름 변경**
+### 원격 저장소 이름 변경
 ```bash
 git remote rename <변경 전 원래 이름> <변경할 이름>
 ```
@@ -152,7 +152,7 @@ git remote rename <변경 전 원래 이름> <변경할 이름>
 
 <br>
 
-##### **원격 저장소 자세한 정보 출력**
+### 원격 저장소 자세한 정보 출력
 ```bash
 git remote show <원격 저장소 이름>
 ```
@@ -160,7 +160,7 @@ git remote show <원격 저장소 이름>
 
 <br>
 
-##### **원격 저장소와의 연결 삭제**
+### 원격 저장소와의 연결 삭제
 ```bash
 git remote rm <원격 저장소 이름>
 ```
@@ -168,7 +168,7 @@ git remote rm <원격 저장소 이름>
 
 <br>
 
-##### **원격 저장소와 추적 브랜치 동기화**
+### 원격 저장소와 추적 브랜치 동기화
 ```bash
 git remote prune <원격 저장소 이름>
 ```
@@ -185,13 +185,13 @@ git remote prune <원격 저장소 이름>
 
 ---
 
-#### <span style="color: brown">**원격 저장소와 작업하기**</span>
+## 원격 저장소와 작업하기
 <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-20-Transfering-commit-with-remote-repository/how-to-transfer-commit-between-local-repository-and-remote-repository.webp" title="Flow chart of data between local repository and remote repository" alt="Flow chart of data between local repository and remote repository">
 - 원격 저장소와 작업 시 데이터의 흐름도를 그려봤다. <span style="color: dodgerblue">**Local branch**</span>와 <span style="color: darkorange">**tracking branch**</span>는 이해를 도우려고 따로 작성했지만, 실제 존재하는 위치는 <span style="color: green">**local repository**</span> 안에 저장되어 있어서 **점선**으로 표시했다.
 
 <br>
 
-##### **원격 저장소에 전송하기**
+### 원격 저장소에 전송하기
 ```bash
 git push <원격 저장소 이름> <로컬 브랜치 이름>
 ```
@@ -297,7 +297,7 @@ git push --set-upstream <원격 저장소 이름> <로컬 브랜치 이름>
 
 <br>
 
-##### **원격 저장소에서 내려받기**
+### 원격 저장소에서 내려받기
 ```bash
 git pull <원격 저장소 이름> <로컬 브랜치 이름>
 ```
@@ -352,7 +352,7 @@ git pull --force <원격 저장소 이름> <로컬 브랜치 이름>
 
 <br>
 
-##### **원격 저장소에서 일단 가져오기**
+### 원격 저장소에서 일단 가져오기
 ```bash
 git fetch <원격 저장소 이름> <로컬 브랜치 이름>
 ```
@@ -392,7 +392,7 @@ git fetch --prune <원격 저장소 이름>
 
 <br>
 
-##### **가져온 데이터 수동으로 병합하기**
+### 가져온 데이터 수동으로 병합하기
 ```bash
 git merge <원격 저장소 이름/로컬 브랜치 이름>
 ```
@@ -410,7 +410,7 @@ git merge <원격 저장소 이름/로컬 브랜치 이름>
 
 ---
 
-#### <span style="color: brown">**협업할 때 작업 순서**</span>
+## 협업할 때 작업 순서
 <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-20-Transfering-commit-with-remote-repository/the-sequence-to-cooperate-to-work-in-one-branch.webp" title="The sequence to cooperate to work in one branch" alt="The sequence to cooperate to work in one branch">
 - 실제 협업에서는 각자 브랜치를 생성해서 따로 작업하고 pull request를 통해 병합할 가능성이 높으나 만약 하나의 브랜치에 여러 명이 작업할 경우를 가정해 보자.
 - 기본적으로 원격 저장소에는 다수의 개발자가 동시에 commit을 push 할 수 없다. 그러므로, 여러 명이 협력하여 개발할 때는 순차적으로 push를 진행해야 한다. 또한 <span style="color: #8D4801">**원격 저장소에 push 하기 위해서는 로컬 저장소를 최신 상태로 유지해야 한다.**</span> 만약 commit이 순차적이지 않을 경우에 Git은 push 명령어 실행을 거부한다. 로컬 저장소가 최신 상태에서만 push를 허용하는 것은 충돌을 최소화하기 위해서이다.
@@ -421,5 +421,5 @@ pull ⇒ write code ⇒ add ⇒ commit ⇒ pull ⇒ push
 
 ---
 
-#### 마무리하며...
+## 마무리하며...
 이번 포스트에서는 "나"만이 존재하는 로컬 환경을 벗어나 다른 개발자들과 협업이 가능한 원격 저장소를 생성하고 원격 저장소와 작업시 필수적인 명령어도 알아보았다. 첫 포스트부터 오늘까지 알아본 명령어들만 사용할 줄 알아도 이제 본인의 개발 이력 정도는 스스로 관리할 수 있을 정도의 수준이 되었다. 하지만 완벽하게 모든 버전관리 issue를 해결하기엔 아직 모자란다. 오늘 내용 중에서도 추적 브랜치, 태그 등 아직 모르는 내용들이 있을 수 있다. 천천히 전부 알아갈 예정이므로 초조할 필요 없다. 다음 포스트에서는 commit 못지않게 중요한 개념인 branch에 대해서 심층 탐구를 해보자.

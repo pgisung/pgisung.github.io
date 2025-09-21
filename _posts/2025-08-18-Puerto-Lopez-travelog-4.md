@@ -22,14 +22,14 @@ description: 2025.08.18 여행 마지막 날 푸에르토 로페스에서 키토
 
 ---
 
-#### <span style="color: #8D4801">**아침 산책**</span>
+## 아침 산책
 <span style="color: #8D4801">**여행과 이주의 차이는 귀가 여부에 달려있다**</span>고 했던가? 여행이 되려면 반드시 집으로 돌아가야 하는 날 아침이 밝았다. 숙소 앞에 동상 옆에서 정말 많은 분이 기념사진을 찍으셔서 뭔가 아침마다 루틴처럼 보러 나왔었는데 그것도 오늘이 마지막이다. 그래도 <span style="color: indianred">**마지막으로 마을 풍경을 눈에 담으려고 문을 나서**</span>본다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/puerto-lopez-tourist-pier-view-from-balcony.jpg" title="Puerto Lopez tourist pier view from balcony" alt="Puerto Lopez tourist pier view from balcony">
 </div>
 <br>
 
-##### **Encebollados de Brian 식당**
+### Encebollados de Brian 식당
 여행 첫날 친구와 Tia 슈퍼마켓에서 장보고 나오던 중 지나갔던 식당으로 <span style="color: #8D4801">**에콰도르 사람들이 아침으로 즐겨 먹는다는 Bolon**</span>이 메뉴에 있어서 한번 먹어보라고 친구가 추천해 줘서 떠나기 전에 방문해 보았다.
 
 가게에서 먹을 거 줄 사람을 찾는 고양이 식사 내내 간절한 눈빛을 보내왔다.
@@ -63,14 +63,14 @@ Bolon과 직접 타 먹는 설탕 커피의 가격은 <span style="color: indian
 
 ---
 
-#### <span style="color: #8D4801">**버스 타고 만타로 이동**</span>
+## 버스 타고 만타로 이동
 숙소로 이동할 때도 그러했듯이 <span style="color: #8D4801">**도로에 많이 보이는 툭툭이**</span>를 잡아타고 버스 정류장을 향했다. 올 때 탑승했던 툭툭이보다 <span style="color: #8D4801">**갈 때 탑승했던 툭툭이가 뭔가 좌석도 넓고 바람도 잘 막아주고 쾌적**</span>해서 좋았다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/blogger-on-the-tuktuk.jpg" title="Blogger on the Tuktuk" alt="Blogger on the Tuktuk">
 </div>
 <br>
 
-##### **푸에르토 로페스 지상 터미널**
+### 푸에르토 로페스 지상 터미널
 만타에서와 다르게 푸에르토 로페스의 버스정류장은 작아서 금방 우리가 타고 왔던 버스 회사인 <span style="color: #8D4801">**Manglaralto**</span>를 찾을 수 있었다. 또한 <span style="color: indianred">**화장실도 돈을 지불해야 들어갈 수 있게 지키고 있었는데 그리 깨끗해 보이지도 않았다**</span>.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/puerto-lopez-terrestrial-terminal.jpg" title="Puerto Lopez terrestrial terminal" alt="Puerto Lopez terrestrial terminal">
@@ -111,8 +111,8 @@ Bolon과 직접 타 먹는 설탕 커피의 가격은 <span style="color: indian
 
 ---
 
-#### <span style="color: #8D4801">**비행기 타고 키토 복귀**</span>
-##### **엘로이 알파로 국제공항**
+## 비행기 타고 키토 복귀
+### 엘로이 알파로 국제공항
 매우 작고 평일이라서 더욱 사람도 많이 없던 만타 공항. <span style="color: #8D4801">**규모가 작아서 그런지 비행기별로 탑승구가 따로 존재하지도 않고**</span> 그냥 다 이곳에서 출발하는 것 같았다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/departure-hall-in-manta-airport-1.jpg" title="Departure hall in Manta airport" alt="Departure hall in Manta airport">
@@ -140,7 +140,7 @@ Bolon과 직접 타 먹는 설탕 커피의 가격은 <span style="color: indian
 </div>
 <br>
 
-##### **마리스칼 수크레 국제공항**
+### 마리스칼 수크레 국제공항
 
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.808942339798!2d-78.36056839999999!3d-0.12422709999999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d58db4352baa87%3A0x2f9f7623e0894b8b!2z66eI66as7Iqk7Lm8IOyImO2BrOugiCDqta3soJzqs7Xtla0!5e0!3m2!1sko!2sec!4v1755779329466!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
@@ -163,7 +163,7 @@ Bolon과 직접 타 먹는 설탕 커피의 가격은 <span style="color: indian
 </div>
 <br>
 
-##### **Kobe 식당**
+### Kobe 식당
 우버를 타고 귀가해서 여행 여독을 풀다가 <span style="color: #8D4801">**저녁은 캘리포니아 롤**</span> 배달을 시켜 먹기로 했다. 근데 배달도 늦게 오고 내용물도 난리...
 
 아무튼 메뉴를 고르던 중에 뭔가 10롤은 적어 보여서 25롤짜리를 주문했는데 진짜 딱 10롤 먹고도 이미 포만감이 오기 시작해서 아차 싶었지만 결국 다 먹긴 했다. (따로 담긴 나초는 배불러서 다음 날 아침에 먹었다) <span style="color: #8D4801">**다음번에 주문하게 된다면 15롤이 적당**</span>할 것 같다.
@@ -179,13 +179,13 @@ Bolon과 직접 타 먹는 설탕 커피의 가격은 <span style="color: indian
 
 ---
 
-#### <span style="color: #8D4801">**여행 경로**</span>
+## 여행 경로
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m58!1m12!1m3!1d2282370.481319756!2d-79.60148413561984!3d-0.16207560126639642!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m43!3e0!4m5!1s0x902e9f3524423219%3A0xa7fdda1621f08bc6!2sCoffee%20One%20Dolar!3m2!1d-1.5614697!2d-80.8147219!4m5!1s0x902e9f1eeb0b6c13%3A0xf54e1e7e54eb489e!2sC5RQ%2BQV8%20Encebollados%20de%20Brian%2C%20Puerto%20L%C3%B3pez!3m2!1d-1.5580756!2d-80.81030009999999!4m5!1s0x902c208776215975%3A0x7272c8c8a037bf72!2sTerminal%20Terrestre%20Puerto%20Lopez%2C%20Puerto%20Lopez!3m2!1d-1.5404421!2d-80.8018603!4m5!1s0x902be46128632d43%3A0x6cab71ffb74e5353!2sPETROECUADOR%20Gasolinera%20Jose%20Antonio%2C%20%EB%A7%8C%ED%83%80!3m2!1d-1.0027336!2d-80.7021817!4m5!1s0x902be6f60633c6ed%3A0x1260e2f387f7d729!2sEloy%20Alfaro%20International%20Airport%20(MEC)%2C%20%EB%A7%8C%ED%83%80!3m2!1d-0.9533834!2d-80.6838714!4m5!1s0x91d58db4352baa87%3A0x2f9f7623e0894b8b!2z7YKk7YagIOuniOumrOyKpOy5vCDsiJjtgazroIgg6rWt7KCc6rO17ZWt!3m2!1d-0.1242271!2d-78.36056839999999!4m5!1s0x91d59a85d978be5b%3A0x983383de2b51af58!2sKOBE%20sushi%20%26%20rolls%20-%20C.%20C.%20I.%2C%20Centro%20Comercial%2C%20y%2C%20%ED%82%A4%ED%86%A0!3m2!1d-0.1770404!2d-78.485017!5e0!3m2!1sko!2sec!4v1757350745188!5m2!1sko!2sec"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---
 
-#### <span style="color: #8D4801">**여행 경비**</span>
+## 여행 경비
 경비는 <span style="color: indianred">**2인 기준**</span>이다.
 
 | 2025.08.18 | 현지 통화 | 원화 |

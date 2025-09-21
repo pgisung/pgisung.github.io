@@ -34,9 +34,9 @@ description: Windows / Mac 환경에서 Git 설치 및 환경설정을 해보자
 
 ---
 
-#### <span style="color: brown">**Windows 환경에서 Git 설치 방법**</span>
+## Windows 환경에서 Git 설치 방법
 일단 Git을 시작하기 위해 설치해 보자.
-##### **설치 파일 다운로드**
+### 설치 파일 다운로드
 1. 먼저 Git 공식 웹사이트([https://git-scm.com][git-official-website-link])에 접속한다.
 <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-official-website-1.jpg" title="Git official website" alt="Git official website" width="60%">
 
@@ -45,7 +45,7 @@ description: Windows / Mac 환경에서 Git 설치 및 환경설정을 해보자
 
 <br>
 
-##### **설치**
+### 설치
 다음으로 다운받은 설치파일을 실행하여 설치를 진행한다. 아래는 간단한 설명을 붙인 설치 과정이다.
 
 1. GNU 오픈 소스 라이선스 관련 약관이다. 동의한다면 Next를 누르고 진행한다.
@@ -106,7 +106,7 @@ description: Windows / Mac 환경에서 Git 설치 및 환경설정을 해보자
 
 <br>
 
-##### **설치 확인**
+### 설치 확인
 정상적으로 설치가 완료되었는지 확인을 해보자. 시작메뉴에 Git Bash를 포함한 프로그램들이 설치되었음을 확인할 수 있다. 이제 Git을 시작할 준비가 되었다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/checking-successful-install.jpg" title="Files about Git" alt="Files about Git">
@@ -114,9 +114,9 @@ description: Windows / Mac 환경에서 Git 설치 및 환경설정을 해보자
 
 ---
 
-#### <span style="color: brown">**Mac 환경에서 Git 설치 방법**</span>
+## Mac 환경에서 Git 설치 방법
 
-##### **Homebrew 설치**
+### Homebrew 설치
 이미 Homebrew가 설치되어 있다면 이 과정을 생략한다.
 
 - 먼저 MacOs용 패키지 관리 앱 Homebrew 공식 웹사이트([https://brew.sh][homebrew-official-website-link])에 접속하면 확인할 수 있는 설치 명령어를 버튼을 눌러 복사한다.
@@ -136,7 +136,7 @@ brew --version
 
 <br>
 
-##### **Git 설치**
+### Git 설치
 MacOs에서의 Git 설치는 Windows와 비교했을 때 매우 간단하다.
 
 - 아래의 명령어를 실행하면 설치가 진행된다.
@@ -153,10 +153,10 @@ git --version
 
 ---
 
-#### <span style="color: brown">**Git 입문하기**</span>
+## Git 입문하기
 자 이제 설치는 끝났고 본격적으로 Git을 시작해 보자.
 
-##### **Git 명령 구조**
+### Git 명령 구조
 - Git의 기본적인 명령 구조는 다음과 같다.
 ```bash
 git <명령어> <옵션>
@@ -175,7 +175,7 @@ git add .; git commit -m "[Chore] learning git"; git push origin main
 
 <br>
 
-##### **명령어 옵션의 종류**
+### 명령어 옵션의 종류
 - <span style="color: #8D4801">**생략된 옵션**</span>
 - <span style="color: #8D4801">**'-' : 짧은 옵션**</span>
 - <span style="color: #8D4801">**'-&nbsp;-' : 긴 옵션**</span>
@@ -191,7 +191,7 @@ git <명령어> --help-option
 
 ---
 
-#### <span style="color: brown">**Git 환경설정**</span>
+## Git 환경설정
 ```bash
 git config <환경변수> <"설정값">
 ```
@@ -212,7 +212,7 @@ git config <환경변수> <"설정값">
 
 <br>
 
-##### **환경변수 추가**
+### 환경변수 추가
 새로운 환경변수를 <span style="color: #8D4801">**추가**</span>하기 위해서 add 옵션을 사용한다.
 ```bash
 git config --add <새로운 환경변수> <"설정값">
@@ -228,7 +228,7 @@ git config --add <새로운 환경변수> <"설정값">
 
 <br>
 
-##### **환경변수 삭제**
+### 환경변수 삭제
 기존에 설정되어 있던 특정 환경변수를 <span style="color: #8D4801">**삭제**</span>하기 위해서 unset 옵션을 사용한다.
 ```bash
 git config --unset <환경변수>
@@ -238,7 +238,7 @@ git config --unset <환경변수>
 
 <br>
 
-##### **환경변수 목록**
+### 환경변수 목록
 설정값에 대한 수정이 제대로 완료되었는지 <span style="color: #8D4801">**리스트로 확인**</span>해 볼 수 있다. 전체 설정값이 목록으로 표시된다.
 ```bash
 git config --list
@@ -248,7 +248,7 @@ git config --list
 
 <br>
 
-##### **전역 환경설정 옵션**
+### 전역 환경설정 옵션
 ```bash
 git config --global <환경변수> <"설정값">
 ```
@@ -258,7 +258,7 @@ git config --global <환경변수> <"설정값">
 
 <br>
 
-##### **사용자 등록**
+### 사용자 등록
 ```bash
 git config user.name <"사용자 이름">
 git config user.email <"사용자 이메일">
@@ -273,7 +273,7 @@ git config --global user.email <"사용자 이메일">
   
 <br>
 
-##### **Commit 템플릿 설정**
+### Commit 템플릿 설정
 ```bash
 git config --global commit.template <템플릿 파일 경로>
 ```
@@ -282,7 +282,7 @@ git config --global commit.template <템플릿 파일 경로>
 
 <br>
 
-##### **Git 색상 출력 자동 설정**
+### Git 색상 출력 자동 설정
 Git이 자동으로 <span style="color: #8D4801">**색상 출력을 사용**</span>하도록 설정한다. 이 값은 터미널이 색상 출력을 지원하는 경우에만 색상을 사용할 수 있다.
 ```bash
 git config --global color.ui auto
@@ -290,7 +290,7 @@ git config --global color.ui auto
 
 <br>
 
-##### **자격 증명 캐시**
+### 자격 증명 캐시
 <span style="color: #8D4801">**자격 증명을 캐시**</span>하는 데 사용되는 도구를 설정한다. 사용자가 반복적인 로그인을 피할 수 있도록 도와준다.
 ```bash
 git config --global credential.helper cache
@@ -304,7 +304,7 @@ git config --global credential.helper "cache --timeout=3600"
   
 <br>
 
-##### **Pull 명령 기본값**
+### Pull 명령 기본값
 <span style="color: #8D4801">**git pull 명령을 실행할 때 rebase**</span>를 사용하지 않고 바로 merge를 수행하도록 지정한다. **위의 Windows 환경에서 Git 설치 과정 중** [**12번 과정**](#git-setup-12 "Navigate to 12th Process to install Git for Windows")**과 동일한 환경변수이다.**
 ```bash
 git config --global pull.rebase false
@@ -312,7 +312,7 @@ git config --global pull.rebase false
 
 <br>
 
-##### **Branch 이름 기본값**
+### Branch 이름 기본값
 git 저장소를 초기화할 때 <span style="color: #8D4801">**브랜치의 기본명칭**</span>을 설정할 수 있다. (기본값은 master이다.) **위의 Windows 환경에서 Git 설치 과정 중** [**6번 과정**](#git-setup-6 "Navigate to 6th Process to install Git for Windows")**과 동일한 환경변수이다.**
 ```bash
 git config --global init.defaultBranch <원하는 브랜치 이름 기본값>
@@ -320,7 +320,7 @@ git config --global init.defaultBranch <원하는 브랜치 이름 기본값>
 
 <br>
 
-##### **Git의 코어 에디터 설정**
+### Git의 코어 에디터 설정
 <span style="color: #8D4801" id="git-config-core-editor">**commit 메시지를 작성**</span>할 때 vim 이외의 <span style="color: #8D4801">**다른 에디터**</span>를 설정할 수 있다.
 ```bash
 git config --global core.editor <에디터 경로>
@@ -328,7 +328,7 @@ git config --global core.editor <에디터 경로>
 
 <br>
 
-##### **단축 명령어 설정**
+### 단축 명령어 설정
 ```bash
 git config --global <alias.원하는명령어> <"명령어 옵션1 옵션2 ...">
 ```
@@ -336,7 +336,7 @@ git config --global <alias.원하는명령어> <"명령어 옵션1 옵션2 ...">
 
 ---
 
-#### 마무리하며...
+## 마무리하며...
 이번 포스트에서는 함께 Git을 설치해 보고 어떤 명령어들과 옵션들이 존재하는지 확인해 보았다. 또한 간단한 환경설정을 함께 진행해 보았으며 로컬과 전역 환경설정의 차이점에 대해서 알아보았다. 다음 포스트에서는 터미널 환경에서 Git 사용 시 필수적인 터미널 명령어들에 대해서 알아보자.
 
 [git-official-website-link]: https://git-scm.com "Navigate to Git official website"

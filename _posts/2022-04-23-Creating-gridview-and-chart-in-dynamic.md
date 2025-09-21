@@ -24,19 +24,19 @@ permalink: /csharp/:year/:month/:day/:title/
 
 ---
 
-#### <span style="color: brown">**작성 동기**</span>
+## 작성 동기
 담당자로부터 이 기능의 추가를 요청받았을 때 들었던 말은, 사실은 이 기능이 <span style="color: #8D4801">**이미 예전부터 우리 프로그램의 사양에 포함**</span>되어 있었다는 것이었다. 하지만, 하나의 앱을 개발하고 꾸준히 유지보수하며 서비스하는 게 아니라 매번 새로운 시스템에 통합될 프로젝트를 새로 생성하는 회사의 특성상 중간에 포함되었던 사양이 누락되고 존재하던 코드가 사라지는 것은 크게 이상한 것도 아니었다. 그래서 <span style="color: #8D4801">**이왕에 다시 작성하게 된 것 혹시나 다음에 재사용될 것을 염두에 두고 시작**</span>했던 것 같다.
 
 ---
 
-#### <span style="color: brown">**문제 인식**</span>
+## 문제 인식
 과거에 구현되어 있던 통계 그리드뷰는 <span style="color: #8D4801">**정적**</span>으로 구현되어 해당 프로젝트의 한정적인 요소들에 대해서만 평균, 표준편차, 공정능력지수를 계산할 수 있게 되어있었으며, 원하지 않는 데이터만 제외한다거나 하는 일체의 <span style="color: #8D4801">**상호작용이 불가능**</span>했었다. 하지만 이런 식으로 그대로 구현해 놓으면 다음 프로젝트를 진행할 때 그리고, 새로운 프로젝트를 시작할 때마다 <span style="color: #8D4801">**반드시**</span> 다시 전체적인 수정이 불가피하다고 판단했고, 가능한 함수만 그대로 복사 붙여넣기 하고 아주 약간의 수정만으로 재사용할 수 있도록 구현하는 데 초점을 맞췄다.
 
 ---
 
-#### <span style="color: brown">**테이블에 발생할 수 있는 이벤트를 확인하자**</span>
+## 테이블에 발생할 수 있는 이벤트를 확인하자
 이벤트 함수 대리자로 실행할 아래의 함수들은 <span style="color: #8D4801">**Form designer 화면(View)에서 테이블의 이벤트에 직접 연결**</span>하여도 되고 <span style="color: #8D4801">**Form class(View controller) 안에서 수동으로 delegate를 연결**</span>하여도 된다.
-##### **CellMouseClick 이벤트**
+### CellMouseClick 이벤트
 <center>
   <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2022-04-23-Creating-gridview-and-chart-in-dynamic/cell-mouse-click-event.gif" title="Reference of CellMouseClick event" alt="Reference of CellMouseClick event">
 </center>
@@ -63,7 +63,7 @@ private void GridViewList_CellMouseClick( object sender, DataGridViewCellMouseEv
 
 <br>
 
-##### **KeyDown & KeyUp 이벤트**
+### KeyDown & KeyUp 이벤트
 <center>
   <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2022-04-23-Creating-gridview-and-chart-in-dynamic/key-down-up-event.gif" title="Reference of KeyDown and KeyUp event" alt="Reference of KeyDown and KeyUp event">
 </center>
@@ -112,7 +112,7 @@ private void GridViewList_KeyUp( object sender, KeyEventArgs e )
 
 <br>
 
-##### **SelectionChanged 이벤트**
+### SelectionChanged 이벤트
 <center>
   <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2022-04-23-Creating-gridview-and-chart-in-dynamic/selection-changed-event.gif" title="Reference of SelectionChanged event" alt="Reference of SelectionChanged event">
 </center>
@@ -135,8 +135,8 @@ private void GridViewList_SelectionChanged( object sender, EventArgs e )
 
 ---
 
-#### <span style="color: brown">**실행될 함수를 구현하자**</span>
-##### **차트를 갱신해 보자**
+## 실행될 함수를 구현하자
+### 차트를 갱신해 보자
 - <span style="color: #8D4801">**차트 초기화**</span>
 ```c#
 private bool InitializeChart( Chart objChart )
@@ -531,7 +531,7 @@ private void UpdateChartByMultiSelection( object sender )
 
 <br>
 
-##### **그리드뷰를 갱신해 보자**
+### 그리드뷰를 갱신해 보자
 - <span style="color: #8D4801">**열거형 멤버 변수 선언**</span>
 ```c#
 private enum enumGridViewStatisticsColumn
@@ -760,20 +760,20 @@ private double GetCalculateStandardDeviation( IEnumerable<double> dValueSet )
 
 ---
 
-#### <span style="color: brown">**결과를 확인해 보자**</span>
-##### **단일 시리즈 동작**
+## 결과를 확인해 보자
+### 단일 시리즈 동작
 <center>
   <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2022-04-23-Creating-gridview-and-chart-in-dynamic/single-series-chart-and-gridview.gif" title="Example of single series action" alt="Example of single series action">
 </center>
 
 <br>
 
-##### **다중 시리즈 동작**
+### 다중 시리즈 동작
 <center>
   <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2022-04-23-Creating-gridview-and-chart-in-dynamic/multi-series-chart-and-gridview.gif" title="Example of multi series action" alt="Example of multi series action">
 </center>
 
 ---
 
-#### 마무리하며...
+## 마무리하며...
 이번 포스트에서는 그리드뷰 및 차트를 테이블에서 발생하는 이벤트를 기반으로 동적으로 생성해 보았다. 글의 시작에서는 동적, 재사용성을 강조했지만, 막상 이해하기 어렵거나 비효율적으로 짜인 코드가 있을 수도 있다. 하지만 그저 이런저런 시도를 하는 것을 좋아하는 후배 개발자의 귀여운 시도로 봐주셨으면 좋겠다.

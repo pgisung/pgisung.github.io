@@ -26,7 +26,7 @@ description: 작업 영역의 변경 사항을 스택에 임시 저장하고 다
 
 ---
 
-#### 들어가기 전에
+## 들어가기 전에
 ```bash
 git commit --allow-empty-message -m ""
 
@@ -50,12 +50,12 @@ Stash란 안전한 곳에 넣어 둔다는 의미를 지닌다. Git에서 작업
 
 ---
 
-#### <span style="color: brown">**Stash 스택에 저장하기**</span>
+## Stash 스택에 저장하기
 <center><img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-10-12-Temporary-saving-of-working-status-to-stack/diagram-git-command-stash.webp" title="Diagram showing flow of git command stash" alt="Diagram showing flow of git command stash"></center>
 
 <br>
 
-##### **저장 명령어**
+### 저장 명령어
 ```bash
 git stash
 ```
@@ -75,7 +75,7 @@ git stash save
 
 <br>
 
-##### **Stash 메시지 남기기**
+### Stash 메시지 남기기
 ```bash
 git stash save <"stash 메시지">
 ```
@@ -92,7 +92,7 @@ git stash save <"stash 메시지">
 
 <br>
 
-##### **특정 파일들을 선별하여 stash 실행하기**
+### 특정 파일들을 선별하여 stash 실행하기
 ```bash
 git stash -k
 ```
@@ -131,8 +131,8 @@ git stash --include-untracked
 
 ---
 
-#### <span style="color: brown">**Stash 스택 확인하기**</span>
-##### **Stash 목록 확인하기**
+## Stash 스택 확인하기
+### Stash 목록 확인하기
 ```bash
 git stash list
 ```
@@ -143,7 +143,7 @@ git stash list
 
 <br>
 
-##### **작업 영역과 stash 사이의 차이점 비교 명령어**
+### 작업 영역과 stash 사이의 차이점 비교 명령어
 ```bash
 git stash show
 ```
@@ -163,8 +163,8 @@ git stash show --patch stash@{<목록 번호>}
 
 ---
 
-#### <span style="color: brown">**Stash 스택에서 작업 꺼내기**</span>
-##### **저장된 작업 꺼내기**
+## Stash 스택에서 작업 꺼내기
+### 저장된 작업 꺼내기
 <center><img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-10-12-Temporary-saving-of-working-status-to-stack/diagram-git-command-stash-pop.webp" title="Diagram showing flow of git command stash pop" alt="Diagram showing flow of git command stash pop"></center>
 ```bash
 git stash pop
@@ -198,7 +198,7 @@ git stash pop --index
 
 <br>
 
-##### **새로운 브랜치 생성하면서 저장된 작업 꺼내기**
+### 새로운 브랜치 생성하면서 저장된 작업 꺼내기
 앞에서 얘기했듯이 현재 작업 영역에 stash를 꺼낼 때 다른 변경 사항이 이미 존재할 수 있고 이에 따라 <span style="color: #8D4801">**자동으로 병합 중 conflict가 발생**</span>할 수 있는데 이런 경우 stash는 스택의 내용을 아직 삭제하지 않으며 수동으로 병합을 진행하거나 abort 하여 병합을 취소할 수 있다. 하지만 <span style="color: #8D4801">**일반적으로 commit을 생성하지 않고 stash로 보관했다는 뜻은 아직 코드 작성이 완료되지 않았음을 의미**</span>하므로 당장 수동 병합을 진행하여 commit을 생성하는 것은 뭔가 석연치 않다. 다음의 명령어는 이런 상황에 권장하는 방법이다.
 <center><img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-10-12-Temporary-saving-of-working-status-to-stack/diagram-git-command-stash-branch.webp" title="Diagram showing flow of git command stash branch" alt="Diagram showing flow of git command stash branch"></center>
 ```bash
@@ -217,7 +217,7 @@ git stash branch <브랜치 이름>
 
 <br>
 
-##### **저장된 작업 불러오기**
+### 저장된 작업 불러오기
 <center><img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-10-12-Temporary-saving-of-working-status-to-stack/diagram-git-command-stash-apply.webp" title="Diagram showing flow of git command stash apply" alt="Diagram showing flow of git command stash apply"></center>
 ```bash
 git stash apply
@@ -251,8 +251,8 @@ git stash apply stash@{<목록 번호>}
 
 ---
 
-#### <span style="color: brown">**Stash 삭제하기**</span>
-##### **Stash 하나 삭제하기**
+## Stash 삭제하기
+### Stash 하나 삭제하기
 <center><img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-10-12-Temporary-saving-of-working-status-to-stack/diagram-git-command-stash-drop.webp" title="Diagram showing flow of git command stash drop" alt="Diagram showing flow of git command stash drop" width="70%"></center>
 ```bash
 git stash drop
@@ -270,7 +270,7 @@ git stash drop
 
 <br>
 
-##### **모든 stash 삭제하기**
+### 모든 stash 삭제하기
 <center><img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-10-12-Temporary-saving-of-working-status-to-stack/diagram-git-command-stash-clear.webp" title="Diagram showing flow of git command stash clear" alt="Diagram showing flow of git command stash clear" width="70%"></center>
 ```bash
 git stash clear
@@ -285,7 +285,7 @@ git stash clear
 
 ---
 
-#### <span style="color: brown">**작업 영역 정리하기**</span>
+## 작업 영역 정리하기
 <center><img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-10-12-Temporary-saving-of-working-status-to-stack/diagram-git-command-clean.webp" title="Diagram showing flow of git command clean" alt="Diagram showing flow of git command clean" width="50%"></center>
 ```bash
 git clean
@@ -341,5 +341,5 @@ git clean -X
 
 ---
 
-#### 마무리하며...
+## 마무리하며...
 이번 포스트에서는 stash 스택을 이용하여 작업 변경 사항을 보관하고 다시 찾아도 보고 정리도 해보며 작업 영역의 관리 방법에 대하여 알아보았다. 이는 다수의 branch를 가진 프로젝트에서 협업할 때 자주 쓰일 수밖에 없는 명령어이므로 알아두면 좋다. 다음 포스트에서는 병합과 리베이스에 관하여 알아보자.

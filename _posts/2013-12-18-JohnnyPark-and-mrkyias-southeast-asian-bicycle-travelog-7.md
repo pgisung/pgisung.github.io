@@ -20,7 +20,7 @@ description: 2013.12.18 말레이시아 겔랑 파타에서 폰티안까지 이�
 
 ---
 
-#### <span style="color: #8D4801">**아침 라이딩**</span>
+## 아침 라이딩
 오늘 라이딩은 <span style="color: #8D4801">**짧은 일정**</span>이었다. 뷔페식으로 갖은 반찬이 있는 식당에서 브런치를 먹고 출발
 
 <span style="color: indianred">**아이스티를 마시기 위해 잠시 들렀던 주유소**</span>에서 편의점 직원과 찍었던 사진
@@ -73,19 +73,19 @@ description: 2013.12.18 말레이시아 겔랑 파타에서 폰티안까지 이�
 
 ---
 
-#### <span style="color: #8D4801">**폰티안**</span>
+## 폰티안
 도착 기념 샷. 폰티안은 <span style="color: indianred">**바다가 보이는 분위기가 고요한 도시**</span>였다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-18-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-7/blogger-and-friend.jpg" title="Blogger and friend" alt="Blogger and friend">
 </div>
 <br>
 
-##### **원더풀 호텔**
+### 원더풀 호텔
 바다가 보여서 신나는 마음에 도착하자마자 근처의 호텔에 들어가 바로 체크인했다.
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d498.56128387481016!2d103.38821317644421!3d1.4783600683727665!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31d0a29ddd434639%3A0xa1e6a72684455567!2zR0YgV29uZGVyZnVsIEhvdGVsIOS4h-W-l-emj-aXheW6lw!5e0!3m2!1sko!2sec!4v1757605655062!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
-##### **알리프 식당**
+### 알리프 식당
 숙소에서 씻고 쉬다가 저녁을 먹기 위해서 근처 식당을 방문했다. <span style="color: #8D4801">**말레이시아 식당들은 항상 음식을 시키면 음료수 주문을 물어와서**</span> 당시에는 음료 주문을 강요하는 듯해서 불쾌하게 생각했었는데, 사실 국가에 상관없이 많은 식당에서 음료를 물어온다는 것을 알게 된 이후로는 긍정적으로 생각하려고 하게 되었다. 관점에 따라 손님을 생각해서 음료 주문 여부를 묻기도 한다는 것이다.
 
 어쨌든 식사를 주문하고 기다리는데 <span style="color: indianred">**갑자기 시키지도 않은 Aliff special이라는 15링겟짜리 메뉴**</span>를 주면서 우리가 그 메뉴를 시켰다고 직원이 우기기 시작했다. 매우 불쾌했지만, 여행에서 괜히 문제를 키우기 싫어서 그냥 먹었는데 <span style="color: #8D4801">**비싸면서 심지어 맛도 없었다**</span>. 이후로 메뉴 주문할 때 직원에게 정확한 메뉴를 두 번 이상 재확인하는 습관이 들었었다.
@@ -96,7 +96,7 @@ description: 2013.12.18 말레이시아 겔랑 파타에서 폰티안까지 이�
 </div>
 <br>
 
-##### **폰티안 케실 공원**
+### 폰티안 케실 공원
 저녁 먹고 소화도 시킬 겸 <span style="color: #8D4801">**바다를 보러 나왔다**</span>.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-18-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-7/pontian-kecil-park.jpg" title="Pontian Kecil Park" alt="Pontian Kecil Park">
@@ -121,7 +121,7 @@ description: 2013.12.18 말레이시아 겔랑 파타에서 폰티안까지 이�
 
 <br>
 
-##### **편의점 야식 타임**
+### 편의점 야식 타임
 저녁 식당에서 기분이 안 좋았기에 야식으로 맛있는 음식을 먹자며 숙소를 나섰는데, 저녁 시간에 케실 공원에서 본 먹구름들이 이제서야 활동을 시작했는지 <span style="color: #8D4801">**천둥번개를 동반한 비가 억수로 쏟아져서**</span> 멀리 이동하는 것은 포기하고 <span style="color: indianred">**호텔 옆 편의점**</span>에 들어섰다.
 
 치안이 안 좋아서 그런 건지는 몰라도 말레이시아에서 방문하는 편의점마다 <span style="color: #8D4801">**항상 세 명 이상의 직원이 상주**</span>하는 것을 볼 수 있었다.
@@ -132,14 +132,14 @@ description: 2013.12.18 말레이시아 겔랑 파타에서 폰티안까지 이�
 
 ---
 
-#### <span style="color: #8D4801">**여행 경로**</span>
+## 여행 경로
 추정 주행 거리 : 약 <span style="color: indianred">**35km**</span>
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d127633.35937186616!2d103.36434357148434!3d1.4490078761867007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x31da0b1b56bb64f9%3A0x76999331119cf420!2zSG90ZWwgT3JpZW50LCA1LCBKYWxhbiBNZWRhbiBOdXNhIFBlcmludGlzIDcsIFRhbWFuIE51c2EgUGVyaW50aXMgMiwgODE1NTAgR2VsYW5nIFBhdGFoLCBKb2hvciwg66eQ66CI7J207Iuc7JWE!3m2!1d1.4504184999999998!2d103.59591449999999!4m5!1s0x31d0a29ddd434639%3A0xa1e6a72684455567!2zR0YgV29uZGVyZnVsIEhvdGVsIOS4h-W-l-emj-aXheW6lw!3m2!1d1.47836!2d103.3884168!5e0!3m2!1sko!2sec!4v1757605579942!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---
 
-#### <span style="color: #8D4801">**여행 경비**</span>
+## 여행 경비
 경비는 <span style="color: indianred">**2인 기준**</span>이다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-18-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-7/budget-book.jpg" title="Budget book" alt="Budget book">

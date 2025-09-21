@@ -18,7 +18,7 @@ description: 2025.08.19 에콰도르 키토에서 무료로 황열병 예방접�
 
 ---
 
-#### <span style="color: #8D4801">**황열병 예방접종**</span>
+## 황열병 예방접종
 금방 여행에서 복귀해서 그런지 갑자기 다음 여행을 서두르고 싶어졌다. 그래서 딱히 계획했던 것은 아니지만 <span style="color: indianred">**볼리비아 비자 취득을 위해서도 필요**</span>한 <span style="color: #8D4801">**황열병 예방접종을 맞으러 보건소에 방문**</span>했다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-19-Yellow-fever-vaccination-and-day-trip-to-old-town-in-quito/health-center-no-1-historical-center.jpg" title="Health center No.1 Historical center" alt="Health center No.1 Historical center">
@@ -60,7 +60,7 @@ description: 2025.08.19 에콰도르 키토에서 무료로 황열병 예방접�
 
 ---
 
-#### <span style="color: #8D4801">**파네치요의 성모상**</span>
+## 파네치요의 성모상
 접종을 마치고 나오는 길 <span style="color: #8D4801">**이왕 올드타운까지 왔는데 그냥 집에 돌아가기에는 아쉬워서 천천히 산책 중 눈에 들어온 성모상**</span>. 가까워 보이는데 여기까지 온 김에 다녀와야지 싶어서 성모상을 향해 걷기 시작했다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-19-Yellow-fever-vaccination-and-day-trip-to-old-town-in-quito/old-street-in-quito-1.jpg" title="The old street in Quito" alt="The old street in Quito">
@@ -156,7 +156,7 @@ description: 2025.08.19 에콰도르 키토에서 무료로 황열병 예방접�
 
 ---
 
-#### <span style="color: #8D4801">**키토 올드타운**</span>
+## 키토 올드타운
 성모상 구경을 마치고 하산하던 중. 무슨 건물인지는 모르겠지만 <span style="color: #8D4801">**성벽으로 둘러싸여**</span> 있다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-19-Yellow-fever-vaccination-and-day-trip-to-old-town-in-quito/old-town-view-3.jpg" title="The view of old town" alt="The view of old town">
@@ -222,7 +222,7 @@ description: 2025.08.19 에콰도르 키토에서 무료로 황열병 예방접�
 
 ---
 
-#### <span style="color: #8D4801">**독립 광장**</span>
+## 독립 광장
 <span style="color: #8D4801">**아름다웠던 독립 광장**</span> 걸어서 지나갈 때는 몰랐는데 옆에 대통령궁도 있었구나
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-19-Yellow-fever-vaccination-and-day-trip-to-old-town-in-quito/blogger-in-independence-square.jpg" title="Blogger in Independence square" alt="Blogger in Independence square">
@@ -253,13 +253,13 @@ description: 2025.08.19 에콰도르 키토에서 무료로 황열병 예방접�
 
 ---
 
-#### <span style="color: #8D4801">**여행 경로**</span>
+## 여행 경로
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d47001.822557559506!2d-78.5229786764282!3d-0.23001555213763308!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e0!4m5!1s0x91d59a85e62ca895%3A0x217098644d0182ff!2sCentro%20Comercial%20I%C3%B1aquito%20(CCI)!3m2!1d-0.1767993!2d-78.4850658!4m5!1s0x91d59986ce9fc975%3A0x2efbb6d53da8c834!2sQFGP%2BQ63%20Health%20Center%20No%201%20HISTORICAL%20CENTER%2C%20Quito%20170130!3m2!1d-0.2231066!2d-78.5144598!4m5!1s0x91d5990051e15f39%3A0x62512709ba9c92f4!2sCentro%20Cultural%20Olguita%20Rengifo%2C%20QFFM%2B26R%2C%20Gral.%20Melchor%20Aymerich%2C%20Quito%20170111!3m2!1d-0.2273989!2d-78.5169762!4m5!1s0x91d59982ce830869%3A0x52b4c746cac24eca!2sVirgin%20of%20the%20Panecillo%2C%20General%20Melchor%20Aymerich%2C%20%ED%82%A4%ED%86%A0!3m2!1d-0.22915839999999998!2d-78.518597!4m5!1s0x91d59987820f190f%3A0x294cb69e1f4ca35e!2sIndependence%20Square!3m2!1d-0.220124!2d-78.512081!5e0!3m2!1sko!2sec!4v1757350253825!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---
 
-#### <span style="color: #8D4801">**여행 경비**</span>
+## 여행 경비
 경비는 <span style="color: indianred">**1인 기준**</span>이다.
 
 | 2025.08.19 | 현지 통화 | 원화 |

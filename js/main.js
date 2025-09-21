@@ -79,7 +79,7 @@ $(function() {
         <a href="{url}" title="Navigate to {subject} post">
           <div class="template-box">
             <div class="template-image">
-              <img src="{img}" alt="{title} thumbnail">
+              <span class="img-icon" style="background-image: url('{img}');"></span>
             </div>
             <div class="template-info">
               <div>

@@ -23,8 +23,8 @@ description: 태그를 이용하여 프로젝트의 작업에 버전도 부여�
 
 ---
 
-#### <span style="color: brown">**태그로 버전 생성하기**</span>
-##### **버전이란?**
+## 태그로 버전 생성하기
+### 버전이란?
 버전은 <span style="color: #8D4801">**소프트웨어의 특정 시점을 식별**</span>하기 위해 숫자, 알파벳, 또는 기호의 조합으로 명명하는 식별자이다. 그중에 대표적으로 <span style="color: #8D4801">**세 자리 숫자 형태로 표기하는 SemVer 방식**</span>이 있다.
 <center><img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-10-23-Managing-project/reference-of-semantic-versioning.webp" title="Reference of semantic versioning" alt="Reference of semantic versioning"></center>
 
@@ -53,7 +53,7 @@ description: 태그를 이용하여 프로젝트의 작업에 버전도 부여�
 
 <br>
 
-##### **태그란?**
+### 태그란?
 Tag 단어는 꼬리표라는 뜻이 있다. 단어의 뜻과 같이 <span style="color: #8D4801">**Git의 tag란 특정 커밋의 해시값을 참조하는 꼬리표**</span>를 의미한다. Git의 tag에는 크게 [**Annotated 태그**](#annotated-tag "Navigate to Annotated tag")와 [**Lightweight 태그**](#lightweight-tag "Navigate to Lightweight tag") 두 가지 종류의 태그가 존재한다. 또한 <span style="color: indianred">**태그는 중복해서 생성할 수 없다. Git에 등록된 태그 이름은 유일해야 하며, 중복된 이름으로 태그 생성을 시도할 시 오류 메시지를 출력**</span>한다.
 
 <center><img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-10-23-Managing-project/tag-in-naver-dictionary.jpg" title="Definition of tag in Naver dictionary" alt="Definition of tag in Naver dictionary"></center>
@@ -191,8 +191,8 @@ git checkout <태그 이름>
 
 ---
 
-#### <span style="color: brown">**프로젝트 관리하기**</span>
-##### **이슈 발급하기**
+## 프로젝트 관리하기
+### 이슈 발급하기
 1. 먼저 해당 저장소의 Settings에서 Issues 기능이 활성화 되어있어야 한다.
 <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-10-23-Managing-project/creating-github-issue-1.jpg" title="Settings tab for the remote repository" alt="Settings tab for the remote repository">
 
@@ -213,7 +213,7 @@ git checkout <태그 이름>
 
 <br>
 
-##### **레이블로 이슈 분류하기**
+### 레이블로 이슈 분류하기
 1. 저장소의 Issues 탭으로 이동하여 Labels 버튼을 눌러서 Labels 관리 화면으로 이동한다.
 <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-10-23-Managing-project/issue-labeling-1.jpg" title="Issues tab for the remote repository" alt="Issues tab for the remote repository">
 
@@ -225,7 +225,7 @@ git checkout <태그 이름>
 
 <br>
 
-##### **마일스톤으로 진행도 관리하기**
+### 마일스톤으로 진행도 관리하기
 1. 저장소의 Issues 탭으로 이동하여 Milestones 버튼을 눌러서 Milestones 관리 화면으로 이동한다.
 <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-10-23-Managing-project/setting-milestone-1.jpg" title="Issues tab for the remote repository" alt="Issues tab for the remote repository">
 
@@ -243,7 +243,7 @@ git checkout <태그 이름>
 
 <br>
 
-##### **프로젝트 작업 흐름 관리하기**
+### 프로젝트 작업 흐름 관리하기
 1. 저장소의 Prpjects 탭으로 이동하여 New project 버튼을 눌러서 Project 생성 화면으로 이동한다.
 <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-10-23-Managing-project/managing-project-work-flow-1.jpg" title="Projects tab for the remote repository" alt="Projects tab for the remote repository">
 
@@ -258,8 +258,8 @@ git checkout <태그 이름>
 
 ---
 
-#### <span style="color: brown">**Pull request로 코드 리뷰 및 병합 요청하기**</span>
-##### **Pull request 생성하기**
+## Pull request로 코드 리뷰 및 병합 요청하기
+### Pull request 생성하기
 1. 저장소의 Pull requests 탭으로 이동하여 생성하고자 하는 브랜치의 pull request 버튼을 눌러서 진행한다. <span style="color: #8D4801">**이때 pull request하고자 하는 작업 내용들은 원격저장소에 전송되어 있어야 한다.**</span>
 <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-10-23-Managing-project/creating-pull-request-1.jpg" title="Pull requests tab for the remote repository" alt="Pull requests tab for the remote repository">
 
@@ -271,7 +271,7 @@ git checkout <태그 이름>
 
 <br>
 
-##### **코드 리뷰하기**
+### 코드 리뷰하기
 1. 저장소의 Pull requests 탭으로 이동하여 리뷰하고자 하는 pull request를 선택한다.
 <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-10-23-Managing-project/reviewing-code-1.jpg" title="Pull requests tab for the remote repository" alt="Pull requests tab for the remote repository">
 
@@ -283,7 +283,7 @@ git checkout <태그 이름>
 
 <br>
 
-##### **리뷰가 완료된 코드 병합하기**
+### 리뷰가 완료된 코드 병합하기
 1. 저장소의 Pull requests 탭으로 이동하여 병합하고자 하는 pull request를 선택한다. 보통은 저장소에 일정 이상의 권한을 가진 사람만이 PR을 병합할 수 있다.
 <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-10-23-Managing-project/merging-code-completed-reviewing-1.jpg" title="Pull requests tab for the remote repository" alt="Pull requests tab for the remote repository">
 
@@ -301,5 +301,5 @@ git checkout <태그 이름>
 
 ---
 
-#### 마무리하며...
+## 마무리하며...
 이번 포스트에서는 태그 기능을 이용하여 버전을 생성해 보고 Github의 Issue, Milestone, Project 기능을 이용하여 프로젝트 관리 방식을 알아보았으며, Pull request를 통한 협업 방식까지 진행해 보았다. 소프트웨어를 협업하여 개발할 때 수많은 크고 작은 문제들이 쌓이고 얽혀서 회복 불가능한 더 큰 문제를 야기시킬 수 있다. Github의 이러한 다양한 기능들을 이용하여 체계적으로 개발을 진행할 경우 이러한 문제들을 미연에 방지할 수 있다.

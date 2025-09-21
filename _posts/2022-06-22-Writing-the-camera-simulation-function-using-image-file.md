@@ -27,12 +27,12 @@ permalink: /csharp/:year/:month/:day/:title/
 
 ---
 
-#### <span style="color: brown">**작성 동기**</span>
+## 작성 동기
 한참 협력업체의 선임님과 마크 티칭을 하던 중에 떠오른 것이 현재 마크 셋업 화면에서 티칭이 완료된 마크의 검색 여부를 <span style="color: #8D4801">**단발적으로 확인**</span>은 가능하나 실제 생산이 진행될 때 <span style="color: #8D4801">**다양한 컨디션을 가진 다수의 자재를 대상으로 촬영**</span>할 때 NG가 날지 안 날지는 당장 확인을 해볼 수 없어서 확신을 가질 수 없었다. 또한 항상 실제 생산으로만 마크를 검증한다는 것도 매우 모순적이고 비효율적이라고 생각했다. 이때 저장소에는 <span style="color: #8D4801">**과거에 촬영했던 이미지들이 다수 저장**</span>되어 있다는 것에 생각이 닿았고 이를 이용한다면 마치 <span style="color: #8D4801">**생산을 진행하는 것처럼 흉내를 내 검색 여부를 확인**</span>할 수 있다고 생각했다.
 
 ---
 
-#### <span style="color: brown">**기능 구상**</span>
+## 기능 구상
 1. 반복하여 촬영해야 하므로 <span style="color: #8D4801">**반복 횟수**</span>의 설정과 촬영마다 <span style="color: #8D4801">**지연시간**</span>의 설정이 가능하게 해야 하므로 NumericUpDown 컨트롤을 통해 값을 설정한다.
 2. 카메라가 여러 개이고 각각의 카메라에 대한 이미지가 저장되므로 <span style="color: #8D4801">**카메라별로 불러올 디렉토리를 선택**</span>할 수 있어야 하므로 Combobox 또는 Checkbox를 통해 카메라를 설정하고 버튼에 이미지 불러오기 기능을 추가한다.
 3. <span style="color: #8D4801">**생산 모드**</span>에서는 실행돼선 안 되며 실행 중이었다면 <span style="color: #8D4801">**중지**</span>되어야 하므로 Bool 타입의 플래그를 추가하여 Thread를 제어한다.
@@ -40,8 +40,8 @@ permalink: /csharp/:year/:month/:day/:title/
 
 ---
 
-#### <span style="color: brown">**발생할 수 있는 사용자 이벤트를 확인하자**</span>
-##### **CheckedChanged 이벤트**
+## 발생할 수 있는 사용자 이벤트를 확인하자
+### CheckedChanged 이벤트
 <center>
   <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2022-06-22-Writing-the-camera-simulation-function-using-image-file/checked-changed-event.gif" title="Reference of CheckedChanged event" alt="Reference of CheckedChanged event">
 </center>
@@ -76,7 +76,7 @@ private void checkBoxCamera1_CheckedChanged( object sender, EventArgs e )
 
 <br>
 
-##### **Load image button Click 이벤트**
+### Load image button Click 이벤트
 <center>
   <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2022-06-22-Writing-the-camera-simulation-function-using-image-file/load-image-button-click-event.gif" title="Reference of Load image button Click event" alt="Reference of Load image button Click event">
 </center>
@@ -179,7 +179,7 @@ private IEnumerable<System.IO.FileInfo> GetFiles( string path )
 
 <br>
 
-##### **ValueChanged 이벤트**
+### ValueChanged 이벤트
 <center>
   <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2022-06-22-Writing-the-camera-simulation-function-using-image-file/value-changed-event.gif" title="Reference of ValueChanged event" alt="Reference of ValueChanged event">
 </center>
@@ -214,7 +214,7 @@ private void numericSearchCount_ValueChanged( object sender, EventArgs e )
 
 <br>
 
-##### **검색 시작 및 정지 button의 Click 이벤트**
+### 검색 시작 및 정지 button의 Click 이벤트
 <center>
   <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2022-06-22-Writing-the-camera-simulation-function-using-image-file/search-start-stop-button-click-event.gif" title="Reference of Search start button and Search stop button Click event" alt="Reference of Search start button and Search stop button Click event">
 </center>
@@ -243,7 +243,7 @@ private void BtnSearchStop_Click( object sender, EventArgs e )
 
 <br>
 
-##### **Tick 이벤트**
+### Tick 이벤트
 - 설정한 지연시간마다 이벤트를 발생시키는 Timer의 tick 이벤트를 이용하여 Form에 변화된 Control의 상태를 표시한다. 
 ```c#
 private void timer_Tick( object sender, EventArgs e )
@@ -298,8 +298,8 @@ private void UpdateDisplaySearchOption()
 
 ---
 
-#### <span style="color: brown">**실행될 함수를 구현하자**</span>
-##### **멤버 변수 선언**
+## 실행될 함수를 구현하자
+### 멤버 변수 선언
 ```c#
 // 스레드 종료 플래그
 private bool m_bThreadExit;
@@ -323,7 +323,7 @@ private Thread m_ThreadSearch;
 
 <br>
 
-##### **Form load시 초기화 함수**
+### Form load시 초기화 함수
 ```c#	
 private bool InitializeForm()
 {
@@ -366,7 +366,7 @@ private bool InitializeForm()
 
 <br>
 
-##### **검색 함수**
+### 검색 함수
 ```c#
 private void DoProcessSearch()
 {
@@ -428,7 +428,7 @@ private void DoProcessSearch()
 
 <br>
 
-##### **스레드 함수**
+### 스레드 함수
 ```c#
 private static void ThreadSearch( object state )
 {
@@ -449,7 +449,7 @@ private static void ThreadSearch( object state )
 
 ---
 
-#### <span style="color: brown">**결과를 확인해 보자**</span>
+## 결과를 확인해 보자
 실제 자재 이미지를 사용할 수는 없으므로 <span style="color: #8D4801">**예시 이미지를 사용하여 시뮬레이션**</span> 해보았다.
 <center>
   <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2022-06-22-Writing-the-camera-simulation-function-using-image-file/image-search-test.gif" title="Example of image search test" alt="Example of image search test">
@@ -457,5 +457,5 @@ private static void ThreadSearch( object state )
 
 ---
 
-#### 마무리하며...
+## 마무리하며...
 이번 포스트에서는 이미지 파일을 이용하여 카메라 시뮬레이션 함수를 작성해 보았다. 온전히 내가 작성한 코드만 남기는 작업 중에 약간 어색하게 수정되었거나 비어있는 부분이 많아져서 코드가 불완전해진 것 같다. 참고 사항으로는 작성하는데 Winform 라이브러리 이외에 Cognex의 VisionPro 라이브러리가 사용되었다.

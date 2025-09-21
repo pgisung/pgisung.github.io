@@ -17,7 +17,7 @@ description: 2013.12.16 싱가포르에서 육로를 통해 말레이시아로 �
 
 ---
 
-#### <span style="color: #8D4801">**드디어 문을 연 자전거 가게**</span>
+## 드디어 문을 연 자전거 가게
 오늘은 드디어 말레이시아를 향해 <span style="color: #8D4801">**라이딩을 시작하는 날**</span>이라서 출발 준비가 끝나야 했는데 <span style="color: #8D4801">**어제 닫혀있던 자전거 가게**</span>로 인해 초조해진 우리는 아침부터 서둘러 자전거를 끌고 다시 어제 들렸었던 가게에 갔는데 <span style="color: #8D4801">**여전히 닫혀있어서**</span> 완전히 망연자실했다.
 
 급한 김에 이리저리 현지인들에게 물어물어 찾아간 자전거 가게마다 모두 문이 닫혀있어서 완전히 지쳐버렸었는데 <span style="color: indianred">**나중에 알고 보니 자전거 가게 개점 시간이 우리나라에 비해 매우 늦어서**</span> 그랬다...(개점 시간을 모르니 안 해도 될 고생을 사서 했었던) 6곳 정도의 자전거 가게를 오전 내내 돌아다니다가 <span style="color: #8D4801">**오후 1시쯤에 처음에 찾아갔던 가게를 찾아가니 그제야 열려있어서**</span> 자전거를 조립하고 준비를 마쳤다. 
@@ -32,7 +32,7 @@ description: 2013.12.16 싱가포르에서 육로를 통해 말레이시아로 �
 
 ---
 
-#### <span style="color: #8D4801">**첫 라이딩**</span>
+## 첫 라이딩
 이제서야 <span style="color: #8D4801">**진짜 자전거 여행**</span>이 시작되는 기분
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-16-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-5/blogger-and-friend-1.jpg" title="Blogger and friend with assembled bicycles" alt="Blogger and friend with assembled bicycles">
@@ -53,7 +53,7 @@ description: 2013.12.16 싱가포르에서 육로를 통해 말레이시아로 �
 
 ---
 
-#### <span style="color: #8D4801">**도로 한가운데서 얼어붙다**</span>
+## 도로 한가운데서 얼어붙다
 난 그곳에서 완전히 얼어붙어 버렸다. 하필 퇴근 시간의 도로 위로 <span style="color: #8D4801">**수십 또는 수백 대의 오토바이가 쌩쌩 대며 달려가는데 도저히 그 길에 끼어들 엄두**</span>가 나질 않았다.
 
 <span style="color: #BA8E77">**당시에는 너무나도 당황해서 사진 찍을 겨를도 없었기에 다른 분의 사진을 인용했다.**</span>
@@ -95,14 +95,14 @@ description: 2013.12.16 싱가포르에서 육로를 통해 말레이시아로 �
 
 ---
 
-#### <span style="color: #8D4801">**여행 경로**</span>
+## 여행 경로
 추정 주행 거리 : 약 <span style="color: indianred">**40km**</span>
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m34!1m12!1m3!1d204494.25360241695!2d103.79670499643366!3d1.3600804794733155!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m19!3e0!4m5!1s0x31da19cef14217db%3A0xa940c6966b2d5cf1!2z652867Kk642UIOyKpO2KuOumrO2KuCBHcmVlbiBLaXdpIEJhY2twYWNrZXIgSG9zdGVsLCDsi7HqsIDtj6zrpbQ!3m2!1d1.3143083!2d103.8603667!4m5!1s0x31da19c59d456bc7%3A0xd91e374a1469abbb!2zVGVzc2Vuc29obiBSb2FkLCBIZWFwIEhvbmcgJiBDbywg7Iux6rCA7Y-s66W0!3m2!1d1.314558!2d103.8562511!4m5!1s0x31da6d3237053251%3A0x6cf9fd3d0c7d1f59!2z7ZmA66eI7YGsIOumrOygoOyLnCDtmLjthZQgSGFsbG1hcmsgUmVnZW5jeSBIb3RlbCBKb2hvciBCYWhydQ!3m2!1d1.4809485999999998!2d103.76233669999999!5e0!3m2!1sko!2sec!4v1755222698297!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---
 
-#### <span style="color: #8D4801">**여행 경비**</span>
+## 여행 경비
 경비는 <span style="color: indianred">**2인 기준**</span>이다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-16-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-5/budget-book.jpg" title="Budget book" alt="Budget book">

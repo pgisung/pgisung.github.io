@@ -11,13 +11,13 @@ description: 생성한 Git 저장소에서 간단한 작업을 해보자. 그리
 > 1. [간단한 작업 예시를 만들어보자](#간단한-작업-예시를-만들어보자 "Navigate to Let's make an example for training")
 2. [파일 상태 확인하기](#파일-상태-확인하기 "Navigate to Checking file status in Git repository")
 3. [파일 추적하기](#파일-추적하기 "Navigate to Tracking in Git repository")
-- [파일 복귀 명령어](#-만약-실습-도중-실수할-상황에-대비하여-몇-가지-복귀-명령어들을-미리-알아보자 "Navigate to Command to restore file for Git")
+- [파일 복귀 명령어](#만약-실습-도중-실수할-상황에-대비하여-몇-가지-복귀-명령어들을-미리-알아보자 "Navigate to Command to restore file for Git")
 4. [추적중인 파일 이름 변경하기](#추적중인-파일-이름-변경하기 "Navigate to Changing the name of file which is already staged in Git repository")
 5. [추적하고 싶지 않은 파일 목록](#추적하고-싶지-않은-파일-목록 "Navigate to The list willing to ignore in Git repository")
 
 ---
 
-#### <span style="color: brown">**간단한 작업 예시를 만들어보자**</span>
+## 간단한 작업 예시를 만들어보자
 - [이전 포스트]({{ site.baseurl }}/github/2023/08/28/Essential-terminal-commands "Navigate to 3. 필수적인 터미널 명령어를 알아보자 post")에서 알아봤던 기본적인 터미널 명령어를 이용하여 실습환경을 만들어보자.
 <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-11-Working-in-Git-repository/making-training-environment-by-terminal-command.jpg" title="Making training environment by terminal command" alt="Making training environment by terminal command">
 
@@ -26,7 +26,7 @@ description: 생성한 Git 저장소에서 간단한 작업을 해보자. 그리
 
 ---
 
-#### <span style="color: brown">**파일 상태 확인하기**</span>
+## 파일 상태 확인하기
 ```bash
 git status
 ```
@@ -36,7 +36,7 @@ git status
 
 ---
 
-#### <span style="color: brown">**파일 추적하기**</span>
+## 파일 추적하기
 ```bash
 git add <옵션> <파일명 1> <파일명 2> ...
 ```
@@ -49,7 +49,7 @@ git add .
 
 <br>
 
-###### <span style="color: indianred">**※ 만약 실습 도중 실수할 상황에 대비하여 몇 가지 복귀 명령어들을 미리 알아보자.**</span>
+#### <span style="color: indianred">만약 실습 도중 실수할 상황에 대비하여 몇 가지 복귀 명령어들을 미리 알아보자.</span>
 - **commit 이력이 없는 추적 중인 파일을 Unstage 상태로 변경하는 명령어**
 ```bash
 git rm --cached <파일명>
@@ -76,7 +76,7 @@ git restore --staged <파일명>
 
 ---
 
-#### <span style="color: brown">**추적 중인 파일 이름 변경하기**</span>
+## 추적 중인 파일 이름 변경하기
 ```bash
 git mv <파일명> <새 파일명>
 ```
@@ -95,7 +95,7 @@ git add <새 파일명>
 
 ---
 
-#### <span style="color: brown">**추적하고 싶지 않은 파일 목록**</span>
+## 추적하고 싶지 않은 파일 목록
 - **.gitignore 파일**
   - git은 이 파일에 작성된 <span style="color: #8D4801">**목록들을 추적하지 않는다.**</span>
   - 또 로컬 저장소를 서버로 전송하거나 다른 사람과 공유할 때도 이를 <span style="color: #8D4801">**예외 처리**</span>한다.
@@ -116,5 +116,5 @@ git add <새 파일명>
 
 ---
 
-#### 마무리하며...
+## 마무리하며...
 이번 포스트에서는 프로젝트 작업을 가정한 디렉토리를 터미널 명령어로 간단하게 생성해 보고 그 파일들의 상태를 직접 확인한 후 추적도 하고 복귀도 시켜보았다. [바로 이전 포스트]({{ site.baseurl }}/github/2023/09/04/Git-repository-concept-and-principle "Navigate to 4. Git 저장소 개념과 원리 post")에서 알아보았던 이론들을 실제로 실습해 본 시간이었는데 결국 모든 코딩은 직접 타이핑을 해보아야 알게 된 이론이 정리가 되므로 꼭 한 번씩 타이핑해 보시길 추천해 드린다. 다음 포스트에서는 Git의 알파이자 오메가라고 불러도 과언이 아닐 Commit에 대해서 알아보자.

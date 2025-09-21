@@ -13,7 +13,7 @@ description: 포도 없는 포도송이는 의미가 없듯이 Commit 없는 Git
 - [Snapshot 기반 접근 방식](#snapshot-기반-접근-방식 "Navigate to Snapshot based approach")
 2. [Commit 해보기](#commit-해보기 "Navigate to Let's commit")
 - [Commit 메시지](#commit-메시지 "Navigate to Commit message")
-- [Commit 복귀 명령어](#-만약-실습-도중-실수할-상황에-대비하여-몇-가지-복귀-명령어들을-미리-알아보자 "Navigate to Command to restore commit for Git")
+- [Commit 복귀 명령어](#만약-실습-도중-실수할-상황에-대비하여-몇-가지-복귀-명령어들을-미리-알아보자 "Navigate to Command to restore commit for Git")
 - [파일 추적과 커밋을 동시에 실행하는 옵션](#파일-추적과-커밋을-동시에-실행하는-옵션 "Navigate to Option to execute both add all files and commit")
 - [에디터를 사용하지 않는 간이 commit 메시지 작성 옵션](#에디터를-사용하지-않는-간이-commit-메시지-작성-옵션 "Navigate to Option to commit without editor")
 - [가장 짧게 작성할 수 있는 commit 옵션](#가장-짧게-작성할-수-있는-commit-옵션 "Navigate to Option to write the shortest commit")
@@ -34,14 +34,14 @@ description: 포도 없는 포도송이는 의미가 없듯이 Commit 없는 Git
 
 ---
 
-#### 들어가기 전에
+## 들어가기 전에
 필자는 Github를 포도 농장에 비유하곤 한다. 그러면 각 사용자의 로컬 저장소를 하나의 포도나무라고 보고 Branch는 포도송이, Commit은 포도알이라고 생각하면 무언가 딱 맞다는 느낌이 들었었다. 코드를 포도라고 생각하면 코딩이 좀 더 맛있게 느껴질지도...? 각설하고 본론으로 들어가보자...
 
 <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-13-What-is-the-commit-on-Git/compare-github-to-grape.webp" title="Compare github to grape" alt="Compare github to grape">
 
 ---
 
-#### <span style="color: brown">**Commit이란 무엇일까?**</span>
+## Commit이란 무엇일까?
 들어 본 적은 있는 단어였으나 어떤 의미로 Git에서 사용되는지는 몰랐었다. 그래서 사전을 한번 찾아보았는데 가장 가까운 의미는 "~을 적어 두다"로 보인다. 즉, Git에서 commit이란 당시 <span style="color: #8D4801">**Stage 영역의 파일 내용들을 적어 두는 행위**</span>를 뜻한다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-13-What-is-the-commit-on-Git/commit-in-naver-dictionary.jpg" title="Definition of commit in Naver dictionary" alt="Definition of commit in Naver dictionary">
@@ -54,7 +54,7 @@ description: 포도 없는 포도송이는 의미가 없듯이 Commit 없는 Git
 </center>
 <br>
 
-##### **HEAD란 무엇일까?**
+### HEAD란 무엇일까?
 - HEAD는 한마디로 <span style="color: #8D4801">**commit을 가리키고 있는 참조 포인터**</span>이다. 포인터 하면 생각나는 게 c언어인 것 같다. 대학생 시절 처음엔 비교적 재밌게 프로그래밍 수업을 듣던 학생들도 포인터 개념에서 많이 포기를 하고 전과를 하거나 코딩 자체에 관심을 잃고 졸업 후 다른 방향의 직업을 생각나게 하는 악명높은 문법이었다. 아무튼 본론으로 돌아와서... 포인터의 문어적 의미 그대로 "무언가를 가리키고 있다."라고 생각하면 되는데 Git에서는 그 가리키고 있는 것이 commit이라고 생각하면 된다.
 - 아래의 예시에서 볼 수 있듯이 <span style="color: #8D4801">**HEAD는 기본적으로 마지막 commit 위치 (commit이 변화한 최종 위치)**</span>를 가리키고 있다.
 <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-13-What-is-the-commit-on-Git/example-of-head.jpg" title="HEAD in git log" alt="HEAD in git log">
@@ -63,14 +63,14 @@ description: 포도 없는 포도송이는 의미가 없듯이 Commit 없는 Git
 
 <br>
 
-##### **Snapshot 기반 접근 방식**
+### Snapshot 기반 접근 방식
 - Git의 각 커밋에는 커밋이 이루어진 당시 전체 프로젝트의 snapshot에 대한 참조가 포함되어 있다. commit을 실행하면 <span style="color: #8D4801">**HEAD가 가리키고 있는 commit의 snapshot과 현재 Stage area를 비교하여 새로운 commit을 생성**</span>한다.
 - Git은 이 Snapshot 기반 접근 방식을 사용하기 때문에 <span style="color: #8D4801">**전체 파일의 여러 복사본을 저장하는 대신 스냅샷 간의 차이점만 저장하면 되므로 변경 사항과 기록을 효율적으로 관리**</span>할 수 있다. (빠른 속도, 적은 용량 사용)
 <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-13-What-is-the-commit-on-Git/principle-of-git-commit-snapshot.webp" title="The principle of git commit snapshot" alt="The principle of git commit snapshot">
 
 ---
 
-#### <span style="color: brown">**Commit 해보기**</span>
+## Commit 해보기
 ```bash
 git commit
 ```
@@ -80,7 +80,7 @@ git commit
 
 <br>
 
-##### **Commit 메시지**
+### Commit 메시지
 - 각각의 commit에 대한 정보를 입력할 수 있다.
 - 만약 commit.template을 작성해 뒀다면 vim 화면에 함께 출력된다. ([Git 환경설정 中 commit 템플릿]({{ site.baseurl }}/github/2023/08/26/Getting-Started-with-Git/#commit-템플릿-설정 "Navigate to Setting environment for Git"))
 - <span style="color: indianred">**Git은 기본적으로 commit 명령어를 실행할 때 반드시 commit 메시지를 작성해야 한다.**</span>
@@ -95,7 +95,7 @@ git commit
 
 <br>
 
-###### <span style="color: indianred">**※ 만약 실습 도중 실수할 상황에 대비하여 몇 가지 복귀 명령어들을 미리 알아보자.**</span>
+#### <span style="color: indianred">만약 실습 도중 실수할 상황에 대비하여 몇 가지 복귀 명령어들을 미리 알아보자.</span>
 ```bash
 git checkout -- <파일명>
 ```
@@ -107,7 +107,7 @@ git restore <파일명>
 
 <br>
 
-##### **파일 추적과 커밋을 동시에 실행하는 옵션**
+### 파일 추적과 커밋을 동시에 실행하는 옵션
 ```bash
 git commit -a
 ```
@@ -122,7 +122,7 @@ git commit --all
 
 <br>
 
-##### **에디터를 사용하지 않는 간이 commit 메시지 작성 옵션**
+### 에디터를 사용하지 않는 간이 commit 메시지 작성 옵션
 ```bash
 git commit -m <"commit 메시지">
 ```
@@ -134,7 +134,7 @@ git commit --message <"commit 메시지">
 
 <br>
 
-##### **가장 짧게 작성할 수 있는 commit 옵션**
+### 가장 짧게 작성할 수 있는 commit 옵션
 ```bash
 git commit -am <"commit 메시지">
 ```
@@ -143,7 +143,7 @@ git commit -am <"commit 메시지">
 
 <br>
 
-##### **빈 메시지의 commit 옵션**
+### 빈 메시지의 commit 옵션
 ```bash
 git commit --allow-empty-message -m ""
 ```
@@ -152,7 +152,7 @@ git commit --allow-empty-message -m ""
 
 <br>
 
-##### **Commit 메시지 수정**
+### Commit 메시지 수정
 ```bash
 git commit --amend
 ```
@@ -172,7 +172,7 @@ git commit --amend
 
 <br>
 
-##### **Commit 메시지를 작성할 때 파일 간 또는 커밋 간 차이 참조 옵션**
+### Commit 메시지를 작성할 때 파일 간 또는 커밋 간 차이 참조 옵션
 ```bash
 git commit -v
 ```
@@ -184,7 +184,7 @@ git commit --verbose
 
 ---
 
-#### <span style="color: brown">**Commit을 확인해 보자**</span>
+## Commit을 확인해 보자
 ```bash
 git log
 ```
@@ -195,7 +195,7 @@ git log
 
 <br>
 
-##### **Commit ID**
+### Commit ID
 - 문어적 표현 그대로 <span style="color: #8D4801">**특정 commit을 가리키는 Identifier(고유 식별자)**</span>이다. 이 ID를 기준으로 각 커밋을 구별하고 버전관리에 필요한 동작을 수행할 수 있다.
 - <span style="color: #8D4801">**Git의 commit ID는 SHA-1(Secure Hash Algorithm-1)이라는 해시 알고리즘을 채택**</span>하고 있다. 과거에는 안전함을 슬로건으로 내걸었으나 현재는 안전하진 않고 단지 레거시 코드들과의 호환성을 위해 채택하고 있다고 전해진다. 이 알고리즘은 데이터를 고정된 크기의 해시값으로 변환하는 알고리즘으로 40자리의 hexa 값으로 이루어진 중복되지 않는 commit ID를 생성한다.
 - 버전관리를 위해 commit ID를 사용할 때 40자리의 16진수는 정말 큰 숫자이므로 앞자리 문자들이 바뀔 경우는 거의 없으므로 <span style="color: #8D4801">**편의상 앞에서 7자리~10자리까지의 문자만 사용**</span>하더라도 충분히 중복되지 않게 사용할 수 있다.
@@ -203,7 +203,7 @@ git log
 
 <br>
 
-##### **Log에 출력할 commit의 개수를 설정하는 옵션**
+### Log에 출력할 commit의 개수를 설정하는 옵션
 ```bash
 git log -<출력할 commit의 개수>
 ```
@@ -211,7 +211,7 @@ git log -<출력할 commit의 개수>
 
 <br>
 
-##### **Log에 commit의 내용을 짧게 표시하는 옵션**
+### Log에 commit의 내용을 짧게 표시하는 옵션
 ```bash
 git log --pretty=short
 ```
@@ -219,7 +219,7 @@ git log --pretty=short
 
 <br>
 
-##### **간략한 commit 해시값과 메시지만 출력하는 옵션 (--pretty=short 옵션보다 더 짧음)**
+### 간략한 commit 해시값과 메시지만 출력하는 옵션 (--pretty=short 옵션보다 더 짧음)
 ```bash
 git log --oneline
 ```
@@ -227,7 +227,7 @@ git log --oneline
 
 <br>
 
-##### **Log에 각 commit의 diff를 포함하는 옵션**
+### Log에 각 commit의 diff를 포함하는 옵션
 ```bash
 git log --p
 ```
@@ -235,7 +235,7 @@ git log --p
 
 <br>
 
-##### **Log에 각 commit의 히스토리를 포함하는 옵션**
+### Log에 각 commit의 히스토리를 포함하는 옵션
 ```bash
 git log --stat
 ```
@@ -243,7 +243,7 @@ git log --stat
 
 <br>
 
-##### **Log에 브랜치의 흐름 그래프를 포함하는 옵션**
+### Log에 브랜치의 흐름 그래프를 포함하는 옵션
 ```bash
 git log --graph
 ```
@@ -251,7 +251,7 @@ git log --graph
 
 <br>
 
-##### **Log에 가장 짧은 commit 정보와 그래프를 출력하는 옵션**
+### Log에 가장 짧은 commit 정보와 그래프를 출력하는 옵션
 ```bash
 git log --graph --pretty=oneline --abbrev-commit
 ```
@@ -259,7 +259,7 @@ git log --graph --pretty=oneline --abbrev-commit
 
 <br>
 
-##### **특정 commit의 상세 정보 확인 명령어**
+### 특정 commit의 상세 정보 확인 명령어
 ```bash
 git show <commit ID>
 ```
@@ -268,7 +268,7 @@ git show <commit ID>
 
 <br>
 
-##### **파일 및 commit 사이의 차이점 비교 명령어**
+### 파일 및 commit 사이의 차이점 비교 명령어
 ```bash
 git diff <object>
 ```
@@ -277,5 +277,5 @@ git diff <object>
 
 ---
 
-#### 마무리하며...
+## 마무리하며...
 이번 포스트에서는 Git의 핵심 요소인 Commit에 관하여 자세히 알아봤다. 앞으로 우리가 다룰 모든 명령어는 이 commit이라는 재료를 통해 실행되기 때문에 백번 강조해도 모자라지 않을 만큼 중요한 개념이다. 사실 어렵게 생각할 필요도 없다. 포스트를 시작하며 언급했던 것처럼 commit은 포도알 하나하나이고 이들을 모은 포도송이가 하나의 기능이 되는 것이다. 다음 포스트에서는 기록해 둔 commit들을 원격 저장소로 전송하고 다시 로컬 저장소에 내려받아 보자.

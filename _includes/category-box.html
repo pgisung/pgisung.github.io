@@ -13,7 +13,7 @@
             {% assign page_image_parts = page_image | split: "." %}
             {% assign page_image_without_extension = page_image_parts[0] | downcase %}
             {% if filtered_word == page_image_without_extension %}
-              <img class="category-icon" alt="{{ this_word }} category icon" src="/images/pages/{{ page_image }}"></img>
+              <span class="category-icon" style="background-image: url('/images/pages/{{ page_image }}');"></span>
             {% endif %}
           {% endunless %}{% endfor %}
           <div class="category-title">{{ this_word }}</div>

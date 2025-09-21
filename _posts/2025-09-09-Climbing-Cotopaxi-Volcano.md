@@ -19,10 +19,10 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 - [하이킹 시작](#하이킹-시작 "Navigate to Hiking start")
 - [코토팍시 산장](#코토팍시-산장 "Navigate to Cotopaxi refugio")
 - [내려오는 길](#내려오는-길 "Navigate to On the way down to the parking")
-- [240도 파노라마 코토팍시 화산 하이킹](#240도-파노라마-코토팍시-화산-하이킹 "Navigate to 240-degree panoramic view for Hiking Cotopaxi Volcano")
+  - [240도 파노라마 코토팍시 화산 하이킹](#240도-파노라마-코토팍시-화산-하이킹 "Navigate to 240-degree panoramic view for Hiking Cotopaxi Volcano")
 - [림피오푼고 호수](#림피오푼고-호수 "Navigate to Limpiopungo Lake")
-- [240도 파노라마 코토팍시 화산 전경](#240도-파노라마-코토팍시-화산-전경 "Navigate to 240-degree panoramic view for Cotopaxi Volcano")
-- [240도 파노라마 림피오푼고 호수 전경](#240도-파노라마-림피오푼고-호수-전경 "Navigate to 240-degree panoramic view for Limpiopungo Lake")
+  - [240도 파노라마 코토팍시 화산 전경](#240도-파노라마-코토팍시-화산-전경 "Navigate to 240-degree panoramic view for Cotopaxi Volcano")
+  - [240도 파노라마 림피오푼고 호수 전경](#240도-파노라마-림피오푼고-호수-전경 "Navigate to 240-degree panoramic view for Limpiopungo Lake")
 3. [론다도르 코토팍시](#론다도르-코토팍시 "Navigate to Rondador Cotopaxi")
 4. [돌아오는 길](#돌아오는-길 "Navigate to On the way back to home")
 5. [여행 경로](#여행-경로 "Navigate to Travel route")
@@ -30,7 +30,7 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 
 ---
 
-#### <span style="color: #8D4801">**투어 시작**</span>
+## 투어 시작
 전날 밤 자체적으로 포스트의 마감 날짜를 정해놓고 작성하다 보니 <span style="color: indianred">**늦게 잠에 들었는데**</span>, 아침에 알람 소리 듣고 잘 일어났다가 자각 못 하는 사이에 <span style="color: #8D4801">**다시 누워서 잠들어 버렸는데**</span> 일어났을 때 거의 약속 시간이라서 깜짝 놀라서 부랴부랴 5분 만에 준비를 마치고 집을 나섰다.
 
 <span style="color: indianred">**다행이랄지 이번에는 버스가 일찍 와서 대기하고 있지는 않았고**</span> 약 2분 정도 기다리니까 이미 한 곳의 일행들을 픽업하고 온 듯했다.
@@ -50,7 +50,7 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 </div>
 <br>
 
-##### **시크릿 가든 여행사**
+### 시크릿 가든 여행사
 오늘은 여행 일행들을 모두 픽업하는 데만 1시간이 넘게 걸렸다. 나중에 알고 보니 <span style="color: #8D4801">**투어 인원이 무려 16명이나 되는 대규모 인원**</span>이었다.
 
 다른 여행사의 여행객들도 조인하는 것을 보아하니 <span style="color: indianred">**여러 여행사의 인원이 합쳐져서 투어를 진행**</span>하는 듯했다.
@@ -69,7 +69,7 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 </div>
 <br>
 
-##### **챠스키 카페**
+### 챠스키 카페
 킬로토아 투어 때도 들었던 비슷한 에콰도르의 정보들과 금일 투어 일정에 대해 듣다 보니 도착한 식당. 어디서 본 것 같으시다면 맞습니다. <span style="color: #8D4801">**같은 여행사라서 그런지 킬로토아 투어와 같은 식당에서 아침 식사**</span>를 했어요. 같이 온 사람들만 달라졌답니다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/chasky-kfe.jpg" title="Chasky Kfé" alt="Chasky Kfé">
@@ -93,12 +93,12 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 
 ---
 
-#### <span style="color: #8D4801">**코토팍시 국립공원**</span>
+## 코토팍시 국립공원
 아침 식사를 마치고 코토팍시 국립공원으로 이동 중 <span style="color: indianred">**점심 메뉴를 미리 조사**</span>하시길래 투어 중에 닭고기, 소고기 메뉴는 이미 먹어서 <span style="color: #8D4801">**이번에는 돼지고기로 주문**</span>했다.
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d65399.71438303551!2d-78.45088825766301!3d-0.7095152500929278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d44f0000000721%3A0xfcb277e2b76a0775!2z7L2U7Yag7YyN7IucIOq1reumveqzteybkA!5e0!3m2!1sko!2sec!4v1757514798311!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
-##### **코토팍시 국립공원 관리사무소**
+### 코토팍시 국립공원 관리사무소
 국립공원의 입구에 도착해서 차는 잠깐 멈췄는데 <span style="color: #8D4801">**가이드 분만 내리셔서 탑승객들의 정보만 전달**</span>하고 바로 다시 출발했다.
 
 |:---:|:---:|
@@ -117,7 +117,7 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 </div>
 <br>
 
-##### **코토팍시 방문객 센터**
+### 코토팍시 방문객 센터
 <span style="color: #8D4801">**고도 3,700m에 존재하는 방문객 센터**</span> 벌써 구름 안에 있는 듯 보슬비가 피부에 와 닿았다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/blogger-arrived-cotopaxi-national-park.jpg" title="Blogger arrived Cotopaxi national park" alt="Blogger arrived Cotopaxi national park">
@@ -207,7 +207,7 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 </div>
 <br>
 
-##### **코토팍시 산장 주차장**
+### 코토팍시 산장 주차장
 창밖으로 보이기 시작하는 <span style="color: #8D4801">**주차장**</span>
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/cotopaxi-refugio-parking.jpg" title="Cotopaxi refugio parking" alt="Cotopaxi refugio parking">
@@ -229,7 +229,7 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 </div>
 <br>
 
-##### **하이킹 시작**
+### 하이킹 시작
 생각보다 <span style="color: #8D4801">**악조건에서 시작**</span>된 하이킹
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/hiking-on-cotopaxi-volcano-1.jpg" title="Hiking on Cotopaxi Volcano" alt="Hiking on Cotopaxi Volcano">
@@ -286,7 +286,7 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 </div>
 <br>
 
-##### **코토팍시 산장**
+### 코토팍시 산장
 사실 도착했을 때 안 그래도 낮은 기온에 <span style="color: #8D4801">**구름 속을 뚫고 올라와서 온몸이 다 젖어서 상당히 추웠다**</span>. 그래서 무조건 반사처럼 따뜻한 것을 찾아 카운터 앞에 서게 되었다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/the-counter-in-refugio-cotopaxi.jpg" title="The counter in refugio Cotopaxi" alt="The counter in refugio Cotopaxi">
@@ -333,7 +333,7 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 </div>
 <br>
 
-##### **내려오는 길**
+### 내려오는 길
 당연하지만 내려오는 길은 <span style="color: #8D4801">**힘들지도 시간이 그렇게 오래 걸리지도 않는 길**</span>이었다. 
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/hiking-on-cotopaxi-volcano-7.jpg" title="Hiking on Cotopaxi Volcano" alt="Hiking on Cotopaxi Volcano">
@@ -358,7 +358,7 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 </div>
 <br>
 
-###### <span style="color: #8D4801">**240도 파노라마 코토팍시 화산 하이킹**</span>
+#### 240도 파노라마 코토팍시 화산 하이킹
 <center><div id="panorama-1"></div></center>
 <br>
 
@@ -395,7 +395,7 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 </div>
 <br>
 
-##### **림피오푼고 호수**
+### 림피오푼고 호수
 <span style="color: #8D4801">**고도 3,880m에 있는 호수**</span>로 내리자마자 <span style="color: indianred">**아름다운 코토팍시 화산의 풍경**</span>에 넋을 놓았다. 내가 지금 저런 곳에 올라갔다가 온 게 맞나?
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/blogger-with-cotopaxi-volcano-1.jpg" title="Blogger with Cotopaxi Volcano" alt="Blogger with Cotopaxi Volcano">
@@ -405,7 +405,7 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.589597224059!2d-78.4738671!3d-0.6135051000000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d44d4b8e90f1bf%3A0xdd0138f8e7efdb25!2sLaguna%20De%20Limpiopungo!5e0!3m2!1sko!2sec!4v1757515194179!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
-###### <span style="color: #8D4801">**240도 파노라마 코토팍시 화산 전경**</span>
+#### 240도 파노라마 코토팍시 화산 전경
 <center><div id="panorama-2"></div></center>
 <br>
 
@@ -415,7 +415,7 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 </div>
 <br>
 
-###### <span style="color: #8D4801">**240도 파노라마 림피오푼고 호수 전경**</span>
+#### 240도 파노라마 림피오푼고 호수 전경
 <center><div id="panorama-3"></div></center>
 <br>
 
@@ -440,7 +440,7 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 
 ---
 
-#### <span style="color: #8D4801">**론다도르 코토팍시**</span>
+## 론다도르 코토팍시
 깜짝 퀴즈 <span style="color: indianred">**사진 속 말은 몇 마리일까요?**</span> 아무튼 이렇게 광활한 지대에서 자라는 말들은 실로 자유로움을 느낄 것 같다. 표지판에서 보았던 <span style="color: #8D4801">**이 장소의 이름은 Grassland**</span>였다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/grassland.jpg" title="Grassland" alt="Grassland">
@@ -489,7 +489,7 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 
 ---
 
-#### <span style="color: #8D4801">**돌아오는 길**</span>
+## 돌아오는 길
 일정을 끝마치고 키토로 돌아오는 길 <span style="color: indianred">**젖소들이 평화롭게 초원을 거닐고**</span> 있다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/milk-cows.jpg" title="Milk cows" alt="Milk cows">
@@ -510,13 +510,13 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 
 ---
 
-#### <span style="color: #8D4801">**여행 경로**</span>
+## 여행 경로
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m70!1m12!1m3!1d138020.49713691193!2d-78.5247326795586!3d-0.6198636389542553!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m55!3e0!4m5!1s0x91d59a846449b88b%3A0xb5ca75d150fcbb8c!2sQuito%20Tour%20Bus%20%2F%20Bulevar%20Naciones%20Unidas%2C%20Naciones%20Unidas%20Ave%2C%20Quito%20170506!3m2!1d-0.1767204!2d-78.4818741!4m5!1s0x91d59b8b6932bf15%3A0xcb83e029bb315a40!2sTravel%20Agency%20Secret%20Garden%20Ecuador%2C%20Jos%C3%A9%20de%20Antepara%20E4-50%20y%2C%20Quito%20170113!3m2!1d-0.2189205!2d-78.5046165!4m5!1s0x91d5abe4b3ba39b1%3A0x32257dced0efee4!2sChasky%20Kf%C3%A9%20-%20Restaurante%20Mini%20Market%20Boutique%2C%20Carretera%20Panamericana%2C%20Aloasi!3m2!1d-0.5206320999999999!2d-78.577542!4m5!1s0x91d45146188b733f%3A0x1c51649516c0f3fa!2sCotopaxi-%20Administration%20National%20Park!3m2!1d-0.6788856999999999!2d-78.5542128!4m5!1s0x91d4526ae679fb3d%3A0xbe8cab3da0ba6fd8!2zQ290b3BheGkgVmlzaXRvcnMgQ2VudGVyLCDrnbztg4Dsv7XqsIA!3m2!1d-0.6430203999999999!2d-78.4959671!4m5!1s0x91d44dd0e745ddeb%3A0x5f5cfeee04e714ce!2sCotopaxi%20refugee%20parking!3m2!1d-0.6573299!2d-78.4384688!4m5!1s0x91d44dd7d439ac6b%3A0x7281e1450509693!2sRefugio%20Cotopaxi%20(Jose%20Rivas)!3m2!1d-0.6633743!2d-78.4385255!4m5!1s0x91d44d4b8e90f1bf%3A0xdd0138f8e7efdb25!2sLaguna%20De%20Limpiopungo%2C%20Ovejer%C3%ADa!3m2!1d-0.6135051!2d-78.47386709999999!4m5!1s0x91d45714d5790457%3A0x9cccf84529e92588!2sRondador%20Cotopaxi%2C%20PASTOCALLE!3m2!1d-0.7001543!2d-78.5870892!5e0!3m2!1sko!2sec!4v1757515689609!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---
 
-#### <span style="color: #8D4801">**여행 경비**</span>
+## 여행 경비
 경비는 <span style="color: indianred">**1인 기준**</span>이다.
 
 | 2025.09.09 | 현지 통화 | 원화 |

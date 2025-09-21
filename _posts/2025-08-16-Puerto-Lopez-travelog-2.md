@@ -25,14 +25,14 @@ description: 2025.08.16 살랑고 섬 투어 이야기
 
 ---
 
-#### <span style="color: #8D4801">**아침 산책**</span>
+## 아침 산책
 <span style="color: #8D4801">**여행 이튿날 아침**</span>이 밝았다. 투어 예약 시간은 <span style="color: indianred">**9시**</span>인데, <span style="color: indianred">**6시**</span>에 이미 눈이 떠져서 발코니에서 새벽 공기 좀 느끼다가 <span style="color: #8D4801">**숙소를 나서보았다.**</span>
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/puerto-lopez-tourist-pier.jpg" title="Puerto Lopez tourist pier view from balcony" alt="Puerto Lopez tourist pier view from balcony">
 </div>
 <br>
 
-##### **Pescado Fresco 수산시장**
+### Pescado Fresco 수산시장
 처음 지나갈 때는 아무 생각 없이 <span style="color: indianred">**식당인가?**</span> 하고 찍었었는데 돌아올 때 보니 새벽같이 잡아 온 <span style="color: #8D4801">**물고기들을 일사불란하게 손질**</span>하고 계시고, <span style="color: #8D4801">**물고기를 옮기는 어부들**</span>과 그 자리에서 <span style="color: #8D4801">**물고기를 사 가는 고객들**</span>을 볼 수 있었다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/fish-market.jpg" title="Fish market in Puerto Lopez" alt="Fish market in Puerto Lopez">
@@ -54,7 +54,7 @@ description: 2025.08.16 살랑고 섬 투어 이야기
 </div>
 <br>
 
-##### **해안가 따라 걷기**
+### 해안가 따라 걷기
 해안가를 따라 서쪽으로 걷다 보니 한적한 곳에 또 <span style="color: #8D4801">**도시 이름**</span>이... 내가 본 것만 <span style="color: indianred">**3개**</span>라 이 작은 해안가에 몇 개나 세워둔 건가 싶었다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/letras-corporeas-puerto-lopez.jpg" title="Puerto Lopez" alt="Puerto Lopez">
@@ -94,7 +94,7 @@ description: 2025.08.16 살랑고 섬 투어 이야기
 
 ---
 
-#### <span style="color: #8D4801">**살랑고 섬 투어**</span>
+## 살랑고 섬 투어
 투어 회사가 숙소에서 그리 멀지 않아서 10분 전인 <span style="color: #8D4801">**8시 50분쯤 예약한 투어 회사로 이동**</span>했다. 먼저 도착해서 대기 중인 일행들이 몇몇 그룹 보였고 간단한 금일 투어 브리핑을 마치고 9시 15분쯤 다 같이 부두로 이동을 시작했다.
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d997.0851755680017!2d-80.81300643194653!3d-1.5593929674134581!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902e9fe8871268e7%3A0xcbc625a91e5bfc22!2sFRAGATA%20XTREME%20(Subwing)!5e0!3m2!1sko!2sec!4v1755788534522!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
@@ -117,7 +117,7 @@ description: 2025.08.16 살랑고 섬 투어 이야기
 </div>
 <br>
 
-##### **스쳐 간 푸른발부비새 서식지**
+### 스쳐 간 푸른발부비새 서식지
 열심히 달리던 배가 잠깐 멈춰서고 가이드가 설명을 시작했다. 이 녀석들이 <span style="color: #8D4801">**갈라파고스의 명물인 푸른발부비새**</span>라는데... 그래서 파란색 발이 어딨는 거죠? 저는 안 보이는데... (나중에 알게 된 사실이 <span style="color: indianred">**부비새가 어릴 때는 아직 발이 파랗지 않다가 성장할수록 점점 파랗게 변한다**</span>고 한다.) 사실 너무 멀어서 새도 잘 안 보였어요...
 <div class="image-slider-auto">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/blue-footed-booby-habitat-1.jpg" title="Blue-footed booby habitat" alt="Blue-footed booby habitat">
@@ -126,7 +126,7 @@ description: 2025.08.16 살랑고 섬 투어 이야기
 </div>
 <br>
 
-##### **혹등고래 추적기**
+### 혹등고래 추적기
 <span style="color: #8D4801">**특정 포인트에 도달**</span>하니까 가이드가 <span style="color: #8D4801">**4명을 뽑아서 보트의 2층**</span>에 앉히고, 또 <span style="color: #8D4801">**4명은 보트의 앞**</span>에 앉힌 채로 혹등고래를 찾아 나섰다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/blogger-sitting-on-front-of-the-boat-to-watch-humpback-whale.jpg" title="Blogger sitting on front of the boat to watch humpback whale" alt="Blogger sitting on front of the boat to watch humpback whale">
@@ -174,7 +174,7 @@ description: 2025.08.16 살랑고 섬 투어 이야기
 
 친구가 고래 추적 시작부터 끝까지 단 한 번도 끊지 않고 동영상을 촬영해서 녹화된 시간 기준으로 대략 시간을 가늠해 보니 <span style="color: #8D4801">**약 40분 정도 고래를 찾아**</span>다닌 것 같다. 이 투어의 묘미는 혹등고래 따라다니는 거라고요!
 
-##### **스쳐 간 바다사자 서식지**
+### 스쳐 간 바다사자 서식지
 혹등고래 추적을 마치고 나면 보트가 살랑고 섬 근처로 이동한다. 바다사자 지점에서도 매우 짧게 머무르고 이동했는데 그래도 앞에 푸른발부비새보단 <span style="color: #8D4801">**선명하게 바다사자를 볼 수 있었다. 개중에는 수영 중인 녀석**</span>도 있었다.
 <div class="image-slider-auto">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-16-Puerto-Lopez-travelog-2/sea-lion-1.jpg" title="Sea lion habitat" alt="Sea lion habitat">
@@ -186,15 +186,15 @@ description: 2025.08.16 살랑고 섬 투어 이야기
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7976.554991334194!2d-80.8728910372913!3d-1.5923981350624137!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902e9d0018bf143b%3A0x41672f3d44c60d6c!2sObservaci%C3%B3n%20de%20lobos%20marinos!5e0!3m2!1sko!2sec!4v1755901882447!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
-##### **짧지만 Chill 했던 스노클링 시간**
+### 짧지만 Chill 했던 스노클링 시간
 마지막으로 <span style="color: #8D4801">**스노클링 포인트로 이동하며 간단한 빵과 콜라**</span>를 주셨다. 밖에 있을 때는 아직 춥지 않았던 것 같은데, <span style="color: #8D4801">**물에 들어가자마자 차가운 수온을 체감**</span>할 수 있었다. 구명조끼 벗고 조금이라도 물놀이하고 싶었는데 몸이 너무 추우니까 근육이 다 굳은 기분이어서 바로 보트에 올랐다. 무엇보다 물속이 아름다우면 조금이라도 나았을 것 같은데, <span style="color: indianred">**흐리고 물고기도 많이 안 보여서**</span> 아쉬웠다.
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7976.542791884246!2d-80.87077170610428!3d-1.5955471705488762!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902e9d3f23c59737%3A0x586d4ed02f9deee3!2sSalango%20Island%20Beach!5e0!3m2!1sko!2sec!4v1755902146609!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---
 
-#### <span style="color: #8D4801">**아무것도 하지 않는 게 가장 근사한 오후**</span>
-##### **La Cabana D'Chuky 식당**
+## 아무것도 하지 않는 게 가장 근사한 오후
+### La Cabana D'Chuky 식당
 투어가 끝난 후 <span style="color: indianred">**따뜻한 물로 몸을 녹였...으면 좋았겠지만, 찬 물로 샤워**</span>를 한 후에 점심을 먹기 위해 나섰다.
 
 <span style="color: indianred">**식당이 해변 모래 위**</span>에 있어서 발에 모래가 좀 묻을 수 있고, 가게 점원들이 충분해 보였는데도 <span style="color: indianred">**음식이 매우 천천히**</span> 나와서 오래 기다리긴 했지만
@@ -211,7 +211,7 @@ description: 2025.08.16 살랑고 섬 투어 이야기
 
 점심 식사를 마친 후 <span style="color: #8D4801">**낮잠 시간**</span>을 가지기로 하고 <span style="color: #8D4801">**발코니에 앉아 에어팟 꽂고 바다와 사람 구경**</span>을 하는데 정말 시간이 가는 줄 몰랐던 것 같다.
 
-##### **Romance Marino 식당**
+### Romance Marino 식당
 당연히 오늘 저녁도 <span style="color: #8D4801">**Langosta가 먹고 싶었던**</span> 우리는 아직 방문해 보지 않은 식당들에 방문하여 물어보았는데 서쪽 끝에 있는 하나의 식당과 어제 갔던 숙소 앞 식당을 제외하고는 파는 곳이 없었다.
 
 그래서 <span style="color: #8D4801">**같은 식당이지만 어제 먹어서 확실한 숙소 앞 식당을 재방문**</span>했는데... <span style="color: indianred">**오늘은 재료가 없는지**</span> 팔지 않는다고 했다. 그래서 다른 식당으로 옮긴다고 어딘가에서 랍스터를 먹을 수 있는 것도 아니기에 그냥 다른 메뉴를 주문했다.
@@ -236,13 +236,13 @@ description: 2025.08.16 살랑고 섬 투어 이야기
 
 ---
 
-#### <span style="color: #8D4801">**여행 경로**</span>
+## 여행 경로
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d3988.338530687649!2d-80.81501324999999!3d-1.5605384999999967!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e2!4m5!1s0x902e9f3524423219%3A0xa7fdda1621f08bc6!2sC5QP%2BC4P%20Coffee%20One%20Dolar%2C%20Mal.%20Julio%20Izurieta%2C%20Puerto%20L%C3%B3pez!3m2!1d-1.5614697!2d-80.8147219!4m5!1s0x902e9f0a2c869adb%3A0xf2b9eef3176fc60a!2sMercado%20de%20Pescado%20Fresco%2C%20Puerto%20Lopez!3m2!1d-1.5617009!2d-80.8156473!4m5!1s0x902e9fe8871268e7%3A0xcbc625a91e5bfc22!2sFRAGATA%20XTREME%20(Subwing)%2C%20Puerto%20Lopez!3m2!1d-1.5592884!2d-80.8127248!4m5!1s0x902e9f00545654e5%3A0x87f42cec0aa40f97!2sMuelle%20de%20Puerto%20Lopez!3m2!1d-1.5609933!2d-80.8174011!4m5!1s0x902e9fa44ef6877b%3A0x8544782637927b66!2sLa%20Cabana%20D&#39;Chuky%2C%20Malecon%20Julio%20Izurieta%2C%20Puerto%20Lopez!3m2!1d-1.5602532999999998!2d-80.81388489999999!4m5!1s0x902e9e1f170ea4ab%3A0x4ba38ee45c0e580!2sRestaurant%20Romance%20Marino%2C%20Malecon%20Julio%20Izurieta%2C%20Puerto%20Lopez!3m2!1d-1.561219!2d-80.8144239!5e0!3m2!1sko!2sec!4v1757351434909!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---
 
-#### <span style="color: #8D4801">**여행 경비**</span>
+## 여행 경비
 경비는 <span style="color: indianred">**2인 기준**</span>이다.
 
 | 2025.08.16 | 현지 통화 | 원화 |

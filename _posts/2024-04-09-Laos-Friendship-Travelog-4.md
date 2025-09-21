@@ -18,7 +18,7 @@ description: 2024.04.09 루앙 프라방에서 탁발 행렬 관람 및 물의 �
 - [콘페티 가든 호텔](#콘페티-가든-호텔 "Navigate to Confetti Garden hotel")
 3. [남싸이 전망대 방문기](#남싸이-전망대-방문기 "Navigate to Visiting Namxay viewpoint")
 - [남싸이 전망대](#남싸이-전망대 "Navigate to Namxay viewpoint")
-- [240도 파노라마 남싸이 전망대 전경](#240도-파노라마-남싸이-전망대-전경 "Navigate to 240-degree panoramic view for Namxay viewpoint")
+  - [240도 파노라마 남싸이 전망대 전경](#240도-파노라마-남싸이-전망대-전경 "Navigate to 240-degree panoramic view for Namxay viewpoint")
 - [블루 라군 1](#블루-라군-1 "Navigate to Blue lagoon 1")
 - [방 비엥 센트럴 어드벤쳐 여행사](#방-비엥-센트럴-어드벤쳐-여행사 "Navigate to Vang Vieng Central Adventure tour company")
 - [뱅킹 식당](#뱅킹-식당 "Navigate to Banking restaurant")
@@ -28,7 +28,7 @@ description: 2024.04.09 루앙 프라방에서 탁발 행렬 관람 및 물의 �
 
 ---
 
-#### <span style="color: #8D4801">**탁발 행렬 관람기**</span>
+## 탁발 행렬 관람기
 여행 4일 차 <span style="color: indianred">**지금 시각 새벽 5시 36분**</span> <span style="color: #8D4801">**그들은 어디로 가는 걸까요?**</span>
 
 |:---:|:---:|
@@ -90,7 +90,7 @@ description: 2024.04.09 루앙 프라방에서 탁발 행렬 관람 및 물의 �
 </div>
 <br>
 
-##### **루앙 프라방 아침 시장**
+### 루앙 프라방 아침 시장
 탁발 행렬 관람을 마치고 <span style="color: indianred">**전일에는 빡빡했던 일정**</span>으로 인해 <span style="color: #8D4801">**편하게 둘러보지 못했던 아침 시장에 다시 방문**</span>했다.
 <div class="image-slider-static">
   <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/on-the-way-to-luang-prabang-morning-market.webp" title="On the way to Luang Prabang morning market" alt="On the way to Luang Prabang morning market">
@@ -157,8 +157,8 @@ description: 2024.04.09 루앙 프라방에서 탁발 행렬 관람 및 물의 �
 
 ---
 
-#### <span style="color: #8D4801">**기차 타고 방 비엥 숙소로 이동**</span>
-##### **역 앞 식당**
+## 기차 타고 방 비엥 숙소로 이동
+### 역 앞 식당
 순서상 <span style="color: indianred">**아침 먹자마자 밥을 또 먹는 건가 싶지만**</span>, 탁발 행렬 관람을 위해 새벽에 기상한 관계로 <span style="color: #8D4801">**열차 시간에 맞춰 숙소에서 휴식**</span>을 취하다 루앙 프라방 고속철도역으로 이동한 우리들
 
 <span style="color: indianred">**점심을 먹기 위해 방문한 역 근처에 자리 잡은 가게**</span>에서 필자는 푹 빠져버린 <span style="color: #8D4801">**카오 삐약 센**</span>에 고수를 듬뿍 넣어 먹었다.
@@ -171,7 +171,7 @@ description: 2024.04.09 루앙 프라방에서 탁발 행렬 관람 및 물의 �
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d469.04302944094826!2d102.21582675778478!3d19.867681163751662!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312f290057e6cfe1%3A0xd0f85bd58a84a060!2sRestaurants%20front%20of%20Luang%20Prabang%20Railway%20Station!5e0!3m2!1sko!2sec!4v1758079721448!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
-##### **루앙 프라방 고속철도역**
+### 루앙 프라방 고속철도역
 이미 왔던 곳이라고 찍은 사진이라고는 멀리 서 있는 <span style="color: #8D4801">**친구 녀석뿐**</span>
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/friend2-in-luang-prabang-railway-station.jpg" title="Friend in Luang Prabang railway station" alt="Friend in Luang Prabang railway station">
@@ -187,7 +187,7 @@ description: 2024.04.09 루앙 프라방에서 탁발 행렬 관람 및 물의 �
 </div>
 <br>
 
-##### **방 비엥 고속철도역**
+### 방 비엥 고속철도역
 명패만 떼고 보면 사실 다 똑같이 생긴 거 아니냐고 생각했던 <span style="color: #8D4801">**라오스의 고속철도역들**</span>
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/vang-vieng-railway-station.jpg" title="Vang Vieng railway station" alt="Vang Vieng railway station">
@@ -207,7 +207,7 @@ description: 2024.04.09 루앙 프라방에서 탁발 행렬 관람 및 물의 �
 </div>
 <br>
 
-##### **콘페티 가든 호텔**
+### 콘페티 가든 호텔
 버스는 <span style="color: #8D4801">**방 비엥 시내 중심쯤**</span>에 우리를 내려줬고, 천천히 <span style="color: indianred">**캐리어를 끌고 도착한 방 비엥 숙소**</span>. 귀여운 강아지가 우리를 맞이해준다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-dog-welcoming-us.jpg" title="The dog welcoming us" alt="The dog welcoming us">
@@ -226,7 +226,7 @@ description: 2024.04.09 루앙 프라방에서 탁발 행렬 관람 및 물의 �
 
 ---
 
-#### <span style="color: #8D4801">**남싸이 전망대 방문기**</span>
+## 남싸이 전망대 방문기
 아무튼 금일 중요한 일정 중 하나인 <span style="color: indianred">**방 비엥 이동**</span>을 완료 후 <span style="color: indianred">**여행사들을 방문하여 내일 즐길 액티비티를 알아보는 일만 남겨둔 채**</span>로 남은 시간 무엇을 할지 전원 P로 이루어진 그룹답게 <span style="color: #8D4801">**즉흥적으로 방에서 검색하던 중 근처에 전망이 좋은 뷰포인트**</span>가 있다고 하여 바로 숙소를 나섰다.
 
 걸어갈 정도의 거리는 아니었기에 교통수단이 필요했는데, <span style="color: indianred">**루앙 프라방의 인연인 기사님께 연락하여 방 비엥에 아는 기사를 소개**</span>받았다.
@@ -244,7 +244,7 @@ description: 2024.04.09 루앙 프라방에서 탁발 행렬 관람 및 물의 �
 </div>
 <br>
 
-##### **남싸이 전망대**
+### 남싸이 전망대
 차로 20여 분을 달려서 도착한 <span style="color: #8D4801">**전망대 입구**</span>
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-entrance-of-namxay-viewpoint.jpg" title="The entrance of Namxay viewpoint" alt="The entrance of Namxay viewpoint">
@@ -315,7 +315,7 @@ description: 2024.04.09 루앙 프라방에서 탁발 행렬 관람 및 물의 �
 
 <br>
 
-###### <span style="color: #8D4801">**240도 파노라마 남싸이 전망대 전경**</span>
+#### 240도 파노라마 남싸이 전망대 전경
 <center><div id="panorama-1"></div></center>
 <br>
 
@@ -332,7 +332,7 @@ SNS에서 유명한 전망 반대편에도 <span style="color: #8D4801">**또 �
 
 <br>
 
-##### **블루 라군 1**
+### 블루 라군 1
 아무튼 힘겨웠던 남싸이 전망대 하이킹을 마치고 <span style="color: #8D4801">**숙소로 돌아가는 길**</span>. 아무 생각 없이 기사님이 숙소로 향하실 거로 생각하고 쉬고 있었는데 <span style="color: indianred">**갑자기 도착한 블루 라군 1**</span>
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/blue-lagoon1.jpg" title="Blue lagoon 1" alt="Blue lagoon 1">
@@ -369,7 +369,7 @@ SNS에서 유명한 전망 반대편에도 <span style="color: #8D4801">**또 �
 </div>
 <br>
 
-##### **방 비엥 센트럴 어드벤쳐 여행사**
+### 방 비엥 센트럴 어드벤쳐 여행사
 <span style="color: #8D4801">**숙소에서 씻고 바로**</span> 나선 우리들. 신나게 즐기고 돌아와 생각해 보니 아직 <span style="color: indianred">**액티비티 예약도 못 했다**</span>. 설상가상으로 <span style="color: indianred">**이미 문을 닫은 여행사들**</span>이 많았다.
 <div class="image-slider-static">
   <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/on-the-way-to-vang-vieng-central-adventure-tour-company.webp" title="On the way to Vang Vieng Central Adventure tour company" alt="On the way to Vang Vieng Central Adventure tour company">
@@ -385,7 +385,7 @@ SNS에서 유명한 전망 반대편에도 <span style="color: #8D4801">**또 �
 </div>
 <br>
 
-##### **뱅킹 식당**
+### 뱅킹 식당
 오늘은 가볍게 이동만 하고 중요한 액티비티는 내일 하자 생각했었는데 돌이켜보니 <span style="color: #8D4801">**오늘도 뭔가 많이 했던 하루**</span>였다. <span style="color: indianred">**라오스 사람들도 한국 사람 못지않게 돼지고기를 좋아한다**</span>고 하는데 쫄깃쫄깃한 식감과 진한 숯향으로 유명한 <span style="color: #8D4801">**돼지뽈살 구이**</span>로 하루를 마무리하러 왔다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/grilled-pork-jowl.jpg" title="Grilled pork jowl" alt="Grilled pork jowl">
@@ -403,7 +403,7 @@ SNS에서 유명한 전망 반대편에도 <span style="color: #8D4801">**또 �
 
 ---
 
-#### <span style="color: #8D4801">**스콜의 습격**</span>
+## 스콜의 습격
 라오스에서 11월 ~ 4월은 건기로 자외선지수가 굉장히 높고 해가 쨍쨍한 날씨이고, 5월 ~ 10월은 우기로 언제 비가 올지 모를 정도로 강수량이 매우 많다고 하는데 우리가 방문한 4월은 우기 직전이어서 그런지 <span style="color: indianred">**저녁을 먹던 중 스콜과 마주하게 되었다**</span>.
 
 정말 조금 전까지만 해도 <span style="color: #8D4801">**평화롭던 하늘에서 갑자기 천둥, 번개, 비, 바람이 몰아쳐 오더니**</span> 거리에 <span style="color: indianred">**전기도 전부 나가버리고**</span> 먹고 있던 <span style="color: #8D4801">**상추가 날아가는**</span> 등 난리였다.
@@ -467,13 +467,13 @@ SNS에서 유명한 전망 반대편에도 <span style="color: #8D4801">**또 �
 
 ---
 
-#### <span style="color: #8D4801">**여행 경로**</span>
+## 여행 경로
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d662550.5073321987!2d102.39195557973467!3d19.223206325944496!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e2!4m5!1s0x312f2bd022e00dcf%3A0x2ff11935f5f75bde!2svilla%20BouaThong%20Hotel%202!3m2!1d19.886638299999998!2d102.1366262!4m5!1s0x312f2a6b010a5541%3A0x6814a3460ad3cd10!2z66Oo7JWZ7ZSE652867CpIOyVvOyLnOyepSjrqr3sobEg7JW87Iuc7J6lKQ!3m2!1d19.890445!2d102.13517929999999!4m5!1s0x312f2a69f59caddb%3A0xda33a54a76694f08!2z66Oo7JWZ7YyM67CpIOyDiOuyveyLnOyepQ!3m2!1d19.890715099999998!2d102.1336176!4m5!1s0x312f29d7213e8b31%3A0x795024773d164563!2z66Oo7JWZ7ZSE652867CpIOqzoOyGjeyyoOuPhOyXrQ!3m2!1d19.8675969!2d102.2139883!4m5!1s0x312593ff85981161%3A0x79d70b4e89c1e5a5!2z67Cp67mE7JelIOq4sOywqOyXrQ!3m2!1d18.9530969!2d102.45625439999999!4m5!1s0x312593f1289ff9b3%3A0xa6c8c90af1b4f053!2z7L2Y7Y6Y7YuwIOqwgOuToCDtmLjthZQ!3m2!1d18.919766499999998!2d102.4461761!4m5!1s0x3125eda2df94820b%3A0xe64ae2d4c26c371c!2zTmFtIFhheSBWaWV3cG9pbnQsIE5ha2EsIOudvOyYpOyKpA!3m2!1d18.923599199999998!2d102.3869781!4m5!1s0x3125ed08fb9bee9f%3A0x7e1af95489eccabc!2z65287Jik7IqkIE5ha2EsIOu4lOujqOudvOq1sA!3m2!1d18.9263038!2d102.39545439999999!4m5!1s0x312593ebdce75d19%3A0x26e9e049d73fca85!2zVmFuZyBWaWVuZyBDZW50cmFsIEFkdmVudHVyZSwgS2hlbXNvbmcgUmQsIOuwqeu5hOyXpSDrnbzsmKTsiqQ!3m2!1d18.9213071!2d102.4459358!4m5!1s0x312592c8a135781f%3A0xda05ab1fe759848a!2z67GF7YK566CI7Iqk7Yag656R!3m2!1d18.9272764!2d102.44937449999999!5e0!3m2!1sko!2sec!4v1758085686284!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---
 
-#### <span style="color: #8D4801">**여행 경비**</span>
+## 여행 경비
 경비는 <span style="color: indianred">**3인 기준**</span>이다.
 
 | 2024.04.09 | 현지 통화 | 원화 |

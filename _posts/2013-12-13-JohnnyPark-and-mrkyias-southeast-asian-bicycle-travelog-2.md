@@ -14,14 +14,14 @@ description: 2013.12.12~13 엉망진창 첫 해외 출국 공항 해프닝 및 �
 3. [싱가포르 여행 1일 차 시작](#싱가포르-여행-1일-차-시작 "Navigate to Day 1. Singapore trip")
 - [차이나타운](#차이나타운 "Navigate to China town")
 - [마리나 베이 샌즈 호텔](#마리나-베이-샌즈-호텔 "Navigate to Marina bay sands hotel")
-- [240도 파노라마 싱가포르 도시 전경](#240도-파노라마-싱가포르-도시-전경 "Navigate to 240-degree panoramic view for Singapore city")
+  - [240도 파노라마 싱가포르 도시 전경](#240도-파노라마-싱가포르-도시-전경 "Navigate to 240-degree panoramic view for Singapore city")
 - [가든즈 바이 더 베이](#가든즈-바이-더-베이 "Navigate to Gardens by the bay")
 4. [여행 경로](#여행-경로 "Navigate to Travel route")
 5. [여행 경비](#여행-경비 "Navigate to Travel expenses")
 
 ---
 
-#### <span style="color: #8D4801">**홀로 공항을 헤매다**</span>
+## 홀로 공항을 헤매다
 <span style="color: indianred">**첫 해외 출국이다 보니 정신이 하나도 없어서**</span> 공항까지 픽업해 주시고 마중해 주신 <span style="color: #8D4801">**어머니와 사진 한 장 못 찍었던 것이 이제 와서 못내 아쉽다**</span>... (결국 숙소 도착할 때까지 사진 한 장 못 찍었음) 공항에 도착하고 보니 혼자서 끌고 다녀야 할 자전거를 포함한 짐이 너~무 많고 무거워서 매우 힘들었던 기억이 난다.
 
 탑승 시각이 아직 2시간 넘게 남았지만 미리 탑승장에서 대기하기 위해 보안 검색을 지나는 중 프롤로그에서도 언급했듯이 <span style="color: indianred">**자전거용 본드와 윤활유는 인화성 물질이라 압수당했다.**</span> 안 들고 올 것을 아깝게... 
@@ -32,7 +32,7 @@ description: 2013.12.12~13 엉망진창 첫 해외 출국 공항 해프닝 및 �
 
 ---
 
-#### <span style="color: #8D4801">**동상이몽**</span>
+## 동상이몽
 그렇게 밤 10시 30분쯤에 입국장을 나와서 다음날 자정 조금 넘은 새벽 00시 45분 입국 예정인 mrkyia를 하염없이 기다리기 시작했다. 그런데 1시 30분이 지나도 나오지 않자, 점점 불안해지기 시작해서 <span style="color: #8D4801">**도착하지 않는 mrkyia를 찾아 창이공항을 헤매기 시작했다.**</span> 
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/friends-arrival-time.jpg" title="Estimated arrival time for my friend" alt="Estimated arrival time for my friend">
@@ -57,7 +57,7 @@ description: 2013.12.12~13 엉망진창 첫 해외 출국 공항 해프닝 및 �
 
 ---
 
-#### <span style="color: #8D4801">**싱가포르 여행 1일 차 시작**</span>
+## 싱가포르 여행 1일 차 시작
 우리가 싱가포르에서 묵었던 숙소는 라벤더 스트리트(Ravendar street)의 <span style="color: #8D4801">**Green kiwi 백팩커즈 숙소**</span>로 방은 8인실 도미토리로 2층 침대 4개가 있는 방이었는데 생각 외로 아늑하여 좋았다. 
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.769950678066!2d103.85900413782042!3d1.3134931228458737!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19cef14217db%3A0xa940c6966b2d5cf1!2sGreen%20Kiwi%20Backpacker%20Hostel!5e0!3m2!1sko!2sec!4v1754856437766!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
@@ -71,7 +71,7 @@ description: 2013.12.12~13 엉망진창 첫 해외 출국 공항 해프닝 및 �
 </div>
 <br>
 
-##### **차이나타운**
+### 차이나타운
 먼저 방문한 곳은 차이나타운이었는데, 차이나타운을 약 3시간을 걸었는데 너무 더워서 죽는 줄 알았다... <span style="color: #8D4801">**처음엔 덥고 습한 이 날씨가 숨이 턱턱 막힐 정도로 적응이 안 되었다.**</span>
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/china-town-entrance.jpg" title="The entrance of China town in Singapore" alt="The entrance of China town in Singapore">
@@ -125,7 +125,7 @@ description: 2013.12.12~13 엉망진창 첫 해외 출국 공항 해프닝 및 �
 </div>
 <br>
 
-##### **마리나 베이 샌즈 호텔**
+### 마리나 베이 샌즈 호텔
 싱가포르의 상징인 <span style="color: #8D4801">**마리나 베이 샌즈 호텔**</span>이 보이기 시작했다. 호텔 방향으로 걷다 보니 또, 멀라이언 파크도 보여서 사진도 찍고 하던 중 물 위에 한가득 떠 있는 풍선들을 발견하고 무엇인지 궁금해서 가봤는데, <span style="color: #8D4801">**소원을 빌어서 호수에 띄워두는 거**</span>라고 했다. 그래서 우리도 <span style="color: #8D4801">**풍선**</span>을 하나 받아서 <span style="color: #8D4801">**우리 여행의 무사 안녕을 빈 내용**</span>을 적어서 호수에 띄워보았다.
 <div class="image-slider-auto">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/marina-bay-sands-hotel-and-merlion.jpg" title="Marina bay sands hotel and Merlion" alt="Marina bay sands hotel and Merlion">
@@ -133,7 +133,7 @@ description: 2013.12.12~13 엉망진창 첫 해외 출국 공항 해프닝 및 �
 </div>
 <br>
 
-###### <span style="color: #8D4801">**240도 파노라마 싱가포르 도시 전경**</span>
+#### 240도 파노라마 싱가포르 도시 전경
 <center><div id="panorama-1"></div></center>
 <br>
 
@@ -163,7 +163,7 @@ description: 2013.12.12~13 엉망진창 첫 해외 출국 공항 해프닝 및 �
 </div>
 <br>
 
-##### **가든즈 바이 더 베이**
+### 가든즈 바이 더 베이
 하이라이트는 <span style="color: #8D4801">**Gardens by the bay**</span>였다. 아직 초저녁 무렵엔 그냥 큰 나무구나 싶었는데 밤이 되고 조명이 켜지니 그림같이 아름다워 눈을 뗄 수가 없었다.
 
 |:---:|:---:|
@@ -213,13 +213,13 @@ description: 2013.12.12~13 엉망진창 첫 해외 출국 공항 해프닝 및 �
 
 ---
 
-#### <span style="color: #8D4801">**여행 경로**</span>
+## 여행 경로
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d146789.02133685426!2d103.88048312270166!3d1.3312359043714284!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e0!4m5!1s0x31da17d693d0cde3%3A0xd6d6dd5e414e4503!2zNjAgQWlycG9ydCBCbHZkLiwg7Iux6rCA7Y-s66W0IOywveydtCDqta3soJzqs7Xtla0gKFNJTikg7Iux6rCA7Y-s66W0IDgxOTY0Mw!3m2!1d1.358604!2d103.98994359999999!4m5!1s0x31da19cef14217db%3A0xa940c6966b2d5cf1!2zTGF2ZW5kZXIgU3RyZWV0LCBHcmVlbiBLaXdpIEJhY2twYWNrZXIgSG9zdGVsLCDsi7HqsIDtj6zrpbQ!3m2!1d1.3143083!2d103.8603667!4m5!1s0x31da19731fe5e901%3A0xb475a831c42577e0!2z7Iqk66-47IqkIOyKpO2KuOumrO2KuCBYaXUgSmkgSWthbiBCaWxpcyBZb25nIFRhdSBGdSAoIzAyLTg4KSwg7Iux6rCA7Y-s66W0!3m2!1d1.2826290999999999!2d103.8430906!4m5!1s0x31da19085926dadb%3A0x9f427391c9f64c38!2z66i465287J207Ja4IOqzteybkCBNZXJsaW9u!3m2!1d1.2867891999999999!2d103.85450139999999!4m5!1s0x31da196d2fffffed%3A0x6c0c3f2856edd6b7!2z7Iux6rCA7Y-s66W0IOuemO2UjOyKpCDslaDruYTribQgRXNwbGFuYWRlIE1hbGwsIOuniOy5uOyImO2KuOudvCDquIDro6jthLTsiqQg67Kg7J20!3m2!1d1.2894024!2d103.8568698!4m5!1s0x31da1904937e1633%3A0x62099677b59fca76!2z6rCA65Og7IqkIOuwlOydtCDrjZQg67Kg7J20IEdhcmRlbnMgYnkgdGhlIEJheQ!3m2!1d1.2815683!2d103.86361319999999!5e0!3m2!1sko!2sec!4v1757352382261!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---
 
-#### <span style="color: #8D4801">**여행 경비**</span>
+## 여행 경비
 경비는 <span style="color: indianred">**2인 기준**</span>이다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/budget-book.jpg" title="Budget book" alt="Budget book">

@@ -26,8 +26,8 @@ description: 2025.08.15 키토에서 푸에르토 로페스까지 이동기 및 
 
 ---
 
-#### <span style="color: #8D4801">**비행기 타고 만타로 이동**</span>
-##### **마리스칼 수크레 국제공항**
+## 비행기 타고 만타로 이동
+### 마리스칼 수크레 국제공항
 <span style="color: indianred">**설레는 여행 당일**</span> 새벽 5시에 눈을 떠 씻고 준비를 시작했다. 6시에 우버에 탑승하니 공항에 6시 40분쯤에 도착했다.
 
 비행기 출발 시각이 7시 55분이었는데 사실 지금까지 비행기를 타면서 <span style="color: #8D4801">**탑승 시각보다 두세 시간씩 일찍 도착하는 것을 당연**</span>하게 여겼었는데, 이번에 <span style="color: indianred">**처음으로 해외의 국내선을 타보면서 너무 일찍 도착할 필요가 없다**</span>는 것을 깨달았다. 사람도 많이 없고 보안 검색대 통과하는 데 시간이 얼마 걸리지도 않았다. 눈 떠보니 출국장이란 게 이런 느낌인가? 
@@ -75,7 +75,7 @@ description: 2025.08.15 키토에서 푸에르토 로페스까지 이동기 및 
 </div>
 <br>
 
-##### **엘로이 알파로 국제공항**
+### 엘로이 알파로 국제공항
 어라... 잠깐 시선 돌렸는데 비행기가 <span style="color: indianred">**왜 이렇게 낮게 날고**</span> 있지?
 <div class="image-slider-static">
   <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/sea-view-on-plane.webp" title="Sea view on plane" alt="Sea view on plane">
@@ -104,8 +104,8 @@ description: 2025.08.15 키토에서 푸에르토 로페스까지 이동기 및 
 <br>
 
 ---
-#### <span style="color: #8D4801">**버스 타고 푸에르토 로페스 숙소로 이동**</span>
-##### **만타 지상 터미널**
+## 버스 타고 푸에르토 로페스 숙소로 이동
+### 만타 지상 터미널
 출발 전 버스 터미널을 검색할 때, 구글 맵 기준으로 <span style="color: #8D4801">**공항 바로 옆**</span>에 있는 것처럼 보여서 걸어갈까도 고려했었지만 그냥 <span style="color: #8D4801">**우버를 이용**</span>했다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/manta-terrestrial-terminal-1.jpg" title="Manta terrestrial terminal" alt="Manta terrestrial terminal">
@@ -133,7 +133,7 @@ description: 2025.08.15 키토에서 푸에르토 로페스까지 이동기 및 
 </div>
 <br>
 
-##### **푸에르토 로페스 지상 터미널**
+### 푸에르토 로페스 지상 터미널
 우리가 타고 온 버스 같지만 같은 회사일 뿐 다른 버스다. 아무튼 무사히 푸에르토 로페스에 도착해서 이제 숙소로 이동하면 되는데, <span style="color: #8D4801">**원래 숙소 주인이 도착 1시간 전에 연락을 달라고 해놓고선 메시지 답장이 없어서**</span> 친구가 전화로 연락을 취한 이후에 이동했다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/puerto-lopez-terrestrial-terminal.jpg" title="Puerto Lopez terrestrial terminal" alt="Puerto Lopez terrestrial terminal">
@@ -149,7 +149,7 @@ description: 2025.08.15 키토에서 푸에르토 로페스까지 이동기 및 
 </div>
 <br>
 
-##### **Loft beach 숙소**
+### Loft beach 숙소
 숙소 주인 분은 어디를 가신 건지 자리에 없으셨고, 주인에게 부탁받으신 이모님께서 숙소 안내를 해주셨다. 그나저나 <span style="color: #8D4801">**발코니가 너무 좋았다. 묵는 내내 음악 들으며 바다와 사람들 보려고 자주 머물렀다.**</span>
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/loft-beach-1.jpg" title="The balcony of Loft beach" alt="The balcony of Loft beach">
@@ -169,8 +169,8 @@ description: 2025.08.15 키토에서 푸에르토 로페스까지 이동기 및 
 <br>
 
 ---
-#### <span style="color: #8D4801">**투어 알아보기**</span>
-##### **Espuma del mar 식당**
+## 투어 알아보기
+### Espuma del mar 식당
 <span style="color: #8D4801">**친구가 이 식당 오면 먹어야겠다고 생각했던 메뉴**</span>가 있었다고 해서 그대로 시켜서 나눠 먹었다. <span style="color: #8D4801">**Arroz Marinero**</span> 볶음밥이야 말할 것도 없이 맛있었고, <span style="color: #8D4801">**Cazuela Marinera**</span>는 죽 같은 식감에 비린 느낌도 없고 담백하니 맛있었다. 가려져 있지만 그릇 아래쪽에 오징어, 생선과 같은 각종 해산물이 숨어있었다.
 
 |:---:|:---:|
@@ -181,7 +181,7 @@ description: 2025.08.15 키토에서 푸에르토 로페스까지 이동기 및 
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d808.0157900556453!2d-80.81321955386272!3d-1.5592811400695787!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902e9e1f7ee47ecb%3A0x10de7eb9d7128f2d!2sRestaurante%20Espuma%20Del%20Mar!5e0!3m2!1sko!2sec!4v1755787745447!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
-##### **FRAGATA XTREME 여행사**
+### FRAGATA XTREME 여행사
 처음부터 이 여행사를 선택했던 건 아니고 <span style="color: #8D4801">**구글 맵을 기준으로 리뷰 많고 평점 좋은 여행사를 찾아다니며 플라타 섬 투어가 있는지 알아보았는데**</span> 생각지도 못하게 연락한 여행사들은 <span style="color: indianred">**전부 예약이 꽉 차 있어서**</span> 이때까지만 해도 플라타 섬은 못 가는 줄 알았다...
 
 이곳에서 <span style="color: #8D4801">**스쿠버다이빙**</span>도 할 수 있지만 <span style="color: indianred">**콜롬비아 가격의 약 2.5배**</span>라고 한다.
@@ -195,7 +195,7 @@ description: 2025.08.15 키토에서 푸에르토 로페스까지 이동기 및 
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d997.0851755680017!2d-80.81300643194653!3d-1.5593929674134581!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902e9fe8871268e7%3A0xcbc625a91e5bfc22!2sFRAGATA%20XTREME%20(Subwing)!5e0!3m2!1sko!2sec!4v1755788534522!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
-##### **푸에르토 로페스 관광 부두**
+### 푸에르토 로페스 관광 부두
 뭔가 표지판이 이뻐서 찍었는데, 이거 보고 어디 찾아갈 수는 있는 건가? 방향이 없는데
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/street-sign.jpg" title="Street sign in Puerto Lopez" alt="Street sign in Puerto Lopez">
@@ -221,7 +221,7 @@ description: 2025.08.15 키토에서 푸에르토 로페스까지 이동기 및 
 
 치열했던 예약의 순간들을 사진에 담을 순 없었지만... 일단 친구가 매우 많은 여행사에 WhatsApp으로 연락했으나 플라타 섬 투어 자리를 찾을 수는 없었다. 그래서 거의 포기한 상태로 <span style="color: #8D4801">**명일 토요일에 살랑고 섬 투어를 FRAGATA XTREME 여행사에서 예약**</span>한 뒤에 쉬던 중 극적으로 하나의 여행사에서 연락이 와서 <span style="color: #8D4801">**일요일에 플라타 섬 투어 예약**</span>을 할 수 있었다. (<span style="color: indianred">**누군가 혹시 주말에 오신다면 플라타 섬 투어는 미리 연락해서 예약**</span>하시고 오시기를)
 
-##### **Romance Marino 식당**
+### Romance Marino 식당
 <span style="color: #8D4801">**갈라파고스에선 Langosta가 그렇게 싸다면서?**</span>부터 시작된 랍스터 사냥 시간... <span style="color: #8D4801">**구글 맵에서도 파는 식당이 몇 개 없어서**</span> 가까운 곳 중에 평점 좋은 순으로 들러봤는데 <span style="color: indianred">**다들 재료가 없다고 손을 절레절레**</span> 흔드신다.
 
 아쉬운 맘을 안고 <span style="color: #8D4801">**숙소 바로 옆에 있는 식당**</span>에 들어가서 Langosta를 주문했는데 된다고 한다!
@@ -239,13 +239,13 @@ description: 2025.08.15 키토에서 푸에르토 로페스까지 이동기 및 
 
 ---
 
-#### <span style="color: #8D4801">**여행 경로**</span>
+## 여행 경로
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d78338.70827434002!2d-80.7852230928671!3d-1.5128481310961!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0x91d59a85e62ca895%3A0x217098644d0182ff!2sCentro%20Comercial%20I%C3%B1aquito%20(CCI)!3m2!1d-0.1767993!2d-78.4850658!4m5!1s0x91d58db4352baa87%3A0x2f9f7623e0894b8b!2z66eI66as7Iqk7Lm8IOyImO2BrOugiCDqta3soJzqs7Xtla0!3m2!1d-0.1242271!2d-78.36056839999999!4m5!1s0x902be6f60633c6ed%3A0x1260e2f387f7d729!2sEloy%20Alfaro%20International%20Airport!3m2!1d-0.9533834!2d-80.6838714!4m5!1s0x902be69a8c47e8ab%3A0xd2d4d38082b8b234!2zVGVybWluYWwgVGVycmVzdHJlIERlIE1hbnRhLCDrp4ztg4A!3m2!1d-0.9606631999999999!2d-80.6904709!4m5!1s0x902c208776215975%3A0x7272c8c8a037bf72!2sTerminal%20Terrestre%20Puerto%20Lopez!3m2!1d-1.5404421!2d-80.8018603!4m5!1s0x902e9f3524423219%3A0xa7fdda1621f08bc6!2sCoffee%20One%20Dolar!3m2!1d-1.5614697!2d-80.8147219!4m5!1s0x902e9e1f7ee47ecb%3A0x10de7eb9d7128f2d!2sRestaurante%20Espuma%20Del%20Mar!3m2!1d-1.5590112999999999!2d-80.8130405!4m5!1s0x902e9fe8871268e7%3A0xcbc625a91e5bfc22!2sFRAGATA%20XTREME%20(Subwing)%2C%20Puerto%20Lopez!3m2!1d-1.5592884!2d-80.8127248!4m5!1s0x902e9f00545654e5%3A0x87f42cec0aa40f97!2sMuelle%20de%20Puerto%20Lopez!3m2!1d-1.5609933!2d-80.8174011!4m5!1s0x902e9e1f170ea4ab%3A0x4ba38ee45c0e580!2sRestaurant%20Romance%20Marino%2C%20Malecon%20Julio%20Izurieta%2C%20Puerto%20Lopez!3m2!1d-1.561219!2d-80.8144239!5e0!3m2!1sko!2sec!4v1757351861847!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---
 
-#### <span style="color: #8D4801">**여행 경비**</span>
+## 여행 경비
 경비는 <span style="color: indianred">**2인 기준**</span>이다.
 
 | 2025.08.15 | 현지 통화 | 원화 | 비고 |

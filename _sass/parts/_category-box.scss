@@ -44,12 +44,13 @@
 
 .category-icon {
   cursor: pointer;
+  display: inline-block;
   width: 80px;
   height: 80px;
-  object-fit: cover;
-  border: none;
+  background-size: cover;
+  background-position: center;
   border-radius: 50%;
-  margin: 10px auto;
+  margin-top: 10px;
 }
 
 .category-title {

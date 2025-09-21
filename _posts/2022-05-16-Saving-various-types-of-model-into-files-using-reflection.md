@@ -22,14 +22,14 @@ permalink: /csharp/:year/:month/:day/:title/
 
 ---
 
-#### <span style="color: brown">**작성 동기**</span>
+## 작성 동기
 여느 때와 마찬가지로 설비 앞에서 노트북을 펼쳐놓고 업무를 하던 도중의 얘기다. 최근에 다른 부서에서 부서 이동을 하셨다는 책임님께서 갑자기 툭 던지듯이 말씀하셨다. "거 프로그램에 로그는 잘 남고 있나요?" 로그의 종류가 워낙 많아서 어떤 로그를 말씀하시는 건지 다시 여쭈었더니 <span style="color: #8D4801">**이전 프로젝트에서 잘 모르는 작업자가 무신경하게 잘못 저장한 파라미터로 인해 곤욕을 치렀던 경험**</span>을 말씀하셨고 현재 기록 중이지 않다면 로그를 추가해달라는 요청을 받았다.
 
 요청을 받자마자 진행 중이던 프로젝트를 확인해 보았고 View에서 파라미터의 변경 이벤트가 발생할 때 일부 컨트롤에서만 로그가 저장 중이고 누락되어있는 컨트롤이 많음을 확인하였다. 또한 이는 ViewController에서의 변경만을 기록 중인 것이지 실제로 모델의 파라미터가 저장될 때 기록되는 로그는 없었기에 순전히 <span style="color: #8D4801">**로그를 추가하기 위한 작업에서부터 시작**</span>되었다.
 
 ---
 
-#### <span style="color: brown">**문제 인식**</span>
+## 문제 인식
 모델의 파라미터가 저장될 때 로그를 기록하는 작업을 하기 위해 과장님께 보고했을 때 비슷한 요청을 받아 구현한 적이 있으니 한번 찾아보라는 말씀을 들었고 과거의 프로젝트를 뒤적거리던 도중 <span style="color: #8D4801">**ViewController에 빽빽하게 하드코딩 되어있는 로그**</span>들을 발견했다.
 
 먼저 <span style="color: #8D4801">**모델 부분에서 저장하는 함수가 아니라**</span> ViewController에서 변경 이벤트가 발생한 파라미터들을 저장 함수를 호출하여 입력하는 부분에서 남기는 로그라는 것도 마음에 걸렸고 무엇보다 <span style="color: #8D4801">**수백 개에 달하는 파라미터들을 일일이 복사 붙여넣기 하는 것**</span>도 보통 일이 아니라고 생각되었다. 더 나아가서 이렇게 작성할 경우 다음 프로젝트를 진행할 때 그리고, <span style="color: #8D4801">**새로운 프로젝트를 시작할 때마다 또 다시 이런 대대적인 수정을 거쳐야 한다**</span>고 생각했다.
@@ -40,7 +40,7 @@ permalink: /csharp/:year/:month/:day/:title/
 
 ---
 
-#### <span style="color: brown">**기존의 저장 함수**</span>
+## 기존의 저장 함수
 기존에 구현되어 있던 저장 함수 중 일부를 예시로 가져왔다. 이러한 형태로 모델마다 함수가 따로 있어 새로운 파라미터가 추가될 때마다 <span style="color: #8D4801">**수동으로 파라미터를 추가**</span>하는 것이 불가피하며 파라미터의 변경 여부를 확인하기 위해 <span style="color: #8D4801">**일일이 조건문으로 비교**</span>해야 한다. 현상을 유지하며 로그를 추가하려면 <span style="color: #8D4801">**모든 파라미터에 각각 로그를 추가하거나, 따로 파라미터의 변경 여부를 한 번 더 비교**</span>하면서 함수를 작성해야 한다.
 ```c#
 // ----- 함수 앞부분 생략 -----
@@ -71,8 +71,8 @@ if( varParameterOrigin.objExample.dExample != varParameter.objExample.dExample )
 
 ---
 
-#### <span style="color: brown">**새로운 함수를 구현해 보자**</span>
-##### **열거형 멤버 변수 선언**
+## 새로운 함수를 구현해 보자
+### 열거형 멤버 변수 선언
 ```c#
 private enum enumInstanceNameType
 {
@@ -93,7 +93,7 @@ private enum enumInstanceNameType
 
 <br>
 
-##### **메인 함수**
+### 메인 함수
 - <span style="color: #8D4801">**원본 함수**</span>
   - 먼저 원본 함수를 확인해 보자. 함수가 재귀적으로 호출되는 데다가 산재해 있는 예외 처리 로그들로 인해 <span style="color: #8D4801">**결과물의 가독성이 매우 떨어지고 복잡**</span>할 수 있다. 아래에서 하나씩 따로 <span style="color: #8D4801">**분리해서 알아보자.**</span> (이 포스트에서는 로그를 분류하여 실제로 파일에 저장하는 부분은 다루지 않고 콘솔 화면에 출력 함수로 대체한다.)
 
@@ -575,7 +575,7 @@ switch( eTypeCode ) {
 
 <br>
 
-##### **저장 시 객체 이름 짓기 함수**
+### 저장 시 객체 이름 짓기 함수
 ```c#
 /// <summary>
 /// Type에서 클래스 명의 'C' 또는 구조체 명의 "Structure"의 경우 "obj"로 변경하여 필드명 앞에 추가
@@ -636,8 +636,8 @@ public string GetInstanceName( string strTotalInstanceName, string strBaseObject
 
 ---
 
-#### <span style="color: brown">**구현한 함수의 장단점**</span>
-##### **장점**
+## 구현한 함수의 장단점
+### 장점
 1. 한 번만 함수 구현을 제대로 해두면 새로운 파라미터가 지속해서 추가되더라도 <span style="color: #8D4801">**추가 작업이 필요하지 않다.**</span>
 2. 단 하나의 함수로 기능이 일반화 되어있어 <span style="color: #8D4801">**일괄 수정에 용이**</span>하다.
 3. 다른 프로젝트로의 <span style="color: #8D4801">**이식이 하드코딩에 비해 편리**</span>하다.
@@ -645,7 +645,7 @@ public string GetInstanceName( string strTotalInstanceName, string strBaseObject
 
 <br>
 
-##### **단점**
+### 단점
 1. Reflection은 전반적으로 <span style="color: indianred">**동작이 느리다.**</span> 극대화된 성능과 속도를 취해야 한다면 사용을 지양해야 한다.
 2. 상기했듯이 <span style="color: indianred">**클래스와 구조체 등 Object의 네이밍이 강제**</span>되어 네이밍에 불편함을 겪을 수 있을 뿐만 아니라 다수의 개발자와 협업할수록 문제 발생의 가능성이 높아진다.
 3. <span style="color: indianred">**완벽한 동적 구현이 사실상 불가능**</span>하다. 개발자나 개발 환경에 따라 고차원의 배열이나 컬렉션을 사용할 수도 있고 자유로운 형태의 타입을 사용할 수 있는데 그 무한한 타입에 모두 대응할 수가 없다. 설령 대응하여 구현한다고 하더라도 콜백지옥보다 더한 함수가 돼버린다 (이미 그러하다).
@@ -653,5 +653,5 @@ public string GetInstanceName( string strTotalInstanceName, string strBaseObject
 
 ---
 
-#### 마무리하며...
+## 마무리하며...
 이번 포스트에서는 Reflection을 이용하여 동적으로 모델을 파일에 저장하는 함수를 작성해 보았다. 사실 직업 특성상 개발 도중 구글링조차 불가능한 상태로 구현한 함수라 미흡한 면도 많고 더 좋은 방법이 많을 수도 있다. 하지만, 이런 식으로 부족함을 개선하기 위해서 끊임없이 고민하고 연구하다 보면 내일은 조금 더 좋은 코드를 작성할 수 있지 않을까?

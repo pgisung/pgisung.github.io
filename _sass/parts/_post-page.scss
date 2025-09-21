@@ -17,6 +17,35 @@
   .post-content {
     font-family: 'IBM Plex Sans KR', sans-serif;
     margin-bottom: 40px;
+    h2 {
+      color: brown;
+      font-weight: 700;
+      padding-left: 10px;
+      border-left: 3px solid variables.$lightbrown;
+    }
+    h3 {
+      font-weight: 700;
+    }
+    h3::before {
+      content: " 🌳 ";
+      margin-right: 10px;
+    }
+    h4 {
+      color: variables.$brown;
+      font-weight: 700;
+    }
+    h4::before {
+      content: " 💐 ";
+      margin-right: 10px;
+    }
+    h5::before {
+      content: " 🌿 ";
+      margin-right: 10px;
+    }
+    h6::before {
+      content: " 🍀 ";
+      margin-right: 10px;
+    }
     h1, h2, h3, h4, h5, h6, p {
       font-family: 'IBM Plex Sans KR', sans-serif;
     }
@@ -58,12 +87,12 @@
     text-shadow: 0px 1px 1px rgba(51, 51, 51, 0.10);
     animation: slideup 2s 0.5s ease-out both;
     .flag-icon{
+      display: inline-block;
       height: 60px;
-      width: auto;
-      vertical-align: middle;
+      width: 80px;
+      background-size: cover;
+      background-position: center;
       margin-right: 0.3em;
-      border-radius: 0px;
-      border: none;
     }
   }
   .post-meta {
@@ -163,18 +192,17 @@
   }
 }
 
-// 첫 글자만 유난히 강조되서 오히려 보기 안좋음, 나중에 필요할 때 풀어서 쓰자
-// .post-content::first-letter,
-// .post-content>p:first-of-type::first-letter {
-//   display: block;
-//   height: 40px;
-//   margin-top: 10px;
-//   margin-right: 10px;
-//   float: left;
-//   font-size: 55px;
-//   color: variables.$brown;
-//   line-height: 0.6;
-// }
+.post-content::first-letter,
+.post-content>p:first-of-type::first-letter {
+  display: block;
+  height: 40px;
+  margin-top: 10px;
+  margin-right: 10px;
+  float: left;
+  font-size: 55px;
+  color: brown;
+  line-height: 0.6;
+}
 
 @media screen and (max-width: 576px) {
   .post-footer {
@@ -207,7 +235,7 @@
       max-height: 100px;
       border-radius: 50%;
     }
-    a {
+    span {
       display: block;
       width: 100px;
       height: 100px;
@@ -369,6 +397,7 @@
       font-size: 40px;
       .flag-icon{
         height: 40px;
+        width: 53px;
       }
     }
 

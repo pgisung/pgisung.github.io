@@ -23,7 +23,7 @@ description: 버전 관리의 꽃이라 해도 과언이 아닐 파트이다. �
 - [리베이스 중지 옵션](#리베이스-중지-옵션 "Navigate to Option to abort rebase")
 - [대화형 리베이스](#대화형-리베이스 "Navigate to Interactive rebase")
 4. [병합과 리베이스의 차이점](#병합과-리베이스의-차이점 "Navigate to Difference between merge and rebase")
-- [헷갈리기 쉬운 명령어의 방향](#-헷갈리기-쉬운-명령어의-방향 "Navigate to Direction of command that easily confused")
+- [헷갈리기 쉬운 명령어의 방향](#헷갈리기-쉬운-명령어의-방향 "Navigate to Direction of command that easily confused")
 5. [체리픽이란?](#체리픽이란 "Navigate to What is cherry-pick?")
 - [체리픽 명령어](#체리픽-명령어 "Navigate to Command cherry-pick")
 - [체리픽 진행 옵션](#체리픽-진행-옵션 "Navigate to Option to continue cherry-pick")
@@ -35,23 +35,23 @@ description: 버전 관리의 꽃이라 해도 과언이 아닐 파트이다. �
 
 ---
 
-#### <span style="color: brown">**Base commit**</span>
+## Base commit
 <center><img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-10-14-Merge-and-rebase/reference-of-base-commit.webp" title="Reference of base commit" alt="Reference of base commit"></center>
 - Base 커밋이란 한국어로 공통 조상 커밋이라고 표현할 수 있으며 <span style="color: #8D4801">**두 개 이상의 브랜치나 커밋이 공유하는 최신 공통 커밋**</span>을 의미한다. 주로 병합 및 리베이스의 기준 역할을 한다.
 
 ---
 
-#### <span style="color: brown">**병합이란?**</span>
+## 병합이란?
 <span style="color: #8D4801">**Base 커밋을 기준으로 현재 작업 중인 브랜치에 지정된 브랜치의 커밋을 모두 통합하는**</span> 것이다. 이러한 병합에는 <span style="color: #8D4801">**두 가지 방식**</span>이 존재한다.
 
-##### **Fast-forward 병합**
+### Fast-forward 병합
 <center><img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-10-14-Merge-and-rebase/reference-of-fast-forward-merge.webp" title="Reference of Fast-forward merge" alt="Reference of Fast-forward merge"></center>
 - 위의 그림과 같이 <span style="color: #8D4801">**현재 작업 중인 브랜치의 최신 커밋이 병합을 지정한 브랜치의 시작 커밋과 연결**</span>되어있을 경우 브랜치가 분기되어 있지만 마치 <span style="color: #8D4801">**순차적**</span>으로 생성된 커밋의 흐름처럼 보인다. 이런 경우엔 <span style="color: #8D4801">**새로운 병합 커밋을 생성하지 않고 현재 작업 중인 브랜치의 HEAD를 병합을 지정한 브랜치의 최신 커밋으로 이동**</span>만 시키는데 이러한 병합 방식을 <span style="color: #8D4801">**Fast-forward 병합**</span>이라고 한다.
 - 일반적으로 <span style="color: #8D4801">**혼자**</span> 프로젝트를 진행할 경우 접하게 되는 병합 방식이다.
 
 <br>
 
-##### **3-way 병합**
+### 3-way 병합
 <center><img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-10-14-Merge-and-rebase/reference-of-three-way-merge.webp" title="Reference of Three-way merge" alt="Reference of Three-way merge"></center>
 - 위의 그림과 같이 base 커밋을 기준으로 <span style="color: #8D4801">**세 종류의 서로 다른 커밋들**</span>을 현재 작업 중인 브랜치에 <span style="color: #8D4801">**새로운 하나의 커밋으로 병합**</span>하는 방식을 <span style="color: #8D4801">**3-way 병합**</span>이라고 한다.
 - <span style="color: #8D4801">**다수의 개발자와 협업**</span>하여 프로젝트를 진행할 경우 접하게 되는 병합 방식이다.
@@ -59,7 +59,7 @@ description: 버전 관리의 꽃이라 해도 과언이 아닐 파트이다. �
 
 <br>
 
-##### **병합 명령어**
+### 병합 명령어
 ```bash
 git merge <파생 브랜치 이름>
 ```
@@ -76,7 +76,7 @@ git merge <파생 브랜치 이름>
 
 <br>
 
-##### **병합 진행 옵션**
+### 병합 진행 옵션
 ```bash
 git merge --continue
 ```
@@ -85,7 +85,7 @@ git merge --continue
 
 <br>
 
-##### **병합 중지 옵션**
+### 병합 중지 옵션
 ```bash
 git merge --abort
 ```
@@ -94,13 +94,13 @@ git merge --abort
 
 ---
 
-#### <span style="color: brown">**리베이스란?**</span>
+## 리베이스란?
 말 그대로 <span style="color: #8D4801">**base 커밋을 다시 설정하는 것**</span>으로 <span style="color: #8D4801">**지정된 브랜치의 base 커밋을 최신 커밋으로 이동**</span>시키는데, 과거 base 커밋과 연결되어 있던 <span style="color: #8D4801">**현재 작업 중인 브랜치 또한 이동한 새로운 base 커밋으로 연결**</span>된다. 또한 현재 작업 중인 브랜치의 이동한 커밋들의 <span style="color: indianred">**해시값**</span>은 <span style="color: indianred">**모두 변경**</span>된다. Interactive 옵션을 사용 시 <span style="color: indianred">**커밋의 순서와 위치까지도 변경**</span>할 수 있으며 <span style="color: indianred">**이는 저장소가 공개된 경우 다른 개발자들과의 협업 시 혼돈을 야기시킬 수 있기 때문에 사용에 유의**</span>해야한다.
 <center><img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-10-14-Merge-and-rebase/reference-of-rebase.webp" title="Reference of rebase" alt="Reference of rebase"></center>
 
 <br>
 
-##### **리베이스 명령어**
+### 리베이스 명령어
 ```bash
 git rebase <목적 브랜치 이름>
 ```
@@ -117,7 +117,7 @@ git rebase <목적 브랜치 이름>
 
 <br>
 
-##### **범위 지정 리베이스**
+### 범위 지정 리베이스
 ```bash
 git rebase <목적 브랜치 이름> <리베이스 기준점>
 ```
@@ -147,7 +147,7 @@ git rebase --onto <목적 브랜치 이름> <리베이스 기준점> <커밋 범
 
 <br>
 
-##### **리베이스 진행 옵션**
+### 리베이스 진행 옵션
 ```bash
 git rebase --continue
 ```
@@ -156,7 +156,7 @@ git rebase --continue
 
 <br>
 
-##### **리베이스 건너뛰기 옵션**
+### 리베이스 건너뛰기 옵션
 ```bash
 git rebase --skip
 ```
@@ -165,7 +165,7 @@ git rebase --skip
 
 <br>
 
-##### **리베이스 중지 옵션**
+### 리베이스 중지 옵션
 ```bash
 git rebase --abort
 ```
@@ -174,7 +174,7 @@ git rebase --abort
 
 <br>
 
-##### **대화형 리베이스**
+### 대화형 리베이스
 ```bash
 git rebase -i <커밋 범위>
 ```
@@ -192,7 +192,7 @@ git rebase --interactive <커밋 범위>
 
 ---
 
-#### <span style="color: brown">**병합과 리베이스의 차이점**</span>
+## 병합과 리베이스의 차이점
 <span style="color: #8D4801">**병합**</span>은 내부적으로 현재 작업 중인 브랜치와 지정된 브랜치의 각 커밋들을 순차적으로 비교(<span style="color: deeppink">**그림 1, 2번 과정**</span>)하여 최종적으로 병합 커밋을 생성한다.(<span style="color: deeppink">**그림 3번 과정**</span>) 즉, 충돌이 발생할 경우 모든 커밋의 비교가 완료된 후에 <span style="color: #8D4801">**한 번에 충돌을 해결하고 병합 커밋을 생성**</span>한다.
 <center><img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-10-14-Merge-and-rebase/example-flow-of-merge.webp" title="Flow of merge to compare with rebase" alt="Flow of merge to compare with rebase"></center>
 
@@ -207,7 +207,7 @@ git rebase --interactive <커밋 범위>
 
 <span style="color: #8D4801">**병합**</span>의 경우 각 브랜치의 HEAD가 기본적으로 최신 커밋을 가리키고 있지만 <span style="color: #8D4801">**리베이스**</span>는 목적 브랜치의 HEAD가 최신 커밋이 아니라 변경된 base 커밋을 가리키고 있다.
 
-###### <span style="color: indianred">**※ 헷갈리기 쉬운 명령어의 방향**</span>
+#### 헷갈리기 쉬운 명령어의 방향
 <center><img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-10-14-Merge-and-rebase/comparison-between-merge-and-rebase.webp" title="Comparing that direction of command between merge and rebase" alt="Comparing that direction of command between merge and rebase"></center>
 - <span style="color: #8D4801">**main 브랜치**</span>로 <span style="color: #8D4801">**jisung 브랜치**</span>를 병합하는 상황을 가정해 보자.
 - 병합의 경우엔 <span style="color: #8D4801">**main 브랜치로 이동해서 jisung 브랜치의 병합을 명령**</span>하고
@@ -223,13 +223,13 @@ git rebase main
 
 ---
 
-#### <span style="color: brown">**체리픽이란?**</span>
+## 체리픽이란?
 체리나 과일에서 <span style="color: #8D4801">**좋은 것만 골라서 선택하는 행위**</span>를 뜻하는 단어로 Git에서는 <span style="color: #8D4801">**다른 브랜치에서 선택적으로 원하는 커밋을 골라내어 현재 브랜치로 가져오는**</span> 명령어를 의미한다.
 <center><img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-10-14-Merge-and-rebase/reference-of-cherry-pick.webp" title="Reference of cherry-pick" alt="Reference of cherry-pick"></center>
 
 <br>
 
-##### **체리픽 명령어**
+### 체리픽 명령어
 ```bash
 git cherry-pick <커밋 해시값>
 ```
@@ -244,7 +244,7 @@ git cherry-pick <커밋 해시값>
 
 <br>
 
-##### **체리픽 진행 옵션**
+### 체리픽 진행 옵션
 ```bash
 git cherry-pick --continue
 ```
@@ -253,7 +253,7 @@ git cherry-pick --continue
 
 <br>
 
-##### **체리픽 건너뛰기 옵션**
+### 체리픽 건너뛰기 옵션
 ```bash
 git cherry-pick --skip
 ```
@@ -262,7 +262,7 @@ git cherry-pick --skip
 
 <br>
 
-##### **체리픽 중지 옵션**
+### 체리픽 중지 옵션
 ```bash
 git cherry-pick --abort
 ```
@@ -271,8 +271,8 @@ git cherry-pick --abort
 
 ---
 
-#### <span style="color: brown">**충돌과 해결 방법**</span>
-##### **충돌이란?**
+## 충돌과 해결 방법
+### 충돌이란?
 <center><img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-10-14-Merge-and-rebase/reference-of-conflict.webp" title="Reference of conflict" alt="Reference of conflict" width="70%"></center>
 - <span style="color: green">**동일한 파일**</span>에서 <span style="color: green">**동일한 위치**</span>의 코드를 <span style="color: dodgerblue">**두 명 이상이 서로 다르게 수정**</span>했을 때 <span style="color: #8D4801">**병합을 시도할 경우 충돌이 발생**</span>한다.
 - 충돌이 발생할 경우 <span style="color: #8D4801">**병합이 중지**</span>되고 수동으로 해결할 때까지 <span style="color: #8D4801">**커밋이 생성되지 않는다.**</span> 병합이 중지된 경우 "--continue" 옵션으로 병합을 지속하거나 "--abort" 옵션으로 병합을 중단할 수 있다.
@@ -280,7 +280,7 @@ git cherry-pick --abort
 
 <br>
 
-##### **해결 방법**
+### 해결 방법
 1. 먼저 충돌이 발생한 <span style="color: #8D4801">**파일들을 목록으로 확인**</span>한다.
 ```bash
 git ls-files -u
@@ -323,5 +323,5 @@ git ls-files --unmerged
 
 ---
 
-#### 마무리하며...
+## 마무리하며...
 이번 포스트에서는 병합과 리베이스 그리고 그 도중에 발생할 수 있는 충돌에 대하여 알아보았다. 작성을 시작할 때는 아는 한도 내에서 쉽게 풀어서 작성해 보자고 다짐했는데 막상 읽어보니 쉬운 게 맞나..? 의구심이 들어서 몇 번을 더 수정했던 것 같다. 다음 포스트에서는 작업 중 발생하는 실수를 되돌릴 수 있게 해주는 복구 명령어들을 알아보자.

@@ -18,7 +18,7 @@ description: 2025.09.01 에콰도르 키토에서 볼리비아 비자 발급받�
 
 ---
 
-#### <span style="color: #8D4801">**대사관 방문 전 미리 준비할 것**</span>
+## 대사관 방문 전 미리 준비할 것
 준비하는 서류들이 <span style="color: indianred">**작성한 사람 또는 제출하는 국가에 따라 조금씩 다를 수 있지만**</span> 키토의 볼리비아 대사관에서 서류에 <span style="color: #8D4801">**문제없이 프리패스한 필자가 준비했던 서류들**</span> 정보로만 봐주셨으면 좋겠다.
 
 사실 복잡하게 생각할 것 없이 <span style="color: indianred">**온라인 비자 신청 페이지에서 요구하는 서류들을 준비**</span>하면 되기 때문에 온라인 신청서 작성을 먼저 진행하면서 하나하나 따라가면서 준비해도 될 것 같았다. 그래도 필요한 것들을 한 번에 나열해 보자면
@@ -72,7 +72,7 @@ description: 2025.09.01 에콰도르 키토에서 볼리비아 비자 발급받�
 
 ---
 
-#### <span style="color: #8D4801">**서류 인쇄**</span>
+## 서류 인쇄
 서류들이 준비되면 인쇄하러 가야 하는데 사실 근처에 대사관이나 회사가 많아서 그런지 Copy라고 써 붙이고 인쇄가 가능한 가게가 많아서 <span style="color: indianred">**본인의 숙소와 가까운 곳을 방문하여 인쇄**</span>하면 될 것 같다.
 
 들은 소식 중에 국경을 통과할 때 비자 신청 때 확인했던 서류들을 다시 본다는 얘기가 있어서 필자는 <span style="color: #8D4801">**모든 서류를 2매씩 인쇄**</span>하고 한 세트는 따로 챙겼다.
@@ -106,7 +106,7 @@ description: 2025.09.01 에콰도르 키토에서 볼리비아 비자 발급받�
 
 ---
 
-#### <span style="color: #8D4801">**Stop 식당**</span>
+## Stop 식당
 2km를 넘게 걸어왔는데 1시간이 붕 떠버려서 어디에서 기다릴지 고민 중에 <span style="color: indianred">**가장 가까웠던 식당**</span>이 눈에 띄어서 나도 점심을 먹으며 기다리기로 마음먹고 들어갔다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-01-Getting-a-Bolivia-visa-in-Quito/stop-restaurant.jpg" title="Stop restaurant" alt="Stop restaurant">
@@ -148,7 +148,7 @@ description: 2025.09.01 에콰도르 키토에서 볼리비아 비자 발급받�
 
 ---
 
-#### <span style="color: #8D4801">**대사관 방문**</span>
+## 대사관 방문
 식사를 마치고 대사관 입구로 이동하여 <span style="color: #8D4801">**가장 위에 있던 대사관의 호출 버튼**</span>을 눌렀다. 혹시 구글 맵을 검색하여 찾아오시면 대사관이 어디 있는지 헤매실 수 있는데, <span style="color: indianred">**외관상 그냥 일반 단독주택 가정집**</span>처럼 생겼다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-01-Getting-a-Bolivia-visa-in-Quito/entrance-of-bolivia-embassy.jpg" title="Entrance of Bolivia embassy" alt="Entrance of Bolivia embassy">
@@ -184,13 +184,13 @@ description: 2025.09.01 에콰도르 키토에서 볼리비아 비자 발급받�
 
 ---
 
-#### <span style="color: #8D4801">**여행 경로**</span>
+## 여행 경로
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d7685.554077524386!2d-78.48032948720851!3d-0.1798378618826671!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e2!4m5!1s0x91d59a85e62ca895%3A0x217098644d0182ff!2sCentro%20Comercial%20I%C3%B1aquito%20(CCI)%2C%20RGF7%2B7XM%2C%20Av.%20Naciones%20Unidas%2C%20Quito%20170506!3m2!1d-0.1767993!2d-78.4850658!4m5!1s0x91d59a853da9eef7%3A0xa7e6e0f6b5be9ee4!2sGavidia%20Consultores%2C%20CC%20Naciones%20Unidas%2C%20Local%20PB%2034%2C%20Calle%20Uni%C3%B3n%20Nacional%20de%20Periodistas%2C%20I%C3%B1aquito%20n%2C%20Quito%20170135!3m2!1d-0.1750447!2d-78.4846105!4m5!1s0x91d59a7f03e4713b%3A0xdb3397b7e04e47c!2sEmbassy%20of%20Bolivia%2C%20RG7F%2BV3G%2C%20Av.%20Eloy%20Alfaro%2C%20Quito%20170135!3m2!1d-0.1853041!2d-78.4773025!4m5!1s0x91d59a656b4a7a97%3A0xbfb644f74bdbf6aa!2sStop%2C%20Av.%20Eloy%20Alfaro%20N34-248%2C%20Quito%20170518!3m2!1d-0.1841854!2d-78.47639459999999!4m5!1s0x91d59a7f03e4713b%3A0xdb3397b7e04e47c!2sEmbassy%20of%20Bolivia%2C%20RG7F%2BV3G%2C%20Av.%20Eloy%20Alfaro%2C%20Quito%20170135!3m2!1d-0.1853041!2d-78.4773025!5e0!3m2!1sko!2sec!4v1757349362175!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---
 
-#### <span style="color: #8D4801">**여행 경비**</span>
+## 여행 경비
 경비는 <span style="color: indianred">**1인 기준**</span>이다.
 
 | 2025.09.01 | 현지 통화 | 원화 |

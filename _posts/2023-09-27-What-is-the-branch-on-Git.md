@@ -32,7 +32,7 @@ description: Git의 branch가 무엇인지 알아보자. 그리고 branch를 관
 
 ---
 
-#### 들어가기 전에
+## 들어가기 전에
 Branch는 Git에서 commit만큼이나 중요한 핵심 요소이다. commit이 Git의 내용물이라고 하면 branch는 일종의 포장과 같다고 볼 수 있는데 이 두 요소의 개념만 확실히 잡아둬도 Git의 원리를 좀 더 쉽게 이해할 수 있다. 다음은 Git의 branch를 이해할 때 도움이 되는 Tutorial 사이트이다. [https://learngitbranching.js.org/?locale=ko](https://learngitbranching.js.org/?locale=ko "Navigate to The site helpful to learn about Git branch")
 
 <center><img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-27-What-is-the-branch-on-Git/commits-and-branches.webp" title="Example image for several commits and branches" alt="Example image for several commits and branches" width="70%"></center>
@@ -43,7 +43,7 @@ Branch는 Git에서 commit만큼이나 중요한 핵심 요소이다. commit이 
 
 ---
 
-#### <span style="color: brown">**Branch를 알아보자**</span>
+## Branch를 알아보자
 Branch 단어는 나뭇가지, 지사, 분점, 둘 이상으로 나뉘다의 뜻이 있다. 단어의 뜻과 같이 <span style="color: #8D4801">**Git의 branch 또한 저장공간을 나누는 데 실제 저장공간이 나누어지는 것은 아니며 가상의 저장공간이 생성**</span>되는 느낌이다.
 
 <center><img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-27-What-is-the-branch-on-Git/branch-in-naver-dictionary.jpg" title="Definition of branch in Naver dictionary" alt="Definition of branch in Naver dictionary"></center>
@@ -55,14 +55,14 @@ Branch 단어는 나뭇가지, 지사, 분점, 둘 이상으로 나뉘다의 뜻
 </center>
 <br>
 
-##### **Branch의 필요성**
+### Branch의 필요성
 <center><img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-27-What-is-the-branch-on-Git/difference-while-working-in-file-system-between-no-version-management-and-Git.webp" title="Difference while working in file system between no version management and Git" alt="Difference while working in file system between no version management and Git"></center>
 
 - 우리는 사실 이미 문서를 작성할 때 브랜치를 나눠서 진행하는 작업을 알게 모르게 해왔다. 수정해야 할 작업이 생겼을 때 원래의 프로젝트를 아무 조치 없이 그냥 수정했다간 실수를 복구하기가 너무 어렵기 때문에 원래의 프로젝트를 복사하여 백업해 두고 새로운 사본에 작업을 진행했었다. 하지만 이런 방식은 매번 수정할 때마다 사본이 통째로 생성되어 저장공간이 많이 낭비될 뿐만 아니라 향후 각각의 작업을 병합하는 것 또한 어려워진다. <span style="color: #8D4801">**Git의 branch는 실질적인 working directory가 단 한 곳이며 공통 조상 커밋을 기준으로 변화된 커밋만 따로 저장하면 되므로 훨씬 더 효율적**</span>이다.
 
 <br>
 
-##### **Branch의 종류**
+### Branch의 종류
 <center><img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-09-27-What-is-the-branch-on-Git/image-that-showing-kind-of-branch.webp" title="Image that showing kind of branch" alt="Image that showing kind of branch" width="70%"></center>
 
 - **Default branch**
@@ -81,8 +81,8 @@ Branch 단어는 나뭇가지, 지사, 분점, 둘 이상으로 나뉘다의 뜻
 
 ---
 
-#### <span style="color: brown">**Branch 관리하기**</span>
-##### **Branch 생성하기**
+## Branch 관리하기
+### Branch 생성하기
 ```bash
 git branch <브랜치 이름> (커밋 해시값)
 ```
@@ -100,7 +100,7 @@ git branch <브랜치 이름> (커밋 해시값)
 
 <br>
 
-##### **Branch 명명 규칙**
+### Branch 명명 규칙
 - 브랜치 이름은 알파벳과 숫자, 밑줄(_), 하이픈(-)으로 시작할 수 있다.
 - 브랜치 이름에는 빈칸이나 공백 문자, 대부분의 특수문자를 사용할 수 없다.
 - 아스키 제어 문자는 포함할 수 없고 유니코드 문자는 포함할 수 있다.
@@ -110,7 +110,7 @@ git branch <브랜치 이름> (커밋 해시값)
 
 <br>
 
-##### **Upstream 연결**
+### Upstream 연결
 ```bash
 git branch -u <원격 저장소 이름/브랜치 이름>
 ```
@@ -153,7 +153,7 @@ git checkout --track <원격 저장소 이름/브랜치 이름>
 
 <br>
 
-##### **Branch 삭제하기**
+### Branch 삭제하기
 ```bash
 git branch -d <브랜치 이름>
 ```
@@ -189,8 +189,8 @@ git branch -D <브랜치 이름>
 
 ---
 
-#### <span style="color: brown">**Branch 정보 확인하기**</span>
-##### **브랜치 해시**
+## Branch 정보 확인하기
+### 브랜치 해시
 ```bash
 git rev-parse <브랜치 이름>
 ```
@@ -199,7 +199,7 @@ git rev-parse <브랜치 이름>
 
 <br>
 
-##### **로컬 브랜치 목록보기**
+### 로컬 브랜치 목록보기
 ```bash
 git branch
 ```
@@ -208,7 +208,7 @@ git branch
 
 <br>
 
-##### **로컬 저장소의 추적 브랜치 목록보기**
+### 로컬 저장소의 추적 브랜치 목록보기
 ```bash
 git branch -vv
 ```
@@ -217,7 +217,7 @@ git branch -vv
 
 <br>
 
-##### **원격 브랜치 목록보기**
+### 원격 브랜치 목록보기
 ```bash
 git branch -r
 ```
@@ -229,7 +229,7 @@ git branch --remotes
 
 <br>
 
-##### **모든 브랜치 목록보기**
+### 모든 브랜치 목록보기
 ```bash
 git branch -a
 ```
@@ -241,7 +241,7 @@ git branch --all
 
 <br>
 
-##### **브랜치 병합 여부 확인하기**
+### 브랜치 병합 여부 확인하기
 ```bash
 git branch --merged
 ```
@@ -258,7 +258,7 @@ git branch --no-merged
 
 ---
 
-#### <span style="color: brown">**Branch 간 이동하기**</span>
+## Branch 간 이동하기
 ```bash
 git switch <브랜치 이름>
 ```
@@ -271,7 +271,7 @@ git checkout <브랜치 이름>
 
 <br>
 
-##### **파일 체크아웃**
+### 파일 체크아웃
 ```bash
 git checkout -- <파일 이름>
 ```
@@ -281,7 +281,7 @@ git checkout -- <파일 이름>
 
 <br>
 
-##### **이전 브랜치**
+### 이전 브랜치
 ```bash
 git switch -
 ```
@@ -293,7 +293,7 @@ git checkout -
 
 <br>
 
-##### **HEAD 포인터**
+### HEAD 포인터
 ```bash
 git switch --detach HEAD^^^
 git switch --detach HEAD~~~
@@ -318,7 +318,7 @@ git checkout HEAD~3
 
 <br>
 
-##### **브랜치 새로 생성하면서 이동하기**
+### 브랜치 새로 생성하면서 이동하기
 ```bash
 git switch -c <브랜치 이름>
 ```
@@ -341,7 +341,7 @@ git checkout -b <브랜치 이름>
 
 <br>
 
-##### **커밋으로 이동하기**
+### 커밋으로 이동하기
 ```bash
 git switch --detach <커밋 해시값>
 ```
@@ -352,5 +352,5 @@ git checkout <커밋 해시값>
 
 ---
 
-#### 마무리하며...
+## 마무리하며...
 이번 포스트에서는 Git의 핵심 요소 중 하나인 브랜치에 관하여 알아보았다. 이제 Git의 커다란 청사진은 그려졌고 앞으로는 이 commit과 branch를 응용한 여러 가지 작업을 알아볼 시간만 남았다. 다음 포스트에서는 Working directory에 작업 중이던 내용을 임시 저장할 수 있는 스태시 기능을 알아보자.

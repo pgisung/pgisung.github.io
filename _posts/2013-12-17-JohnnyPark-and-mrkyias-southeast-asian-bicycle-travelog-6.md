@@ -23,7 +23,7 @@ description: 2013.12.17 말레이시아 조호르 바루에서 겔랑 파타까�
 
 ---
 
-#### <span style="color: #8D4801">**아마도 이제부터 글의 시작은 언제나 라이딩**</span>
+## 아마도 이제부터 글의 시작은 언제나 라이딩
 아침으로 미고렝과 오렌지주스를 먹고(사진은 어디로...) 국경을 건너왔으니 데이터 사용을 위해 <span style="color: indianred">**선불 유심칩을 사서 핸드폰에 바꿔 끼고 라이딩을 시작**</span>했다. 
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/prepaid-usim-chip-in-malaysia.jpg" title="Prepaid USIM chip in Malaysia" alt="Prepaid USIM chip in Malaysia">
@@ -42,8 +42,8 @@ description: 2013.12.17 말레이시아 조호르 바루에서 겔랑 파타까�
 
 ---
 
-#### <span style="color: #8D4801">**Boy를 만나다**</span>
-##### **리마 케다이**
+## Boy를 만나다
+### 리마 케다이
 Lima Kedai 즈음의 도로에서 너무 힘들어서 쉬고 있는데 <span style="color: #8D4801">**한 남자가 우리에게 자리를 권하고 음료수를 사줬다**</span>. 100PLUS라고 말레이시아에서는 흔히 마시는 음료로 <span style="color: indianred">**약간의 탄산에 이온 음료 느낌**</span>이 나는 특이한 음료였다. 시원하게 음료를 마시면서 대화를 나누는데 <span style="color: #8D4801">**남자의 이름은 Boy이고 배로 운송업을 하고 있고 본인도 자전거를 취미**</span>로 하고 있어서 말을 걸어왔다고 했다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/blogger-with-malaysia-food-truck.jpg" title="Blogger with Malaysia food truck" alt="Blogger with Malaysia food truck">
@@ -79,7 +79,7 @@ Lima Kedai 즈음의 도로에서 너무 힘들어서 쉬고 있는데 <span sty
 
 ---
 
-#### <span style="color: #8D4801">**코타 이스칸다르**</span>
+## 코타 이스칸다르
 그렇게 Boy와 헤어진 후 약 13km를 달리다 보니 보이던 <span style="color: #8D4801">**모스크 건물과 주정부 청사들**</span>이 매우 아름다웠는데, 이 건물들이 <span style="color: indianred">**스페인 그라나다의 알함브라 궁전에서 영감**</span>을 얻고 지어진 건물들이라고 한다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/kota-iskandar.jpg" title="Kota Iskandar" alt="Kota Iskandar">
@@ -97,7 +97,7 @@ Lima Kedai 즈음의 도로에서 너무 힘들어서 쉬고 있는데 <span sty
 
 ---
 
-#### <span style="color: #8D4801">**푸테리 항구**</span>
+## 푸테리 항구
 약 7km를 더 주행하니 Puteri Habor에 도착했다. 항구에 대한 인상은 무역품 컨테이너들이 가득 쌓여있고 거대한 운송선이 오가는 그런 항구가 아니라 <span style="color: indianred">**유람선이나 관광용 선박, 여행 목적**</span>의 선박들이 정박해 있는 항구로 보였다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/puteri-harbour.jpg" title="Puteri Harbour" alt="Puteri Harbour">
@@ -113,7 +113,7 @@ Lima Kedai 즈음의 도로에서 너무 힘들어서 쉬고 있는데 <span sty
 </div>
 <br>
 
-##### **올리브 키친 바**
+### 올리브 키친 바
 그렇게 기다리다 보니 Boy가 도착했고, 근처의 식당에서 함께 식사했는데 <span style="color: #8D4801">**스파게티와 미트볼라이스**</span> 같은 요리를 시켜 먹었는데 익숙한 맛이긴 했지만 매우 맛있었다. (당시에는 사진에 대한 의식 없이 먹어버려서...)
 
 오후에 음료와 전통음식을 사준 게 고마워서 <span style="color: indianred">**저녁은 우리가 사려했었는데, BOY가 자기가 사겠다**</span>며 만류했다. 그는 그러면서 자기 생각을 공유했는데, 전 세계의 친구들을 만들어가면서 서로 페이스북으로 꾸준히 연락하면서 서로의 나라에서 빛을 볼만한 사업아이디어 같은 것을 교환하자는 것이었다. 당시까지는 뭐 그런 거창한 생각을 가져본 적은 없어서 그와의 대화에서 약간 <span style="color: #8D4801">**시야 넓은 생각을 해볼 기회**</span>가 됐던 것 같다.
@@ -122,19 +122,19 @@ Lima Kedai 즈음의 도로에서 너무 힘들어서 쉬고 있는데 <span sty
 
 ---
 
-#### <span style="color: #8D4801">**겔랑 파타**</span>
+## 겔랑 파타
 BOY와 헤어지고 숙소가 많을 만한 시내로 이동하는 길
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/puteri-harbour-street.jpg" title="Puteri harbour street" alt="Puteri harbour street">
 </div>
 <br>
 
-##### **오리엔트 호텔**
+### 오리엔트 호텔
 겔랑 파타에 도착하여 숙소를 잡고 씻고 휴식을 취하다가 숙소 체크인할 때 보였던 야시장 구경을 하러 나섰다.
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d498.5674993861083!2d103.5957443844373!3d1.450418567692114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da0b1b56bb64f9%3A0x76999331119cf420!2sHotel%20Orient!5e0!3m2!1sko!2sec!4v1756992775979!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
-##### **바자르 라마단 누사 페린티스 야시장**
+### 바자르 라마단 누사 페린티스 야시장
 야시장에는 <span style="color: #8D4801">**처음 보는 신기한 먹을거리**</span>가 많았다. 잡채처럼 생긴 비빔면 맛이 나는 요리가 도시락 한가득 700원에 팔아서 일단 구매하고
 
 |:---:|:---:|:---:|
@@ -179,14 +179,14 @@ BOY와 헤어지고 숙소가 많을 만한 시내로 이동하는 길
 
 ---
 
-#### <span style="color: #8D4801">**여행 경로**</span>
+## 여행 경로
 추정 주행 거리 : 약 <span style="color: indianred">**50km**</span>
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m40!1m12!1m3!1d108447.4562824963!2d103.68426331206109!3d1.463420597467703!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m25!3e0!4m5!1s0x31da6d3237053251%3A0x6cf9fd3d0c7d1f59!2z66eQ66CI7J207Iuc7JWEIOyhsO2YuOultCDsobDtmLjrpbTrsJTro6ggVGFtYW4gQWJhZCwgSmFsYW4gSGFyaW1hdSwg7ZmA66eI7YGsIOumrOygoOyLnCDtmLjthZQ!3m2!1d1.4809485999999998!2d103.76233669999999!4m5!1s0x31da7493bf67417b%3A0x82da7c31dce917f6!2zTGltYSBLZWRhaSwg7KGw7Zi466W067CU66OoIOyhsO2YuOultCDrp5DroIjsnbTsi5zslYQ!3m2!1d1.503058!2d103.6174331!4m5!1s0x31da0c16096f18e5%3A0x3313e15e357b4437!2sPuteri%20Harbour!3m2!1d1.4167292!2d103.65686989999999!4m5!1s0x31da0b1b56bb64f9%3A0x76999331119cf420!2sHotel%20Orient!3m2!1d1.4504184999999998!2d103.59591449999999!5e0!3m2!1sko!2sec!4v1756956648679!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---
 
-#### <span style="color: #8D4801">**여행 경비**</span>
+## 여행 경비
 경비는 <span style="color: indianred">**2인 기준**</span>이다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/budget-book.jpg" title="Budget book" alt="Budget book">

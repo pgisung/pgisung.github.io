@@ -32,13 +32,19 @@
 		}
 	}
 
+	.elements-tree {
+		margin-bottom: 27px;
+	}
+
 	h2 {
-		font-size: 16px;
+		padding-left: 10px;
+		border-left: 3px solid variables.$lightbrown;
+		font-size: 20px;
 		font-weight: 700;
 		font-family: 'Gowun Batang', serif;
 		letter-spacing: 1px;
 		text-transform: uppercase;
-		margin: 32px 0;
+		margin: 10px 0;
 	}
 }
 

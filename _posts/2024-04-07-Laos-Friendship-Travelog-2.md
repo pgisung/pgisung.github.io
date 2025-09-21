@@ -29,7 +29,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 
 ---
 
-#### <span style="color: #8D4801">**비엔티안 시내 탐방기**</span>
+## 비엔티안 시내 탐방기
 <span style="color: indianred">**라오스 여행 2일 차 아침**</span>이 밝았다. 전일엔 사실상 늦은 밤에 도착해서 실감하기 어려웠던 고즈넉한 라오스의 풍경을 보며 <span style="color: #8D4801">**여행 일정 이야기**</span>를 나눴다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/morning-talking-time.jpg" title="Blogger and friend talking about trip for today" alt="Blogger and friend talking about trip for today">
@@ -54,7 +54,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 </div>
 <br>
 
-##### **딸랏싸오 아침 시장**
+### 딸랏싸오 아침 시장
 누군가가 <span style="color: indianred">**라오스에 방문하면 반드시 먹어봐야 할 과일**</span>이라고 강력히 추천하신 <span style="color: #8D4801">**과일 렁껑**</span>. 실제로 <span style="color: indianred">**열매가 매우 달콤**</span>했다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/longkong-fruit.jpg" title="Longkong fruit" alt="Longkong fruit">
@@ -84,7 +84,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 </div>
 <br>
 
-##### **씨 사켓 사원**
+### 씨 사켓 사원
 라오스 여행의 묘미 중 하나는 <span style="color: #8D4801">**3인 3색 서로 다른 사진 촬영 자세**</span>였다.
 
 |:---:|:---:|:---:|
@@ -133,7 +133,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 </div>
 <br>
 
-##### **빠뚜사이 독립기념문**
+### 빠뚜사이 독립기념문
 씨 사켓 사원에서 바로 이동하는 것 같지만 <span style="color: #8D4801">**숙소에 들려서 체크아웃하고 모든 짐을 챙겨서**</span> 로카 앱으로 택시를 잡은 후 이동했다.
 
 기사님은 여성분이셨는데 <span style="color: indianred">**우리가 방문하고 싶은 목적지를 다 들린 다음에 기차역까지 픽업**</span>해 주시는 데에 대한 가격을 흥정했고 흔쾌히 승낙하셔서 제일 가까운 빠뚜사이 독립기념문부터 방문했다.
@@ -183,7 +183,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 </div>
 <br>
 
-##### **탓 루앙 황금사원**
+### 탓 루앙 황금사원
 독립기념문을 떠나 황금사원을 향하는 길. 도로 끝에 서서히 사원이 보이기 시작했다.
 <div class="image-slider-static">
   <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/on-the-way-to-pha-that-luang.webp" title="On the way to Pha That Luang" alt="On the way to Pha That Luang">
@@ -279,8 +279,8 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 
 ---
 
-#### <span style="color: #8D4801">**기차 타고 루앙 프라방 숙소로 이동**</span>
-##### **비엔티안 고속철도역**
+## 기차 타고 루앙 프라방 숙소로 이동
+### 비엔티안 고속철도역
 라오스의 <span style="color: indianred">**최대 철도역**</span>인 <span style="color: #8D4801">**비엔티안 고속철도역**</span>에 도착했다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/vientiane-railway-station.jpg" title="Vientiane railway station" alt="Vientiane railway station">
@@ -319,7 +319,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 </div>
 <br>
 
-##### **루앙 프라방 고속철도역**
+### 루앙 프라방 고속철도역
 줄어들지 않는 렁껑과 역에서 구매했던 커피
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/longkong-and-coffee.jpg" title="Longkong and coffee" alt="Longkong and coffee">
@@ -349,7 +349,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3752.346229671646!2d102.2139883!3d19.867596900000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312f29d7213e8b31%3A0x795024773d164563!2z66Oo7JWZ7ZSE652867CpIOqzoOyGjeyyoOuPhOyXrQ!5e0!3m2!1sko!2sec!4v1757705482856!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
-##### **빌라 부아 통 호텔**
+### 빌라 부아 통 호텔
 <span style="color: #8D4801">**푸시산에 일몰 시각 전에 올라가지 못할까 봐**</span> 체크인하고 짐을 놓자마자 <span style="color: indianred">**부랴부랴 산을 향하다 보니**</span> 입구 사진만 남아있다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-entrance-of-villa-boua-thong-hotel.jpg" title="The entrance of Villa Boua Thong hotel" alt="The entrance of Villa Boua Thong hotel">
@@ -367,8 +367,8 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 
 ---
 
-#### <span style="color: #8D4801">**푸시산 일몰 하이킹**</span>
-##### **푸시산**
+## 푸시산 일몰 하이킹
+### 푸시산
 <span style="color: #8D4801">**숙소에서 푸시산을 오르는 입구가 크게 멀지가 않아서**</span> 걸어서 도착한 우리. 사진에도 보이다시피 <span style="color: indianred">**중국인 아줌마, 아저씨 관광객들이 참 많았다**</span>.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-entrance-of-phou-si-hill.jpg" title="The entrance of Phou Si hill" alt="The entrance of Phou Si hill">
@@ -450,7 +450,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 
 <br>
 
-##### **몽족 야시장**
+### 몽족 야시장
 <span style="color: #8D4801">**루앙 프라방 최대의 야시장**</span>인 몽족 야시장. 실제로 야시장의 영문명은 루앙 프라방 야시장인데 <span style="color: indianred">**몽족 야시장**</span>이라는 표현이 존재하는 이유는 <span style="color: #8D4801">**소수민족인 몽(Hmong)족 상인들이 운영하는 야시장**</span>이라서 그런 이름이 붙여졌다고 한다.
 
 |:---:|:---:|
@@ -475,7 +475,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 </div>
 <br>
 
-##### **굿 나이트 마켓**
+### 굿 나이트 마켓
 몽족 야시장이 끝나는 <span style="color: #8D4801">**모서리에 자리 잡고 있던 시장**</span>으로 몽족 야시장은 <span style="color: #8D4801">**주로 수공예품, 전통 의상 등을 판매**</span>했다면 <span style="color: indianred">**이곳에서는 음식을 주로 판매**</span>했다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/good-night-market.jpg" title="Good Night market" alt="Good Night market">
@@ -509,7 +509,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 </div>
 <br>
 
-##### **인디고 카페**
+### 인디고 카페
 눈썰미가 좋으신 분은 알아차리셨겠지만, <span style="color: indianred">**옷이 바뀌었습니다**</span>. 산에 올라갔다가 왔기 때문에 <span style="color: #8D4801">**저녁 식사를 마치고 숙소에 돌아가서 씻고 다시 나온**</span> 우리
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/on-the-way-to-exchange-dollars-to-kips.jpg" title="On the way to exchange dollars to kips" alt="On the way to exchange dollars to kips">
@@ -532,7 +532,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 
 <br>
 
-##### **이름 모를 선술집**
+### 이름 모를 선술집
 몽족 야시장은 <span style="color: #8D4801">**10시가 다 되어갈 무렵부터 하나둘 장사를 마무리**</span>하신다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/closing-luang-prabang-night-market.jpg" title="Closing Luang Prabang night market" alt="Closing Luang Prabang night market">
@@ -575,13 +575,13 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 
 ---
 
-#### <span style="color: #8D4801">**여행 경로**</span>
+## 여행 경로
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d1184200.000373561!2d102.51252985167756!3d18.803258060962325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e2!4m5!1s0x312469e3c6880ae3%3A0x8a7022cf28e4a57b!2sThe%20Giftown%20Vientiane%2C%20Haysoke!3m2!1d17.9661716!2d102.6051931!4m5!1s0x3124687d93c167f9%3A0x5577837f17076440!2z65S4656P7Iu47JikIOyVhOy5qOyLnOyepQ!3m2!1d17.965226299999998!2d102.6143941!4m5!1s0x31246887c8f655a7%3A0x90ebc63e63ee911d!2z7JSoIOyCrOy8kyDsgqzsm5A!3m2!1d17.9631444!2d102.6113689!4m5!1s0x3124687ed455e1df%3A0x24af4d39ae4445b0!2z67mg65qc7IKs7J20IOuPheumveq4sOuFkOusuA!3m2!1d17.9705331!2d102.6187375!4m5!1s0x312467c5990ad2d1%3A0x47442b3d67b20290!2z7YOTIOujqOyVmSDsgqzsm5Ao7Zmp6riI7IKs7JuQKQ!3m2!1d17.9766165!2d102.6364667!4m5!1s0x31245dcfa631beff%3A0xd08d1f9a4a98ce8f!2sVientiane%20Railway%20Station!3m2!1d18.046111!2d102.690556!4m5!1s0x312f29d7213e8b31%3A0x795024773d164563!2z66Oo7JWZ7ZSE652867CpIOqzoOyGjeyyoOuPhOyXrQ!3m2!1d19.8675969!2d102.2139883!4m5!1s0x312f2bd022e00dcf%3A0x2ff11935f5f75bde!2svilla%20BouaThong%20Hotel%202!3m2!1d19.886638299999998!2d102.1366262!4m5!1s0x312f2a6a667fef0b%3A0xfd9af2125d7a76fc!2z7ZG47IucIOyCsA!3m2!1d19.890321999999998!2d102.1370062!4m5!1s0x312f2a6b010a5541%3A0x6814a3460ad3cd10!2z65287Jik7IqkIOujqOyVme2UhOudvOuwqSBDaGFvZmEgTmd1bSBSb2FkLCDro6jslZntlITrnbzrsKkg7JW87Iuc7J6lKOuqveyhsSDslbzsi5zsnqUp!3m2!1d19.890445!2d102.13517929999999!5e0!3m2!1sko!2sec!4v1757709295105!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---
 
-#### <span style="color: #8D4801">**여행 경비**</span>
+## 여행 경비
 경비는 <span style="color: indianred">**3인 기준**</span>이다.
 
 | 2024.04.07 | 현지 통화 | 원화 |

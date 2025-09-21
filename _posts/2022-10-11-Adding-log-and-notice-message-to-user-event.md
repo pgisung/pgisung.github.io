@@ -18,7 +18,7 @@ permalink: /csharp/:year/:month/:day/:title/
 
 ---
 
-#### <span style="color: brown">**작성 동기**</span>
+## 작성 동기
 [이전 포스트]({{ site.baseurl }}/csharp/2022/05/16/Saving-various-types-of-model-into-files-using-reflection/#작성-동기 "Navigate to Reflection을 이용하여 서로 다른 타입의 값들을 파일에 저장하기 post")의 작성 동기와 같이 작업자가 프로그램의 무엇인가를 잘못 변경하고 그로 인해 생산에 오류가 발생했을 때 예상하지 못한 <span style="color: #8D4801">**오류 발생의 원인을 찾기 어려워서**</span> 힘들었던 경험이 있었고 또한 <span style="color: #8D4801">**책임 소재를 파악하기 어려워**</span> 결국 프로그램 개발자에게 화살을 돌리는 상황을 적지 않게 맞닥뜨렸었다. 이러한 상황에 최소한의 대응을 하기 위해 사용자 이벤트에 로그 추가를 결정했다.
 
 <center>
@@ -32,14 +32,14 @@ permalink: /csharp/:year/:month/:day/:title/
 
 ---
 
-#### <span style="color: brown">**기능 구상**</span>
+## 기능 구상
 사실 로그는 기존에도 존재했다. 메인 프로세스가 실행될 때 별개의 프로세스로 로그 프로그램을 실행하여 사용자 또한 실시간으로 확인할 수 있게 되어있는데 문제는 <span style="color: #8D4801">**막상 로그를 기록하는 코드가 일관성이 없이 작성되어 있는 부분이 있고 없는 부분이 있어서**</span> 유지보수를 하려면 비효율적으로 모든 파일을 찾아보아야 했다. 이를 일반화하여 특정 모든 이벤트에 로그 기록하는 코드를 <span style="color: #8D4801">**일괄 적용**</span>할 수 있어야 한다. (이 포스트에서는 로그를 분류하여 실제로 파일에 저장하는 부분은 다루지 않고 콘솔 화면에 출력 함수로 대체한다.)
 
 ---
 
-#### <span style="color: brown">**실행될 함수를 구현하자**</span>
+## 실행될 함수를 구현하자
 우리 프로그램에서 가장 많은 수를 차지했던 컨트롤 몇 가지만 간단하게 다뤄보겠다. 
-##### **NumericUpDown ValueChanged 이벤트**
+### NumericUpDown ValueChanged 이벤트
 기존의 이벤트 핸들러를 삭제하고 일반화 함수를 추가하여 새로운 이벤트 핸들러로 일괄 추가하고 싶었으나 이벤트가 발생하는 시점에 각각의 NumericUpDown 컨트롤이 <span style="color: #8D4801">**변경하고자 하는 모델의 변수를 알 수 있는 방법이 없어서**</span> 전역에서 쓰이는 싱글톤 객체에 <span style="color: #8D4801">**공통 함수**</span>를 만들어 모든 NumericUpDown 컨트롤에서 호출하도록 구현한다.
 ```c#
 // 각 View에 존재하는 NumericUpDown ValueChanged 이벤트 핸들러
@@ -101,7 +101,7 @@ public double UpdateNumericUpDownValueChanged( object sender, double dValue )
 
 <br>
 
-##### **CheckBox CheckedChanged 이벤트**
+### CheckBox CheckedChanged 이벤트
 값의 타입과 최소, 최대값 처리를 제외하고 NumericUpDown과 동일한 형태로 작성한다.
 ```c#
 // 각 View에 존재하는 CheckBox CheckedChanged 이벤트 핸들러
@@ -153,7 +153,7 @@ public bool UpdateCheckBoxCheckedChanged( object sender, bool bValue )
 
 <br>
 
-##### **Button Click 이벤트**
+### Button Click 이벤트
 클릭 이벤트의 실행이 제대로 완료되었는지 확인하기 위해 이벤트 실행 전과 후에 로그를 기록하는 이벤트 핸들러를 해당 <span style="color: #8D4801">**Form에서 클릭 이벤트를 가진 모든 버튼에 일괄 추가**</span>한다.
 ```c#
 // 전역 싱글톤 객체에 선언한 외부로 호출되는 버튼 로그 추가 함수 - 각 Form을 초기화할 때 호출한다.
@@ -241,5 +241,5 @@ private void SetButtonEndLog( object sender, EventArgs e )
 
 ---
 
-#### 마무리하며...
+## 마무리하며...
 이번 포스트에서는 사용자 이벤트에 로그 및 알림 메시지를 추가해 보았다. 사실 '시스템 응용프로그램에서도 사용자 경험은 중요한 것이기 때문에 소홀히 하면 안 되겠다.'라고 말하고 싶었는데 이야기의 방향이 잘못되어서인지 아니면 기반이 되는 수정한 코드의 양이 부족해서 그런지 막상 어떻게 사용자 경험을 개선하고자 했는지 잘 표현하지 못한 것 같아 아쉬운 점이 있다. 다음 포스트에서는 좀 더 양질의 내용을 작성해 보겠노라 반성해 본다.

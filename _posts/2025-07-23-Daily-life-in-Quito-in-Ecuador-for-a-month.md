@@ -32,7 +32,7 @@ description: 2025.07.23 ~ 2025.08.24 카롤리나 공원 아침 운동 일지 �
 
 ---
 
-#### <span style="color: #8D4801">**처음 겪어보는 비행기 회항**</span>
+## 처음 겪어보는 비행기 회항
 <span style="color: #8D4801">**지구 반대편**</span>을 이동해 왔는데 어째 찍은 사진이 인천 공항 한식당에서 먹은 비빔밥 사진 뿐일지 의문이다. 아무튼 <span style="color: #8D4801">**국내 동선은 매우 상투적으로 천안아산역에서 KTX 타고 서울역에 도착해서 공항 철도를 통해 인천공항 T2에 도착**</span>했다. 
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/brunch-at-incheon-airport.jpg" title="Bibimbap" alt="Bibimbap">
@@ -96,8 +96,8 @@ description: 2025.07.23 ~ 2025.08.24 카롤리나 공원 아침 운동 일지 �
 
 ---
 
-#### <span style="color: #8D4801">**아침 운동 일지**</span>
-##### **올드타운 근교**
+## 아침 운동 일지
+### 올드타운 근교
 도착 바로 다음 날 친구는 예정되어 있던 여행을 떠났고 <span style="color: #8D4801">**혼자 걸어보는 남미 땅에 들뜬 마음**</span>에 딱히 목적지를 정했던 것은 아니고 <span style="color: indianred">**하루 루틴인 10km**</span>를 채우기 위해 걷기 시작했던 방향이 <span style="color: indianred">**남쪽으로 구시가지 방향**</span>이었다.
 
 지구 반대편에서 만난 <span style="color: #8D4801">**아버지가 청춘을 바치신 회사**</span>. 사실 사진만 보면 한국이라고 해도 전혀 위화감이 없을 것 같은 비주얼이다.
@@ -128,7 +128,7 @@ description: 2025.07.23 ~ 2025.08.24 카롤리나 공원 아침 운동 일지 �
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2299.4885074965805!2d-78.50087624396078!3d-0.21385727444745173!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a9e4ffffe59%3A0xa23a1f09e0530743!2sNational%20Assembly%20of%20Ecuador!5e0!3m2!1sko!2sec!4v1756428988410!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
-##### **카롤리나 공원**
+### 카롤리나 공원
 이곳에서 대부분 나의 아침 루틴을 책임져 준 고마운 장소로 <span style="color: #8D4801">**크게 약 2바퀴 반 정도 돌고 집에 들어가면 정확히 10km**</span>를 찍을 수 있었다.
 
 주말이면 많은 아이들이 분수대 앞에서 놀고 있다. 어느 나라를 가도 아이들의 동심은 똑같구나
@@ -167,7 +167,7 @@ description: 2025.07.23 ~ 2025.08.24 카롤리나 공원 아침 운동 일지 �
 
 <br>
 
-##### **북쪽 이벤트홀**
+### 북쪽 이벤트홀
 어떤 특별한 목적을 가지고 방문했던 곳은 아니고 새로운 동선으로 조깅하고 싶어서 이번엔 북쪽으로 걷던 중 도달했던 곳으로 여기서 조금 더 진행하면 <span style="color: #8D4801">**사람들이 많이 안 보이는 거리들이 시작되어서 안전을 위해 알아서 돌아왔다**</span>.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/plaza-de-toros-quito.jpg" title="Plaza de toros Quito" alt="Plaza de toros Quito">
@@ -183,7 +183,7 @@ description: 2025.07.23 ~ 2025.08.24 카롤리나 공원 아침 운동 일지 �
 </div>
 <br>
 
-##### **메트로폴리탄 공원**
+### 메트로폴리탄 공원
 <span style="color: #8D4801">**친구가 추천해 줘서 방문해 본 공원**</span>으로 엄청 높지는 않았지만, 고산에 경사라서 생각보다 숨이 차올랐지만 그래서 또 좋았다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/jogging-path.jpg" title="Jogging course for the day" alt="Jogging course for the day">
@@ -239,7 +239,7 @@ description: 2025.07.23 ~ 2025.08.24 카롤리나 공원 아침 운동 일지 �
 </div>
 <br>
 
-##### **동물 친구들**
+### 동물 친구들
 공원을 돌면서 <span style="color: #8D4801">**사실 개를 훨씬 더 많이 봤는데 찍어둔 사진이 새뿐이었다**</span>. 이곳에서 지내면서 동물 친화적인 남미 사람들은 정말 많이 동물들과 어울리는 것을 느낄 수 있었다.
 
 GPT가 말하길 **검은지빠귀**라는 새
@@ -263,8 +263,8 @@ GPT가 말하길 **검은지빠귀**라는 새
 
 ---
 
-#### <span style="color: #8D4801">**키토 근교 관광기**</span>
-##### **키토 케이블카**
+## 키토 근교 관광기
+### 키토 케이블카
 가볍게 <span style="color: #8D4801">**주말 나들이로 다녀온 키토 케이블카**</span>. 당시에는 생각도 못 했지만 <span style="color: indianred">**케이블카가 존재하는 곳이 피친차 화산이었고 약 600m 트래킹을 하면 정상**</span>에 오를 수 있다.
 
 아무튼 매표소에 도착한 시간이 거의 점심시간 무렵이었는데 탑승 줄은 별로 안 긴데 매표소 줄이 엄청 길어서 매표소가 일을 느리게 하는 건가 생각했었는데 그냥 하필 <span style="color: #8D4801">**우리가 방문한 타이밍에 사람이 몰렸던 것**</span>뿐이었다.
@@ -297,7 +297,7 @@ GPT가 말하길 **검은지빠귀**라는 새
 </div>
 <br>
 
-##### **장인 시장**
+### 장인 시장
 <span style="color: #8D4801">**친구에게 인형 파는 곳을 물어보고 같이 방문했던 수공예 시장**</span>. 어떻게 입구는 찍어놓고 구경하면서는 사진 한 장을 안 찍었을까... (아무것도 안 샀는데 어쩌면 이게 이유인지도...?)
 
 잉카 분위기 나는 판초라던가 각종 의류도 팔았고 인형이나 액세서리들도 많이 팔고 있었다.
@@ -315,14 +315,14 @@ GPT가 말하길 **검은지빠귀**라는 새
 
 ---
 
-#### <span style="color: #8D4801">**전망대가 따로 필요 없는 숙소**</span>
+## 전망대가 따로 필요 없는 숙소
 정작 이용해 본 건 체육관뿐이지만 굉장히 다양한 시설들이 존재했던 숙소
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/facilities-directory.jpg" title="Facilities directory" alt="Facilities directory">
 </div>
 <br>
 
-##### **키토 전경**
+### 키토 전경
 에... 살 좀 빠졌나 하고 찍어봤어요. 그냥
 <div class="image-slider-auto">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/blogger-at-home-1.jpg" title="Blogger taking selfie at home" alt="Blogger taking selfie at home">
@@ -358,7 +358,7 @@ GPT가 말하길 **검은지빠귀**라는 새
 </div>
 <br>
 
-##### **체육관**
+### 체육관
 근래에는 블로그 작성한다고 못 갔지만 <span style="color: #8D4801">**한동안 하루도 빠짐없이 다녔던 체육관**</span>. 넓고 나름 있을 건 다 있고, 사람도 많이 안 와서 대부분 혼자 빌려서 운동하는 기분이었다. 무엇보다 좋았던 건 샌드백이 달린 체육관을 한 번도 가본 적이 없어서 샌드백 치는 기분이 궁금했었는데 이곳에선 아무도 없어서 마음 편하게 때려볼 수 있어서 좋았다.
 
 |:---:|:---:|:---:|
@@ -374,8 +374,8 @@ GPT가 말하길 **검은지빠귀**라는 새
 
 ---
 
-#### <span style="color: #8D4801">**요리 컬렉션**</span>
-##### **미천한 도전**
+## 요리 컬렉션
+### 미천한 도전
 오자마자 <span style="color: #8D4801">**태국에서 먹던 땡모반**</span> 생각에 수박도 썰어놓고
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/packed-watermelon.jpg" title="Packed watermelon" alt="Packed watermelon">
@@ -389,7 +389,7 @@ GPT가 말하길 **검은지빠귀**라는 새
 
 <br>
 
-##### **고정 점심 메뉴**
+### 고정 점심 메뉴
 그래서 이후에는 <span style="color: indianred">**닭 가슴살에 바나나 간편식**</span>으로 메뉴를 전환했는데, 친구가 그렇게 먹다가 통풍 온다는 말에 괜히 뜨끔해져서 <span style="color: #8D4801">**밥과 김치**</span>로 바꿨다.
 
 |:---:|:---:|
@@ -397,7 +397,7 @@ GPT가 말하길 **검은지빠귀**라는 새
 
 <br>
 
-##### **베이킹 메뉴**
+### 베이킹 메뉴
 친구의 취미가 베이킹이면 좋은 점. <span style="color: #8D4801">**자다가도 '빵'이 나온다**</span>.
 <div class="image-slider-auto">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/muffin.jpg" title="Muffin" alt="Muffin">
@@ -405,7 +405,7 @@ GPT가 말하길 **검은지빠귀**라는 새
 </div>
 <br>
 
-##### **매일 행복했던 저녁 시간**
+### 매일 행복했던 저녁 시간
 저녁은 특별한 일이 없으면 친구와 같이 먹었는데 <span style="color: #8D4801">**한 달간 친구의 홈메이드 식단**</span>이... 내가 혼자 근 몇 년간 먹었던 한식 메뉴들보다도 더 화려한 데...?
 
 |:---:|:---:|:---:|:---:|
@@ -426,7 +426,7 @@ GPT가 말하길 **검은지빠귀**라는 새
 </div>
 <br>
 
-##### **과일 및 배달**
+### 과일 및 배달
 처음 먹어보는 과일로 이름은 <span style="color: indianred">**치리모야**</span>이었다. 식감은 <span style="color: #8D4801">**아이스크림처럼 자연스럽게 녹는데 딱히 무언가를 첨가하지 않아도 자체적으로 굉장히 달콤**</span>한 과일이었다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/chirimoya.jpg" title="Chirimoya" alt="Chirimoya">
@@ -449,7 +449,7 @@ GPT가 말하길 **검은지빠귀**라는 새
 
 ---
 
-#### <span style="color: #8D4801">**여행 경비**</span>
+## 여행 경비
 경비는 <span style="color: indianred">**1인 기준**</span>이다.
 
 | 2025.07.23 ~ 08.24 | 현지 통화 | 원화 |

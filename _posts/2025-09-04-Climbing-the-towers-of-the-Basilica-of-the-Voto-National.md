@@ -14,7 +14,7 @@ description: 2025.09.04 에콰도르 키토에서 보토 나시오날 대성당 
 - [외관](#외관 "Navigate to Exterior")
 - [매표소](#매표소 "Navigate to Ticket office")
 - [첨탑 올라가 보기](#첨탑-올라가-보기 "Navigate to Climbing the Spire")
-- [240도 파노라마 키토 도시 전경](#240도-파노라마-키토-도시-전경 "Navigate to 240-degree panoramic view for Quito city")
+  - [240도 파노라마 키토 도시 전경](#240도-파노라마-키토-도시-전경 "Navigate to 240-degree panoramic view for Quito city")
 2. [처음 먹어보는 엠빠나다](#처음-먹어보는-엠빠나다 "Navigate to First try for empanada")
 - [찾아가는 길](#찾아가는-길 "Navigate to On the way")
 - [Juan Fogonero 식당](#juan-fogonero-식당 "Navigate to Juan Fogonero restaurant")
@@ -28,7 +28,7 @@ description: 2025.09.04 에콰도르 키토에서 보토 나시오날 대성당 
 
 ---
 
-#### <span style="color: #8D4801">**보토 나시오날 대성당**</span>
+## 보토 나시오날 대성당
 오전에 장 보러 가는 중 <span style="color: indianred">**마주친 검은 양복의 행렬**</span>. 다들 키도 엄청 크시고 뭐 하시는 분들이시지? 궁금했다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-04-Climbing-the-towers-of-the-Basilica-of-the-Voto-National/a-line-of-men-in-black-suits.jpg" title="A line of men in black suits" alt="A line of men in black suits">
@@ -68,7 +68,7 @@ description: 2025.09.04 에콰도르 키토에서 보토 나시오날 대성당 
 </div>
 <br>
 
-##### **Your Tours 여행사**
+### Your Tours 여행사
 <span style="color: #8D4801">**성당의 아래쪽에 이렇게 상가들**</span>이 쭉 들어서 있는 것도 신기했다. 건축 양식이 이뻐서 뭔가 더 들어가고 싶어진달까?
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-04-Climbing-the-towers-of-the-Basilica-of-the-Voto-National/the-shops-under-the-basilica.jpg" title="The shops under the basilica" alt="The shops under the basilica">
@@ -86,7 +86,7 @@ description: 2025.09.04 에콰도르 키토에서 보토 나시오날 대성당 
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d997.4475450620794!2d-78.5074029!3d-0.21519099999999122!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59b34627f7213%3A0x2a941f77aa98dd29!2sAgencia%20de%20Viajes%20Your%20Tours!5e0!3m2!1sko!2sec!4v1757105214686!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
-##### **외관**
+### 외관
 드디어 <span style="color: #8D4801">**정문에 도착**</span>! 대성당은 정말 거대하고 아름다웠다. <span style="color: indianred">**입구에 있는 사람의 크기와 성당**</span>을 비교해 보면 그 크기가 조금은 느껴질 것이다. 
 <div class="image-slider-auto">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-04-Climbing-the-towers-of-the-Basilica-of-the-Voto-National/the-main-gate-of-the-basilica-of-the-voto-nacional.jpg" title="The main gate of the Basilica of the Voto Nacional" alt="The main gate of the Basilica of the Voto Nacional">
@@ -108,7 +108,7 @@ description: 2025.09.04 에콰도르 키토에서 보토 나시오날 대성당 
 </div>
 <br>
 
-##### **매표소**
+### 매표소
 첨탑에 올라가고 싶다면 <span style="color: #8D4801">**매표소에서 티켓을 구매**</span>해야만 한다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-04-Climbing-the-towers-of-the-Basilica-of-the-Voto-National/ticket-office-for-the-towers-of-the-basilica.jpg" title="Ticket office for the Towers of the Basilica of the Voto Nacional" alt="Ticket office for the Towers of the Basilica of the Voto Nacional">
@@ -127,7 +127,7 @@ description: 2025.09.04 에콰도르 키토에서 보토 나시오날 대성당 
 </div>
 <br>
 
-##### **첨탑 올라가 보기**
+### 첨탑 올라가 보기
 입구 차단기를 지나면 <span style="color: #8D4801">**쇠 철창 사이로 어슴푸레 보이는 성당 1층**</span>의 내부. 출입구가 따로 있고 <span style="color: indianred">**입장료 2불을 따로 지불해야만 정상적으로 입장해서 관람**</span>할 수 있다. 하지만 필자는 어차피 위에서도 내려다볼 수 있어서 굳이 1층까지 입장하진 않았다.
 
 |:---:|:---:|
@@ -196,7 +196,7 @@ description: 2025.09.04 에콰도르 키토에서 보토 나시오날 대성당 
 </div>
 <br>
 
-###### <span style="color: #8D4801">**240도 파노라마 키토 도시 전경**</span>
+#### 240도 파노라마 키토 도시 전경
 <center><div id="panorama-1"></div></center>
 <br>
 
@@ -310,8 +310,8 @@ description: 2025.09.04 에콰도르 키토에서 보토 나시오날 대성당 
 
 ---
 
-#### <span style="color: #8D4801">**처음 먹어보는 엠빠나다**</span>
-##### **찾아가는 길**
+## 처음 먹어보는 엠빠나다
+### 찾아가는 길
 사실 <span style="color: indianred">**원래 계획대로는 엠빠나다를 먼저 먹고 성당에 올까**</span> 했었는데, 성당에 먼저 왔더니 많은 허기가 져서 식당을 향해 서둘러 출발했다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-04-Climbing-the-towers-of-the-Basilica-of-the-Voto-National/entrance-of-basilica.jpg" title="Entrance of Basilica" alt="Entrance of Basilica">
@@ -331,7 +331,7 @@ description: 2025.09.04 에콰도르 키토에서 보토 나시오날 대성당 
 </div>
 <br>
 
-##### **Juan Fogonero 식당**
+### Juan Fogonero 식당
 도착해서 느낀 감상이 <span style="color: #8D4801">**"우와 사진에서 보던 그대로다."**</span> 처음엔 이 장소가 하나의 식당인 줄 알고 왔는데, <span style="color: indianred">**약간 푸드코트 같은 느낌에 각 층이나 방향마다 다른 식당이 존재하고 가운데 광장만 공용**</span>으로 사용하는 듯했다.
 
 |:---:|:---:|
@@ -356,14 +356,14 @@ description: 2025.09.04 에콰도르 키토에서 보토 나시오날 대성당 
 
 ---
 
-#### <span style="color: #8D4801">**야경 명소를 찾아가다**</span>
+## 야경 명소를 찾아가다
 간단히 요기하고 친구가 알려준 야경 명소를 찾아가는 길. <span style="color: #8D4801">**에콰도르의 아나운서로 보이는 분이 방송**</span>하고 있는 듯했다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-04-Climbing-the-towers-of-the-Basilica-of-the-Voto-National/the-announcer-seems-on-air.jpg" title="The announcer seems on air" alt="The announcer seems on air">
 </div>
 <br>
 
-##### **Dulceria Colonial 카페**
+### Dulceria Colonial 카페
 <span style="color: #8D4801">**키토 메트로폴리탄 대성당**</span>. 이곳이 Cathedral이고 보토 나시오날 대성당은 Basilica인 것을 보면 <span style="color: indianred">**실제 주교가 머무르는 곳은 메트로폴리탄 대성당이고 보토 나시오날은 교황이 지위를 부여한 곳**</span>이라고 한다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-04-Climbing-the-towers-of-the-Basilica-of-the-Voto-National/quito-metropolitan-cathedral.jpg" title="Quito Metropolitan Cathedral" alt="Quito Metropolitan Cathedral">
@@ -379,7 +379,7 @@ description: 2025.09.04 에콰도르 키토에서 보토 나시오날 대성당 
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d498.72359412651383!2d-78.51233691102865!3d-0.22058064393683338!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d5998777862fb3%3A0x58bdbdb54ec52db!2sDulceria%20Colonial!5e0!3m2!1sko!2sec!4v1757109106983!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
-##### **야경 찾아가는 길**
+### 야경 찾아가는 길
 아마도 <span style="color: indianred">**친구가 알면 위험하다고 또 혼날지도**</span> 모르지만 이렇게 <span style="color: #8D4801">**아름다운 거리**</span>를 보고 있자니 걷지 않고는 참을 수가 없었다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-04-Climbing-the-towers-of-the-Basilica-of-the-Voto-National/on-the-way-to-cafe-mosaico-1.jpg" title="The street on the way to Café Mosaico" alt="The street on the way to Café Mosaico">
@@ -392,7 +392,7 @@ description: 2025.09.04 에콰도르 키토에서 보토 나시오날 대성당 
 </div>
 <br>
 
-##### **신기한 트롤리버스**
+### 신기한 트롤리버스
 일전의 포스트에서 잠깐 언급한 적이 있던 <span style="color: #8D4801">**일반 버스보다 훨씬 기차 같았다**</span>는 교통수단의 정체는 바로 <span style="color: indianred">**트롤리버스**</span>였다.
 
 과거의 교통 인프라 중의 하나로 <span style="color: #8D4801">**휘발유나 디젤 엔진이 아니라 전기 모터로 구동되며 배터리를 쓰지 않고 상시 전선을 통해 전기를 공급받아 동력**</span>으로 사용한다고 하며,
@@ -410,7 +410,7 @@ description: 2025.09.04 에콰도르 키토에서 보토 나시오날 대성당 
 </div>
 <br>
 
-##### **Cafe Mosaico 식당**
+### Cafe Mosaico 식당
 금일 마지막 목적지였던 카페 모사이꼬 처음에 도착했을 때는 거리에 사람 한 명 안 보이고, <span style="color: indianred">**왼쪽이 정문인 줄 알고 가게가 문을 닫은 건가?**</span> 하다가 (아마도 가드로 보이시는) 아주머니 한 분이 인사해 주시며 <span style="color: #8D4801">**"입구는 여기야"라고 해주셔서**</span> 바로 옆에 다른 문이 있었다는 것을 알았다.
 
 |:---:|:---:|
@@ -459,13 +459,13 @@ description: 2025.09.04 에콰도르 키토에서 보토 나시오날 대성당 
 
 ---
 
-#### <span style="color: #8D4801">**여행 경로**</span>
+## 여행 경로
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d31918.35256084284!2d-78.49675415!3d-0.19976494999998817!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e0!4m5!1s0x91d59a85e62ca895%3A0x217098644d0182ff!2sCentro%20Comercial%20I%C3%B1aquito%20(CCI)%2C%20RGF7%2B7XM%2C%20Av.%20Naciones%20Unidas%2C%20Quito%20170506!3m2!1d-0.1767993!2d-78.4850658!4m5!1s0x91d59b34627f7213%3A0x2a941f77aa98dd29!2sAgencia%20de%20Viajes%20Your%20Tours%2C%20Venezuela%2C%20y%2C%20Quito!3m2!1d-0.215191!2d-78.5074029!4m5!1s0x91d59a25c31db3b5%3A0x6c011283454d8bce!2z67O07YagIOuCmOyLnOyYpOuCoCDrjIDshLHri7kgMTcwMTMwIFF1aXRvLCBWZW5lenVlbGE!3m2!1d-0.2149867!2d-78.50765179999999!4m5!1s0x91d59a282c1ca6f5%3A0xf2e4c05c7fafdbc2!2sJuan%20Fogonero%2C%20Chile%2C%20OE4%2C%20Quito%20170136!3m2!1d-0.21928879999999998!2d-78.51165449999999!4m5!1s0x91d5998777862fb3%3A0x58bdbdb54ec52db!2sDulceria%20Colonial%2C%20Eugenio%20Espejo%20Oe4-21%2C%20Quito%20170401!3m2!1d-0.2205666!2d-78.5122104!4m5!1s0x91d5998af85031d9%3A0x78c592f4d6423b6c!2sCaf%C3%A9%20Mosaico%2C%20Manuel%20Samaniego%20N8-95%2C%20Quito%20170136!3m2!1d-0.2206138!2d-78.5033957!5e0!3m2!1sko!2sec!4v1757349208439!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---
 
-#### <span style="color: #8D4801">**여행 경비**</span>
+## 여행 경비
 경비는 <span style="color: indianred">**1인 기준**</span>이다.
 
 | 2025.09.04 | 현지 통화 | 원화 |

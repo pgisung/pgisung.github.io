@@ -18,12 +18,12 @@ description: 2024.04.08 루앙 프라방 국립 박물관, 씨 앙통 사원 방
 - [꽝시 폭포 매표소](#꽝시-폭포-매표소 "Navigate to Ticket office for Kuang Si waterfall")
 - [클린 푸드 비비큐 식당](#클린-푸드-비비큐-식당 "Navigate to Clean food BBQ PORK restaurant")
 - [꽝시 폭포](#꽝시-폭포 "Navigate to Kuang Si waterfall")
-- [240도 파노라마 꽝시 폭포 전경](#240도-파노라마-꽝시-폭포-전경 "Navigate to 240-degree panoramic view for Kuang Si waterfall")
+  - [240도 파노라마 꽝시 폭포 전경](#240도-파노라마-꽝시-폭포-전경 "Navigate to 240-degree panoramic view for Kuang Si waterfall")
 - [꽝시 폭포 곰 구조 센터](#꽝시-폭포-곰-구조-센터 "Navigate to Kuang Si waterfall bear rescue center")
 - [꽝시 폭포 꼭대기](#꽝시-폭포-꼭대기 "Navigate to The top of Kuang Si waterfall")
-- [240도 파노라마 꽝시 폭포 꼭대기 전경](#240도-파노라마-꽝시-폭포-꼭대기-전경 "Navigate to 240-degree panoramic view for the top of Kuang Si waterfall")
+  - [240도 파노라마 꽝시 폭포 꼭대기 전경](#240도-파노라마-꽝시-폭포-꼭대기-전경 "Navigate to 240-degree panoramic view for the top of Kuang Si waterfall")
 - [쿤 몽 케오 폭포](#쿤-몽-케오-폭포 "Navigate to Khoun Moung Keo waterfall")
-- [240도 파노라마 쿤 몽 케오 폭포 전경](#240도-파노라마-쿤-몽-케오-폭포-전경 "Navigate to 240-degree panoramic view for Khoun Moung Keo waterfall")
+  - [240도 파노라마 쿤 몽 케오 폭포 전경](#240도-파노라마-쿤-몽-케오-폭포-전경 "Navigate to 240-degree panoramic view for Khoun Moung Keo waterfall")
 - [루앙 프라방 코끼리 캠프](#루앙-프라방-코끼리-캠프 "Navigate to Luang Prabang elephants camp")
 - [이름 모를 식당](#이름-모를-식당 "Navigate to Nameless restaurant")
 3. [여행 경로](#여행-경로 "Navigate to Travel route")
@@ -31,7 +31,7 @@ description: 2024.04.08 루앙 프라방 국립 박물관, 씨 앙통 사원 방
 
 ---
 
-#### <span style="color: #8D4801">**루앙 프라방 시내 탐방기**</span>
+## 루앙 프라방 시내 탐방기
 여행 3일 차 "<span style="color: indianred">**무료 조식은 참을 수 없지**</span>"하고 일어나서 아침을 챙겨 먹는 우리. <span style="color: #8D4801">**방금 잠에서 깬 몰골**</span>이라 선수 보호가 필요했다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/the-group-photo-with-breakfast.jpg" title="The group photo with breakfast" alt="The group photo with breakfast">
@@ -45,7 +45,7 @@ description: 2024.04.08 루앙 프라방 국립 박물관, 씨 앙통 사원 방
 
 <br>
 
-##### **루앙 프라방 아침 시장**
+### 루앙 프라방 아침 시장
 국립 박물관을 향하던 길. 저녁에는 몽족 야시장이 들어서는 거리의 <span style="color: #8D4801">**골목들에는 이렇게 시골의 정취가 듬뿍 느껴지는 아침 시장**</span>이 종종 보였다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/street-market-1.jpg" title="Luang Prabang morning market" alt="Luang Prabang morning market">
@@ -67,7 +67,7 @@ description: 2024.04.08 루앙 프라방 국립 박물관, 씨 앙통 사원 방
 </div>
 <br>
 
-##### **루앙 프라방 국립 박물관**
+### 루앙 프라방 국립 박물관
 도착한 국립 박물관. 이곳의 <span style="color: indianred">**입장료는 최근에 2배나 인상**</span>되었다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/the-tickets-for-the-national-museum.jpg" title="The tickets for the National museum" alt="The tickets for the National museum">
@@ -123,7 +123,7 @@ description: 2024.04.08 루앙 프라방 국립 박물관, 씨 앙통 사원 방
 </div>
 <br>
 
-##### **씨앙 통 사원**
+### 씨앙 통 사원
 국립 박물관을 지나서 도착한 씨앙 통 사원. <span style="color: indianred">**이곳의 입장료 또한 최근에 1.5배가 인상**</span>되었다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/the-tickets-for-wat-xieng-thong.jpg" title="The tickets for Wat Xieng Thong" alt="The tickets for Wat Xieng Thong">
@@ -173,7 +173,7 @@ description: 2024.04.08 루앙 프라방 국립 박물관, 씨 앙통 사원 방
 </div>
 <br>
 
-##### **다다 카페**
+### 다다 카페
 다음 목적지는 오늘의 하이라이트인 꽝시 폭포로 <span style="color: indianred">**꽤 먼 거리를 이동해야 해서 교통수단이 필요**</span>했는데, 2일 차에 우리를 기차역에서 숙소까지 데려다주셨던 인상 좋았던 기사님의 연락처를 알아둔 터라 <span style="color: #8D4801">**그분의 택시를 타고 이동하기로**</span> 하고 도착하실 때까지 <span style="color: indianred">**근처 카페에서 기다리기로**</span> 했다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/the-entrance-of-wat-xieng-thong.jpg" title="The entrance of Wat Xieng Thong" alt="The entrance of Wat Xieng Thong">
@@ -209,8 +209,8 @@ description: 2024.04.08 루앙 프라방 국립 박물관, 씨 앙통 사원 방
 
 ---
 
-#### <span style="color: #8D4801">**꽝시 폭포 방문기**</span>
-##### **꽝시 폭포 매표소**
+## 꽝시 폭포 방문기
+### 꽝시 폭포 매표소
 1시간이 조금 넘게 걸려서 도착한 <span style="color: indianred">**꽝시 폭포 매표소**</span>
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/ticket-office-for-kuang-si-waterfall.jpg" title="Ticket office for Kuang Si waterfall" alt="Ticket office for Kuang Si waterfall">
@@ -226,7 +226,7 @@ description: 2024.04.08 루앙 프라방 국립 박물관, 씨 앙통 사원 방
 </div>
 <br>
 
-##### **클린 푸드 비비큐 식당**
+### 클린 푸드 비비큐 식당
 카트를 타고 도착하면 <span style="color: indianred">**관광지 입구같이 여러 식당과 카페들**</span>이 보이는데 <span style="color: #8D4801">**근처 식당에 들어가서 물놀이에 앞서서 든든하게 배를 채웠다**</span>. 그러고 보니 나만 면 요리네?
 
 |:---:|:---:|:---:|
@@ -237,7 +237,7 @@ description: 2024.04.08 루앙 프라방 국립 박물관, 씨 앙통 사원 방
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d234.69334520752489!2d101.99635617434977!3d19.75118075022633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3128d37cb57e9c93%3A0x674402677b83382b!2sClean%20food%20BBQ%20PORK!5e0!3m2!1sko!2sec!4v1757860973611!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
-##### **꽝시 폭포**
+### 꽝시 폭포
 식사를 마치고 천천히 걸어 올라가다 보니 드디어 보이는 <span style="color: indianred">**오늘의 하이라이트 꽝시 폭포**</span>
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/kuang-si-waterfall-1.jpg" title="Kuang Si waterfall" alt="Kuang Si waterfall">
@@ -247,7 +247,7 @@ description: 2024.04.08 루앙 프라방 국립 박물관, 씨 앙통 사원 방
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3755.1304053753342!2d101.99204653501512!3d19.749613398158008!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3128d216c82caa13%3A0xe1f331979b7f211f!2z6r2d7Iuc7Y-t7Y-s!5e0!3m2!1sko!2sec!4v1757861040220!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
-###### <span style="color: #8D4801">**240도 파노라마 꽝시 폭포 전경**</span>
+### 240도 파노라마 꽝시 폭포 전경
 <center><div id="panorama-1"></div></center>
 <br>
 
@@ -359,7 +359,7 @@ description: 2024.04.08 루앙 프라방 국립 박물관, 씨 앙통 사원 방
 
 <br>
 
-##### **꽝시 폭포 곰 구조 센터**
+### 꽝시 폭포 곰 구조 센터
 폭포에서 한참 에너지를 소비한 후 힐링 관람 시작. <span style="color: #8D4801">**라오스와 동남아 등지에는 곰 쓸개 채취 산업 등의 이유**</span>로 <span style="color: indianred">**곰 밀렵과 불법 거래가 성행**</span>하고 있어서 <span style="color: #8D4801">**학대받던 곰들을 구해와서 이곳에서 보호**</span>한다고 한다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/the-bear-in-kuang-si-waterfall-bear-rescue-center-1.jpg" title="The bear in Kuang Si waterfall bear rescue center" alt="The bear in Kuang Si waterfall bear rescue center">
@@ -382,7 +382,7 @@ description: 2024.04.08 루앙 프라방 국립 박물관, 씨 앙통 사원 방
 </div>
 <br>
 
-##### **꽝시 폭포 꼭대기**
+### 꽝시 폭포 꼭대기
 꽝시 폭포에서 <span style="color: indianred">**길을 따라 끝까지 올라오면**</span> 이곳에 도달하게 된다.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/the-top-of-kuang-si-waterfall-1.jpg" title="The top of Kuang Si waterfall" alt="The top of Kuang Si waterfall">
@@ -392,7 +392,7 @@ description: 2024.04.08 루앙 프라방 국립 박물관, 씨 앙통 사원 방
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d1446.1363781326045!2d101.99199055693498!3d19.748809430210468!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTnCsDQ0JzU3LjUiTiAxMDHCsDU5JzMwLjYiRQ!5e0!3m2!1sko!2sec!4v1757943404355!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
-###### <span style="color: #8D4801">**240도 파노라마 꽝시 폭포 꼭대기 전경**</span>
+#### 240도 파노라마 꽝시 폭포 꼭대기 전경
 <center><div id="panorama-2"></div></center>
 <br>
 
@@ -415,7 +415,7 @@ description: 2024.04.08 루앙 프라방 국립 박물관, 씨 앙통 사원 방
 </div>
 <br>
 
-##### **쿤 몽 케오 폭포**
+### 쿤 몽 케오 폭포
 <span style="color: indianred">**폭포가 문을 닫는 시간 오후 5시**</span>가 다가와서 입구까지 내려가는 길. 놀 때는 참 좋았지만, <span style="color: #8D4801">**돌아가는 길은 발걸음이 무겁네요**</span>.
 <div class="image-slider-static">
   <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/on-the-way-going-down-from-kuang-si-waterfall.jpg" title="On the way going down from Kuang Si waterfall" alt="On the way going down from Kuang Si waterfall">
@@ -443,7 +443,7 @@ description: 2024.04.08 루앙 프라방 국립 박물관, 씨 앙통 사원 방
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4636.3678073375995!2d101.9945008063166!3d19.753447265337247!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3128d23d7cb2d22b%3A0x8126d64eeab2e9d5!2sKhoun%20Moung%20Keo%20Waterfall!5e0!3m2!1sko!2sec!4v1757943574016!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
-###### <span style="color: #8D4801">**240도 파노라마 쿤 몽 케오 폭포 전경**</span>
+#### 240도 파노라마 쿤 몽 케오 폭포 전경
 <center><div id="panorama-3"></div></center>
 <br>
 
@@ -472,7 +472,7 @@ description: 2024.04.08 루앙 프라방 국립 박물관, 씨 앙통 사원 방
 </div>
 <br>
 
-##### **루앙 프라방 코끼리 캠프**
+### 루앙 프라방 코끼리 캠프
 숙소로 돌아가던 중 <span style="color: #8D4801">**기사님께서 코끼리랑 사진 찍고 가라며 들러주신 곳**</span>
 
 |:---:|:---:|
@@ -505,7 +505,7 @@ description: 2024.04.08 루앙 프라방 국립 박물관, 씨 앙통 사원 방
 </div>
 <br>
 
-##### **이름 모를 식당**
+### 이름 모를 식당
 오늘 저녁은 <span style="color: #8D4801">**라오스에 오면 먹고 싶었던 음식 중 하나인 씬닷**</span>을 생각하고 있었는데 숙소를 나와서 딱히 목적지 없이 걷다가 씬닷을 파는 것이 <span style="color: indianred">**눈에 띄어서 들어가게 된 가게**</span>로 <span style="color: #8D4801">**구글 맵에도 존재하지 않는 식당**</span>이었다.
 
 |:---:|:---:|
@@ -538,13 +538,13 @@ description: 2024.04.08 루앙 프라방 국립 박물관, 씨 앙통 사원 방
 
 ---
 
-#### <span style="color: #8D4801">**여행 경로**</span>
+## 여행 경로
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m75!1m12!1m3!1d101883.54313726448!2d102.05879778625311!3d19.814294239819404!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m60!3e2!4m5!1s0x312f2bd022e00dcf%3A0x2ff11935f5f75bde!2svilla%20BouaThong%20Hotel%202!3m2!1d19.886638299999998!2d102.1366262!4m5!1s0x312f2a6a1e0c0d5b%3A0x74e4a387a9f19f8f!2sStreet%20Market!3m2!1d19.8903699!2d102.1347598!4m5!1s0x312f2a6a328c6c99%3A0x336269f4807f9366!2z66Oo7JWZ7ZSE652867CpIOq1reumvSDrsJXrrLzqtIA!3m2!1d19.8922222!2d102.13555559999999!4m5!1s0x312f2a12ffc51c6b%3A0x1c5835a5bac7c503!2z7JmTIOyUqOyVme2FhQ!3m2!1d19.8976267!2d102.1431106!4m5!1s0x312f2b782b7a5f6b%3A0xa2b632e5c7054d8a!2sDaDa%20Cafe%20(roasters%2C%20bar%2C%20restaurant)!3m2!1d19.895474099999998!2d102.1390929!4m5!1s0x3128d37cb57e9c93%3A0x674402677b83382b!2z65287Jik7IqkIEJhbiBMb25nLCBDbGVhbiBmb29kIEJCUSBQT1JL!3m2!1d19.7511808!2d101.9964931!4m5!1s0x3128d216c82caa13%3A0xe1f331979b7f211f!2z65287Jik7IqkIOq9neyLnO2Pre2PrA!3m2!1d19.749572999999998!2d101.99318389999999!4m5!1s0x3128d23d7cb2d22b%3A0x8126d64eeab2e9d5!2sKhoun%20Moung%20Keo%20Waterfall!3m2!1d19.756268199999997!2d101.995561!4m5!1s0x3128d3d5f9e2a7bd%3A0x730e08bb7e210957!2sLuang%20Prabang%20Elephants%20camp!3m2!1d19.7877469!2d101.9807702!4m4!2zMTnCsDUzJzAwLjYiTiAxMDLCsDA4JzAwLjkiRQ!3m2!1d19.883499999999998!2d102.1335833!5e0!3m2!1sko!2sec!4v1757945855416!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---
 
-#### <span style="color: #8D4801">**여행 경비**</span>
+## 여행 경비
 경비는 <span style="color: indianred">**3인 기준**</span>이다.
 
 | 2024.04.08 | 현지 통화 | 원화 |

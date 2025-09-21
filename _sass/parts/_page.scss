@@ -24,6 +24,11 @@
   }
 }
 
+.full-page-container.page-categories .page,
+.full-page-container.page-tags .page {
+  margin-top: 0;
+}
+
 .page-header {
   display: flex;
   justify-content: center;

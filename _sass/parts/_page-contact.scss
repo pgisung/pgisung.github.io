@@ -1,6 +1,7 @@
 @use '../variables'; // import를 use로 바꾸면서 전역변수를 사용하려는 vendor 파일에선 use구문 추가 필요
 
 .contact-subtitle {
+  font-size: 20px;
   max-width: 600px;
   margin: 0 auto 40px;
   text-align: center;

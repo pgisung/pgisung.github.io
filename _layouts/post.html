@@ -4,7 +4,7 @@ layout: default
 
 <div class="post-header" style="background: url({{"/images/posts/" | prepend: site.baseurl | append : page.img}})">
   <div class="post-header-info">
-    <h1 class="post-title">{% if page.flag %}<img class="flag-icon" src="{{site.baseurl}}/assets/world-flags/{{ page.flag }}.png" alt="{{ page.flag }} flag icon">{% endif %}{{ page.title | escape }}</h1>
+    <h1 class="post-title">{% if page.flag %}<span class="flag-icon" style="background-image: url('{{site.baseurl}}/assets/world-flags/{{ page.flag }}.png');"></span>{% endif %}{{ page.title | escape }}</h1>
     <div class="post-meta">
       <time datetime="{{ page.date | date_to_xmlschema }}">
         {% assign date_format = site.minima.date_format | default: "%B %-d, %Y" %} {{ page.date | date: date_format }}
@@ -59,9 +59,9 @@ layout: default
     <div class="post-author">
       {% if author %}
       <div class="post-author-image">
-        <a style="background-image: url({{"/images/authors/" | prepend: site.baseurl | append: author.author-image}})">
-          <span class="screen-reader-text">{{author.author-name}} Picture</span>
-        </a>
+        <span style="background-image: url({{"/images/authors/" | prepend: site.baseurl | append: author.author-image}})">
+          <!-- <span class="screen-reader-text">{{author.author-name}} Picture</span> -->
+        </span>
       </div>
       <div class="post-author-info">
         <h4>{{ author.author-name }}</h4>
@@ -91,9 +91,9 @@ layout: default
       </div>
       {% else %}
       <div class="post-author-image">
-        <a style="background-image: url({{"/images/authors/" | prepend: site.baseurl | append: site.author-image}})">
-          <span class="screen-reader-text">{{site.author-name}} Picture</span>
-        </a>
+        <span style="background-image: url({{"/images/authors/" | prepend: site.baseurl | append: site.author-image}})">
+          <!-- <span class="screen-reader-text">{{site.author-name}} Picture</span> -->
+        </span>
       </div>
       <div class="post-author-info">
         <h4>{{ site.author-name }}</h4>
