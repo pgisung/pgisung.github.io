@@ -125,7 +125,7 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 
 반갑게 악수를 청해오신 <span style="color: #8D4801">**훌리안 아저씨**</span>
 <div class="image-slider-static">
-  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/don-julian-1.gif" title="Mr. Don Julian" alt="Mr. Don Julian">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/don-julian-1.webp" title="Mr. Don Julian" alt="Mr. Don Julian">
 </div>
 <br>
 
@@ -145,7 +145,7 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 
 보통 <span style="color: #8D4801">**식사 준비를 하실 때 피운 불로 난방**</span>을 하신다는데 <span style="color: indianred">**외투까지 입고 집 안에 있는데도 한기**</span>가 느껴지는데 여기서 어떻게 생활하시나 신기했다.
 <div class="image-slider-static">
-  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/don-julian-2.gif" title="Mr. Don Julian" alt="Mr. Don Julian">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/don-julian-2.webp" title="Mr. Don Julian" alt="Mr. Don Julian">
 </div>
 <br>
 
@@ -333,13 +333,13 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 
 내려갈 시간에 <span style="color: indianred">**이쁜 풍경을 조금이라도 더 담고 싶어서**</span> 찍은 영상
 <div class="image-slider-static">
-  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/quilotoa-lake-3.gif" title="Quilotoa Lake" alt="Quilotoa Lake">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/quilotoa-lake-3.webp" title="Quilotoa Lake" alt="Quilotoa Lake">
 </div>
 <br>
 
 역시 <span style="color: #8D4801">**남는 건 사진뿐**</span> 아니겠나?
 <div class="image-slider-static">
-  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/blogger-with-quilotoa-lake-4.gif" title="Blogger with Quilotoa Lake" alt="Blogger with Quilotoa Lake">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/blogger-with-quilotoa-lake-4.webp" title="Blogger with Quilotoa Lake" alt="Blogger with Quilotoa Lake">
 </div>
 <br>
 

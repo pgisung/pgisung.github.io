@@ -253,7 +253,7 @@ description: 2024.04.08 루앙 프라방 국립 박물관, 씨 앙통 사원 방
 
 너무 이뻐서 눈물이 나올 뻔했다. (<span style="color: indianred">**그 정도였나?**</span>)
 <div class="image-slider-static">
-  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/kuang-si-waterfall-2.gif" title="Kuang Si waterfall" alt="Kuang Si waterfall">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/kuang-si-waterfall-2.webp" title="Kuang Si waterfall" alt="Kuang Si waterfall">
 </div>
 <br>
 
@@ -299,7 +299,7 @@ description: 2024.04.08 루앙 프라방 국립 박물관, 씨 앙통 사원 방
 외국인 친구가 다이빙하는 모습을 보고 따라 올라갔는데 <span style="color: indianred">**너무 미끄러워서 못 뛸 뻔**</span>했다. 모양새는 <span style="color: #8D4801">**볼품없어도 다이빙 성공**</span>
 
 |:---:|:---:|
-| <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/foreigner-diving.gif" title="Foreigner diving" alt="Foreigner diving"> | <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/blogger-diving.gif" title="Blogger diving" alt="Blogger diving"> |
+| <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/foreigner-diving.webp" title="Foreigner diving" alt="Foreigner diving"> | <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/blogger-diving.webp" title="Blogger diving" alt="Blogger diving"> |
 
 <br>
 
@@ -326,36 +326,36 @@ description: 2024.04.08 루앙 프라방 국립 박물관, 씨 앙통 사원 방
 <span style="color: #8D4801">**1차전 전쟁의 서막**</span>
 
 |:---:|:---:|
-| <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/friends-in-kuang-si-waterfall-2.gif" title="Friends in Kuang Si waterfall" alt="Friends in Kuang Si waterfall"> | <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/friends-in-kuang-si-waterfall-3.gif" title="Friends in Kuang Si waterfall" alt="Friends in Kuang Si waterfall"> |
+| <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/friends-in-kuang-si-waterfall-2.webp" title="Friends in Kuang Si waterfall" alt="Friends in Kuang Si waterfall"> | <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/friends-in-kuang-si-waterfall-3.webp" title="Friends in Kuang Si waterfall" alt="Friends in Kuang Si waterfall"> |
 
 <br>
 
 <span style="color: indianred">**폭포를 즐기는 방법**</span>
 
 |:---:|:---:|
-| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/friend1-in-kuang-si-waterfall-3.jpg" title="Friend in Kuang Si waterfall" alt="Friend in Kuang Si waterfall"> | <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/friend1-in-kuang-si-waterfall-4.gif" title="Friend in Kuang Si waterfall" alt="Friend in Kuang Si waterfall"> |
-| <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/friend2-in-kuang-si-waterfall-3.gif" title="Friend in Kuang Si waterfall" alt="Friend in Kuang Si waterfall"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/friend2-in-kuang-si-waterfall-2.jpg" title="Friend in Kuang Si waterfall" alt="Friend in Kuang Si waterfall"> |
+| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/friend1-in-kuang-si-waterfall-3.jpg" title="Friend in Kuang Si waterfall" alt="Friend in Kuang Si waterfall"> | <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/friend1-in-kuang-si-waterfall-4.webp" title="Friend in Kuang Si waterfall" alt="Friend in Kuang Si waterfall"> |
+| <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/friend2-in-kuang-si-waterfall-3.webp" title="Friend in Kuang Si waterfall" alt="Friend in Kuang Si waterfall"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/friend2-in-kuang-si-waterfall-2.jpg" title="Friend in Kuang Si waterfall" alt="Friend in Kuang Si waterfall"> |
 
 <br>
 
 <span style="color: #8D4801">**이날만을 위해 단련**</span>해 왔다.
 
 |:---:|:---:|:---:|
-| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/friend1-in-kuang-si-waterfall-5.jpg" title="Friend in Kuang Si waterfall" alt="Friend in Kuang Si waterfall"> | <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/friend1-in-kuang-si-waterfall-6.gif" title="Friend in Kuang Si waterfall" alt="Friend in Kuang Si waterfall"> | <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/friend1-in-kuang-si-waterfall-7.gif" title="Friend in Kuang Si waterfall" alt="Friend in Kuang Si waterfall"> |
+| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/friend1-in-kuang-si-waterfall-5.jpg" title="Friend in Kuang Si waterfall" alt="Friend in Kuang Si waterfall"> | <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/friend1-in-kuang-si-waterfall-6.webp" title="Friend in Kuang Si waterfall" alt="Friend in Kuang Si waterfall"> | <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/friend1-in-kuang-si-waterfall-7.webp" title="Friend in Kuang Si waterfall" alt="Friend in Kuang Si waterfall"> |
 
 <br>
 
 <span style="color: indianred">**깊은 수심 호소인 등장**</span>. 안 들어주니까 공격해 옴
 
 |:---:|:---:|:---:|
-| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/friend2-in-kuang-si-waterfall-4.jpg" title="Friend in Kuang Si waterfall" alt="Friend in Kuang Si waterfall"> | <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/friend2-in-kuang-si-waterfall-5.gif" title="Friend in Kuang Si waterfall" alt="Friend in Kuang Si waterfall"> | <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/friend2-in-kuang-si-waterfall-6.gif" title="Friend in Kuang Si waterfall" alt="Friend in Kuang Si waterfall"> |
+| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/friend2-in-kuang-si-waterfall-4.jpg" title="Friend in Kuang Si waterfall" alt="Friend in Kuang Si waterfall"> | <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/friend2-in-kuang-si-waterfall-5.webp" title="Friend in Kuang Si waterfall" alt="Friend in Kuang Si waterfall"> | <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/friend2-in-kuang-si-waterfall-6.webp" title="Friend in Kuang Si waterfall" alt="Friend in Kuang Si waterfall"> |
 
 <br>
 
 <span style="color: #8D4801">**2차전은 격렬하게 마무리**</span>
 
 |:---:|:---:|
-| <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/friends-in-kuang-si-waterfall-4.gif" title="Friends in Kuang Si waterfall" alt="Friends in Kuang Si waterfall"> | <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/friends-in-kuang-si-waterfall-5.gif" title="Friends in Kuang Si waterfall" alt="Friends in Kuang Si waterfall"> |
+| <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/friends-in-kuang-si-waterfall-4.webp" title="Friends in Kuang Si waterfall" alt="Friends in Kuang Si waterfall"> | <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/friends-in-kuang-si-waterfall-5.webp" title="Friends in Kuang Si waterfall" alt="Friends in Kuang Si waterfall"> |
 
 <br>
 
@@ -378,7 +378,7 @@ description: 2024.04.08 루앙 프라방 국립 박물관, 씨 앙통 사원 방
 
 이곳에서 <span style="color: #8D4801">**구조하는 곰은 주로 가슴에 문양이 있는 태양곰과 반달가슴곰**</span>이라고 한다.
 <div class="image-slider-static">
-  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/the-bear-in-kuang-si-waterfall-bear-rescue-center-2.gif" title="The bear in Kuang Si waterfall bear rescue center" alt="The bear in Kuang Si waterfall bear rescue center">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/the-bear-in-kuang-si-waterfall-bear-rescue-center-2.webp" title="The bear in Kuang Si waterfall bear rescue center" alt="The bear in Kuang Si waterfall bear rescue center">
 </div>
 <br>
 
@@ -424,7 +424,7 @@ description: 2024.04.08 루앙 프라방 국립 박물관, 씨 앙통 사원 방
 
 <span style="color: indianred">**카트 타고**</span> 기사님이 기다리시는 <span style="color: #8D4801">**매표소까지 돌아가는 중**</span>
 <div class="image-slider-static">
-  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/on-the-way-to-the-entrance-by-electric-shuttle-cart-1.gif" title="On the way to the entrance by electric shuttle cart" alt="On the way to the entrance by electric shuttle cart">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/on-the-way-to-the-entrance-by-electric-shuttle-cart-1.webp" title="On the way to the entrance by electric shuttle cart" alt="On the way to the entrance by electric shuttle cart">
 </div>
 <br>
 
@@ -468,7 +468,7 @@ description: 2024.04.08 루앙 프라방 국립 박물관, 씨 앙통 사원 방
 
 마지막으로 폭포를 보고 <span style="color: indianred">**루앙 프라방으로 이동**</span>
 <div class="image-slider-static">
-  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/khoun-moung-keo-waterfall-2.gif" title="Khoun Moung Keo waterfall" alt="Khoun Moung Keo waterfall">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/khoun-moung-keo-waterfall-2.webp" title="Khoun Moung Keo waterfall" alt="Khoun Moung Keo waterfall">
 </div>
 <br>
 
@@ -530,7 +530,7 @@ description: 2024.04.08 루앙 프라방 국립 박물관, 씨 앙통 사원 방
 
 물놀이하고 와서 그런지 <span style="color: indianred">**너무나도 배고파서 배부를 때까지 고기를 주문**</span>했던 기억이... 
 <div class="image-slider-static">
-  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/sindad-2.gif" title="Sindad" alt="Sindad">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-08-Laos-Friendship-Travelog-3/sindad-2.webp" title="Sindad" alt="Sindad">
 </div>
 <br>
 

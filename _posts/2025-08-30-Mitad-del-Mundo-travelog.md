@@ -127,7 +127,7 @@ description: 2025.08.30 에콰도르 키토에서 적도 박물관 탐방기
 
 열차 탑승을 위해 기다리던 중 보이던 <span style="color: #8D4801">**남동생을 위해 그네를 돌려주는 여자아이**</span>
 <div class="image-slider-static">
-  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/sister-helping-younger-brother-for-swing.gif" title="The girl helping her young brother to enjoy the swing" alt="The girl helping her young brother to enjoy the swing">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/sister-helping-younger-brother-for-swing.webp" title="The girl helping her young brother to enjoy the swing" alt="The girl helping her young brother to enjoy the swing">
 </div>
 <br>
 
@@ -158,7 +158,7 @@ description: 2025.08.30 에콰도르 키토에서 적도 박물관 탐방기
 
 맥주를 내리는 중(?)인 직원
 <div class="image-slider-static">
-  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/the-staff-dropping-beer.gif" title="The staff dropping beer" alt="The staff dropping beer">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/the-staff-dropping-beer.webp" title="The staff dropping beer" alt="The staff dropping beer">
 </div>
 <br>
 
@@ -180,13 +180,13 @@ description: 2025.08.30 에콰도르 키토에서 적도 박물관 탐방기
 ##### **기념품 가게**
 다들 콜럼버스의 달걀 이야기는 들어보셨죠? (아니, 그건 달걀을 깨서 세우는 건데요?) 아무튼 어떤 원리인지는 몰라도 <span style="color: indianred">**중심으로부터 남북으로 2.5km 반경 안에서는 어떤 자기장의 현상으로 인해 달걀이 저렇게 설 수 있다**</span>고 합니다.
 <div class="image-slider-static">
-  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/a-shopkeeper-putting-up-egg-on-the-nail.gif" title="A shopkeeper putting up egg on the nail" alt="A shopkeeper putting up egg on the nail">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/a-shopkeeper-putting-up-egg-on-the-nail.webp" title="A shopkeeper putting up egg on the nail" alt="A shopkeeper putting up egg on the nail">
 </div>
 <br>
 
 그래서 저도 해봤는데요? 저는 잘 안되더라고요. 여기 <span style="color: #8D4801">**세우고 10초간 버티면 작은 선물을 주신대서**</span> 열심히 했건만... 근데 기분 탓인지 <span style="color: indianred">**달걀 중심에 무언가 당기는 힘**</span>이 느껴졌던 것만 같아서 신기하긴 했다.
 <div class="image-slider-static">
-  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/blogger-trying-to-put-up-egg-on-the-nail.gif" title="Blogger trying to put up egg on the nail" alt="Blogger trying to put up egg on the nail">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/blogger-trying-to-put-up-egg-on-the-nail.webp" title="Blogger trying to put up egg on the nail" alt="Blogger trying to put up egg on the nail">
 </div>
 <br>
 
@@ -263,13 +263,13 @@ description: 2025.08.30 에콰도르 키토에서 적도 박물관 탐방기
 ##### **천문관**
 천문관에 입장하기 위해선 몇 분 동안 대기해야 했는데 그 이유가 <span style="color: #8D4801">**입장하면 대략 10분이 안 되는 시간 동안 태양계의 행성들을 탐험하는 시뮬레이션**</span>을 상영해 준다.
 <div class="image-slider-static">
-  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/simulation-video-to-space.gif" title="Simulation video to space" alt="Simulation video to space">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/simulation-video-to-space.webp" title="Simulation video to space" alt="Simulation video to space">
 </div>
 <br>
 
 무슨 새인지 모르겠는데 <span style="color: #8D4801">**노란색**</span>으로 귀여웠던 새
 <div class="image-slider-static">
-  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/yellow-bird.gif" title="Yellow bird" alt="Yellow bird">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/yellow-bird.webp" title="Yellow bird" alt="Yellow bird">
 </div>
 <br>
 

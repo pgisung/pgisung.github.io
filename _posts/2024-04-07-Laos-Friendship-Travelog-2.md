@@ -138,7 +138,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 
 기사님은 여성분이셨는데 <span style="color: indianred">**우리가 방문하고 싶은 목적지를 다 들린 다음에 기차역까지 픽업**</span>해 주시는 데에 대한 가격을 흥정했고 흔쾌히 승낙하셔서 제일 가까운 빠뚜사이 독립기념문부터 방문했다.
 <div class="image-slider-static">
-  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/on-the-way-to-patuxai-victory-monument.gif" title="On the way to Patuxai Victory monument" alt="On the way to Patuxai Victory monument">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/on-the-way-to-patuxai-victory-monument.webp" title="On the way to Patuxai Victory monument" alt="On the way to Patuxai Victory monument">
 </div>
 <br>
 
@@ -186,7 +186,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 ##### **탓 루앙 황금사원**
 독립기념문을 떠나 황금사원을 향하는 길. 도로 끝에 서서히 사원이 보이기 시작했다.
 <div class="image-slider-static">
-  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/on-the-way-to-pha-that-luang.gif" title="On the way to Pha That Luang" alt="On the way to Pha That Luang">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/on-the-way-to-pha-that-luang.webp" title="On the way to Pha That Luang" alt="On the way to Pha That Luang">
 </div>
 <br>
 
@@ -222,7 +222,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 사원에서 <span style="color: #8D4801">**종을 쓰다듬는 행위**</span>는 <span style="color: indianred">**공덕을 쌓고, 소원을 빌거나 복을 기원하는 행위**</span>라고 하여서 우리도 한 번씩 해보았다.
 
 |:---:|:---:|
-| <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/blogger-rubbing-the-temple-bell-for-good-luck.gif" title="Blogger rubbing the temple bell for good luck" alt="Blogger rubbing the temple bell for good luck"> | <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend2-rubbing-the-temple-bell-for-good-luck.gif" title="Friend rubbing the temple bell for good luck" alt="Friend rubbing the temple bell for good luck"> |
+| <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/blogger-rubbing-the-temple-bell-for-good-luck.webp" title="Blogger rubbing the temple bell for good luck" alt="Blogger rubbing the temple bell for good luck"> | <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend2-rubbing-the-temple-bell-for-good-luck.webp" title="Friend rubbing the temple bell for good luck" alt="Friend rubbing the temple bell for good luck"> |
 
 <br>
 
@@ -393,7 +393,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 올라가는 길도 계단으로 잘 되어있어서 사실 <span style="color: #8D4801">**하이킹이라고 부르기도 머쓱할 만큼 뒷동산 오르듯이 올라갔다**</span>.
 
 |:---:|:---:|
-| <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/on-the-way-going-up-to-phou-si-hill-1.gif" title="On the way going up to Phou Si hill" alt="On the way going up to Phou Si hill"> | <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/on-the-way-going-up-to-phou-si-hill-2.gif" title="On the way going up to Phou Si hill" alt="On the way going up to Phou Si hill"> |
+| <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/on-the-way-going-up-to-phou-si-hill-1.webp" title="On the way going up to Phou Si hill" alt="On the way going up to Phou Si hill"> | <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/on-the-way-going-up-to-phou-si-hill-2.webp" title="On the way going up to Phou Si hill" alt="On the way going up to Phou Si hill"> |
 
 <br>
 
@@ -427,7 +427,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 
 그래서 우리가 상상했던 것이 <span style="color: #8D4801">**새를 판매하는 새 장수가 고객들에게 새를 판매하고**</span> <span style="color: indianred">**고객들이 푸시산 정상에서 새를 풀어주면**</span> <span style="color: #8D4801">**다시 새 장수가 유혹하든, 교육이 되었든 다시 새장으로 돌아가는 거 아니냐**</span>는 상상을 했었다.
 <div class="image-slider-static">
-  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/releasing-caged-birds-for-good-luck.gif" title="Releasing caged birds for good luck" alt="Releasing caged birds for good luck">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/releasing-caged-birds-for-good-luck.webp" title="Releasing caged birds for good luck" alt="Releasing caged birds for good luck">
 </div>
 <br>
 
@@ -446,7 +446,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 자 이제 해 떨어졌으니까 <span style="color: #8D4801">**배 채우러 가야지**</span>
 
 |:---:|:---:|:---:|
-| <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/on-the-way-going-down-from-phou-si-hill-1.gif" title="On the way going down from Phou Si hill" alt="On the way going down from Phou Si hill"> | <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/on-the-way-going-down-from-phou-si-hill-2.gif" title="On the way going down from Phou Si hill" alt="On the way going down from Phou Si hill"> |  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/on-the-way-going-down-from-phou-si-hill-3.gif" title="On the way going down from Phou Si hill" alt="On the way going down from Phou Si hill"> |
+| <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/on-the-way-going-down-from-phou-si-hill-1.webp" title="On the way going down from Phou Si hill" alt="On the way going down from Phou Si hill"> | <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/on-the-way-going-down-from-phou-si-hill-2.webp" title="On the way going down from Phou Si hill" alt="On the way going down from Phou Si hill"> |  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/on-the-way-going-down-from-phou-si-hill-3.webp" title="On the way going down from Phou Si hill" alt="On the way going down from Phou Si hill"> |
 
 <br>
 

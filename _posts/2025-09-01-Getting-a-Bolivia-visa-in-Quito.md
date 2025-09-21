@@ -142,7 +142,7 @@ description: 2025.09.01 에콰도르 키토에서 볼리비아 비자 발급받�
 
 대망의 <span style="color: indianred">**메인 디쉬 까마로네스 알아히요**</span>. 한국어로 마늘 새우! 역시나 친구의 매콤한 감바스 알아히요에 비할 바는 아니었지만, 일단 <span style="color: #8D4801">**우리나라의 돌솥처럼 열기가 유지되는 그릇**</span>에 나와서 요리가 따뜻해서 좋았고, <span style="color: #8D4801">**빵이 계속 리필**</span>이 되어서 곁들여서 배불리 먹을 수 있어서 좋았다.
 <div class="image-slider-static">
-  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-01-Getting-a-Bolivia-visa-in-Quito/camarones-al-ajillo.gif" title="Camarones al ajillo" alt="Camarones al ajillo">
+  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-01-Getting-a-Bolivia-visa-in-Quito/camarones-al-ajillo.webp" title="Camarones al ajillo" alt="Camarones al ajillo">
 </div>
 <br>
 
