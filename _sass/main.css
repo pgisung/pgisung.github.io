@@ -2126,7 +2126,8 @@ div[id*=panorama] {
 .post-author .post-author-info {
   width: 100%;
 }
-.post-author .post-author-info h4 {
+.post-author .post-author-info h2 {
+  font-size: 24px;
   margin: 0 0 10px;
   padding: 0;
   border: none;
