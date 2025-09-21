@@ -79,7 +79,7 @@ $(function() {
         <a href="{url}" title="Navigate to {subject} post">
           <div class="template-box">
             <div class="template-image">
-              <img src="{img}">
+              <img src="{img}" alt="{title} thumbnail">
             </div>
             <div class="template-info">
               <div>
@@ -418,11 +418,6 @@ $(function() {
     document.body.style.overflowX = 'hidden';
   });
 
-  // 일단 우클릭은 막아놓자.
-  document.addEventListener('contextmenu', function(e) {
-    e.preventDefault();
-  });
-
   // data-src 입력한 img들 전부 lazy loading
   // UX 생각했을 때 gif 같은 이미지들만 하는게 나을 것 같다.
   function initLazyLoad() {
@@ -445,5 +440,10 @@ $(function() {
   } else {
     initLazyLoad(); // 이미 DOM이 준비되었으면 바로 실행
   }
+
+  // 일단 우클릭은 막아놓자.
+  document.addEventListener('contextmenu', function(e) {
+    e.preventDefault();
+  });
 
 });

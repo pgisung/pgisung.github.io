@@ -4,7 +4,7 @@ layout: default
 
 <div class="post-header" style="background: url({{"/images/posts/" | prepend: site.baseurl | append : page.img}})">
   <div class="post-header-info">
-    <h1 class="post-title">{% if page.flag %}<img class="flag-icon" src="{{site.baseurl}}/assets/world-flags/{{ page.flag }}.png">{% endif %}{{ page.title | escape }}</h1>
+    <h1 class="post-title">{% if page.flag %}<img class="flag-icon" src="{{site.baseurl}}/assets/world-flags/{{ page.flag }}.png" alt="{{ page.flag }} flag icon">{% endif %}{{ page.title | escape }}</h1>
     <div class="post-meta">
       <time datetime="{{ page.date | date_to_xmlschema }}">
         {% assign date_format = site.minima.date_format | default: "%B %-d, %Y" %} {{ page.date | date: date_format }}
