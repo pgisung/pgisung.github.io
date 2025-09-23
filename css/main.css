@@ -932,16 +932,6 @@ a {
   cursor: pointer !important;
 }
 
-iframe[src*=google],
-div[id*=panorama] {
-  border: 1px solid #8D4801;
-  border-radius: 14px;
-  width: 80%;
-  max-width: 1080px;
-  aspect-ratio: 4/3;
-  height: auto;
-}
-
 @-webkit-keyframes opacity-image {
   0% {
     opacity: 0;
@@ -2071,6 +2061,16 @@ div[id*=panorama] {
   margin-bottom: 40px;
 }
 
+iframe[src*=google],
+div[id*=panorama] {
+  border: 1px solid #8D4801;
+  border-radius: 14px;
+  width: 80%;
+  max-width: 1080px;
+  aspect-ratio: 4/3;
+  height: auto;
+}
+
 .post-content::first-letter,
 .post-content > p:first-of-type::first-letter {
   display: block;
@@ -2824,4 +2824,80 @@ div[id*=panorama] {
   color: gray;
   font-size: 0.875rem;
   margin-bottom: 10px;
+}
+
+/* 15. ========== Skeleton Lazy Loading ========== */
+.skeleton-wrapper.img {
+  position: relative;
+  overflow: hidden;
+  background-color: rgba(186, 142, 119, 0.6);
+  border-radius: 14px;
+}
+
+.skeleton-wrapper.iframe {
+  width: 80%;
+  max-width: 1080px;
+  aspect-ratio: 4/3;
+  position: relative;
+  overflow: hidden;
+  background-color: rgba(186, 142, 119, 0.6);
+  border-radius: 14px;
+}
+
+.skeleton-wrapper.iframe iframe {
+  width: 100%;
+  height: 100%;
+}
+
+.skeleton-wrapper::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: -webkit-gradient(linear, left top, right top, color-stop(25%, rgba(186, 142, 119, 0.6)), color-stop(37%, rgba(156, 112, 89, 0.6)), color-stop(63%, rgba(186, 142, 119, 0.6)));
+  background: linear-gradient(90deg, rgba(186, 142, 119, 0.6) 25%, rgba(156, 112, 89, 0.6) 37%, rgba(186, 142, 119, 0.6) 63%);
+  background-size: 200% 100%;
+  -webkit-animation: skeleton-shimmer 1.2s linear infinite;
+          animation: skeleton-shimmer 1.2s linear infinite;
+  z-index: 2;
+  pointer-events: none;
+  -webkit-transition: opacity 0.3s ease;
+  transition: opacity 0.3s ease;
+  border-radius: 14px;
+}
+
+.skeleton-wrapper.loaded::before {
+  opacity: 0;
+}
+
+.skeleton-wrapper img.skeleton-content,
+.skeleton-wrapper iframe[src*=google].skeleton-content {
+  display: block;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  -webkit-transition: opacity 0.35s ease;
+  transition: opacity 0.35s ease;
+}
+
+.skeleton-wrapper.loaded img.skeleton-content,
+.skeleton-wrapper.loaded iframe[src*=google].skeleton-content {
+  opacity: 1;
+}
+
+@-webkit-keyframes skeleton-shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+@keyframes skeleton-shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
 }/*# sourceMappingURL=main.css.map */

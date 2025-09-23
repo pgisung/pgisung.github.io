@@ -192,6 +192,16 @@
   }
 }
 
+iframe[src*="google"],
+div[id*="panorama"] {
+  border: 1px solid variables.$brown;
+  border-radius: variables.$common-border-radius;
+  width: 80%;
+  max-width: 1080px;
+  aspect-ratio: 4 / 3;
+  height: auto;
+}
+
 .post-content::first-letter,
 .post-content>p:first-of-type::first-letter {
   display: block;

@@ -1,0 +1,72 @@
+@use '../variables'; // import를 use로 바꾸면서 전역변수를 사용하려는 vendor 파일에선 use구문 추가 필요
+
+.skeleton-wrapper.img {
+  position: relative;
+  overflow: hidden;
+  background-color: variables.$turquoisergba;
+  border-radius: variables.$common-border-radius;
+}
+
+.skeleton-wrapper.iframe {
+  width: 80%;
+  max-width: 1080px;
+  aspect-ratio: 4 / 3;
+  position: relative;
+  overflow: hidden;
+  background-color: variables.$turquoisergba;
+  border-radius: variables.$common-border-radius;
+}
+
+.skeleton-wrapper.iframe iframe {
+  width: 100%;
+  height: 100%;
+}
+
+.skeleton-wrapper::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg, variables.$turquoisergba 25%, variables.$turquoisergba-gradient 37%, variables.$turquoisergba 63%);
+  background-size: 200% 100%;
+  animation: skeleton-shimmer 1.2s linear infinite;
+  z-index: 2;
+  pointer-events: none;
+  transition: opacity .3s ease;
+  border-radius: variables.$common-border-radius;
+}
+
+.skeleton-wrapper.loaded::before {
+  opacity: 0;
+}
+
+.skeleton-wrapper img.skeleton-content,
+.skeleton-wrapper iframe[src*="google"].skeleton-content {
+  display: block;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  transition: opacity .35s ease;
+}
+
+.skeleton-wrapper.loaded img.skeleton-content,
+.skeleton-wrapper.loaded iframe[src*="google"].skeleton-content {
+  opacity: 1;
+}
+
+// .skeleton-text-overlay {
+//   position: absolute;
+//   left: 0; right: 0; top: 0;
+//   z-index: 5;
+//   pointer-events: none;
+//   border-radius: variables.$common-border-radius;
+//   background: linear-gradient(90deg, variables.$turquoisergba 25%, variables.$turquoisergba-gradient 37%, variables.$turquoisergba 63%);
+//   background-size: 200% 100%;
+//   animation: skeleton-shimmer 1.2s linear infinite;
+// }
+
+// .skeleton-text-overlay.loaded { opacity: 0; transition: opacity .25s ease; }
+
+@keyframes skeleton-shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}

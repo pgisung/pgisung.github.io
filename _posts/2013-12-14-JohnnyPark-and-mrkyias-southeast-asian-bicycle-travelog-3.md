@@ -20,103 +20,103 @@ description: 2013.12.14 싱가포르 2일 차 여행기
 ## 센토사 가는 길
 아침 식사를 하며 <span style="color: #8D4801">**오늘의 주요 일정을 센토사로 정했다.**</span> 그래서 일단 MRT역으로 출발~!은... 눈에 보이는 절에 또 들어가서 둘러보았다. 
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/temple-entrance.jpg" title="The entrance of temple we visited" alt="The entrance of temple we visited">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/temple-entrance.jpg" title="The entrance of temple we visited" alt="The entrance of temple we visited">
 </div>
 <br>
 
 아침에 가게 문은 안 여시면서 다들 여기 계셨군요.
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/temple-inside.jpg" title="Many people in the temple" alt="Many people in the temple">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/temple-inside.jpg" title="Many people in the temple" alt="Many people in the temple">
 </div>
 <br>
 
 뭔지 모르지만 경건하게 누워서 절을 하시던...
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/temple-bowing.jpg" title="Bowing in the temple" alt="Bowing in the temple">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/temple-bowing.jpg" title="Bowing in the temple" alt="Bowing in the temple">
 </div>
 <br>
 
 지나가면서 뭔가를 나눠주시는 것 같았는데, 무엇이었는지는 모르겠다.
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/temple-ceremony-1.jpg" title="Ceremony in the temple" alt="Ceremony in the temple">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/temple-ceremony-1.jpg" title="Ceremony in the temple" alt="Ceremony in the temple">
 </div>
 <br>
 
 아마도 불을 피우고 소원이나 소망을 비는 것이 아닐지 추측했었던...
 <div class="image-slider-auto">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/temple-ceremony-2.jpg" title="Ceremony in the temple" alt="Ceremony in the temple">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/temple-ceremony-3.jpg" title="Ceremony in the temple" alt="Ceremony in the temple">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/temple-ceremony-2.jpg" title="Ceremony in the temple" alt="Ceremony in the temple">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/temple-ceremony-3.jpg" title="Ceremony in the temple" alt="Ceremony in the temple">
 </div>
 <br>
 
 절을 나와서 걷다 보니 보이던 작은 상점들
 <div class="image-slider-auto">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/food-shop.jpg" title="The shop selling foods" alt="The shop selling foods">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/flower-shop.jpg" title="The shop selling wreaths" alt="The shop selling wreaths">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/food-shop.jpg" title="The shop selling foods" alt="The shop selling foods">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/flower-shop.jpg" title="The shop selling wreaths" alt="The shop selling wreaths">
 </div>
 <br>
 
 맛있었니...? 시원한거니...? <span style="color: #8D4801">**표정이 좋네**</span>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/friend-drinking-juice-in-plastic-bag.jpg" title="Friend drinking a juice in the plastic bag" alt="Friend drinking a juice in the plastic bag">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/friend-drinking-juice-in-plastic-bag.jpg" title="Friend drinking a juice in the plastic bag" alt="Friend drinking a juice in the plastic bag">
 </div>
 <br>
 
 아무튼 MRT를 타고 하버프론트역에 도착하면 이곳에서 센토사로 가는 방법엔 크게 모노레일과 케이블카(주얼박스), 크루져 이 3가지 방법이 있는데 <span style="color: #8D4801">**우리는 케이블카 1일 자유이용권에 아쿠아리움**</span>이 포함된 표를 샀다.
 
 |:---:|:---:|:---:|
-| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/cable-car-ticket.jpg" title="The ticket for cable car" alt="The ticket for cable car"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/aquarium-ticket.jpg" title="The ticket for aquarium" alt="The ticket for aquarium"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/cable-car-paper-bracelet.jpg" title="The paper bracelet to prove user for cable car" alt="The paper bracelet to prove user for cable car"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/cable-car-ticket.jpg" title="The ticket for cable car" alt="The ticket for cable car"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/aquarium-ticket.jpg" title="The ticket for aquarium" alt="The ticket for aquarium"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/cable-car-paper-bracelet.jpg" title="The paper bracelet to prove user for cable car" alt="The paper bracelet to prove user for cable car"> |
 
 <br>
 
 이제 출발하는구먼...?
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/blogger-on-the-cable-car.jpg" title="Blogger on the cable car" alt="Blogger on the cable car">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/blogger-on-the-cable-car.jpg" title="Blogger on the cable car" alt="Blogger on the cable car">
 </div>
 <br>
 
 아름다운 센토사 전경을 보며... 그냥 울산 같기도 하고...?
 <div class="image-slider-auto">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/scenary-on-the-cable-car-1.jpg" title="The scenary below cable car" alt="The scenary below cable car">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/scenary-on-the-cable-car-2.jpg" title="Singapore harbor" alt="Singapore harbor">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/scenary-on-the-cable-car-1.jpg" title="The scenary below cable car" alt="The scenary below cable car">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/scenary-on-the-cable-car-2.jpg" title="Singapore harbor" alt="Singapore harbor">
 </div>
 <br>
 
 재밌어 보이는 워터파크
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/scenary-on-the-cable-car-3.jpg" title="The water park" alt="The water park">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/scenary-on-the-cable-car-3.jpg" title="The water park" alt="The water park">
 </div>
 <br>
 
 센토사섬에 도착하면 <span style="color: #8D4801">**역대 케이블카들을 전시해 둔 전시관**</span>에 먼저 발을 딛게 된다.
 <div class="image-slider-auto">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/cable-car-exhibition-hall-1.jpg" title="Playing in the cable car exhibition hall" alt="Playing in the cable car exhibition hall">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/cable-car-exhibition-hall-2.jpg" title="Playing in the cable car exhibition hall" alt="Playing in the cable car exhibition hall">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/cable-car-exhibition-hall-1.jpg" title="Playing in the cable car exhibition hall" alt="Playing in the cable car exhibition hall">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/cable-car-exhibition-hall-2.jpg" title="Playing in the cable car exhibition hall" alt="Playing in the cable car exhibition hall">
 </div>
 <br>
 
 이왕 전시관에 온 거 신나게 즐겨주시고
 <div class="image-slider-auto">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/cable-car-exhibition-hall-3.jpg" title="Playing in the cable car exhibition hall" alt="Playing in the cable car exhibition hall">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/cable-car-exhibition-hall-4.jpg" title="Playing in the cable car exhibition hall" alt="Playing in the cable car exhibition hall">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/cable-car-exhibition-hall-5.jpg" title="Playing in the cable car exhibition hall" alt="Playing in the cable car exhibition hall">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/cable-car-exhibition-hall-6.jpg" title="Playing in the cable car exhibition hall" alt="Playing in the cable car exhibition hall">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/cable-car-exhibition-hall-3.jpg" title="Playing in the cable car exhibition hall" alt="Playing in the cable car exhibition hall">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/cable-car-exhibition-hall-4.jpg" title="Playing in the cable car exhibition hall" alt="Playing in the cable car exhibition hall">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/cable-car-exhibition-hall-5.jpg" title="Playing in the cable car exhibition hall" alt="Playing in the cable car exhibition hall">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/cable-car-exhibition-hall-6.jpg" title="Playing in the cable car exhibition hall" alt="Playing in the cable car exhibition hall">
 </div>
 <br>
 
 역대 케이블카 표들과 현재 표 비교해 보기
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/cable-car-tickets-of-all-time.jpg" title="Lunch in KFC" alt="Lunch in KFC">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/cable-car-tickets-of-all-time.jpg" title="Lunch in KFC" alt="Lunch in KFC">
 </div>
 <br>
 
 전시관을 나와서 KFC에서 점심을 먹었는데, <span style="color: #8D4801">**특이하게도 동남아 KFC에는 우리나라와 달리 밥이 포함된 메뉴**</span>가 있어 치킨과 함께 밥을 먹을 수 있어 신선했다. (그래서 이후에도 KFC를 자주 이용하게 된 우리들...)
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/lunch-in-kfc.jpg" title="Lunch in KFC" alt="Lunch in KFC">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/lunch-in-kfc.jpg" title="Lunch in KFC" alt="Lunch in KFC">
 </div>
 <br>
 
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1972.6622014106488!2d103.8183859568519!3d1.2544368105600805!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1bb1b3888f2f%3A0xcbd6074502ce477b!2sKFC%20Sentosa!5e0!3m2!1sko!2sec!4v1755037807180!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1972.6622014106488!2d103.8183859568519!3d1.2544368105600805!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1bb1b3888f2f%3A0xcbd6074502ce477b!2sKFC%20Sentosa!5e0!3m2!1sko!2sec!4v1755037807180!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---
@@ -124,62 +124,62 @@ description: 2013.12.14 싱가포르 2일 차 여행기
 ## 아쿠아리움
 식사 후 다음 목적지인 아쿠아리움으로 이동하며 사진 몇 장 찍고...
 <div class="image-slider-auto">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/blogger-in-sentosa-1.jpg" title="Blogger in Sentosa island" alt="Blogger in Sentosa island">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/blogger-in-sentosa-2.jpg" title="Blogger in Sentosa island" alt="Blogger in Sentosa island">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/blogger-in-sentosa-3.jpg" title="Blogger in Sentosa island" alt="Blogger in Sentosa island">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/blogger-in-sentosa-1.jpg" title="Blogger in Sentosa island" alt="Blogger in Sentosa island">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/blogger-in-sentosa-2.jpg" title="Blogger in Sentosa island" alt="Blogger in Sentosa island">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/blogger-in-sentosa-3.jpg" title="Blogger in Sentosa island" alt="Blogger in Sentosa island">
 </div>
 <br>
 
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/blogger-in-sentosa-4.jpg" title="Blogger in Sentosa island" alt="Blogger in Sentosa island">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/blogger-in-sentosa-4.jpg" title="Blogger in Sentosa island" alt="Blogger in Sentosa island">
 </div>
 <br>
 
 <span style="color: #8D4801">**세계 최대의 아쿠아리움**</span>이라는 명칭답게 어마어마한 규모를 자랑했다.
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/blogger-in-aquarium.jpg" title="Blogger in aquarium" alt="Blogger in aquarium">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/blogger-in-aquarium.jpg" title="Blogger in aquarium" alt="Blogger in aquarium">
 </div>
 <br>
 
 이렇게 거대하고 많은 종류의 어종을 볼 수 있는 아쿠아리움은 처음 방문했고 그냥 물고기들을 보고 있는 것만으로도 즐거울 정도로 아름다웠다. 
 <div class="image-slider-auto">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/aquarium-many-spacies-of-fishes-1.jpg" title="Many spacies of fishes in the huge fish tank" alt="Many spacies of fishes in the huge fish tank">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/aquarium-many-spacies-of-fishes-2.jpg" title="Many spacies of fishes in the huge fish tank" alt="Many spacies of fishes in the huge fish tank">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/aquarium-many-spacies-of-fishes-3.jpg" title="Many spacies of fishes in the huge fish tank" alt="Many spacies of fishes in the huge fish tank">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/aquarium-many-spacies-of-fishes-1.jpg" title="Many spacies of fishes in the huge fish tank" alt="Many spacies of fishes in the huge fish tank">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/aquarium-many-spacies-of-fishes-2.jpg" title="Many spacies of fishes in the huge fish tank" alt="Many spacies of fishes in the huge fish tank">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/aquarium-many-spacies-of-fishes-3.jpg" title="Many spacies of fishes in the huge fish tank" alt="Many spacies of fishes in the huge fish tank">
 </div>
 <br>
 
 어디서 많이 본 듯한 귀여운 <span style="color: #8D4801">**오징어**</span>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/aquarium-squid.jpg" title="The cute squid" alt="The cute squid">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/aquarium-squid.jpg" title="The cute squid" alt="The cute squid">
 </div>
 <br>
 
 크리스마스가 다가와서 그런지 어항 안에 세워진 <span style="color: #8D4801">**트리**</span>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/aquarium-tree.jpg" title="The christmas tree in the fish tank" alt="The christmas tree in the fish tank">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/aquarium-tree.jpg" title="The christmas tree in the fish tank" alt="The christmas tree in the fish tank">
 </div>
 <br>
 
 형형색색의 아름다운 <span style="color: #8D4801">**해파리들**</span>
 <div class="image-slider-auto">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/aquarium-green-jellyfish.jpg" title="The green jellyfish" alt="The green jellyfish">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/aquarium-yellow-jellyfish.jpg" title="The yellow jellyfish" alt="The yellow jellyfish">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/aquarium-blue-jellyfish.jpg" title="The blue jellyfish" alt="The blue jellyfish">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/aquarium-white-jellyfish.jpg" title="The white jellyfish" alt="The white jellyfish">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/aquarium-red-jellyfish.jpg" title="The red jellyfish" alt="The red jellyfish">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/aquarium-green-jellyfish.jpg" title="The green jellyfish" alt="The green jellyfish">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/aquarium-yellow-jellyfish.jpg" title="The yellow jellyfish" alt="The yellow jellyfish">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/aquarium-blue-jellyfish.jpg" title="The blue jellyfish" alt="The blue jellyfish">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/aquarium-white-jellyfish.jpg" title="The white jellyfish" alt="The white jellyfish">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/aquarium-red-jellyfish.jpg" title="The red jellyfish" alt="The red jellyfish">
 </div>
 <br>
 
 이거 봐 이만~~~큼 크지?
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/aquarium-the-huge-fish.jpg" title="The fish as huge as human" alt="The fish as huge as human">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/aquarium-the-huge-fish.jpg" title="The fish as huge as human" alt="The fish as huge as human">
 </div>
 <br>
 
 <span style="color: #8D4801">**곰치**</span>인가... <span style="color: #8D4801">**곰치**</span>였던 것 같아... <span style="color: #8D4801">**곰치**</span>였을지도...
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/aquarium-moray-eel.jpg" title="The moray eel" alt="The moray eel">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/aquarium-moray-eel.jpg" title="The moray eel" alt="The moray eel">
 </div>
 <br>
 
@@ -190,38 +190,38 @@ description: 2013.12.14 싱가포르 2일 차 여행기
 ## 해변에서 일몰 구경
 <span style="color: #8D4801">**유니버설 스튜디오**</span> 다녀온 척하기
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/universal-studio.jpg" title="Blogger in front of Universal studio entrance" alt="Blogger in front of Universal studio entrance">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/universal-studio.jpg" title="Blogger in front of Universal studio entrance" alt="Blogger in front of Universal studio entrance">
 </div>
 <br>
 
 남자가 둘 이상이 모이면 뭘 한다...?
 
 |:---:|:---:|:---:|
-| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/blogger-in-sentosa-island-1.jpg" title="Blogger taking ridiculous picture" alt="Blogger taking ridiculous picture"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/blogger-in-sentosa-island-2.jpg" title="Blogger taking ridiculous picture" alt="Blogger taking ridiculous picture"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/give-me-money.jpg" title="Hand picture with graffiti of money" alt="Hand picture with graffiti of money"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/blogger-in-sentosa-island-1.jpg" title="Blogger taking ridiculous picture" alt="Blogger taking ridiculous picture"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/blogger-in-sentosa-island-2.jpg" title="Blogger taking ridiculous picture" alt="Blogger taking ridiculous picture"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/give-me-money.jpg" title="Hand picture with graffiti of money" alt="Hand picture with graffiti of money"> |
 
 <br>
 
 <span style="color: #8D4801">**팔라완 해변**</span>이 보이기 시작했는데 왜 이렇게 우중충해 보이지...
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/palawan-beach.jpg" title="The Palawan beach" alt="The Palawan beach">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/palawan-beach.jpg" title="The Palawan beach" alt="The Palawan beach">
 </div>
 <br>
 
 음... 이곳이 <span style="color: #8D4801">**아시아 대륙의 최남단**</span>이라네요. 뭐 그렇답니다.
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/palawan-beach-the-southern-most-point.jpg" title="The Palawan beach is the southern most point for asia continent" alt="The Palawan beach is the southern most point for asia continent">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/palawan-beach-the-southern-most-point.jpg" title="The Palawan beach is the southern most point for asia continent" alt="The Palawan beach is the southern most point for asia continent">
 </div>
 <br>
 
 다들 이 다리에서 사진을 찍는데 안 찍을 수 없지
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/palawan-beach-swing-bridge.jpg" title="The swing bridge on Palawan beach" alt="The swing bridge on Palawan beach">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/palawan-beach-swing-bridge.jpg" title="The swing bridge on Palawan beach" alt="The swing bridge on Palawan beach">
 </div>
 <br>
 
 망원경도 있었는데 그냥 수평선 보는데 1불이나 해서 딱히 이용하진 않았다.
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/palawan-beach-with-blogger.jpg" title="Blogger in Palawan beach" alt="Blogger in Palawan beach">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/palawan-beach-with-blogger.jpg" title="Blogger in Palawan beach" alt="Blogger in Palawan beach">
 </div>
 <br>
 
@@ -231,66 +231,66 @@ description: 2013.12.14 싱가포르 2일 차 여행기
 3. 너무 더우니 <span style="color: indianred">**옷을 덜 입으라는**</span> 표지판
 
 |:---:|:---:|:---:|
-| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/palawan-beach-street-sign-1.jpg" title="The street sign written 'photo opportunity'" alt="The street sign written 'photo opportunity'"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/palawan-beach-street-sign-2.jpg" title="The street sign explained ridiculously there can not go fly kite" alt="The street sign explained ridiculously there can not go fly kite"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/palawan-beach-street-sign-3.jpg" title="The street sign written 'way too hot, wear less'" alt="The street sign written 'way too hot, wear less"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/palawan-beach-street-sign-1.jpg" title="The street sign written 'photo opportunity'" alt="The street sign written 'photo opportunity'"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/palawan-beach-street-sign-2.jpg" title="The street sign explained ridiculously there can not go fly kite" alt="The street sign explained ridiculously there can not go fly kite"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/palawan-beach-street-sign-3.jpg" title="The street sign written 'way too hot, wear less'" alt="The street sign written 'way too hot, wear less"> |
 
 <br>
 
 실로소 해변에서 비치발리볼도 구경하고 (근데 사진을 못 찍었네...) <span style="color: #8D4801">**일몰**</span>도 보고
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/siloso-beach-sunset.jpg" title="The sunset on Siloso beach" alt="The sunset on Siloso beach">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/siloso-beach-sunset.jpg" title="The sunset on Siloso beach" alt="The sunset on Siloso beach">
 </div>
 <br>
  
 해가 진 후에는 멀라이언 타워에 입장해서 구경했다. <span style="color: indianred">**멀라이언은 사자의 머리에 물고기의 하체를 가졌는데, 싱가포르를 세웠던 왕자가 숭배하는 사자와 해양에 특화된 도시의 특색**</span>을 따 멀라이언이 만들어졌다고 한다. <span style="color: #8D4801">**입장할 때 행운의 코인을 주는데, 안에 들어가면 자신의 운을 시험하라고 한다. 어차피 나오는 건 A, B 티켓 둘 중 하나인데 A는 멀라이언 타워 엽서, B는 핸드폰 고리를 준다.**</span> (이거 다 입장료에 포함된거야...)
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/sentosa-picture-postcard.jpg" title="The postcard from Merlion tower" alt="The postcard from Merlion tower">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/sentosa-picture-postcard.jpg" title="The postcard from Merlion tower" alt="The postcard from Merlion tower">
 </div>
 <br>
 
 멀라이언 타워 위에 올라가면 센토사 풍경이 보이고 사진기사가 있고 돈을 줘야 찍을 수 있는데 화질이 그리 좋진 않아서 PASS
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/blogger-with-merlion-tower.jpg" title="Blogger with Merlion tower" alt="Blogger with Merlion tower">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/blogger-with-merlion-tower.jpg" title="Blogger with Merlion tower" alt="Blogger with Merlion tower">
 </div>
 <br>
 
 저녁 7시 30분에 <span style="color: #8D4801">**멀라이언 타워 4D 쇼**</span>를 하는데 영상을 타워에 비추는 형식인데 정말 아름다웠다. 저녁 8시 30분에 한 번 더 해 준다고 한다. 
 
 |:---:|:---:|:---:|
-| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-1.jpg" title="Merlion 4D show" alt="Merlion 4D show"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-2.jpg" title="Merlion 4D show" alt="Merlion 4D show"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-3.jpg" title="Merlion 4D show" alt="Merlion 4D show"> |
-| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-5.jpg" title="Merlion 4D show" alt="Merlion 4D show"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-6.jpg" title="Merlion 4D show" alt="Merlion 4D show"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-7.jpg" title="Merlion 4D show" alt="Merlion 4D show"> |
-| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-8.jpg" title="Merlion 4D show" alt="Merlion 4D show"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-9.jpg" title="Merlion 4D show" alt="Merlion 4D show"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-10.jpg" title="Merlion 4D show" alt="Merlion 4D show"> |
-| <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-11.jpg" title="Merlion 4D show" alt="Merlion 4D show"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-12.jpg" title="Merlion 4D show" alt="Merlion 4D show"> | <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-13.jpg" title="Merlion 4D show" alt="Merlion 4D show"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-1.jpg" title="Merlion 4D show" alt="Merlion 4D show"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-2.jpg" title="Merlion 4D show" alt="Merlion 4D show"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-3.jpg" title="Merlion 4D show" alt="Merlion 4D show"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-5.jpg" title="Merlion 4D show" alt="Merlion 4D show"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-6.jpg" title="Merlion 4D show" alt="Merlion 4D show"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-7.jpg" title="Merlion 4D show" alt="Merlion 4D show"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-8.jpg" title="Merlion 4D show" alt="Merlion 4D show"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-9.jpg" title="Merlion 4D show" alt="Merlion 4D show"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-10.jpg" title="Merlion 4D show" alt="Merlion 4D show"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-11.jpg" title="Merlion 4D show" alt="Merlion 4D show"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-12.jpg" title="Merlion 4D show" alt="Merlion 4D show"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/merlion-4d-show-13.jpg" title="Merlion 4D show" alt="Merlion 4D show"> |
 
 <br>
 
 돌아올 때의 케이블카는 또 다른 감동을 주었다. <span style="color: #8D4801">**센토사와 하버프론트의 야경 전경**</span>을 볼 수 있는데 주얼박스 꼭대기로 가면 안에서 식사도 가능하게 해준다고 한다.
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/night-view-in-cable-car.jpg" title="Night view in cable car" alt="Night view in cable car">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/night-view-in-cable-car.jpg" title="Night view in cable car" alt="Night view in cable car">
 </div>
 <br>
 
 도미토리에 돌아와 근처 식당에서 면 요리로 저녁을 간단히 먹고
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/dinner-with-noodle.jpg" title="Dinner with noodle" alt="Dinner with noodle">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/dinner-with-noodle.jpg" title="Dinner with noodle" alt="Dinner with noodle">
 </div>
 <br>
 
 사타이(우리나라의 닭꼬치류)를 안주삼아 <span style="color: #8D4801">**타이거 맥주로 하루를 마무리했다. 사실 자전거 여행 중에 매일 이 시간이 가장 행복했던 것 같다.**</span> 밤에 맥주 한 잔으로 그날의 갈증을 날려버릴 수 있었기에...
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/beer-time.jpg" title="Blogger drinking a beer" alt="Blogger drinking a beer">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/beer-time.jpg" title="Blogger drinking a beer" alt="Blogger drinking a beer">
 </div>
 <br>
 
 근데 맥주잔 밑에 <span style="color: indianred">**이 번호**</span>는 뭐였지...?
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/the-number-at-bottom-of-the-beer-cup.jpg" title="The number at bottom of the beer cup" alt="The number at bottom of the beer cup">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/the-number-at-bottom-of-the-beer-cup.jpg" title="The number at bottom of the beer cup" alt="The number at bottom of the beer cup">
 </div>
 <br>
 
 ---
 
 ## 여행 경로
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m69!1m12!1m3!1d3319.5270714846124!2d103.81934822645852!3d1.253665969845826!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m54!3e0!4m5!1s0x31da19cef14217db%3A0xa940c6966b2d5cf1!2sGreen%20Kiwi%20Backpacker%20Hostel!3m2!1d1.3143083!2d103.8603667!4m5!1s0x31da1bcdaa1d7c95%3A0x7551eb601b91a89e!2sHarbourFront%20MRT%20Station%20(CC29)!3m2!1d1.2650371999999999!2d103.8215381!4m5!1s0x31da1bfebf758393%3A0x11e9b1a30bc5fed7!2zU2VudG9zYSBTdGF0aW9uLCDsi7HqsIDtj6zrpbQ!3m2!1d1.25538!2d103.8171!4m5!1s0x31da1bb1b3888f2f%3A0xcbd6074502ce477b!2sKFC%20Sentosa!3m2!1d1.2544714!2d103.81922949999999!4m5!1s0x31da1bfdabc2ed8f%3A0xf4b09544068cfd26!2sSingapore%20Oceanarium!3m2!1d1.2583209!2d103.82051469999999!4m5!1s0x31da1bfdfe722735%3A0x2eeae4fb48ea3cdb!2z7Jyg64uI67KE7IWcIOyKpO2KnOuUlOyYpCDsi7HqsIDtj6zrpbQg7KeA6rWs67O4!3m2!1d1.2566325!2d103.821243!4m5!1s0x31da1eaa0c21d3fd%3A0x633b560cebfaa12c!2sPalawan%20Beach!3m2!1d1.2482777!2d103.8225374!4m4!1s0x31da1bf8fa5d45eb%3A0xf2cb8031cdb3a7cc!3m2!1d1.2554915!2d103.8123885!4m5!1s0x31da1bffa708a047%3A0x68c73870017cb2fa!2zMzAgSW1iaWFoIFJkLCDsi7HqsIDtj6zrpbQgMDk5NzA1!3m2!1d1.2534181!2d103.8188155!5e0!3m2!1sko!2sec!4v1757353305269!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m69!1m12!1m3!1d3319.5270714846124!2d103.81934822645852!3d1.253665969845826!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m54!3e0!4m5!1s0x31da19cef14217db%3A0xa940c6966b2d5cf1!2sGreen%20Kiwi%20Backpacker%20Hostel!3m2!1d1.3143083!2d103.8603667!4m5!1s0x31da1bcdaa1d7c95%3A0x7551eb601b91a89e!2sHarbourFront%20MRT%20Station%20(CC29)!3m2!1d1.2650371999999999!2d103.8215381!4m5!1s0x31da1bfebf758393%3A0x11e9b1a30bc5fed7!2zU2VudG9zYSBTdGF0aW9uLCDsi7HqsIDtj6zrpbQ!3m2!1d1.25538!2d103.8171!4m5!1s0x31da1bb1b3888f2f%3A0xcbd6074502ce477b!2sKFC%20Sentosa!3m2!1d1.2544714!2d103.81922949999999!4m5!1s0x31da1bfdabc2ed8f%3A0xf4b09544068cfd26!2sSingapore%20Oceanarium!3m2!1d1.2583209!2d103.82051469999999!4m5!1s0x31da1bfdfe722735%3A0x2eeae4fb48ea3cdb!2z7Jyg64uI67KE7IWcIOyKpO2KnOuUlOyYpCDsi7HqsIDtj6zrpbQg7KeA6rWs67O4!3m2!1d1.2566325!2d103.821243!4m5!1s0x31da1eaa0c21d3fd%3A0x633b560cebfaa12c!2sPalawan%20Beach!3m2!1d1.2482777!2d103.8225374!4m4!1s0x31da1bf8fa5d45eb%3A0xf2cb8031cdb3a7cc!3m2!1d1.2554915!2d103.8123885!4m5!1s0x31da1bffa708a047%3A0x68c73870017cb2fa!2zMzAgSW1iaWFoIFJkLCDsi7HqsIDtj6zrpbQgMDk5NzA1!3m2!1d1.2534181!2d103.8188155!5e0!3m2!1sko!2sec!4v1757353305269!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---
@@ -298,7 +298,7 @@ description: 2013.12.14 싱가포르 2일 차 여행기
 ## 여행 경비
 경비는 <span style="color: indianred">**2인 기준**</span>이다.
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/budget-book.jpg" title="Budget book" alt="Budget book">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/budget-book.jpg" title="Budget book" alt="Budget book">
 </div>
 <br>
 

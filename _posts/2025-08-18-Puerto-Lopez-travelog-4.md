@@ -25,7 +25,7 @@ description: 2025.08.18 여행 마지막 날 푸에르토 로페스에서 키토
 ## 아침 산책
 <span style="color: #8D4801">**여행과 이주의 차이는 귀가 여부에 달려있다**</span>고 했던가? 여행이 되려면 반드시 집으로 돌아가야 하는 날 아침이 밝았다. 숙소 앞에 동상 옆에서 정말 많은 분이 기념사진을 찍으셔서 뭔가 아침마다 루틴처럼 보러 나왔었는데 그것도 오늘이 마지막이다. 그래도 <span style="color: indianred">**마지막으로 마을 풍경을 눈에 담으려고 문을 나서**</span>본다.
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/puerto-lopez-tourist-pier-view-from-balcony.jpg" title="Puerto Lopez tourist pier view from balcony" alt="Puerto Lopez tourist pier view from balcony">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/puerto-lopez-tourist-pier-view-from-balcony.jpg" title="Puerto Lopez tourist pier view from balcony" alt="Puerto Lopez tourist pier view from balcony">
 </div>
 <br>
 
@@ -34,30 +34,30 @@ description: 2025.08.18 여행 마지막 날 푸에르토 로페스에서 키토
 
 가게에서 먹을 거 줄 사람을 찾는 고양이 식사 내내 간절한 눈빛을 보내왔다.
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/hungry-cat.jpg" title="Hungry cat" alt="Hungry cat">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/hungry-cat.jpg" title="Hungry cat" alt="Hungry cat">
 </div>
 <br>
 
 이 작은 마을의 초등학생들로 보였다. 이동 수업인지 교실을 옮기는 모습
 <div class="image-slider-static">
-  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/moving-students.webp" title="Moving students" alt="Moving students">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/moving-students.webp" title="Moving students" alt="Moving students">
 </div>
 <br>
 
 Bolon과 간단한 계란후라이 하나가 나왔다. <span style="color: #8D4801">**옥수수나 감자를 으깨어 만든 둥근 형태의 음식**</span>이라고 하는데 치즈나 다른 재료를 섞어서 만들기도 한다고 한다. 실제로 맛은 솔직히 필자 기준 조금 싱거운 감자 느낌이었는데 다 먹고 나니 포만감이 크게 느껴졌다.
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/bolon.jpg" title="Bolon" alt="Bolon">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/bolon.jpg" title="Bolon" alt="Bolon">
 </div>
 <br>
 
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d249.271447644812!2d-80.8103876602493!3d-1.558094251743104!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902e9f1eeb0b6c13%3A0xf54e1e7e54eb489e!2sEncebollados%20de%20Brian!5e0!3m2!1sko!2sec!4v1756100444619!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d249.271447644812!2d-80.8103876602493!3d-1.558094251743104!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902e9f1eeb0b6c13%3A0xf54e1e7e54eb489e!2sEncebollados%20de%20Brian!5e0!3m2!1sko!2sec!4v1756100444619!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 식사가 다 끝날 무렵 <span style="color: #8D4801">**김이 펄펄 나는 뜨거운 물**</span>을 가져다주셨는데, 처음엔 이게 뭔가 싶다가 식탁 위 조미료통에 커피 비스름한 것을 발견하고 설탕 커피를 직접 타 마시라고 주셨다는 것을 알았다.
 
 Bolon과 직접 타 먹는 설탕 커피의 가격은 <span style="color: indianred">**2.5불**</span>이었다.
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/sugar-coffee.jpg" title="Sugar coffee" alt="Sugar coffee">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/sugar-coffee.jpg" title="Sugar coffee" alt="Sugar coffee">
 </div>
 <br>
 
@@ -66,29 +66,29 @@ Bolon과 직접 타 먹는 설탕 커피의 가격은 <span style="color: indian
 ## 버스 타고 만타로 이동
 숙소로 이동할 때도 그러했듯이 <span style="color: #8D4801">**도로에 많이 보이는 툭툭이**</span>를 잡아타고 버스 정류장을 향했다. 올 때 탑승했던 툭툭이보다 <span style="color: #8D4801">**갈 때 탑승했던 툭툭이가 뭔가 좌석도 넓고 바람도 잘 막아주고 쾌적**</span>해서 좋았다.
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/blogger-on-the-tuktuk.jpg" title="Blogger on the Tuktuk" alt="Blogger on the Tuktuk">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/blogger-on-the-tuktuk.jpg" title="Blogger on the Tuktuk" alt="Blogger on the Tuktuk">
 </div>
 <br>
 
 ### 푸에르토 로페스 지상 터미널
 만타에서와 다르게 푸에르토 로페스의 버스정류장은 작아서 금방 우리가 타고 왔던 버스 회사인 <span style="color: #8D4801">**Manglaralto**</span>를 찾을 수 있었다. 또한 <span style="color: indianred">**화장실도 돈을 지불해야 들어갈 수 있게 지키고 있었는데 그리 깨끗해 보이지도 않았다**</span>.
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/puerto-lopez-terrestrial-terminal.jpg" title="Puerto Lopez terrestrial terminal" alt="Puerto Lopez terrestrial terminal">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/puerto-lopez-terrestrial-terminal.jpg" title="Puerto Lopez terrestrial terminal" alt="Puerto Lopez terrestrial terminal">
 </div>
 <br>
 
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1492.2280688917492!2d-80.80263509332443!3d-1.5406865735430604!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902c208776215975%3A0x7272c8c8a037bf72!2sTerminal%20Terrestre%20Puerto%20Lopez!5e0!3m2!1sko!2sec!4v1755782683004!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1492.2280688917492!2d-80.80263509332443!3d-1.5406865735430604!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902c208776215975%3A0x7272c8c8a037bf72!2sTerminal%20Terrestre%20Puerto%20Lopez!5e0!3m2!1sko!2sec!4v1755782683004!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 <span style="color: #8D4801">**만타로 향하는 버스 티켓**</span>. 만타에서 올 때는 휴일이어서 그랬는지 정류장에서부터 탑승객도 많았고 그래서 붙어있는 자리에 앉을 수도 없었는데 갈 때는 여유롭게 옆자리에 앉아서 갈 수 있었다.
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/bus-ticket-to-manta.jpg" title="Bus ticket to Manta" alt="Bus ticket to Manta">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/bus-ticket-to-manta.jpg" title="Bus ticket to Manta" alt="Bus ticket to Manta">
 </div>
 <br>
 
 <span style="color: #8D4801">**손님들의 목적지가 어딘지도 모르는데 그냥 보이는 버스에 무작정 오르라며 호객**</span>하던 아저씨가 생각난다. 아무튼 제대로 만타에 가는 버스인지 여쭤보고 버스에 올랐다. <span style="color: indianred">**올 때는 자리가 없어서 가방을 앞에 안고 탔었는데, 갈 때는 위에 선반에 가방을 올려놨었다. 당연히 편하긴 했었는데 나중에 친구가 사실은 굉장히 위험한 행동**</span>이라고 말해줬다. 자칫하면 가방을 통째로 잃어버릴 수 있다.
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/bus-going-to-manta.jpg" title="The bus going to Manta" alt="The bus going to Manta">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/bus-going-to-manta.jpg" title="The bus going to Manta" alt="The bus going to Manta">
 </div>
 <br>
 
@@ -102,11 +102,11 @@ Bolon과 직접 타 먹는 설탕 커피의 가격은 <span style="color: indian
 
 어느 정도 버스 정류장에 거의 다 도착했을 때쯤에 공항까지 걸어가려는 승객이 있어서인지 <span style="color: #8D4801">**정류장도 아닌데 버스가 멈추고 많이들 내리시길래 우리도 따라 내렸다**</span>가 걷지는 않고 우버를 타고 공항으로 이동했다.
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/bus-stopped-at-fuel-station.jpg" title="The bus stopped at fuel station" alt="The bus stopped at fuel station">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/bus-stopped-at-fuel-station.jpg" title="The bus stopped at fuel station" alt="The bus stopped at fuel station">
 </div>
 <br>
 
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4638.317635826178!2d-80.7018901927238!3d-1.0037664661302823!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902be46128632d43%3A0x6cab71ffb74e5353!2sPETROECUADOR%20Gasolinera%20Jose%20Antonio!5e0!3m2!1sko!2sec!4v1756100579579!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4638.317635826178!2d-80.7018901927238!3d-1.0037664661302823!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902be46128632d43%3A0x6cab71ffb74e5353!2sPETROECUADOR%20Gasolinera%20Jose%20Antonio!5e0!3m2!1sko!2sec!4v1756100579579!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---
@@ -115,51 +115,51 @@ Bolon과 직접 타 먹는 설탕 커피의 가격은 <span style="color: indian
 ### 엘로이 알파로 국제공항
 매우 작고 평일이라서 더욱 사람도 많이 없던 만타 공항. <span style="color: #8D4801">**규모가 작아서 그런지 비행기별로 탑승구가 따로 존재하지도 않고**</span> 그냥 다 이곳에서 출발하는 것 같았다.
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/departure-hall-in-manta-airport-1.jpg" title="Departure hall in Manta airport" alt="Departure hall in Manta airport">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/departure-hall-in-manta-airport-1.jpg" title="Departure hall in Manta airport" alt="Departure hall in Manta airport">
 </div>
 <br>
 
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.2645171403233!2d-80.68424690926207!3d-0.9546492271615287!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902be6f60633c6ed%3A0x1260e2f387f7d729!2sEloy%20Alfaro%20International%20Airport!5e0!3m2!1sko!2sec!4v1755779250660!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.2645171403233!2d-80.68424690926207!3d-0.9546492271615287!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902be6f60633c6ed%3A0x1260e2f387f7d729!2sEloy%20Alfaro%20International%20Airport!5e0!3m2!1sko!2sec!4v1755779250660!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 일정상 점심을 먹을 수 없었던 우리는 <span style="color: #8D4801">**친구가 자판기에서 뽑아온 감자칩으로 점심**</span>을 해결하고 비행기를 기다렸다.
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/departure-hall-in-manta-airport-2.jpg" title="Departure hall in Manta airport" alt="Departure hall in Manta airport">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/departure-hall-in-manta-airport-2.jpg" title="Departure hall in Manta airport" alt="Departure hall in Manta airport">
 </div>
 <br>
 
 드디어 이륙 <span style="color: #8D4801">**만타 안녕**</span>
 <div class="image-slider-static">
-  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/a-plane-on-takeoff.webp" title="A plane on takeoff" alt="A plane on takeoff">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/a-plane-on-takeoff.webp" title="A plane on takeoff" alt="A plane on takeoff">
 </div>
 <br>
 
 떠날 때 보니까 아름다운 만타 전경. 비행기 안에도 <span style="color: #8D4801">**공석이 많아서 옆자리에도 아무도 없는 채**</span>로 매우 편했다.
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/manta-city-view.jpg" title="Manta city view" alt="Manta city view">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/manta-city-view.jpg" title="Manta city view" alt="Manta city view">
 </div>
 <br>
 
 ### 마리스칼 수크레 국제공항
 
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.808942339798!2d-78.36056839999999!3d-0.12422709999999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d58db4352baa87%3A0x2f9f7623e0894b8b!2z66eI66as7Iqk7Lm8IOyImO2BrOugiCDqta3soJzqs7Xtla0!5e0!3m2!1sko!2sec!4v1755779329466!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.808942339798!2d-78.36056839999999!3d-0.12422709999999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d58db4352baa87%3A0x2f9f7623e0894b8b!2z66eI66as7Iqk7Lm8IOyImO2BrOugiCDqta3soJzqs7Xtla0!5e0!3m2!1sko!2sec!4v1755779329466!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 지상이 보이기 시작하는 것을 보니 키토에 거의 다 온 것 같다.
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/mountain-view-near-quito.jpg" title="The mountain view near Quito" alt="The mountain view near Quito">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/mountain-view-near-quito.jpg" title="The mountain view near Quito" alt="The mountain view near Quito">
 </div>
 <br>
 
 다시 봐서 반갑다. <span style="color: #8D4801">**키토**</span>
 <div class="image-slider-static">
-  <img src="{{site.baseurl}}/assets/placeholder.png" data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/a-landing-plane.webp" title="A landing plane" alt="A landing plane">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/a-landing-plane.webp" title="A landing plane" alt="A landing plane">
 </div>
 <br>
 
 키토 공항 국내선 출구를 처음 이용해 봐서 그런가 나오는 길에 보이는 <span style="color: #8D4801">**바깥 풍경이 매우 아름다웠**</span>었다. (근데 여행 끝난 안도감에 사진은 못 찍음)
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/mariscal-sucre-international-airport.jpg" title="Mariscal Sucre international airport" alt="Mariscal Sucre international airport">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/mariscal-sucre-international-airport.jpg" title="Mariscal Sucre international airport" alt="Mariscal Sucre international airport">
 </div>
 <br>
 
@@ -170,17 +170,17 @@ Bolon과 직접 타 먹는 설탕 커피의 가격은 <span style="color: indian
 
 <span style="color: indianred">**아무튼 3박 4일간 좋았던 푸에르토 로페스 여행 끄-읕-!**</span>
 <div class="image-slider-static">
-  <img src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/california-rolls.jpg" title="California rolls" alt="California rolls">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/california-rolls.jpg" title="California rolls" alt="California rolls">
 </div>
 <br>
 
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.7992735318808!2d-78.48501699999996!3d-0.17704039999999352!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a85d978be5b%3A0x983383de2b51af58!2sKOBE%20sushi%20%26%20rolls%20-%20C.%20C.%20I.!5e0!3m2!1sko!2sec!4v1756100164220!5m2!1sko!2sec" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.7992735318808!2d-78.48501699999996!3d-0.17704039999999352!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a85d978be5b%3A0x983383de2b51af58!2sKOBE%20sushi%20%26%20rolls%20-%20C.%20C.%20I.!5e0!3m2!1sko!2sec!4v1756100164220!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---
 
 ## 여행 경로
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m58!1m12!1m3!1d2282370.481319756!2d-79.60148413561984!3d-0.16207560126639642!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m43!3e0!4m5!1s0x902e9f3524423219%3A0xa7fdda1621f08bc6!2sCoffee%20One%20Dolar!3m2!1d-1.5614697!2d-80.8147219!4m5!1s0x902e9f1eeb0b6c13%3A0xf54e1e7e54eb489e!2sC5RQ%2BQV8%20Encebollados%20de%20Brian%2C%20Puerto%20L%C3%B3pez!3m2!1d-1.5580756!2d-80.81030009999999!4m5!1s0x902c208776215975%3A0x7272c8c8a037bf72!2sTerminal%20Terrestre%20Puerto%20Lopez%2C%20Puerto%20Lopez!3m2!1d-1.5404421!2d-80.8018603!4m5!1s0x902be46128632d43%3A0x6cab71ffb74e5353!2sPETROECUADOR%20Gasolinera%20Jose%20Antonio%2C%20%EB%A7%8C%ED%83%80!3m2!1d-1.0027336!2d-80.7021817!4m5!1s0x902be6f60633c6ed%3A0x1260e2f387f7d729!2sEloy%20Alfaro%20International%20Airport%20(MEC)%2C%20%EB%A7%8C%ED%83%80!3m2!1d-0.9533834!2d-80.6838714!4m5!1s0x91d58db4352baa87%3A0x2f9f7623e0894b8b!2z7YKk7YagIOuniOumrOyKpOy5vCDsiJjtgazroIgg6rWt7KCc6rO17ZWt!3m2!1d-0.1242271!2d-78.36056839999999!4m5!1s0x91d59a85d978be5b%3A0x983383de2b51af58!2sKOBE%20sushi%20%26%20rolls%20-%20C.%20C.%20I.%2C%20Centro%20Comercial%2C%20y%2C%20%ED%82%A4%ED%86%A0!3m2!1d-0.1770404!2d-78.485017!5e0!3m2!1sko!2sec!4v1757350745188!5m2!1sko!2sec"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m58!1m12!1m3!1d2282370.481319756!2d-79.60148413561984!3d-0.16207560126639642!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m43!3e0!4m5!1s0x902e9f3524423219%3A0xa7fdda1621f08bc6!2sCoffee%20One%20Dolar!3m2!1d-1.5614697!2d-80.8147219!4m5!1s0x902e9f1eeb0b6c13%3A0xf54e1e7e54eb489e!2sC5RQ%2BQV8%20Encebollados%20de%20Brian%2C%20Puerto%20L%C3%B3pez!3m2!1d-1.5580756!2d-80.81030009999999!4m5!1s0x902c208776215975%3A0x7272c8c8a037bf72!2sTerminal%20Terrestre%20Puerto%20Lopez%2C%20Puerto%20Lopez!3m2!1d-1.5404421!2d-80.8018603!4m5!1s0x902be46128632d43%3A0x6cab71ffb74e5353!2sPETROECUADOR%20Gasolinera%20Jose%20Antonio%2C%20%EB%A7%8C%ED%83%80!3m2!1d-1.0027336!2d-80.7021817!4m5!1s0x902be6f60633c6ed%3A0x1260e2f387f7d729!2sEloy%20Alfaro%20International%20Airport%20(MEC)%2C%20%EB%A7%8C%ED%83%80!3m2!1d-0.9533834!2d-80.6838714!4m5!1s0x91d58db4352baa87%3A0x2f9f7623e0894b8b!2z7YKk7YagIOuniOumrOyKpOy5vCDsiJjtgazroIgg6rWt7KCc6rO17ZWt!3m2!1d-0.1242271!2d-78.36056839999999!4m5!1s0x91d59a85d978be5b%3A0x983383de2b51af58!2sKOBE%20sushi%20%26%20rolls%20-%20C.%20C.%20I.%2C%20Centro%20Comercial%2C%20y%2C%20%ED%82%A4%ED%86%A0!3m2!1d-0.1770404!2d-78.485017!5e0!3m2!1sko!2sec!4v1757350745188!5m2!1sko!2sec"  allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
 ---
