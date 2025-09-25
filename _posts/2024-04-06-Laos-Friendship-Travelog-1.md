@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 라오스 우정 여행 (1) - 다시 뭉친 세남자
+title: 라오스 여행기 (1) - 다시 뭉친 세남자
 flag: la
 date: 2024-04-14 17:54:09 +0900
 img: 2024-04-06-Laos-Friendship-Travelog-1.jpg

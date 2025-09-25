@@ -202,7 +202,8 @@ div[id*="panorama"] {
   height: auto;
 }
 
-.post-content::first-letter,
+// 목차의 첫 글자를 변화시키지 않도록 수정
+// .post-content::first-letter,
 .post-content>p:first-of-type::first-letter {
   display: block;
   height: 40px;

@@ -131,6 +131,16 @@
     color: variables.$lightengray;
   }
 
+  .post-subinfos {
+    display: flex;
+    justify-content: space-between; /* 왼쪽-오른쪽 끝으로 */
+    align-items: center;            /* 세로 정렬 */
+    margin-top: 8px;
+    .views-counter {
+      font-size: 14px;
+    }
+  }
+
   .more {
     font-family: 'Roboto', Arial, Helvetica, sans-serif;
     text-decoration: none;

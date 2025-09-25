@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 라오스 우정 여행 (4) - 남싸이 전망대에 오르다
+title: 라오스 여행기 (4) - 남싸이 전망대(Namxay Viewpoint)에 오르다
 flag: la
 date: 2024-04-19 14:04:26 +0900
 img: 2024-04-09-Laos-Friendship-Travelog-4.jpg

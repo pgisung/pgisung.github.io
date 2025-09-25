@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 라오스 우정 여행 (2) - 비엔티안 시내 탐방 및 푸시산 일몰 하이킹
+title: 라오스 여행기 (2) - 비엔티안(Vientiane) 시내 탐방 및 푸시산(Phou Si hill) 일몰 하이킹
 flag: la
 date: 2024-04-15 13:02:49 +0900
 img: 2024-04-07-Laos-Friendship-Travelog-2.jpg

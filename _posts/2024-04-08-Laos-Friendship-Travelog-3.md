@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 라오스 우정 여행 (3) - 꽝시 폭포에 가다
+title: 라오스 여행기 (3) - 꽝시 폭포(Kuang Si waterfall)에 가다
 flag: la
 date: 2024-04-16 08:37:22 +0900
 img: 2024-04-08-Laos-Friendship-Travelog-3.jpg
