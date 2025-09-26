@@ -140,19 +140,21 @@ function getWithExpire(key) {
 })();
 
 // 여러 포스트 조회수 업데이트
-document.querySelectorAll('.post-views').forEach(async function(span) {
-  const postURL = span.dataset.postId;
-  const postId = encodeURIComponent(postURL);
+(async () => {
   try {
-    const postSnap = await getDoc(doc(db, "posts", postId));
+    const snap = await getDocs(collection(db, "posts"));
 
-    if (postSnap.exists()) {
-      span.textContent = postSnap.data().views;
-    }
+    snap.forEach(docSnap => {
+      const data = docSnap.data();
+      const span = document.querySelector(`.post-views[data-post-id="${decodeURIComponent(docSnap.id)}"]`);
+      if (span) {
+        span.textContent = data.views ?? 0;
+      }
+    });
   } catch (e) {
     console.error("여러 포스트 조회수 업데이트 오류:", e);
   }
-});
+})();
 
 async function cleanupOldDailyData() {
   const dailyCol = collection(db, "daily");
