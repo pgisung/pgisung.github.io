@@ -268,10 +268,9 @@ description: 2024.04.10 방 비엥에서 동굴 튜빙, 집라인, 카약킹 후
 <span style="color: #8D4801">**첫 번째로**</span> 출발 전에 대기하는 곳이 넓고 단단하게 안전해 보이는 평지 같은 곳이었다면, 이곳에서는 <span style="color: indianred">**나무 위 좁은 공간에 아슬아슬한 발판만 존재**</span>해서 그냥 서 있기만 해도 무서웠다.
 
 <span style="color: #8D4801">**두 번째는**</span> 사실 집라인은 출발하기 전에만 무섭지, 가는 동안은 고소공포증이 있는 필자조차도 즐길 수가 있다고 생각했는데, 한 번에 길게 가는 집라인이 아니라 <span style="color: indianred">**짧게 여러 번 진행되는 집라인**</span>이라서 매번 출발할 때마다 무서웠다.
-
-|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/bloggers-first-ziplining-attempt-1.webp" title="Blogger's first ziplining attempt" alt="Blogger's first ziplining attempt"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/bloggers-first-ziplining-attempt-2.webp" title="Blogger's first ziplining attempt" alt="Blogger's first ziplining attempt"> |
-
+<div class="image-slider-static">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/bloggers-first-ziplining-attempt-1.webp" title="Blogger's first ziplining attempt" alt="Blogger's first ziplining attempt">
+</div>
 <br>
 
 그저 <span style="color: #8D4801">**나무만 바라보고 있는 필자**</span>가 보이시나요? 나무랑 하나인 줄...
@@ -287,10 +286,9 @@ description: 2024.04.10 방 비엥에서 동굴 튜빙, 집라인, 카약킹 후
 <br>
 
 <span style="color: brown">**2차 집라이닝**</span>. 이쯤에서 고개를 드는 의문점. 분명 같이 올라왔는데 <span style="color: #8D4801">**친구는 어디로 갔을까요?**</span> 에... 필자가 두려움에 떠느라 초반에는 영상을 못 찍어줬어요.
-
-|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/bloggers-second-ziplining-attempt-1.webp" title="Blogger's second ziplining attempt" alt="Blogger's second ziplining attempt"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/bloggers-second-ziplining-attempt-2.webp" title="Blogger's second ziplining attempt" alt="Blogger's second ziplining attempt"> |
-
+<div class="image-slider-static">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/bloggers-second-ziplining-attempt-1.webp" title="Blogger's second ziplining attempt" alt="Blogger's second ziplining attempt">
+</div>
 <br>
 
 이거 보세요 안 무서울 수가 있냐고요. <span style="color: indianred">**이거 집라인 액티비티 아니었어요?**</span> 이런 위험한 다리는 대체 왜 건너는 건데요? <span style="color: indianred">**진짜 이런 다리 처음 건너봐요**</span>.
@@ -305,38 +303,36 @@ description: 2024.04.10 방 비엥에서 동굴 튜빙, 집라인, 카약킹 후
 <span style="color: brown">**3차 집라이닝**</span>. 이번에는 친구가 먼저 출발! <span style="color: #8D4801">**드디어 친구 촬영에 성공**</span>하긴 했는데, 너무 작아서 알아볼 수가...
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/friend2s-third-ziplining-attempt-1.webp" title="Friend's third ziplining attempt" alt="Friend's third ziplining attempt"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/friend2s-third-ziplining-attempt-2.webp" title="Friend's third ziplining attempt" alt="Friend's third ziplining attempt"> |
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/bloggers-third-ziplining-attempt-1.webp" title="Blogger's third ziplining attempt" alt="Blogger's third ziplining attempt"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/bloggers-third-ziplining-attempt-2.webp" title="Blogger's third ziplining attempt" alt="Blogger's third ziplining attempt"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/friend2s-third-ziplining-attempt-1.webp" title="Friend's third ziplining attempt" alt="Friend's third ziplining attempt"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/bloggers-third-ziplining-attempt-1.webp" title="Blogger's third ziplining attempt" alt="Blogger's third ziplining attempt"> |
 
 <br>
 
 이번에는 도착하니 <span style="color: brown">**산을 또 조금 올라가야 한다**</span>. 이어지는 <span style="color: brown">**4차 집라이닝**</span>
 
-|:---:|:---:|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/the-lead-guide-heading-to-the-next-point.webp" title="The lead guide heading to the next point" alt="The lead guide heading to the next point"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/blogger-and-friend2-heading-to-the-next-point-1.webp" title="Blogger and friend heading to the next point" alt="Blogger and friend heading to the next point"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/bloggers-fourth-ziplining-attempt-1.webp" title="Blogger's fourth ziplining attempt" alt="Blogger's fourth ziplining attempt"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/bloggers-fourth-ziplining-attempt-2.webp" title="Blogger's fourth ziplining attempt" alt="Blogger's fourth ziplining attempt"> |
+|:---:|:---:|:---:|
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/the-lead-guide-heading-to-the-next-point.webp" title="The lead guide heading to the next point" alt="The lead guide heading to the next point"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/blogger-and-friend2-heading-to-the-next-point-1.webp" title="Blogger and friend heading to the next point" alt="Blogger and friend heading to the next point"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/bloggers-fourth-ziplining-attempt-1.webp" title="Blogger's fourth ziplining attempt" alt="Blogger's fourth ziplining attempt"> |
 
 <br>
 
 <span style="color: brown">**5, 6차 집라이닝**</span>. 필자는 <span style="color: indianred">**가이드분께서 다리 부딪힐 수도 있으니까 조심**</span>해야 한다고 말씀하신 순간부터 <span style="color: #8D4801">**다리를 너무 많이 의식**</span>하고 있는 것이 보인다.
 
 |:---:|:---:|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/friend2s-fifth-ziplining-attempt-1.webp" title="Friend's fifth ziplining attempt" alt="Friend's fifth ziplining attempt"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/friend2s-fifth-ziplining-attempt-2.webp" title="Friend's fifth ziplining attempt" alt="Friend's fifth ziplining attempt"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/friend2s-sixth-ziplining-attempt-1.webp" title="Friend's sixth ziplining attempt" alt="Friend's sixth ziplining attempt"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/friend2s-sixth-ziplining-attempt-2.webp" title="Friend's sixth ziplining attempt" alt="Friend's sixth ziplining attempt"> |
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/bloggers-fifth-ziplining-attempt-1.webp" title="Blogger's fifth ziplining attempt" alt="Blogger's fifth ziplining attempt"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/bloggers-fifth-ziplining-attempt-2.webp" title="Blogger's fifth ziplining attempt" alt="Blogger's fifth ziplining attempt"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/bloggers-sixth-ziplining-attempt-1.webp" title="Blogger's sixth ziplining attempt" alt="Blogger's sixth ziplining attempt"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/bloggers-sixth-ziplining-attempt-2.webp" title="Blogger's sixth ziplining attempt" alt="Blogger's sixth ziplining attempt"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/friend2s-fifth-ziplining-attempt-1.webp" title="Friend's fifth ziplining attempt" alt="Friend's fifth ziplining attempt"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/bloggers-fifth-ziplining-attempt-1.webp" title="Blogger's fifth ziplining attempt" alt="Blogger's fifth ziplining attempt"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/friend2s-sixth-ziplining-attempt-1.webp" title="Friend's sixth ziplining attempt" alt="Friend's sixth ziplining attempt"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/bloggers-sixth-ziplining-attempt-1.webp" title="Blogger's sixth ziplining attempt" alt="Blogger's sixth ziplining attempt"> |
 
 <br>
 
-<span style="color: brown">**7차 집라이닝**</span>. 이전 집라인 중에 보였던 Zipline 스펠링이 다시 보이는 것을 보면 알 수 있지만 계속 <span style="color: indianred">**새로운 동선으로만 탄 게 아니라 왔던 곳으로 다시 돌아가기도**</span> 했었다.
+<span style="color: brown">**7차 집라이닝**</span>. 계속 <span style="color: indianred">**새로운 동선으로만 탄 게 아니라 왔던 곳으로 다시 돌아가기도**</span> 했었다.
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/bloggers-seventh-ziplining-attempt-1.webp" title="Blogger's seventh ziplining attempt" alt="Blogger's seventh ziplining attempt"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/bloggers-seventh-ziplining-attempt-2.webp" title="Blogger's seventh ziplining attempt" alt="Blogger's seventh ziplining attempt"> |
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/friend2s-seventh-ziplining-attempt-1.webp" title="Friend's seventh ziplining attempt" alt="Friend's seventh ziplining attempt"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/friend2s-seventh-ziplining-attempt-2.webp" title="Friend's seventh ziplining attempt" alt="Friend's seventh ziplining attempt"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/bloggers-seventh-ziplining-attempt-1.webp" title="Blogger's seventh ziplining attempt" alt="Blogger's seventh ziplining attempt"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/friend2s-seventh-ziplining-attempt-1.webp" title="Friend's seventh ziplining attempt" alt="Friend's seventh ziplining attempt"> |
 
 <br>
 
 <span style="color: brown">**마지막 8차 집라이닝**</span>. 그래도 마지막에는 먼저 도착해서 잘 찍은 것 같기도? 아무튼 처음에 기대했던 대로의 집라인은 아니었지만, <span style="color: indianred">**무려 8번이나 이어진 스릴 넘쳤던 두 번째 일정**</span>도 완료!
-
-|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/friend2s-last-ziplining-attempt-1.webp" title="Friend's last ziplining attempt" alt="Friend's last ziplining attempt"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/friend2s-last-ziplining-attempt-2.webp" title="Friend's last ziplining attempt" alt="Friend's last ziplining attempt"> |
+<div class="image-slider-static">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/friend2s-last-ziplining-attempt-1.webp" title="Friend's last ziplining attempt" alt="Friend's last ziplining attempt">
+</div>
+<br>
 
 <br>
 
