@@ -68,6 +68,8 @@ const globalVisitKey = "visited_global";
 // localStorage 포스트별 방문자용 키 (URL 기준)
 const pageURL = window.location.pathname;
 const pageId = encodeURIComponent(pageURL); // 인코딩필요
+// 조회수 캐싱용 객체
+let postViewsCache = {};
 
 // expire 기능 포함 저장 함수
 function setWithExpire(key, value, ttlHours) {
@@ -120,35 +122,49 @@ function getWithExpire(key) {
   }
 })();
 
-(async () => {
-  // 포스트별 조회수
-  try {
-    if (!getWithExpire(pageId)) {
-      // 포스트별 조회수 - 단일 포스트 페이지용
-      await incrementCounterPosts(["posts", pageId], "views", "post-views");
+// (async () => {
+//   // 포스트별 조회수
+//   try {
+//     if (!getWithExpire(pageId)) {
+//       // 포스트별 조회수 - 단일 포스트 페이지용
+//       await incrementCounterPosts(["posts", pageId], "views", "post-views");
 
-      // 만료시간: 현재 24시간
-      setWithExpire(pageId, "true", 24);
-    } else {
-      // 이미 방문한 경우, 기존 DB 값만 가져와서 표시
-      const postSnap = await getDoc(doc(db, "posts", pageId));
-      if (postSnap.exists()) document.getElementById("post-views").innerText = postSnap.data().views;
-    }
-  } catch (e) {
-    console.error("단일 포스트 조회수 업데이트 오류:", e);
-  }
-})();
+//       // 만료시간: 현재 24시간
+//       setWithExpire(pageId, "true", 24);
+//     } else {
+//       // 이미 방문한 경우, 기존 DB 값만 가져와서 표시
+//       const postSnap = await getDoc(doc(db, "posts", pageId));
+//       if (postSnap.exists()) document.getElementById("post-views").innerText = postSnap.data().views;
+//     }
+//   } catch (e) {
+//     console.error("단일 포스트 조회수 업데이트 오류:", e);
+//   }
+// })();
 
 // 여러 포스트 조회수 업데이트
+// (async () => {
+//   try {
+//     const snap = await getDocs(collection(db, "posts"));
+
+//     snap.forEach(docSnap => {
+//       const data = docSnap.data();
+//       const span = document.querySelector(`.post-views[data-post-id="${decodeURIComponent(docSnap.id)}"]`);
+//       if (span) {
+//         span.textContent = data.views ?? 0;
+//       }
+//     });
+//   } catch (e) {
+//     console.error("여러 포스트 조회수 업데이트 오류:", e);
+//   }
+// })();
 (async () => {
   try {
     const snap = await getDocs(collection(db, "posts"));
-
     snap.forEach(docSnap => {
-      const data = docSnap.data();
+      postViewsCache[decodeURIComponent(docSnap.id)] = docSnap.data().views ?? 0;
       const span = document.querySelector(`.post-views[data-post-id="${decodeURIComponent(docSnap.id)}"]`);
       if (span) {
-        span.textContent = data.views ?? 0;
+        span.textContent = postViewsCache[decodeURIComponent(docSnap.id)];
       }
     });
   } catch (e) {
@@ -156,6 +172,17 @@ function getWithExpire(key) {
   }
 })();
 
+// pagination loadMorePosts 버튼 실행 시 추가된 .post-views 업데이트
+window.updateViewsForNewPosts = function(container) {
+  container.querySelectorAll('.post-views').forEach(span => {
+    const postId = decodeURIComponent(span.dataset.postId);
+    if (postViewsCache[postId] !== undefined) {
+      span.textContent = postViewsCache[postId];
+    }
+  });
+}
+
+// createdAt이 만료된 데이터 삭제
 async function cleanupOldDailyData() {
   const dailyCol = collection(db, "daily");
   const snap = await getDocs(dailyCol);

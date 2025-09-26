@@ -219,6 +219,8 @@ $(function() {
 
       $postsContainer.attr("data-page", nextPage).append($articles);
 
+      updateViewsForNewPosts($postsContainer[0]);
+
         $(".post-thumbnail").viewportChecker({
           classToAdd: "visible",
           classToRemove: "hidden visible",

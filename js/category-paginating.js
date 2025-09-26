@@ -54,6 +54,8 @@ function loadMoreFilteredPosts() {
     // Append 결과물
     $postsContainer.attr("data-page", nextPage).append($filteredArticles);
 
+    updateViewsForNewPosts($postsContainer[0]);
+
     // 뷰포트 체크
     $(".post-thumbnail").viewportChecker({
       classToAdd: "visible",
