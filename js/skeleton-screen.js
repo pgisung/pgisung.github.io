@@ -29,15 +29,19 @@
     wrapper.className = 'skeleton-wrapper img';
 
     // 이미지 비율 계산 부분
-    var tempImg = new Image();
-    tempImg.src = img.dataset.src;
-    tempWidth = tempImg.width;
-    tempHeight = tempImg.height;
+    const w = img.getAttribute('width');
+    const h = img.getAttribute('height');
+    wrapper.style.width = w + 'px';
+    wrapper.style.height = h + 'px';
+    // var tempImg = new Image();
+    // tempImg.src = img.dataset.src;
+    // tempWidth = tempImg.width;
+    // tempHeight = tempImg.height;
 
-    const resultHeight = img.width * tempHeight / tempWidth;
+    // const resultHeight = img.width * tempHeight / tempWidth;
 
-    wrapper.style.width = img.offsetWidth + 'px';
-    wrapper.style.height = resultHeight + 2 + 'px';
+    // wrapper.style.width = img.offsetWidth + 'px';
+    // wrapper.style.height = resultHeight + 2 + 'px';
 
     img.parentNode.insertBefore(wrapper, img);
     wrapper.appendChild(img);
