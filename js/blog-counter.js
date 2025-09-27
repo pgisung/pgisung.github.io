@@ -20,7 +20,6 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
 
-// 유틸 함수: 카운터 증가
 async function incrementCounter(path, field, elementId) {
   const ref = doc(db, ...path);
   const snap = await getDoc(ref);
@@ -50,7 +49,7 @@ async function incrementCounterDaily(path, field, elementId) {
   }
 }
 
-async function incrementCounterPosts(path, field, elementId) {
+async function incrementCounterPosts(path, field) {
   const ref = doc(db, ...path);
   const snap = await getDoc(ref);
   if (snap.exists()) {
@@ -69,7 +68,7 @@ const globalVisitKey = "visited_global";
 const pageURL = window.location.pathname;
 const pageId = encodeURIComponent(pageURL); // 인코딩필요
 // 조회수 캐싱용 객체
-let postViewsCache = {};
+// let postViewsCache = {};
 
 // expire 기능 포함 저장 함수
 function setWithExpire(key, value, ttlHours) {
@@ -98,89 +97,158 @@ function getWithExpire(key) {
 }
 
 // 실행
+// (async () => {
+//   // 방문자수
+//   try {
+//     if (!getWithExpire(globalVisitKey)) {
+//       // 총 방문자수
+//       await incrementCounter(["stats", "global"], "totalVisits", "total-visits");
+//       // 오늘 방문자수
+//       await incrementCounterDaily(["daily", today], "visits", "today-visits");
+
+//       // 만료시간: 현재 24시간
+//       setWithExpire(globalVisitKey, "true", 24);
+//     } else {
+//       // 이미 방문한 경우, 기존 DB 값만 가져와서 표시
+//       const totalSnap = await getDoc(doc(db, "stats", "global"));
+//       if (totalSnap.exists()) document.getElementById("total-visits").innerText = totalSnap.data().totalVisits;
+
+//       const todaySnap = await getDoc(doc(db, "daily", today));
+//       if (todaySnap.exists()) document.getElementById("today-visits").innerText = todaySnap.data().visits;
+//     }
+//   } catch (e) {
+//     console.error("방문자수 업데이트 오류:", e);
+//   }
+// })();
 (async () => {
-  // 방문자수
   try {
+    const sessionKey = "visitCountsCached_" + today;
+    const cached = sessionStorage.getItem(sessionKey);
+
     if (!getWithExpire(globalVisitKey)) {
-      // 총 방문자수
+      // 처음 방문 → DB 업데이트 & UI 표시
       await incrementCounter(["stats", "global"], "totalVisits", "total-visits");
-      // 오늘 방문자수
       await incrementCounterDaily(["daily", today], "visits", "today-visits");
 
-      // 만료시간: 현재 24시간
+      // 캐시에 표시값 저장
+      const totalVal = Number(document.getElementById("total-visits").innerText);
+      const todayVal = Number(document.getElementById("today-visits").innerText);
+
+      sessionStorage.setItem(
+        sessionKey,
+        JSON.stringify({ totalVisits: totalVal, todayVisits: todayVal })
+      );
       setWithExpire(globalVisitKey, "true", 24);
     } else {
-      // 이미 방문한 경우, 기존 DB 값만 가져와서 표시
-      const totalSnap = await getDoc(doc(db, "stats", "global"));
-      if (totalSnap.exists()) document.getElementById("total-visits").innerText = totalSnap.data().totalVisits;
+      // DB에서 다시 안 가져옴 → sessionStorage 값 그대로 표시
+      if (cached) {
+        const { totalVisits, todayVisits } = JSON.parse(cached);
+        document.getElementById("total-visits").innerText = totalVisits;
+        document.getElementById("today-visits").innerText = todayVisits;
+      } else {
+        // 혹시 세션에 값이 없으면 한 번만 DB 조회
+        const totalSnap = await getDoc(doc(db, "stats", "global"));
+        const todaySnap = await getDoc(doc(db, "daily", today));
 
-      const todaySnap = await getDoc(doc(db, "daily", today));
-      if (todaySnap.exists()) document.getElementById("today-visits").innerText = todaySnap.data().visits;
+        const totalVal = totalSnap.exists() ? totalSnap.data().totalVisits : 0;
+        const todayVal = todaySnap.exists() ? todaySnap.data().visits : 0;
+
+        document.getElementById("total-visits").innerText = totalVal;
+        document.getElementById("today-visits").innerText = todayVal;
+
+        sessionStorage.setItem(
+          sessionKey,
+          JSON.stringify({ totalVisits: totalVal, todayVisits: todayVal })
+        );
+      }
     }
   } catch (e) {
     console.error("방문자수 업데이트 오류:", e);
   }
 })();
 
-// (async () => {
-//   // 포스트별 조회수
-//   try {
-//     if (!getWithExpire(pageId)) {
-//       // 포스트별 조회수 - 단일 포스트 페이지용
-//       await incrementCounterPosts(["posts", pageId], "views", "post-views");
+(async () => {
+  // 포스트별 조회수
+  try {
+    if (!getWithExpire(pageId)) {
+      // 포스트별 조회수 - 단일 포스트 페이지용
+      await incrementCounterPosts(["posts", pageId], "views");
 
-//       // 만료시간: 현재 24시간
-//       setWithExpire(pageId, "true", 24);
-//     } else {
-//       // 이미 방문한 경우, 기존 DB 값만 가져와서 표시
-//       const postSnap = await getDoc(doc(db, "posts", pageId));
-//       if (postSnap.exists()) document.getElementById("post-views").innerText = postSnap.data().views;
-//     }
-//   } catch (e) {
-//     console.error("단일 포스트 조회수 업데이트 오류:", e);
-//   }
-// })();
+      // 만료시간: 현재 24시간
+      setWithExpire(pageId, "true", 24);
+    }
+  } catch (e) {
+    console.error("단일 포스트 조회수 업데이트 오류:", e);
+  }
+})();
 
 // 여러 포스트 조회수 업데이트
 // (async () => {
 //   try {
 //     const snap = await getDocs(collection(db, "posts"));
-
 //     snap.forEach(docSnap => {
-//       const data = docSnap.data();
+//       postViewsCache[decodeURIComponent(docSnap.id)] = docSnap.data().views ?? 0;
 //       const span = document.querySelector(`.post-views[data-post-id="${decodeURIComponent(docSnap.id)}"]`);
 //       if (span) {
-//         span.textContent = data.views ?? 0;
+//         span.textContent = postViewsCache[decodeURIComponent(docSnap.id)];
 //       }
 //     });
 //   } catch (e) {
 //     console.error("여러 포스트 조회수 업데이트 오류:", e);
 //   }
 // })();
+
+// // pagination loadMorePosts 버튼 실행 시 추가된 .post-views 업데이트
+// window.updateViewsForNewPosts = function(container) {
+//   container.querySelectorAll('.post-views').forEach(span => {
+//     const postId = decodeURIComponent(span.dataset.postId);
+//     if (postViewsCache[postId] !== undefined) {
+//       span.textContent = postViewsCache[postId];
+//     }
+//   });
+// }
+
 (async () => {
   try {
-    const snap = await getDocs(collection(db, "posts"));
-    snap.forEach(docSnap => {
-      postViewsCache[decodeURIComponent(docSnap.id)] = docSnap.data().views ?? 0;
-      const span = document.querySelector(`.post-views[data-post-id="${decodeURIComponent(docSnap.id)}"]`);
+    const sessionKey = "postsViewsCache";
+    let postViewsCache = {};
+
+    // sessionStorage에 캐시가 있으면 바로 사용
+    const cached = sessionStorage.getItem(sessionKey);
+    if (cached) {
+      postViewsCache = JSON.parse(cached);
+    } else {
+      // 없으면 DB에서 getDocs 호출
+      const snap = await getDocs(collection(db, "posts"));
+      snap.forEach(docSnap => {
+        postViewsCache[decodeURIComponent(docSnap.id)] = docSnap.data().views ?? 0;
+      });
+      // sessionStorage에 저장
+      sessionStorage.setItem(sessionKey, JSON.stringify(postViewsCache));
+    }
+
+    // DOM 업데이트
+    Object.keys(postViewsCache).forEach(postId => {
+      const span = document.querySelector(`.post-views[data-post-id="${decodeURIComponent(postId)}"]`);
       if (span) {
-        span.textContent = postViewsCache[decodeURIComponent(docSnap.id)];
+        span.textContent = postViewsCache[decodeURIComponent(postId)];
       }
     });
+
+    // 전역에서 새로 추가된 포스트에도 적용 가능하도록 함수 정의
+    window.updateViewsForNewPosts = function(container) {
+      container.querySelectorAll('.post-views').forEach(span => {
+        const postId = decodeURIComponent(span.dataset.postId);
+        if (postViewsCache[postId] !== undefined) {
+          span.textContent = postViewsCache[postId];
+        }
+      });
+    };
+
   } catch (e) {
     console.error("여러 포스트 조회수 업데이트 오류:", e);
   }
 })();
-
-// pagination loadMorePosts 버튼 실행 시 추가된 .post-views 업데이트
-window.updateViewsForNewPosts = function(container) {
-  container.querySelectorAll('.post-views').forEach(span => {
-    const postId = decodeURIComponent(span.dataset.postId);
-    if (postViewsCache[postId] !== undefined) {
-      span.textContent = postViewsCache[postId];
-    }
-  });
-}
 
 // createdAt이 만료된 데이터 삭제
 async function cleanupOldDailyData() {
@@ -197,4 +265,20 @@ async function cleanupOldDailyData() {
     }
   });
 }
-cleanupOldDailyData(); // 페이지 로드 시 호출
+
+// 페이지 로드 시 호출 - 단 하루 한 번만 실행
+(async () => {
+  const cleanupKey = "cleanup_old_daily_data"; // 로컬스토리지 키명
+  const lastCleanup = getWithExpire(cleanupKey);
+
+  // 하루(24시간) 이내에 실행된 적 없다면
+  if (!lastCleanup) {
+    try {
+      await cleanupOldDailyData();
+      // 하루(24시간) 뒤에 만료되도록 저장
+      setWithExpire(cleanupKey, "true", 24);
+    } catch(e) {
+      console.error("cleanupOldDailyData 오류:", e);
+    }
+  }
+})();
