@@ -9,6 +9,11 @@
   border-radius: variables.$common-border-radius;
 }
 
+.image-slider-passive .skeleton-wrapper.img,
+.image-slider-auto .skeleton-wrapper.img {
+  aspect-ratio: 16 / 9;
+}
+
 .skeleton-wrapper.iframe {
   width: 80%;
   max-width: 1080px;

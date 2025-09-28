@@ -64,7 +64,7 @@ Bolon과 직접 타 먹는 설탕 커피의 가격은 <span style="color: indian
 ---
 
 ## 버스 타고 만타로 이동
-숙소로 이동할 때도 그러했듯이 <span style="color: #8D4801">**도로에 많이 보이는 툭툭이**</span>를 잡아타고 버스 정류장을 향했다. 올 때 탑승했던 툭툭이보다 <span style="color: #8D4801">**갈 때 탑승했던 툭툭이가 뭔가 좌석도 넓고 바람도 잘 막아주고 쾌적**</span>해서 좋았다.
+숙소로 이동할 때도 그러했듯이 <span style="color: #8D4801">**도로에 많이 보이는 툭툭**</span>을 잡아타고 버스 정류장을 향했다. 올 때 탑승했던 툭툭보다 <span style="color: #8D4801">**갈 때 탑승했던 툭툭이 뭔가 좌석도 넓고 바람도 잘 막아주고 쾌적**</span>해서 좋았다.
 <div class="image-slider-static">
   <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/blogger-on-the-tuktuk.jpg" title="Blogger on the Tuktuk" alt="Blogger on the Tuktuk">
 </div>
@@ -190,7 +190,7 @@ Bolon과 직접 타 먹는 설탕 커피의 가격은 <span style="color: indian
 
 | 2025.08.18 | 현지 통화 | 원화 |
 |:---:|:---:|:---:|
-| **툭툭이 교통비** | 1.5 USD | 2,083원 |
+| **툭툭 교통비** | 1.5 USD | 2,083원 |
 | **고속버스 교통비** | 8.6 USD | 11,944원 |
 | **우버 택시 교통비** | 1.7 USD | 2,427원 |
 | **우버 택시 교통비** | 22.38 USD | 31,890원 |

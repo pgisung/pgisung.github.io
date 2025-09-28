@@ -14,7 +14,7 @@ description: 2024.04.06 한국에서 라오스 비엔티안까지 이동기
 3. [국내 이동](#국내-이동 "Navigate to Domestic movement")
 - [천안아산역](#천안아산역 "Navigate to Cheon-an Asan station")
 - [인천국제공항](#인천국제공항 "Navigate to Incheon international airport")
-4. [비엔티안에서](#비엔티안에서 "Navigate to At the Vientiane")
+4. [비엔티안에서](#비엔티안에서 "Navigate to In the Vientiane")
 - [와따이국제공항](#와따이국제공항 "Navigate to Wattay international airport")
 - [더 기프타운 숙소](#더-기프타운-숙소 "Navigate to The Giftown Vientiane")
 - [마누 식당](#마누-식당 "Navigate to Manu restaurant")
@@ -198,9 +198,10 @@ description: 2024.04.06 한국에서 라오스 비엔티안까지 이동기
 | 2024.04.06 | 현지 통화 | 원화 |
 |:---:|:---:|:---:|
 | **비행기 왕복 교통비** | 15,854,424 LAK | 987,600원 |
+| **라오스 비-루-방-비 기차 패스 교통비** | 3,138,617 LAK | 195,510원 |
 | **USIM 구매** | 150,000 LAK | 9,343원 |
 | **택시 교통비** | 90,000 LAK | 5,606원 |
 | **1박 숙박비** | 997,772 LAK | 62,153원 |
 | **저녁 식비** | 255,000 LAK | 15,884원 |
 | **편의점** | 100,000 LAK | 6,229원 |
-| <span style="color: #8D4801">**총합**</span> | **17,447,196 LAK** | **1,086,815원** |
+| <span style="color: #8D4801">**총합**</span> | **20,585,813 LAK** | **1,282,325원** |

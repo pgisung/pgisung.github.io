@@ -77,14 +77,14 @@ description: 2013.12.14 싱가포르 2일 차 여행기
 
 아름다운 센토사 전경을 보며... 그냥 울산 같기도 하고...?
 <div class="image-slider-auto">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/scenary-on-the-cable-car-1.jpg" title="The scenary below cable car" alt="The scenary below cable car">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/scenary-on-the-cable-car-2.jpg" title="Singapore harbor" alt="Singapore harbor">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/scenery-on-the-cable-car-1.jpg" title="The scenery below cable car" alt="The scenery below cable car">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/scenery-on-the-cable-car-2.jpg" title="Singapore harbor" alt="Singapore harbor">
 </div>
 <br>
 
 재밌어 보이는 워터파크
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/scenary-on-the-cable-car-3.jpg" title="The water park" alt="The water park">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-14-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-3/scenery-on-the-cable-car-3.jpg" title="The water park" alt="The water park">
 </div>
 <br>
 

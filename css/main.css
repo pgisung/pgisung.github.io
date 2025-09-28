@@ -2860,6 +2860,11 @@ div[id*=panorama] {
   border-radius: 14px;
 }
 
+.image-slider-passive .skeleton-wrapper.img,
+.image-slider-auto .skeleton-wrapper.img {
+  aspect-ratio: 16/9;
+}
+
 .skeleton-wrapper.iframe {
   width: 80%;
   max-width: 1080px;

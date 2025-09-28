@@ -5,7 +5,7 @@ flag: la
 date: 2024-04-19 14:04:26 +0900
 img: 2024-04-09-Laos-Friendship-Travelog-4.jpg
 categories: [ Travel, Laos ]
-tags: [ Laos trip, Luang Prabang trip, Vang Vieng trip, 라오스 여행, 루앙 프라방 여행, 방 비엥 여행 ]
+tags: [ Laos trip, Luang Prabang trip, Vang Vieng trip, Namxay Viewpoint, 라오스 여행, 루앙 프라방 여행, 방 비엥 여행, 남싸이 전망대 ]
 description: 2024.04.09 루앙 프라방에서 탁발 행렬 관람 및 물의 도시 방 비엥 이동 후 남싸이 전망대, 블루 라군 1, 로컬 여행사 방문기
 ---
 
@@ -201,7 +201,7 @@ description: 2024.04.09 루앙 프라방에서 탁발 행렬 관람 및 물의 �
 
 <span style="color: indianred">**방 비엥에서는 라오스의 카카오택시 같은 앱인 로카앱을 이용할 수 없어서**</span> 숙소까지 이동할 교통수단을 찾던 중
 
-주차장에서 <span style="color: #8D4801">**도착한 관광객들을 줄 세우고 정렬시키는 사람**</span>이 보였고, 루앙 프라방에서는 보지 못했던 툭툭이들이 눈에 보여서 <span style="color: indianred">**툭툭이 타고 가게 되겠거니**</span> 생각하고 있었는데, <span style="color: #8D4801">**커다란 관광버스 짐칸에 캐리어를 싣고 버스로 이동**</span>하게 되었다.
+주차장에서 <span style="color: #8D4801">**도착한 관광객들을 줄 세우고 정렬시키는 사람**</span>이 보였고, 루앙 프라방에서는 보지 못했던 툭툭들이 눈에 보여서 <span style="color: indianred">**툭툭 타고 가게 되겠거니**</span> 생각하고 있었는데, <span style="color: #8D4801">**커다란 관광버스 짐칸에 캐리어를 싣고 버스로 이동**</span>하게 되었다.
 <div class="image-slider-static">
   <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-group-photo-in-vang-vieng-railway-station.jpg" title="The group photo in Vang Vieng railway station" alt="The group photo in Vang Vieng railway station">
 </div>
@@ -445,7 +445,7 @@ SNS에서 유명한 전망 반대편에도 <span style="color: #8D4801">**또 �
 </div>
 <br>
 
-생각해 보니 <span style="color: #8D4801">**라오스와서 처음 탑승한 툭툭이**</span>네요
+생각해 보니 <span style="color: #8D4801">**라오스와서 처음 탑승한 툭툭**</span>이네요
 <div class="image-slider-static">
   <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-group-photo-on-the-tuktuk-2.webp" title="The group photo on the Tuktuk" alt="The group photo on the Tuktuk">
 </div>

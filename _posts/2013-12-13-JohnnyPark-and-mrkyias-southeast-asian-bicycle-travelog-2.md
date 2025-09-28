@@ -167,8 +167,8 @@ description: 2013.12.12~13 엉망진창 첫 해외 출국 공항 해프닝 및 �
 하이라이트는 <span style="color: #8D4801">**Gardens by the bay**</span>였다. 아직 초저녁 무렵엔 그냥 큰 나무구나 싶었는데 밤이 되고 조명이 켜지니 그림같이 아름다워 눈을 뗄 수가 없었다.
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-2.jpg" title="The scenary of Gardens by the bay" alt="The scenary of Gardens by the bay"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-3.jpg" title="The scenary of Gardens by the bay" alt="The scenary of Gardens by the bay"> |
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-6.jpg" title="The scenary of Gardens by the bay" alt="The scenary of Gardens by the bay"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-10.jpg" title="The scenary of Gardens by the bay" alt="The scenary of Gardens by the bay"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-2.jpg" title="The scenery of Gardens by the bay" alt="The scenery of Gardens by the bay"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-3.jpg" title="The scenery of Gardens by the bay" alt="The scenery of Gardens by the bay"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-6.jpg" title="The scenery of Gardens by the bay" alt="The scenery of Gardens by the bay"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-10.jpg" title="The scenery of Gardens by the bay" alt="The scenery of Gardens by the bay"> |
 
 <br>
 
@@ -180,14 +180,14 @@ description: 2013.12.12~13 엉망진창 첫 해외 출국 공항 해프닝 및 �
 
 나는 <span style="color: indianred">**고소공포증**</span> 때문에 무서워서 사진도 제대로 못 찍었는데 풍경은 정말 아름다웠다... 운이 좋아서 나무 위에서 마리나 호텔의 조명 쇼도 함께 볼 수 있었는데 은은한 음악과 화려한 조명들의 연출이 꿈만 같았다. <span style="color: #8D4801">**밤의 마리나 호텔 주변 풍경은 낮과는 천지 차이였다 마치 다른 세계에 온 듯했다.**</span> 멀라이언 파크는 물론 주변 시가지가 말 그대로 빛났다.
 <div class="image-slider-auto">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-4.jpg" title="The scenary of Gardens by the bay" alt="The scenary of Gardens by the bay">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-5.jpg" title="The scenary of Gardens by the bay" alt="The scenary of Gardens by the bay">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-7.jpg" title="The scenary of Gardens by the bay" alt="The scenary of Gardens by the bay">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-8.jpg" title="The scenary of Gardens by the bay" alt="The scenary of Gardens by the bay">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-9.jpg" title="The scenary of Gardens by the bay" alt="The scenary of Gardens by the bay">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-11.jpg" title="The scenary of Gardens by the bay" alt="The scenary of Gardens by the bay">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-12.jpg" title="The scenary of Gardens by the bay" alt="The scenary of Gardens by the bay">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-13.jpg" title="The scenary of Gardens by the bay" alt="The scenary of Gardens by the bay">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-4.jpg" title="The scenery of Gardens by the bay" alt="The scenery of Gardens by the bay">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-5.jpg" title="The scenery of Gardens by the bay" alt="The scenery of Gardens by the bay">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-7.jpg" title="The scenery of Gardens by the bay" alt="The scenery of Gardens by the bay">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-8.jpg" title="The scenery of Gardens by the bay" alt="The scenery of Gardens by the bay">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-9.jpg" title="The scenery of Gardens by the bay" alt="The scenery of Gardens by the bay">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-11.jpg" title="The scenery of Gardens by the bay" alt="The scenery of Gardens by the bay">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-12.jpg" title="The scenery of Gardens by the bay" alt="The scenery of Gardens by the bay">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-13.jpg" title="The scenery of Gardens by the bay" alt="The scenery of Gardens by the bay">
 </div>
 <br>
 

@@ -180,6 +180,22 @@
     </url>
     
     <url>
+        <loc>http://localhost:4000/travel/laos/2024/04/27/Laos-Friendship-Travelog-6/</loc>
+        
+        <lastmod>2024-04-27T08:05:33+09:00</lastmod>
+        
+
+        
+        <changefreq>weekly</changefreq>
+        
+
+        
+        <priority>0.5</priority>
+        
+
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/travel/laos/2024/04/22/Laos-Friendship-Travelog-5/</loc>
         
         <lastmod>2024-04-22T21:50:01+09:00</lastmod>

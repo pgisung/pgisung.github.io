@@ -51,12 +51,12 @@ async function incrementCounterDaily(path, field, elementId) {
 
 async function incrementCounterPosts(path, field) {
   const ref = doc(db, ...path);
-  const snap = await getDoc(ref);
-  if (snap.exists()) {
+  try {
     await updateDoc(ref, { [field]: increment(1) });
-  } else {
+  } catch (e) {
     // 문서가 없으면 새로 생성
-    await setDoc(ref, { [field]: 1 });
+    // merge 옵션을 넣음으로써 updateDoc때 해당 필드가 존재하지 않는 이외의 오류때 혹시 다른 필드 데이터가 영향 받는 것을 방지
+    await setDoc(ref, { [field]: 1 }, { merge: true });
   }
 }
 

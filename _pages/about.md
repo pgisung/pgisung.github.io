@@ -47,39 +47,39 @@ gulp.task('designcycle', function() {
 
 ### <span style="color: #8D4801">**What sort of development languages and environment I am able to use?**</span>
 #### I used to deal with these days
-<img data-src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=white" title="Unity logo" alt="Unity logo">
-<img data-src="https://img.shields.io/badge/Microsoft&nbsp;SQL&nbsp;Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" title="Microsoft SQL Server logo" alt="Microsoft SQL Server logo">
-<img data-src="https://img.shields.io/badge/ASP.NET&nbsp;Core&nbsp;Blazor-512BD4?style=flat&logo=blazor&logoColor=white" title="ASP.NET Core Blazor logo" alt="ASP.NET Core Blazor logo">
-<img data-src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" title="AWS logo" alt="AWS logo">
-<!-- <img data-src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" title="Spring logo" alt="Spring logo"> -->
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=white" title="Unity logo" alt="Unity logo">
+<img src="https://img.shields.io/badge/Microsoft&nbsp;SQL&nbsp;Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" title="Microsoft SQL Server logo" alt="Microsoft SQL Server logo">
+<img src="https://img.shields.io/badge/ASP.NET&nbsp;Core&nbsp;Blazor-512BD4?style=flat&logo=blazor&logoColor=white" title="ASP.NET Core Blazor logo" alt="ASP.NET Core Blazor logo">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" title="AWS logo" alt="AWS logo">
+<!-- <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" title="Spring logo" alt="Spring logo"> -->
 
 #### I had worked with
-<img data-src="https://img.shields.io/badge/Csharp-239120?style=flat&logo=csharp&logoColor=white" title="C# logo" alt="C# logo">
-<img data-src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" title=".NET logo" alt=".NET logo">
-<img data-src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" title="SQLite logo" alt="SQLite logo">
+<img src="https://img.shields.io/badge/Csharp-239120?style=flat&logo=csharp&logoColor=white" title="C# logo" alt="C# logo">
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" title=".NET logo" alt=".NET logo">
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" title="SQLite logo" alt="SQLite logo">
 
 #### I have ever used
-<img data-src="https://img.shields.io/badge/CLanguage-A8B9CC?style=flat&logo=c&logoColor=white" title="CLanguage logo" alt="CLanguage logo">
-<img data-src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" title="C++ logo" alt="C++ logo">
-<img data-src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=openjdk&logoColor=white" title="Java logo" alt="Java logo">
-<img data-src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" title="Android logo" alt="Android logo">
-<img data-src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" title="MySQL logo" alt="MySQL logo">
-<img data-src="https://img.shields.io/badge/Html5-E34F26?style=flat&logo=html5&logoColor=white" title="Html5 logo" alt="Html5 logo">
-<img data-src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" title="CSS3 logo" alt="CSS3 logo">
-<img data-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" title="JavaScript logo" alt="JavaScript logo">
-<img data-src="https://img.shields.io/badge/Jekyll-CC0000?style=flat&logo=jekyll&logoColor=white" title="Jekyll logo" alt="Jekyll logo">
-<img data-src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" title="Swift logo" alt="Swift logo">
-<img data-src="https://img.shields.io/badge/UIKit-SwiftUI-000000?style=flat&logo=ios&logoColor=white" title="iOS logo " alt="iOS logo">
+<img src="https://img.shields.io/badge/CLanguage-A8B9CC?style=flat&logo=c&logoColor=white" title="CLanguage logo" alt="CLanguage logo">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" title="C++ logo" alt="C++ logo">
+<img src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=openjdk&logoColor=white" title="Java logo" alt="Java logo">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" title="Android logo" alt="Android logo">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" title="MySQL logo" alt="MySQL logo">
+<img src="https://img.shields.io/badge/Html5-E34F26?style=flat&logo=html5&logoColor=white" title="Html5 logo" alt="Html5 logo">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" title="CSS3 logo" alt="CSS3 logo">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" title="JavaScript logo" alt="JavaScript logo">
+<img src="https://img.shields.io/badge/Jekyll-CC0000?style=flat&logo=jekyll&logoColor=white" title="Jekyll logo" alt="Jekyll logo">
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" title="Swift logo" alt="Swift logo">
+<img src="https://img.shields.io/badge/UIKit-SwiftUI-000000?style=flat&logo=ios&logoColor=white" title="iOS logo " alt="iOS logo">
 
 #### The development environment I have ever used
-<img data-src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat&logo=visualstudio&logoColor=white" title="VisualStudio logo" alt="VisualStudio logo">
-<img data-src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" title="VSCode logo" alt="VSCode logo">
-<img data-src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white" title="Eclipse logo" alt="Eclipse logo">
-<img data-src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white" title="Xcode logo" alt="Xcode logo">
-<img data-src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white" title="Github logo" alt="Github logo">
-<img data-src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" title="Notion logo" alt="Notion logo">
-<img data-src="https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white" title="Codepen logo" alt="Codepen logo">
-<img data-src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" title="Figma logo" alt="Figma logo">
+<img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat&logo=visualstudio&logoColor=white" title="VisualStudio logo" alt="VisualStudio logo">
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" title="VSCode logo" alt="VSCode logo">
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white" title="Eclipse logo" alt="Eclipse logo">
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white" title="Xcode logo" alt="Xcode logo">
+<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white" title="Github logo" alt="Github logo">
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" title="Notion logo" alt="Notion logo">
+<img src="https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white" title="Codepen logo" alt="Codepen logo">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" title="Figma logo" alt="Figma logo">
 
 <br>
 

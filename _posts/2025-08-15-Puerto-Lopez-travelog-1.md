@@ -143,7 +143,7 @@ description: 2025.08.15 키토에서 푸에르토 로페스까지 이동기 및 
 <center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1492.2280688917492!2d-80.80263509332443!3d-1.5406865735430604!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902c208776215975%3A0x7272c8c8a037bf72!2sTerminal%20Terrestre%20Puerto%20Lopez!5e0!3m2!1sko!2sec!4v1755782683004!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
 <br>
 
-터미널을 나서며 택시를 타야 하나하고 보던 찰나에 <span style="color: #8D4801">**이게 웬 툭툭이**</span>들? 너무나 오랜만에 툭툭이를 타고 숙소로 이동하는데 <span style="color: #8D4801">**로컬 정취가 흠씬 풍기는 정겨운 마을 풍경**</span>이 벌써 마음에 들었었다.
+터미널을 나서며 택시를 타야 하나하고 보던 찰나에 <span style="color: #8D4801">**이게 웬 툭툭**</span>들? 너무나 오랜만에 툭툭을 타고 숙소로 이동하는데 <span style="color: #8D4801">**로컬 정취가 흠씬 풍기는 정겨운 마을 풍경**</span>이 벌써 마음에 들었었다.
 <div class="image-slider-static">
   <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/on-the-tuktuk.jpg" title="On the Tuktuk" alt="On the Tuktuk">
 </div>
@@ -255,7 +255,7 @@ description: 2025.08.15 키토에서 푸에르토 로페스까지 이동기 및 
 | **우버 택시 교통비** | 2.05 USD | 2,847원 |
 | **고속버스 교통비** | 9.4 USD | 13,056원 |
 | **물** | 1 USD | 1,388원 |
-| **툭툭이 교통비** | 1.5 USD | 2,083원 |
+| **툭툭 교통비** | 1.5 USD | 2,083원 |
 | **총숙박비** | 181 USD | 251,398원 |
 | **점심 식비** | 30 USD | 41,668원 |
 | **저녁 식비** | 25 USD | 34,723원 |

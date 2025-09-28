@@ -61,7 +61,7 @@ description: 2024.04.10 방 비엥에서 동굴 튜빙, 집라인, 카약킹 후
 </div>
 <br>
 
-라오스에 온 이후로 <span style="color: brown">**뭔가 정식으로는 처음 탄 툭툭이네~ 아니네~**</span> 하며 어젯밤에 스콜 때문에 호출했던 툭툭이와 비교하며 수다 떨다가 갑자기 찾아온 촬영 시간 
+라오스에 온 이후로 <span style="color: brown">**뭔가 정식으로는 처음 탄 툭툭이네~ 아니네~**</span> 하며 어젯밤에 스콜 때문에 호출했던 툭툭과 비교하며 수다 떨다가 갑자기 찾아온 촬영 시간 
 
 |:---:|:---:|
 | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/blogger-and-friend1-on-the-tuktuk-1.webp" title="Blogger and friend on the Tuktuk" alt="Blogger and friend on the Tuktuk"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/friend2-on-the-tuktuk.webp" title="Friend on the Tuktuk" alt="Friend on the Tuktuk"> |
@@ -358,7 +358,7 @@ description: 2024.04.10 방 비엥에서 동굴 튜빙, 집라인, 카약킹 후
 <br>
 
 ### 남송강 카약킹
-점심을 먹은 뒤 나른함 때문인지 이동하는 사진은 찍지 못했지만, 카약킹 시작 지점까지 툭툭으로 이동했다. <span style="color: brown">**툭툭이 위에 보트가 오늘 우리가 탑승할 보트**</span>였다.
+점심을 먹은 뒤 나른함 때문인지 이동하는 사진은 찍지 못했지만, 카약킹 시작 지점까지 툭툭으로 이동했다. <span style="color: brown">**툭툭 위에 보트가 오늘 우리가 탑승할 보트**</span>였다.
 <div class="image-slider-static">
   <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/the-boats-for-kayaking-on-the-tuktuk.webp" title="The boats for kayaking on the Tuktuk" alt="The boats for kayaking on the Tuktuk">
 </div>
@@ -663,7 +663,7 @@ description: 2024.04.10 방 비엥에서 동굴 튜빙, 집라인, 카약킹 후
 
 아름다운 <span style="color: brown">**방 비엥의 자연 경관**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/vang-vieng-natural-scenary.webp" title="Vang Vieng natural scenary" alt="Vang Vieng natural scenary">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/vang-vieng-natural-scenery.webp" title="Vang Vieng natural scenery" alt="Vang Vieng natural scenery">
 </div>
 <br>
 
