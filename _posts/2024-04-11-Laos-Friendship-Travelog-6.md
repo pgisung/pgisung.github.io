@@ -53,7 +53,7 @@ description: 2024.04.11 라오스 방 비엥에서 비엔티안까지 이동 및
 
 필자는 베트남에서도 오랜 기간 머무른 적이 있었는데, <span style="color: indianred">**카오 삐약 센은 단연코 노상에서 판매되는 베트남 쌀국수에 비견될 정도**</span>로 깊은 맛을 가진 음식이었다.
 
-<span style="color: #8D4801">**고수와 고추를 보이는 대로 모두 부어 넣어**</span> 먹었는데, 전날 술을 마셨단 사실마저 잊힐 정도로 맛있게 ~~마셨다~~<span style="color: brown">**먹었다**</span>.
+<span style="color: #8D4801">**고수와 고추를 보이는 대로 모두 부어 넣어**</span> 먹었는데, 전날 술을 마셨단 사실마저 잊힐 정도로 맛있게 ~~마셨다~~ <span style="color: brown">**먹었다**</span>.
 <div class="image-slider-static">
   <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/khao-piak-sen-1.webp" title="Khao Piak Sen" alt="Khao Piak Sen">
 </div>

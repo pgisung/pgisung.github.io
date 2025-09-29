@@ -9,12 +9,6 @@ class TreeManager {
 
     this.treeCount = 0;
 
-    // leaf 나무 잎으로 위치 이동하기 위해 position absolute
-    const unorderedLists = document.querySelectorAll('.page-content .categories, .page-content .tags');
-    unorderedLists.forEach(function(list) {
-      list.style.position = 'absolute';  
-    });
-
     window.addEventListener('resize', this.debounce(this.resize.bind(this), 1000), false);
     this.canvas.addEventListener('click', this.click.bind(this), false);
     this.resize();
@@ -60,8 +54,15 @@ class TreeManager {
       return;
     }
 
+    // 클릭시 다시 안 보이도록
+    const unorderedLists = document.querySelectorAll('.page-content .categories, .page-content .tags');
+    unorderedLists.forEach(function(list) {
+      list.style.opacity = '0';
+      list.style.transition = 'none';
+    });
+
     // 나무 개수에 따라 캔버스 초기화 해줌
-    if (this.treeCount > 4) {
+    if (this.treeCount > 9) {
       this.treeCount = 0;
       this.ctx.clearRect(0, 0, this.stageWidth, this.stageHeight);
     }
@@ -83,24 +84,15 @@ class Tree {
     this.cntDepth = 0; // depth별로 그리기 위해 현재 depth 변수 선언
     this.animation = null; // 현재 동작하는 애니메이션
 
-    this.mobileRatio = this.posX * 2 < 600 ? 0.55 : 1;
+    // mobile responsive
+    this.mobileRatio = window.innerWidth < 480 ? this.randomFloat(0.275, 0.55) : this.randomFloat(0.5, 1);
 
     // leaf
     this.edgeXs = [];
     this.edgeYs = [];
-    // this.leafColors = [ 'lightseagreen', 'seagreen', 'darkseagreen' ];
     this.leafElements = document.querySelectorAll('.page-content .categories li, .page-content .tags li');
-    this.leafElements.forEach((leaf) => {
-      var aTag = leaf.querySelector('a');
-      // aTag.style.borderRadius = '44px 5px';
-      // const colorIndex = this.random(0, this.leafColors.length - 1);
-      // aTag.style.backgroundColor = this.leafColors[colorIndex];
-
-      leaf.style.position = 'absolute';
-      leaf.style.whiteSpace = 'nowrap';
-      leaf.style.transition = 'all 1.5s ease';
-    });
     this.leaves = [];
+    this.randomLeafColor = Math.random();
 
     this.init();
   }
@@ -149,7 +141,7 @@ class Tree {
     const stemY = startY + this.sin(randomAngle) * this.random(randomShortRadius, randomLongRadius) * this.mobileRatio;
     const centerX = stemX + this.cos(randomAngle) * randomLongRadius * this.mobileRatio;
     const centerY = stemY + this.sin(randomAngle) * randomLongRadius * this.mobileRatio;
-    this.leaves.push(new Leaf(startX, startY, stemX, stemY, centerX, centerY, randomLongRadius, randomShortRadius, randomAngle));
+    this.leaves.push(new Leaf(startX, startY, stemX, stemY, centerX, centerY, randomLongRadius, randomShortRadius, randomAngle, this.randomLeafColor));
   }
 
   draw() {
@@ -157,6 +149,15 @@ class Tree {
     if (this.cntDepth === this.depth) {
       cancelAnimationFrame(this.animation);
       this.animation = null;
+
+      this.createRandomBackgroundColor(this.randomLeafColor);
+
+      const unorderedLists = document.querySelectorAll('.page-content .categories, .page-content .tags');
+      unorderedLists.forEach(function(list) {
+        list.style.opacity = '1';
+        list.style.transition = 'opacity 1s ease';
+      });
+
       return;
     }
 
@@ -211,34 +212,92 @@ class Tree {
   random(min, max) {
     return min + Math.floor(Math.random() * (max - min + 1));
   }
+  randomFloat(min, max) {
+    return Math.random() * (max - min) + min;
+  }
 
   // leaf 카테고리, 태그 잎 위치 재설정
   relocateLeaves() {
-    if(1 > this.leafElements.length) return;
-    if(1 > this.edgeXs.length) return;
-    if(1 > this.edgeYs.length) return;
-    if(this.edgeXs.length < this.leafElements.length) return;
-    if(this.edgeYs.length < this.leafElements.length) return;
+    return new Promise((resolve, reject) => {
+      if (
+        this.leafElements.length < 1 ||
+        this.edgeXs.length < this.leafElements.length ||
+        this.edgeYs.length < this.leafElements.length
+      ) {
+        resolve(); // 조건 안되면 그냥 끝
+        return;
+      }
 
-    const promises = [];
-    this.leafElements.forEach((leaf) => {
-      promises.push(new Promise(() => {
+      this.leafElements.forEach((leaf, idx) => {
         const leafIndex = this.random(0, this.edgeXs.length - 1);
         leaf.style.left = this.edgeXs[leafIndex] - (leaf.offsetWidth / 2) + 'px';
         leaf.style.top = this.edgeYs[leafIndex] - (leaf.offsetHeight / 2) + 'px';
         this.edgeXs.splice(leafIndex, 1);
         this.edgeYs.splice(leafIndex, 1);
-      }));
-    });
 
-    Promise.all(promises)
-      .catch(error => {
-          console.error("relocateLeaves 에러 발생:", error);
+        // 마지막 처리 끝난 시점에 resolve
+        if (idx === this.leafElements.length - 1) {
+          resolve();
+        }
       });
+    });
   }
 
   isAnimationCompleted() {
     return this.cntDepth === this.depth;
+  }
+
+  createRandomBackgroundColor(leafColor) {
+    const value = leafColor;
+
+    // 사용할 계절 prefix 정하기
+    let season = 'summer';
+    switch (true) {
+      case value >= 0 && value <= 0.02:
+        season = 'spring';
+        break;
+      case value > 0.02 && value <= 0.68:
+        break;
+      case value > 0.68 && value <= 0.9:
+        season = 'autumn';
+        break;
+      case value > 0.9 && value <= 1:
+        season = 'winter';
+        break;
+    }
+
+    // 기존 seasonal 클래스 제거 함수
+    const removeSeasonClasses = (el) => {
+      el.classList.forEach(cls => {
+        if (cls.startsWith('season-')) {
+          el.classList.remove(cls);
+        }
+      });
+    };
+
+    document.querySelectorAll('.page-content .categories li a, .page-content .tags li a')
+      .forEach(aTag => {
+        removeSeasonClasses(aTag);
+        aTag.classList.add(`season-${season}-c1`);
+      });
+
+    document.querySelectorAll('.category-list span a, .tag-list span a')
+      .forEach(aTag => {
+        removeSeasonClasses(aTag);
+        aTag.classList.add(`season-${season}-c2`);
+      });
+
+    document.querySelectorAll('.category-list .category, .tag-list .category')
+      .forEach(el => {
+        removeSeasonClasses(el);
+        el.classList.add(`season-${season}-c3`);
+      });
+
+    document.querySelectorAll('.category-list .tag, .tag-list .tag')
+      .forEach(el => {
+        removeSeasonClasses(el);
+        el.classList.add(`season-${season}-c4`);
+      });
   }
 }
 
@@ -294,7 +353,7 @@ class Branch {
 }
 
 class Leaf {
-  constructor(startX, startY, endX, endY, centerX, centerY, longRadius, shortRadius, rotation) {
+  constructor(startX, startY, endX, endY, centerX, centerY, longRadius, shortRadius, rotation, leafColor) {
     this.startX = startX;
     this.startY = startY;
     this.endX = endX;
@@ -304,6 +363,7 @@ class Leaf {
     this.longRadius = longRadius;
     this.shortRadius = shortRadius;
     this.rotation = rotation;
+    this.leafColor = leafColor;
 
     this.frame = 1;
     this.cntFrame = 0;
@@ -327,12 +387,7 @@ class Leaf {
     ctx.lineTo(this.endX, this.endY);
     ctx.ellipse(this.centerX, this.centerY, this.longRadius, this.shortRadius, this.rotation, 0, this.currentAngle);
 
-    var gradient = ctx.createLinearGradient(this.startX, this.startY, this.centerX, this.centerY);
-    gradient.addColorStop(0, 'rgba(34, 139, 34, 0.9)');
-    gradient.addColorStop(0.25, 'rgba(64, 169, 64, 0.8)');
-    gradient.addColorStop(0.5, 'rgba(34, 139, 34, 0.9)');
-    gradient.addColorStop(0.75, 'rgba(64, 169, 64, 0.8)');
-    gradient.addColorStop(1, 'rgba(34, 139, 34, 0.9)');
+    var gradient = this.createRandomGradient(ctx, this.startX, this.startY, this.centerX, this.centerY, this.leafColor)
     ctx.strokeStyle = gradient;
     ctx.fillStyle = gradient;
     ctx.fill();
@@ -344,5 +399,65 @@ class Leaf {
 
     // 다 안그렸으면 false를 리턴
     return false;
+  }
+
+  createRandomGradient(ctx, startX, startY, centerX, centerY, leafColor) {
+    // 0 ~ 1 범위 난수
+    const value = leafColor;
+    let r1 = 255;
+    let r2 = 255;
+    let g1 = 255;
+    let g2 = 255;
+    let b1 = 255;
+    let b2 = 255;
+    let o1 = 0.9;
+    let o2 = 0.8;
+
+    // 계절별 나뭇잎 그라디언트 변경
+    switch (true) {
+      case value >= 0 && value <= 0.02:
+        r1 = 225;
+        r2 = 255;
+        g1 = 153;
+        g2 = 183;
+        b1 = 167;
+        b2 = 197;
+        break;
+      case value > 0.02 && value <= 0.68:
+        r1 = 34;
+        r2 = 64;
+        g1 = 139;
+        g2 = 169;
+        b1 = 34;
+        b2 = 64;
+        break;
+      case value > 0.68 && value <= 0.9:
+        r1 = 124;
+        r2 = 154;
+        g1 = 0;
+        g2 = 23;
+        b1 = 0;
+        b2 = 3;
+        break;
+      case value > 0.9 && value <= 1:
+        r1 = 143;
+        r2 = 173;
+        g1 = 186;
+        g2 = 216;
+        b1 = 200;
+        b2 = 230;
+        break;
+    }
+
+    // Gradient 생성
+    const gradient = ctx.createLinearGradient(startX, startY, centerX, centerY);
+    gradient.addColorStop(0,    `rgba(${r1}, ${g1}, ${b1}, ${o1})`);
+    gradient.addColorStop(0.25, `rgba(${r2}, ${g2}, ${b2}, ${o2})`);
+    gradient.addColorStop(0.5,  `rgba(${r1}, ${g1}, ${b1}, ${o1})`);
+    gradient.addColorStop(0.75, `rgba(${r2}, ${g2}, ${b2}, ${o2})`);
+    gradient.addColorStop(1,    `rgba(${r1}, ${g1}, ${b1}, ${o1})`);
+
+    // 외부에서 받을 수 있게 반환
+    return gradient;
   }
 }

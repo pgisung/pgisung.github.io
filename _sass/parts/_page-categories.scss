@@ -20,12 +20,13 @@
 				padding: 5px 10px;
 				font-size: 14px;
 				font-weight: 700;
-				color: variables.$white;
-				background-color: darkseagreen;
+				// color: variables.$white;
+				// background-color: darkseagreen;
 				text-decoration: none;
 				border-radius: variables.$common-border-radius;
 				transition: all .25s ease;
 				&:hover {
+					color: variables.$white;
 					background-color: #8E828E;
 				}
 			}
@@ -54,7 +55,7 @@
 		a {
       font-size: 16px;
 			font-weight: 700;
-			color: darkgreen;
+			// color: darkgreen;
 			text-decoration: none;
 			transition: all .25s ease;
 		}
@@ -65,23 +66,58 @@
 			}
 		}
 	}
-	.category {
-		background-color: limegreen;
-	}
-	.tag {
-		background-color: yellowgreen;
-	}
+	// .category {
+	// 	background-color: limegreen;
+	// }
+	// .tag {
+	// 	background-color: yellowgreen;
+	// }
 	.category, .tag {
 		display: inline-block;
 		padding: 0px 7px;
 		font-size: 14px;
 		font-weight: 700;
-		color: variables.$white;
+		// color: variables.$white;
 		text-decoration: none;
 		border-radius: variables.$common-border-radius;
 		transition: all .25s ease;
 		&:hover {
+			color: variables.$white;
 			background-color: #8E828E;			
 		}
 	}
 }
+
+.page-content .blog-categories .categories {
+	position: absolute;
+	opacity: 0;
+	li {
+		position: absolute;
+		white-space: nowrap;
+		transition: all 1.5s ease;
+	}
+}
+
+/* ===== 봄 ===== */
+.season-spring-c1 { background-color: rgb(251, 193, 246); color: variables.$black; }
+.season-spring-c2 { color: rgb(191, 114, 133); }
+.season-spring-c3 { background-color: rgb(241, 219, 183); color: variables.$black; }
+.season-spring-c4 { background-color: rgb(255, 219, 183); color: variables.$black; }
+
+/* ===== 여름 ===== */
+.season-summer-c1 { background-color: rgb(143, 188, 143); color: variables.$white; }
+.season-summer-c2 { color: rgb(0, 100, 0); }
+.season-summer-c3 { background-color: rgb(50, 205, 50); color: variables.$white; }
+.season-summer-c4 { background-color: rgb(154, 205, 50); color: variables.$white; }
+
+/* ===== 가을 ===== */
+.season-autumn-c1 { background-color: rgb(233, 42, 82); color: variables.$white; }
+.season-autumn-c2 { color: rgb(90, 0, 0); }
+.season-autumn-c3 { background-color: rgb(140, 59, 0); color: variables.$white; }
+.season-autumn-c4 { background-color: rgb(244, 59, 0); color: variables.$white; }
+
+/* ===== 겨울 ===== */
+.season-winter-c1 { background-color: rgb(169, 226, 255); color: variables.$black; }
+.season-winter-c2 { color: rgb(109, 147, 166); }
+.season-winter-c3 { background-color: rgb(159, 252, 216); color: variables.$black; }
+.season-winter-c4 { background-color: rgb(255, 252, 216); color: variables.$black; }

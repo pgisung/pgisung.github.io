@@ -39,7 +39,7 @@ layout: default
         <a href="{{ site.url }}/categories" class="bar-title" title="Navigate to Categories page">Categories:</a>
         {% for category in page.categories %}
         {% assign filtered_word = category | replace: '#', 'sharp' %}
-        <a href="{{ site.baseurl }}/categories/{{ filtered_word | replace: ' ', '-' | cgi_escape | downcase }}/" class="category" title="Navigate to {{ category }} category">{{ category }}</a>
+        <a href="{{ site.baseurl }}/categories/{{ filtered_word | replace: ' ', '-' | cgi_escape | downcase }}/" class="category" title="Navigate to {{ category }} category"><i class="fa fa-th-list" aria-hidden="true"></i> {{ category }}</a>
         {% endfor %}
       </div>
       {% else %}
@@ -48,7 +48,7 @@ layout: default
       <div class="post-tag">
         <a href="{{ site.url }}/tags" class="bar-title" title="Navigate to Tags page">Tags:</a>
         {% for tag in page.tags %}
-        <a href="{{ site.baseurl }}/tags/#{{ tag | replace: ' ', '-' | cgi_escape }}" class="tag" title="Navigate to {{ tag }} tag">{{ tag }}</a>
+        <a href="{{ site.baseurl }}/tags/#{{ tag | replace: ' ', '-' | cgi_escape }}" class="tag" title="Navigate to {{ tag }} tag"><i class="fa fa-tags" aria-hidden="true"></i> {{ tag }}</a>
         {% endfor %}
       </div>
       {% else %}

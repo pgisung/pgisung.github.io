@@ -22,7 +22,7 @@
       <a href="{{ site.url }}/categories" class="bar-title" title="Navigate to Categories page">Categories:</a>
       {% for item in (0..site.categories.size) %}{% unless forloop.last %}
         {% capture this_word %}{{ category_words[item] | strip_newlines }}{% endcapture %}
-        <li><a href="" class="category" title="{{ this_word }} category">{{ this_word }} <span>({{ site.categories[this_word].size }})</span></a></li>
+        <li><a href="" class="category" title="{{ this_word }} category"><i class="fa fa-th-list" aria-hidden="true"></i>{{ this_word }} <span>({{ site.categories[this_word].size }})</span></a></li>
       {% endunless %}{% endfor %}
     </ul>
   </div>
@@ -33,7 +33,7 @@
       <a href="{{ site.url }}/tags" class="bar-title" title="Navigate to Tags page">Tags:</a>
       {% for item in (0..site.tags.size) %}{% unless forloop.last %}
         {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-        <li><a href="" class="tag" title="{{ this_word }} tag">{{ this_word }} <span>({{ site.tags[this_word].size }})</span></a></li>
+        <li><a href="" class="tag" title="{{ this_word }} tag"><i class="fa fa-tags" aria-hidden="true"></i>{{ this_word }} <span>({{ site.tags[this_word].size }})</span></a></li>
       {% endunless %}{% endfor %}
     </ul>
   </div>

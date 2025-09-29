@@ -27,11 +27,106 @@
 
 .site-footer {
   position: relative;
-  background-color: variables.$brown;
+  .footer-lists {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    background-color: peachpuff;
+    // background-color: burlywood;
+    .list-wrapper {
+      flex: 1 1 0;
+      min-width: 0;
+      margin: 30px 15px;
+      .list-title {
+        font-family: "Dancing Script", cursive;
+        font-size: 24px;
+        font-weight: 700;
+      }
+      .footer-list {
+        list-style: none;
+        padding: 0;
+        min-width: 0;
+        li {
+          border-radius: variables.$common-border-radius;
+          transition: all 0.35s ease;
+          &:hover {
+            background-color: variables.$white;
+            transform: translate(0px, -3px);
+            box-shadow: 0 15px 45px -10px rgba(240,239,221,0.8);
+          }
+          a {
+            text-decoration: none;
+          }
+          .element-box {
+            display: flex;
+            min-width: 0;
+          }
+          .element-image {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 10px;
+            flex-basis: 120px;
+            flex-shrink: 1;
+            .img-icon {
+              display: block;
+              width: 100px; 
+              height: 100px;
+              background-size: cover;
+              background-position: center;
+              border-radius: 50%;
+              &:hover {
+                cursor: pointer;
+              }
+            }
+          }
+          .element-info {
+            padding: 20px;
+            flex-shrink: 4;
+            min-width: 0;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            div {
+              i {
+                display: inline-block;
+                color: variables.$black;
+                margin-right: 6px;
+              }
+              p {
+                display: inline-block;
+                margin: 0;
+                font-weight: bold;
+                font-family: 'Gowun Batang', serif;
+              }
+            }
+            .element-title {
+              display: flex;
+              width: 100%;
+            }
+            .element-title p {
+              display: block;
+              width: 100%;
+              white-space: nowrap;
+              overflow: hidden;
+              text-overflow: ellipsis;
+            }
+            .element-date {
+              font-size: 14px;
+            }
+            &:hover div p {
+              cursor: pointer;
+            }
+          }
+        }
+      }
+    }
+  }
   .footer-wrapper {
+    background-color: variables.$brown;
     position: relative;
     z-index: 1;
-    padding: 100px 15px;
+    padding: 50px 15px;
   }
   .footer-heading {
     margin: 0 0 30px;
@@ -136,10 +231,22 @@
   }
 }
 
+@media (max-width: 992px) {
+  .site-footer {
+    .footer-lists {
+      flex-direction: column;
+      align-items: center;
+    }
+    .footer-lists .list-wrapper {
+      width: 80%;
+    }
+  }
+}
+
 @media screen and (max-width: 576px) {
   .site-footer {
     .footer-wrapper {
-      padding: 80px 15px;
+      padding: 40px 15px;
     }
     .footer-heading {
       font-size: 30px;

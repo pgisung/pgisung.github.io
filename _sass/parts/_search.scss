@@ -38,14 +38,25 @@
       margin: 0 10px 10px 0;
       text-decoration: none;
     }
+    i {
+      margin-right: 6px;
+    }
   }
   .blog-categories {
     top: 60px;
     background: linear-gradient(90deg, variables.$brown, rgb(198, 163, 128));
+    .categories li a {
+      color: variables.$white;
+			background-color: darkseagreen;
+    }
   }
   .blog-tags {
     top: 112px;
     background: linear-gradient(90deg, rgb(198, 163, 128), variables.$white);
+    .tags li a {
+      color: variables.$white;
+			background-color: mediumseagreen;
+    }
   }
 }
 
@@ -175,8 +186,13 @@
   background-color: variables.$white;
   li {
     margin-bottom: 20px;
-    border-bottom: 3px solid variables.$brown;
     border-radius: variables.$common-border-radius;
+    transition: all 0.35s ease;
+    box-shadow: 0 15px 45px -10px rgba(10,16,34,0.2);
+    &:hover {
+      background-color: rgba(255, 162, 81, 0.1);
+      transform: translate(0px, -3px);
+    }
     a {
       font-size: 18px;
       font-weight: 400;
@@ -212,13 +228,15 @@
 .template-info {
   padding: 20px;
   flex-shrink: 4;
-  text-decoration: none;
   color: #2d2d2d;
-  transition: all 0.3s ease;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   div {
     i {
       display: inline-block;
-      margin-right: 10px;
+      margin-right: 6px;
     }
     p {
       display: inline-block;
@@ -226,19 +244,23 @@
       font-family: 'Gowun Batang', serif;
     }
   }
+  .template-title {
+    width: 100%;
+  }
+  .template-title p {
+    display: block;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
   &:hover div p {
     cursor: pointer;
-    text-decoration: underline;
   }
 }
 
 .template-subinfo {
   font-size: 14px;
-}
-
-.template-mark {
-  color: variables.$brown;
-  font-weight: bold;
 }
 
 @media screen and (max-width: 480px) {

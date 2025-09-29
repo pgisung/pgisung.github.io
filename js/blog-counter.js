@@ -170,6 +170,11 @@ function getWithExpire(key) {
 (async () => {
   // 포스트별 조회수
   try {
+    // 날짜 기반 slug로 끝나는 URL만 집계
+    const isPostUrl = /\/\d{4}\/\d{2}\/\d{2}\/[^/]+\/?$/.test(pageURL);
+
+    if (!isPostUrl) return;
+    
     if (!getWithExpire(pageId)) {
       // 포스트별 조회수 - 단일 포스트 페이지용
       await incrementCounterPosts(["posts", pageId], "views");
@@ -235,6 +240,22 @@ function getWithExpire(key) {
       }
     });
 
+    // 꼬리말 리스트 업데이트
+    try {
+      // 전체 포스트 JSON 불러오기
+      const response = await fetch('/assets/search.json');
+      const posts = await response.json();
+
+      // 인기 글 목록 업데이트
+      renderPopularPosts(posts, postViewsCache);
+      // 최신 글 목록 업데이트 - 다른 곳(DOMContentLoaded 이벤트 등)에서 호출해도 되지만 인기 글 목록과 함께 두기 위해서 이곳에서 호출
+      renderRecentPosts(posts);
+      // 최신 댓글 목록 업데이트
+      renderRecentCusdisComments();
+    } catch (e) {
+      console.error("꼬리말 리스트 로드 중 오류:", e);
+    }
+
     // 전역에서 새로 추가된 포스트에도 적용 가능하도록 함수 정의
     window.updateViewsForNewPosts = function(container) {
       container.querySelectorAll('.post-views').forEach(span => {
@@ -282,3 +303,170 @@ async function cleanupOldDailyData() {
     }
   }
 })();
+
+function renderPopularPosts(posts, postViewsCache) {
+  try {
+    // postsArray 배열 생성 postId: 페이지 URL, views: 조회수
+    let postsArray = Object.keys(postViewsCache).map(postId => {
+      const views = postViewsCache[decodeURIComponent(postId)];
+      // optional: 각 post의 날짜 가져오기 (DOM에 data-date 속성 있다고 가정)
+      const article = document.querySelector(`.post-views[data-post-id="${decodeURIComponent(postId)}"]`);
+      const dateStr = article?.dataset.date || "1990-01-29"; 
+      return {
+        postId,
+        views,
+        date: new Date(dateStr)
+      };
+    });
+
+    // 조회수 내림차순, 조회수 같으면 최신 글 먼저
+    postsArray.sort((a, b) => {
+      if (b.views === a.views) {
+        return b.date - a.date; // 최신순
+      }
+      return b.views - a.views;
+    });
+
+    // Top 5 선택
+    const top5 = postsArray.slice(0, 5);
+
+    // posts에서 실제 존재하는 포스트만 골라서 새 배열 생성
+    const matchedPosts = top5
+      .map(topPost => {
+        const matched = posts.find(p => p.url === decodeURIComponent(topPost.postId));
+        return matched ? matched : null;
+      })
+      .filter(item => item !== null);
+
+    // footer에 렌더링
+    renderPostList("popular-posts-list", matchedPosts);
+  } catch (e) {
+    console.error("인기 포스트 리스트 로드 중 오류:", e);
+  }
+}
+
+function renderRecentPosts(posts) {
+  try {
+    // 최신순 정렬
+    const sorted = posts.sort((a, b) => {
+      return new Date(b.date) - new Date(a.date);
+    });
+
+    // 최신 5개만 추리기
+    const top5 = sorted.slice(0, 5);
+
+    // footer에 렌더링
+    renderPostList("recent-posts-list", top5);
+  } catch (e) {
+    console.error("최신 포스트 리스트 로드 중 오류:", e);
+  }
+}
+
+function renderPostList(id, posts) {
+  const ul = document.getElementById(id);
+  posts.forEach(post => {
+    const li = document.createElement("li");
+
+    const a = document.createElement("a");
+    a.href = post.url;
+    a.title = "Navigate to " + post.title + " post";
+
+    const elementBox = document.createElement("div");
+    elementBox.classList.add("element-box");
+
+    const elementImage = document.createElement("div");
+    elementImage.classList.add("element-image");
+    const spanImg = document.createElement("span");
+    spanImg.classList.add("img-icon");
+    spanImg.style.backgroundImage = `url(${post.img})`;
+
+    const elementInfo = document.createElement("div");
+    elementInfo.classList.add("element-info");
+
+    const elementTitle = document.createElement("div");
+    elementTitle.classList.add("element-title");
+    const pTitle = document.createElement("p");
+    pTitle.textContent = post.title;
+
+    const elementDate = document.createElement("div");
+    elementDate.classList.add("element-date");
+    const iCalendar = document.createElement("i");
+    iCalendar.classList.add("fa", "fa-calendar");
+    iCalendar.ariaHidden = true;
+    const pDate = document.createElement("p");
+    pDate.textContent = post.date;
+
+    elementTitle.appendChild(pTitle);
+    elementInfo.appendChild(elementTitle);
+    elementDate.appendChild(iCalendar);
+    elementDate.appendChild(pDate);
+    elementInfo.appendChild(elementDate);
+    elementImage.appendChild(spanImg);
+    elementBox.appendChild(elementImage);
+    elementBox.appendChild(elementInfo);
+    a.appendChild(elementBox);
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+}
+
+async function renderRecentCusdisComments() {
+  try {
+    const appId = '9b128654-4128-4227-b3ae-137b9addd055';
+    const res = await fetch(`https://cusdis.com/api/open/comments?appId=${appId}&page=1&pageSize=5`);
+    const data = await res.json();
+    
+    const ul = document.getElementById('recent-comments-list');
+    
+    data.data.data.forEach(c => {
+      const li = document.createElement("li");
+
+      const a = document.createElement("a");
+      a.href = c.page.slug;
+      a.title = "Navigate to " + c.page.title + " post";
+
+      const elementInfo = document.createElement("div");
+      elementInfo.classList.add("element-info");
+
+      const elementTitle = document.createElement("div");
+      elementTitle.classList.add("element-title");
+      const iCommenting = document.createElement("i");
+      iCommenting.classList.add("fa", "fa-commenting");
+      iCommenting.ariaHidden = true;
+      const pTitle = document.createElement("p");
+      pTitle.textContent = c.content.slice(0, 50);
+
+      const elementDate = document.createElement("div");
+      elementDate.classList.add("element-date");
+      const iCalendar = document.createElement("i");
+      iCalendar.classList.add("fa", "fa-calendar");
+      iCalendar.ariaHidden = true;
+      const pDate = document.createElement("p");
+      const [date, time] = c.page.createdAt.split('T');
+      pDate.textContent = `${date.replace(/-/g, '.')} ${time.split('.')[0]}`;
+
+      const elementAuthor = document.createElement("div");
+      elementAuthor.classList.add("element-author");
+      const iUser = document.createElement("i");
+      iUser.classList.add("fa", "fa-user");
+      iUser.ariaHidden = true;
+      const pAuthor = document.createElement("p");
+      pAuthor.textContent = c.by_nickname;
+      
+      elementTitle.appendChild(iCommenting);
+      elementTitle.appendChild(pTitle);
+      elementInfo.appendChild(elementTitle);
+      elementDate.appendChild(iCalendar);
+      elementDate.appendChild(pDate);
+      elementInfo.appendChild(elementDate);
+      elementAuthor.appendChild(iUser);
+      elementAuthor.appendChild(pAuthor);
+      elementInfo.appendChild(elementAuthor);
+      a.appendChild(elementInfo);
+      li.appendChild(a);
+      ul.appendChild(li);
+    });
+  } catch (e) {
+    console.error("최신 댓글 리스트 로드 중 오류:", e);
+  }
+}

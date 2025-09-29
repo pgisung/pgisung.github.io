@@ -20,12 +20,13 @@
 				padding: 5px 10px;
 				font-size: 14px;
 				font-weight: 700;
-				color: variables.$white;
-				background-color: mediumseagreen;
+				// color: variables.$white;
+				// background-color: mediumseagreen;
 				text-decoration: none;
 				border-radius: variables.$common-border-radius;
 				transition: all .25s ease;
 				&:hover {
+					color: variables.$white;
 					background-color: #8E828E;
 				}
 			}
@@ -54,7 +55,7 @@
 		a {
       font-size: 16px;
 			font-weight: 700;
-			color: darkgreen;
+			// color: darkgreen;
 			text-decoration: none;
 			transition: all .25s ease;
 		}
@@ -65,23 +66,34 @@
 			}
 		}
 	}
-	.category {
-		background-color: limegreen;
-	}
-	.tag {
-		background-color: yellowgreen;
-	}
+	// .category {
+	// 	background-color: limegreen;
+	// }
+	// .tag {
+	// 	background-color: yellowgreen;
+	// }
 	.category, .tag {
 		display: inline-block;
 		padding: 0px 7px;
 		font-size: 14px;
 		font-weight: 700;
-		color: variables.$white;
+		// color: variables.$white;
 		text-decoration: none;
 		border-radius: variables.$common-border-radius;
 		transition: all .25s ease;
 		&:hover {
+			color: variables.$white;
 			background-color: #8E828E;			
 		}
+	}
+}
+
+.page-content .blog-tags .tags {
+	position: absolute;
+	opacity: 0;
+	li {
+		position: absolute;
+		white-space: nowrap;
+		transition: all 1.5s ease;
 	}
 }

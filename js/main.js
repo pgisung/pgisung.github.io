@@ -70,6 +70,19 @@ $(function() {
   
   // Simple Search Settings
   var searchInput = document.getElementById('search-input');
+
+  // 검색 입력창에서 Enter 눌러도 폼 제출/페이지 이동 막기
+  document.getElementById("search-input").addEventListener("keydown", function(e) {
+    if (e.key === "Enter") {
+      e.preventDefault(); // 기본 동작 차단 → 검색창 안 닫힘
+    } else if (e.key === 'Escape' || e.keyCode === 27) {
+      // 검색창이 열려 있을 때만 닫기
+      if (document.querySelector('.search-box').classList.contains('show')) {
+        doCloseSearchBox();
+      }
+    }
+  });
+
   var sjs = SimpleJekyllSearch({
     searchInput: searchInput,
     resultsContainer: document.getElementById('results-container'),
@@ -82,21 +95,12 @@ $(function() {
               <span class="img-icon" style="background-image: url('{img}');"></span>
             </div>
             <div class="template-info">
-              <div>
-                <i class="fa fa-file-text-o" aria-hidden="true"></i>
+              <div class="template-title">
                 <p>{title}</p>
               </div>
               <div class="template-subinfo">
                 <i class="fa fa-calendar" aria-hidden="true"></i>
                 <p>{date}</p>
-              </div>
-              <div class="template-subinfo">
-                <i class="fa fa-th-list" aria-hidden="true"></i>
-                <p>{categories}</p>
-              </div>
-              <div class="template-subinfo">
-                <i class="fa fa-tags" aria-hidden="true"></i>
-                <p>{tags}</p>
               </div>
             </div>
           </div>
@@ -104,7 +108,7 @@ $(function() {
       </li>
   `,
     templateMiddleware: function(prop, value, template) {
-      if (prop === 'title' || prop === 'date' || prop === 'tags' || prop === 'categories') {
+      if (prop === 'title' || prop === 'date') {
         // 검색어
         var keyword = searchInput.value;
         // 강조된 단어로 대체

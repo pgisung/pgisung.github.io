@@ -8,7 +8,7 @@ layout: null
       "categories" : "{{ post.categories | join: ', ' }}",
       "tags"     : "{{ post.tags | join: ', ' }}", 
       "url"      : "{{ site.baseurl }}{{ post.url }}",
-      "date"     : "{{ post.date }}",
+      "date"     : "{{ post.date | date: '%Y.%m.%d' }}",
       "img"      : "/images/posts/{{ post.img }}",
       "subject"    : "{{ post.title | escape }}"
     } {% unless forloop.last %},{% endunless %}

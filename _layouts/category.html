@@ -53,7 +53,7 @@ layout: default
         <div class="post-subinfos">
           <a href="{{site.baseurl}}{{ post.url }}" title="Navigate to {{ post.title }} post" class="more">Read more <span class="screen-reader-text">about {{ post.title }}</span></a>
           <div class="views-counter">
-            Views: <span class="post-views" data-post-id="{{ post.url }}">0</span>
+            Views: <span class="post-views" data-date="{{ page.date | date: "%Y-%m-%d" }}" data-post-id="{{ post.url }}">0</span>
           </div>
         </div>
       </div>
