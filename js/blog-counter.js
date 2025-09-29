@@ -240,21 +240,16 @@ function getWithExpire(key) {
       }
     });
 
-    // 꼬리말 리스트 업데이트
-    try {
-      // 전체 포스트 JSON 불러오기
-      const response = await fetch('/assets/search.json');
-      const posts = await response.json();
+    // 전체 포스트 JSON 불러오기
+    const response = await fetch('/assets/search.json');
+    const posts = await response.json();
 
-      // 인기 글 목록 업데이트
-      renderPopularPosts(posts, postViewsCache);
-      // 최신 글 목록 업데이트 - 다른 곳(DOMContentLoaded 이벤트 등)에서 호출해도 되지만 인기 글 목록과 함께 두기 위해서 이곳에서 호출
-      renderRecentPosts(posts);
-      // 최신 댓글 목록 업데이트
-      renderRecentCusdisComments();
-    } catch (e) {
-      console.error("꼬리말 리스트 로드 중 오류:", e);
-    }
+    // 인기 글 목록 업데이트
+    renderPopularPosts(posts, postViewsCache);
+    // 최신 글 목록 업데이트 - 다른 곳(DOMContentLoaded 이벤트 등)에서 호출해도 되지만 인기 글 목록과 함께 두기 위해서 이곳에서 호출
+    renderRecentPosts(posts);
+    // 최신 댓글 목록 업데이트
+    renderRecentCusdisComments();
 
     // 전역에서 새로 추가된 포스트에도 적용 가능하도록 함수 정의
     window.updateViewsForNewPosts = function(container) {

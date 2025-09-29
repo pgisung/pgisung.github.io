@@ -47,12 +47,14 @@
         padding: 0;
         min-width: 0;
         li {
+          background-color: rgb(235, 181, 115);
           border-radius: variables.$common-border-radius;
           transition: all 0.35s ease;
           &:hover {
             background-color: variables.$white;
             transform: translate(0px, -3px);
-            box-shadow: 0 15px 45px -10px rgba(240,239,221,0.8);
+            box-shadow: 0 15px 45px -10px rgba(10,16,34,0.2);
+            // box-shadow: 0 15px 45px -10px rgba(240,239,221,0.8);
           }
           a {
             text-decoration: none;
@@ -105,6 +107,7 @@
               width: 100%;
             }
             .element-title p {
+              color: maroon;
               display: block;
               width: 100%;
               white-space: nowrap;

@@ -2448,6 +2448,7 @@ div[id*=panorama] {
   min-width: 0;
 }
 .site-footer .footer-lists .list-wrapper .footer-list li {
+  background-color: rgb(235, 181, 115);
   border-radius: 14px;
   -webkit-transition: all 0.35s ease;
   transition: all 0.35s ease;
@@ -2457,8 +2458,8 @@ div[id*=panorama] {
   -webkit-transform: translate(0px, -3px);
       -ms-transform: translate(0px, -3px);
           transform: translate(0px, -3px);
-  -webkit-box-shadow: 0 15px 45px -10px rgba(240, 239, 221, 0.8);
-          box-shadow: 0 15px 45px -10px rgba(240, 239, 221, 0.8);
+  -webkit-box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
+          box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
 }
 .site-footer .footer-lists .list-wrapper .footer-list li a {
   text-decoration: none;
@@ -2530,6 +2531,7 @@ div[id*=panorama] {
   width: 100%;
 }
 .site-footer .footer-lists .list-wrapper .footer-list li .element-info .element-title p {
+  color: maroon;
   display: block;
   width: 100%;
   white-space: nowrap;
