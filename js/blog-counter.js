@@ -339,6 +339,7 @@ async function renderRecentCusdisComments() {
   try {
     const appId = '9b128654-4128-4227-b3ae-137b9addd055';
     const res = await fetch(`https://cusdis.com/api/open/comments?appId=${appId}&page=1&pageSize=5`);
+    if (!res.ok) throw new Error("CORS blocked"); 
     const data = await res.json();
     
     const ul = document.getElementById('recent-comments-list');
