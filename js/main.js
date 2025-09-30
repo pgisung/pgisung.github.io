@@ -377,24 +377,6 @@ $(function() {
       scrollToTarget();
     });
   });
-  // document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-  //   anchor.addEventListener('click', function (e) {
-  //     e.preventDefault();
-  
-  //     const targetId = this.getAttribute('href').slice(1); // href에서 # 제거
-  //     const target = document.getElementById(targetId);
-  //     if (target) {
-  //       const offsetTop = target.getBoundingClientRect().top; // target의 뷰포트 최상단부터 타겟요소까지 상대적인 위치 값 : 픽셀
-  //       const headerOffset = window.innerHeight / 8; // window.innerHeight은 Viewport 높이 : 픽셀
-  //       // scrollY: 전체 컨텐츠에서 스크롤된 정도 픽셀 값
-  
-  //       window.scrollBy({
-  //         top: offsetTop - headerOffset,
-  //         behavior: 'smooth'
-  //       });
-  //     }
-  //   });
-  // });
 
   // /tags/#id로 다른 페이지인 tags페이지의 #id로 a태그 앵커 이동할 때 id태그를 중앙으로 위치하도록 이동시킴 (원래는 최상단에 위치함) - post 페이지
   window.addEventListener('load', () => {
@@ -416,8 +398,13 @@ $(function() {
 
     const headerOffset = window.innerHeight / 8;
     const tolerance = 5;
+    const maxAttempts = 10;
+
+    let attempts = 0;
 
     const scrollToTarget = () => {
+      if (attempts >= maxAttempts) return;
+      
       const offsetTop = target.getBoundingClientRect().top;
       const currentScroll = window.scrollY;
       const targetScrollPos = currentScroll + offsetTop - headerOffset;
@@ -427,6 +414,7 @@ $(function() {
         top: targetScrollPos,
         behavior: 'smooth'
       });
+      attempts++;
 
       // 약간의 시간 후 위치 확인 (lazy 이미지 반영 시간 확보)
       window.setTimeout(() => {
@@ -437,31 +425,11 @@ $(function() {
           scrollToTarget(); // 아직 멀면 재시도
         }
         // 충분히 도착했으면 자동 종료
-      }, 1000);
+      }, 200);
     };
 
     scrollToTarget();
   });
-
-  // window.addEventListener('load', () => {
-  //   const hash = window.location.hash;
-  //   if (hash) {
-  //     const targetId = hash.slice(1);
-  //     const target = document.getElementById(targetId);
-      
-  //     if (target) {
-  //       // 페이지가 로드된 후에 요소의 offsetTop 값을 가져온다. - 로드가 완료되기 전엔 항상 0
-  //       window.setTimeout(() => {
-  //         const offsetTop = target.getBoundingClientRect().top;
-  //         const headerOffset = window.innerHeight / 8;
-  //         window.scrollBy({
-  //           top: offsetTop - headerOffset,
-  //           behavior: 'smooth'
-  //         }); 
-  //       }, 0); 
-  //     }
-  //   } 
-  // });
 
   // 카테고리, 태그 나무 그리기
   window.addEventListener('load', () => {
