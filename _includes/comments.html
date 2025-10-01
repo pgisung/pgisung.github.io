@@ -1,0 +1,18 @@
+<div class="comments-area">
+  <form method="POST" class="comments-form" autocomplete="on">
+    <fieldset>
+      <legend>Comments</legend>
+      <div class="comments-inputs">
+        <input class="comments-input" type="text" name="name" placeholder="이름" required>
+        <input class="comments-input" type="email" name="email" placeholder="이메일 (선택)">
+      </div>
+      <textarea class="comments-textarea" name="contents" rows="8" placeholder="댓글은 블로거에게 큰 힘이 됩니다." required></textarea>
+    </fieldset>
+    <div class="comments-btns">
+      <button type="reset" class="comments-btn" title="Reset your comment">Reset</button>
+      <button type="submit" class="comments-btn" title="Submit your comment">Submit</button>
+    </div>
+  </form>
+  <div class="comments-list" id="comments-list"></div>
+
+</div> <!-- /.comments-area -->

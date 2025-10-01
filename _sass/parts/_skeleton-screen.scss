@@ -72,8 +72,3 @@
 // }
 
 // .skeleton-text-overlay.loaded { opacity: 0; transition: opacity .25s ease; }
-
-@keyframes skeleton-shimmer {
-  0% { background-position: -200% 0; }
-  100% { background-position: 200% 0; }
-}

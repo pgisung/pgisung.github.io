@@ -171,8 +171,10 @@
       }
     }
     .bar-title {
-      font-size: 13px;
-      margin-right: 10px;
+      font-family: "Dancing Script", cursive;
+      font-weight: 700;
+      font-size: 18px;
+      margin-right: 6px;
       color: #5b5b5b;
       text-decoration: none;
     }
@@ -378,13 +380,113 @@ div[id*="panorama"] {
   margin-top: 40px;
   padding-top: 40px;
   border-top: 1px solid #c9c9c9;
-
-  .comments-title {
-    font-size: 18px;
-    text-align: center;
-    padding: 15px 0;
-    background-color: rgba(170, 177, 199, 0.2);
+  fieldset {
+    border: none;
     border-radius: variables.$common-border-radius;
+    background-color: rgba(141, 72, 1, 0.3);
+  }
+  legend {
+    font-family: "Dancing Script", cursive;
+    font-size: 28px;
+    font-weight: 700;
+  }
+  .comments-input,
+  .comments-textarea {
+    padding: 8px 10px;
+    font-size: 14px;
+    border: 2px solid #f2f4fa;
+    border-radius: variables.$common-border-radius;
+    outline: none;
+    &:focus {
+      border: 2px solid variables.$brown;
+    }
+  }
+  .comments-input {
+    width: 50%;
+    box-sizing: border-box;
+  }
+  .comments-textarea {
+    margin-top: 6px;
+    width: 100%;
+    resize: none;
+  }
+  .comments-inputs {
+    display: flex;
+    gap: 10px;
+    width: 100%;
+  }
+  .comments-btns {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+    margin-top: 6px;
+  }
+  .comments-btn {
+    font-family: "Dancing Script", cursive;
+    font-weight: 700;
+    border: none;
+    border-radius: variables.$common-border-radius;
+    background-color: variables.$brown;
+    color: variables.$white;
+    transition: all 0.5s ease;
+    padding: 8px 10px;
+    cursor: pointer;
+    &:hover {
+      animation: shaking 1s 0s ease-out both;
+      background-color: peachpuff;
+      color: variables.$black;
+    }
+  }
+  .comments-list {
+    margin-top: 20px;
+    .comment-wrapper {
+      position: relative;
+      width: 80%;
+      padding: 8px 10px;
+      border-radius: variables.$common-border-radius;
+      .comment {
+        font-family: "Gowun Batang", serif;
+        i {
+          margin-right: 6px;
+        }
+        .comment-name {
+          font-weight: 700;
+          padding: 8px 10px;
+          border-top-left-radius: variables.$common-border-radius;
+          border-top-right-radius: variables.$common-border-radius;
+          background-color: rgba(141, 72, 1, 0.3);
+        }
+        .comment-contents {
+          font-weight: 550;
+          padding: 8px 10px;
+          background-color: variables.$white;
+        }
+        .comment-date {
+          padding: 0 10px 3px 10px;
+          border-bottom-left-radius: variables.$common-border-radius;
+          border-bottom-right-radius: variables.$common-border-radius;
+          background-color: variables.$white;
+          font-size: 12px;
+          color: #666;
+        }
+        .reply-btn {
+          font-family: "Dancing Script", cursive;
+          font-weight: 700;
+          cursor: pointer;
+          border: none;
+          background-color: rgba(255, 255, 255, 0);
+          &:hover {
+            animation: awkward 1s 0s ease-out both;
+          }
+        }
+      }
+      &.has-parent::before {
+        content: "└";
+        position: absolute;
+        left: 0;
+        color: #666;
+      }
+    }
   }
 }
 
