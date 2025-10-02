@@ -1,0 +1,96 @@
+@use '../variables'; // import를 use로 바꾸면서 전역변수를 사용하려는 vendor 파일에선 use구문 추가 필요
+
+.world-map {
+  aspect-ratio: 4/3;
+  overflow:hidden;
+  background: variables.$white;
+  // background:#b5e1f3;
+  // background: -webkit-linear-gradient(to right, #396afc, #2948ff);
+  // background: linear-gradient(to right, #b5e1f3, #7d90ff);
+}
+
+.world-map {
+  svg {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    display:block;
+  }
+}
+
+svg {
+  .land {
+    fill: #ffffff;
+    fill-opacity: 1;
+    stroke: variables.$brown; // #8D4801
+    // stroke: #a9d0f5;
+    stroke-opacity: 1;
+    stroke-width: 1;
+    animation: all 0.2s ease;
+
+    &:hover {
+      fill: #ffc318;
+      // fill: #3755de;
+      fill-opacity: 1;
+      stroke: #fffa2a;
+      // stroke: #011ecc;
+      stroke-opacity: 1;
+      stroke-width: 1;
+      animation: all 0.2s ease;
+    }
+  }
+
+  .land2 {
+    fill: #6d4800;
+    // fill: #c9d0f9;
+    fill-opacity: 1;
+    stroke: white;
+    stroke-opacity: 1;
+    stroke-width: 0.5;
+
+    &:hover {
+      fill: #b98800;
+      // fill: #7d90ff;
+      fill-opacity: 1;
+      stroke: white;
+      stroke-opacity: 1;
+      stroke-width: 0.5;
+    }
+  }
+
+  .path {
+    stroke-width: 1;
+    stroke-dasharray: 300px;
+    stroke-dashoffset: 200px;
+    animation: draw 8s linear infinite;
+    stroke: #be9114;
+    // stroke: #7887e2;
+  }
+
+  .path2 {
+    stroke-width: 1;
+    stroke-dasharray: 300px;
+    stroke-dashoffset: 300px;
+    animation: draw 12s linear infinite;
+    stroke: #be9114;
+    // stroke: #7887e2;
+  }
+
+  .mappoint {
+    stroke:#fffad4;
+    // stroke:#1d1e22;
+    // fill:#fffad4;
+    fill:#1d1e22;
+  }
+}
+
+@keyframes bounce{
+  from { transform: translateY(0); }
+  to   { transform: translateY(-10px); }
+}
+
+@keyframes draw {
+  to {
+    stroke-dashoffset: 2000;
+  }
+}

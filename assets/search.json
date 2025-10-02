@@ -6,7 +6,8 @@ layout: null
     {
       "title"    : "{{ post.title | escape }}",
       "categories" : "{{ post.categories | join: ', ' }}",
-      "tags"     : "{{ post.tags | join: ', ' }}", 
+      "tags"     : "{{ post.tags | join: ', ' }}",
+      "flag"     : "{{ post.flag }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "date"     : "{{ post.date | date: '%Y.%m.%d' }}",
       "img"      : "/images/posts/{{ post.img }}",

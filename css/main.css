@@ -565,6 +565,104 @@ img.zoom-img {
   color: black;
 }
 
+.world-map {
+  aspect-ratio: 4/3;
+  overflow: hidden;
+  background: #ffffff;
+}
+
+.world-map svg {
+  width: 100%;
+  height: auto;
+  -o-object-fit: contain;
+     object-fit: contain;
+  display: block;
+}
+
+svg .land {
+  fill: #ffffff;
+  fill-opacity: 1;
+  stroke: #8D4801;
+  stroke-opacity: 1;
+  stroke-width: 1;
+  -webkit-animation: all 0.2s ease;
+          animation: all 0.2s ease;
+}
+svg .land:hover {
+  fill: #ffc318;
+  fill-opacity: 1;
+  stroke: #fffa2a;
+  stroke-opacity: 1;
+  stroke-width: 1;
+  -webkit-animation: all 0.2s ease;
+          animation: all 0.2s ease;
+}
+svg .land2 {
+  fill: #6d4800;
+  fill-opacity: 1;
+  stroke: white;
+  stroke-opacity: 1;
+  stroke-width: 0.5;
+}
+svg .land2:hover {
+  fill: #b98800;
+  fill-opacity: 1;
+  stroke: white;
+  stroke-opacity: 1;
+  stroke-width: 0.5;
+}
+svg .path {
+  stroke-width: 1;
+  stroke-dasharray: 300px;
+  stroke-dashoffset: 200px;
+  -webkit-animation: draw 8s linear infinite;
+          animation: draw 8s linear infinite;
+  stroke: #be9114;
+}
+svg .path2 {
+  stroke-width: 1;
+  stroke-dasharray: 300px;
+  stroke-dashoffset: 300px;
+  -webkit-animation: draw 12s linear infinite;
+          animation: draw 12s linear infinite;
+  stroke: #be9114;
+}
+svg .mappoint {
+  stroke: #fffad4;
+  fill: #1d1e22;
+}
+
+@-webkit-keyframes bounce {
+  from {
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+  to {
+    -webkit-transform: translateY(-10px);
+            transform: translateY(-10px);
+  }
+}
+
+@keyframes bounce {
+  from {
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+  to {
+    -webkit-transform: translateY(-10px);
+            transform: translateY(-10px);
+  }
+}
+@-webkit-keyframes draw {
+  to {
+    stroke-dashoffset: 2000;
+  }
+}
+@keyframes draw {
+  to {
+    stroke-dashoffset: 2000;
+  }
+}
 /* 1. ========== Main Template Settings ========== */
 /* 1.1. ========== Base Settings ========== */
 *, *::after, *::before {
