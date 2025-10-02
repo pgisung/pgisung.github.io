@@ -2596,6 +2596,7 @@ div[id*=panorama] {
   font-weight: 700;
   cursor: pointer;
   border: none;
+  color: #000000;
   background-color: rgba(255, 255, 255, 0);
 }
 .comments-area .comments-list .comment-wrapper .comment .reply-btn:hover {

@@ -474,6 +474,7 @@ div[id*="panorama"] {
           font-weight: 700;
           cursor: pointer;
           border: none;
+          color: variables.$black;
           background-color: rgba(255, 255, 255, 0);
           &:hover {
             animation: awkward 1s 0s ease-out both;
