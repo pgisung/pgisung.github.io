@@ -1,6 +1,10 @@
 async function initCountryClick() {
+  const svg = document.querySelector('svg');
   const response = await fetch('/assets/search.json');
   const posts = await response.json();
+
+  // 지도 없으면 실행할 필요 없음
+  if (!svg) return;
 
   // flag → post 매핑 생성 (중복 제거)
   const flagToCategory = {};
@@ -29,27 +33,33 @@ async function initCountryClick() {
   tooltip.style.opacity = 0;
   document.body.appendChild(tooltip);
 
-  // SVG 이벤트 delegation
-  const svg = document.querySelector('svg');
+  // 연결된 국가들만 하이라이트
+  Object.keys(flagToCategory).forEach(code => {
+    const paths = svg.querySelectorAll(`path[id="${code.toUpperCase()}"], path[id="${code.toLowerCase()}"]`);
+    
+    paths.forEach(path => {
+      if (path.classList.contains('land2')) {
+        path.classList.add('highlight');
+      }
+    });
+  });
+  
+  // SVG 이벤트 delegation - 전체 국가 다 보이는게 더 좋아보여서 필터링 뺌
   svg.addEventListener('mousemove', e => {
     const target = e.target;
-    if (target.tagName.toLowerCase() !== 'path') {
-      tooltip.style.opacity = 0;
-      return;
-    }
+    // if (target.tagName.toLowerCase() !== 'path') {
+    //   tooltip.style.opacity = 0;
+    //   return;
+    // }
 
-    const countryCode = target.id.toLowerCase();
-    if (!flagToCategory[countryCode]) {
-      tooltip.style.opacity = 0;
-      return;
-    }
-
-    // hover highlight
-    target.style.fill = 'rgba(0, 158, 220, 0.3)';
+    // const countryCode = target.id.toLowerCase();
+    // if (!flagToCategory[countryCode]) {
+    //   tooltip.style.opacity = 0;
+    //   return;
+    // }
 
     // tooltip 표시
-    tooltip.textContent = flagToCategory[countryCode];
-    // tooltip.textContent = countryCode.toUpperCase();
+    tooltip.textContent = target.getAttribute('title');
     tooltip.style.left = e.pageX + 10 + 'px';
     tooltip.style.top = e.pageY + 10 + 'px';
     tooltip.style.opacity = 1;

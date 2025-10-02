@@ -631,6 +631,9 @@ svg .mappoint {
   stroke: #fffad4;
   fill: #1d1e22;
 }
+svg .highlight {
+  fill: rgb(0, 158, 220);
+}
 
 @-webkit-keyframes bounce {
   from {
