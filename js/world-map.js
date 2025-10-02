@@ -58,6 +58,11 @@ async function initCountryClick() {
     //   return;
     // }
 
+    if (!target.getAttribute('title')) {
+      tooltip.style.opacity = 0;
+      return;
+    }
+
     // tooltip 표시
     tooltip.textContent = target.getAttribute('title');
     tooltip.style.left = e.pageX + 10 + 'px';
