@@ -82,7 +82,7 @@ description: 2013.12.18 말레이시아 겔랑 파타에서 폰티안까지 이�
 
 ### 원더풀 호텔
 바다가 보여서 신나는 마음에 도착하자마자 근처의 호텔에 들어가 바로 체크인했다.
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d498.56128387481016!2d103.38821317644421!3d1.4783600683727665!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31d0a29ddd434639%3A0xa1e6a72684455567!2zR0YgV29uZGVyZnVsIEhvdGVsIOS4h-W-l-emj-aXheW6lw!5e0!3m2!1sko!2sec!4v1757605655062!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d498.56128387481016!2d103.38821317644421!3d1.4783600683727665!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31d0a29ddd434639%3A0xa1e6a72684455567!2zR0YgV29uZGVyZnVsIEhvdGVsIOS4h-W-l-emj-aXheW6lw!5e0!3m2!1sko!2sec!4v1757605655062!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 ### 알리프 식당
@@ -103,7 +103,7 @@ description: 2013.12.18 말레이시아 겔랑 파타에서 폰티안까지 이�
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d498.5614230154208!2d103.38727835565808!3d1.477740349075919!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31d0a29e78111ced%3A0x2a8f9f7d0f7fb0f8!2z7Y-w7Yuw7JWIIOy8gOyLpCDtjIztgawsIO2PsO2LsOyViCwgSm9ob3JlLg!5e0!3m2!1sko!2sec!4v1757605688750!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d498.5614230154208!2d103.38727835565808!3d1.477740349075919!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31d0a29e78111ced%3A0x2a8f9f7d0f7fb0f8!2z7Y-w7Yuw7JWIIOy8gOyLpCDtjIztgawsIO2PsO2LsOyViCwgSm9ob3JlLg!5e0!3m2!1sko!2sec!4v1757605688750!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 음... <span style="color: indianred">**조금만 뒤로 가서 찍어도 사진이 훨씬 나을 텐데**</span> 그때의 나에게 조언해 주고 싶다. (<span style="color: #8D4801">**물론 지금도 엄청 잘 찍는 것은 아니지만**</span>)
@@ -127,14 +127,14 @@ description: 2013.12.18 말레이시아 겔랑 파타에서 폰티안까지 이�
 치안이 안 좋아서 그런 건지는 몰라도 말레이시아에서 방문하는 편의점마다 <span style="color: #8D4801">**항상 세 명 이상의 직원이 상주**</span>하는 것을 볼 수 있었다.
 
 배가 매우 고팠는데 마침 눈에 띄는 것이 <span style="color: indianred">**말레이시아 고유의 누들 컵이어서 4종류를 전부 구매**</span>한 후에 친구와 종류별로 시식하고 있는데 편의점 직원들이 우리가 신기한지 말을 걸어와서 수다 좀 떨다가 숙소로 돌아가 휴식을 취했다. 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d498.56127928345614!2d103.38824480968881!3d1.4783805134088168!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31d0a3a03e997283%3A0xc69a1a7804b5e3f5!2s7CAF%C3%A9%20by%207-Eleven%20Pontian%20Baru%20(%23668)!5e0!3m2!1sko!2sec!4v1757605716436!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d498.56127928345614!2d103.38824480968881!3d1.4783805134088168!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31d0a3a03e997283%3A0xc69a1a7804b5e3f5!2s7CAF%C3%A9%20by%207-Eleven%20Pontian%20Baru%20(%23668)!5e0!3m2!1sko!2sec!4v1757605716436!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 ---
 
 ## 여행 경로
 추정 주행 거리 : 약 <span style="color: indianred">**35km**</span>
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d127633.35937186616!2d103.36434357148434!3d1.4490078761867007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x31da0b1b56bb64f9%3A0x76999331119cf420!2zSG90ZWwgT3JpZW50LCA1LCBKYWxhbiBNZWRhbiBOdXNhIFBlcmludGlzIDcsIFRhbWFuIE51c2EgUGVyaW50aXMgMiwgODE1NTAgR2VsYW5nIFBhdGFoLCBKb2hvciwg66eQ66CI7J207Iuc7JWE!3m2!1d1.4504184999999998!2d103.59591449999999!4m5!1s0x31d0a29ddd434639%3A0xa1e6a72684455567!2zR0YgV29uZGVyZnVsIEhvdGVsIOS4h-W-l-emj-aXheW6lw!3m2!1d1.47836!2d103.3884168!5e0!3m2!1sko!2sec!4v1757605579942!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d127633.35937186616!2d103.36434357148434!3d1.4490078761867007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x31da0b1b56bb64f9%3A0x76999331119cf420!2zSG90ZWwgT3JpZW50LCA1LCBKYWxhbiBNZWRhbiBOdXNhIFBlcmludGlzIDcsIFRhbWFuIE51c2EgUGVyaW50aXMgMiwgODE1NTAgR2VsYW5nIFBhdGFoLCBKb2hvciwg66eQ66CI7J207Iuc7JWE!3m2!1d1.4504184999999998!2d103.59591449999999!4m5!1s0x31d0a29ddd434639%3A0xa1e6a72684455567!2zR0YgV29uZGVyZnVsIEhvdGVsIOS4h-W-l-emj-aXheW6lw!3m2!1d1.47836!2d103.3884168!5e0!3m2!1sko!2sec!4v1757605579942!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 ---

@@ -69,7 +69,7 @@ description: 2024.04.06 한국에서 라오스 비엔티안까지 이동기
 ## 국내 이동
 ### 천안아산역
 부산에 사는 친구가 일단 <span style="color: #8D4801">**KTX를 통해 올라와서**</span> 먼저 만나고 <span style="color: indianred">**서울에서 사는 친구는 공항**</span>에서 만나기로 했다.
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3194.997634921248!2d127.10456079999999!3d36.7946071!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ad81332a96935%3A0xe9dff7d1c8fb4f1f!2z7LKc7JWI7JWE7IKw!5e0!3m2!1sko!2sec!4v1757648879582!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3194.997634921248!2d127.10456079999999!3d36.7946071!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ad81332a96935%3A0xe9dff7d1c8fb4f1f!2z7LKc7JWI7JWE7IKw!5e0!3m2!1sko!2sec!4v1757648879582!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 설레는 맘으로 <span style="color: #8D4801">**인천대교**</span> 건너는 중
@@ -85,7 +85,7 @@ description: 2024.04.06 한국에서 라오스 비엔티안까지 이동기
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3167.087073312334!2d126.44196790000002!3d37.45866600000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357b9a833a5efa59%3A0x8d4ba096cb5cbed4!2z7J247LKc6rWt7KCc6rO17ZWt!5e0!3m2!1sko!2sec!4v1757648969059!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3167.087073312334!2d126.44196790000002!3d37.45866600000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357b9a833a5efa59%3A0x8d4ba096cb5cbed4!2z7J247LKc6rWt7KCc6rO17ZWt!5e0!3m2!1sko!2sec!4v1757648969059!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 약 5시간에 가까운 비행이라서 든든하게 <span style="color: indianred">**에그드랍에서 샌드위치**</span>로 배를 채웠다.
@@ -128,7 +128,7 @@ description: 2024.04.06 한국에서 라오스 비엔티안까지 이동기
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30358.42454852179!2d102.54672251197815!3d17.987896911190408!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312469b9e9408103%3A0x2437295adc2faacd!2sWattay%20International%20Airport!5e0!3m2!1sko!2sec!4v1757649022280!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30358.42454852179!2d102.54672251197815!3d17.987896911190408!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312469b9e9408103%3A0x2437295adc2faacd!2sWattay%20International%20Airport!5e0!3m2!1sko!2sec!4v1757649022280!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 ### 더 기프타운 숙소
@@ -139,7 +139,7 @@ description: 2024.04.06 한국에서 라오스 비엔티안까지 이동기
 
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d474.4087485529327!2d102.60503700730125!3d17.966171619502653!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312469e3c6880ae3%3A0x8a7022cf28e4a57b!2sThe%20Giftown%20Vientiane%2C%20Haysoke!5e0!3m2!1sko!2sec!4v1757649100522!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d474.4087485529327!2d102.60503700730125!3d17.966171619502653!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312469e3c6880ae3%3A0x8a7022cf28e4a57b!2sThe%20Giftown%20Vientiane%2C%20Haysoke!5e0!3m2!1sko!2sec!4v1757649100522!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 님들 찍는 건데 왜 숨어있으세요? <span style="color: indianred">**하하하**</span>
@@ -159,7 +159,7 @@ description: 2024.04.06 한국에서 라오스 비엔티안까지 이동기
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d237.20483530080492!2d102.60458589999999!3d17.9658282!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31246900965a790d%3A0x513ee91a6861e515!2sManu%20Restaurant!5e0!3m2!1sko!2sec!4v1757649475472!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d237.20483530080492!2d102.60458589999999!3d17.9658282!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31246900965a790d%3A0x513ee91a6861e515!2sManu%20Restaurant!5e0!3m2!1sko!2sec!4v1757649475472!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 ### 편의점 야식 구매
@@ -169,7 +169,7 @@ description: 2024.04.06 한국에서 라오스 비엔티안까지 이동기
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d237.20484737727608!2d102.60474722832444!3d17.96581920408652!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31246900123f5199%3A0x2cb2e07b22e48a22!2sMini%20Big%20C!5e0!3m2!1sko!2sec!4v1757649510640!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d237.20484737727608!2d102.60474722832444!3d17.96581920408652!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31246900123f5199%3A0x2cb2e07b22e48a22!2sMini%20Big%20C!5e0!3m2!1sko!2sec!4v1757649510640!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 왜 핸드폰을 그렇게 목까지 꺾어서 보고 계신 걸까요?
@@ -187,7 +187,7 @@ description: 2024.04.06 한국에서 라오스 비엔티안까지 이동기
 ---
 
 ## 여행 경로
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m40!1m12!1m3!1d1764.4309160194339!2d102.60373448599022!3d17.966124597311264!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m25!3e2!4m5!1s0x312469b9e9408103%3A0x2437295adc2faacd!2zWEhRNys1NTMgV2F0dGF5IEludGVybmF0aW9uYWwgQWlycG9ydCwgVmllbnRpYW5lLCDrnbzsmKTsiqQ!3m2!1d17.9878947!2d102.5629101!4m5!1s0x312469e3c6880ae3%3A0x8a7022cf28e4a57b!2zVGhlIEdpZnRvd24gVmllbnRpYW5lLCBIYXlzb2tlLCBTZXR0aGF0aGlyYXRoIFJkLCDruYTsl5Tti7DslYgg65287Jik7Iqk!3m2!1d17.9661716!2d102.6051931!4m5!1s0x31246900965a790d%3A0x513ee91a6861e515!2zTWFudSBSZXN0YXVyYW50LCDruYTsl5Tti7DslYgg65287Jik7Iqk!3m2!1d17.965654!2d102.6044929!4m5!1s0x31246900123f5199%3A0x2cb2e07b22e48a22!2sMini%20Big%20C!3m2!1d17.9658192!2d102.604884!5e0!3m2!1sko!2sec!4v1757650252242!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m40!1m12!1m3!1d1764.4309160194339!2d102.60373448599022!3d17.966124597311264!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m25!3e2!4m5!1s0x312469b9e9408103%3A0x2437295adc2faacd!2zWEhRNys1NTMgV2F0dGF5IEludGVybmF0aW9uYWwgQWlycG9ydCwgVmllbnRpYW5lLCDrnbzsmKTsiqQ!3m2!1d17.9878947!2d102.5629101!4m5!1s0x312469e3c6880ae3%3A0x8a7022cf28e4a57b!2zVGhlIEdpZnRvd24gVmllbnRpYW5lLCBIYXlzb2tlLCBTZXR0aGF0aGlyYXRoIFJkLCDruYTsl5Tti7DslYgg65287Jik7Iqk!3m2!1d17.9661716!2d102.6051931!4m5!1s0x31246900965a790d%3A0x513ee91a6861e515!2zTWFudSBSZXN0YXVyYW50LCDruYTsl5Tti7DslYgg65287Jik7Iqk!3m2!1d17.965654!2d102.6044929!4m5!1s0x31246900123f5199%3A0x2cb2e07b22e48a22!2sMini%20Big%20C!3m2!1d17.9658192!2d102.604884!5e0!3m2!1sko!2sec!4v1757650252242!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 ---

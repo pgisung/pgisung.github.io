@@ -39,7 +39,7 @@ description: 2025.08.16 살랑고 섬 투어 이야기
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d997.0840823234295!2d-80.8156441!3d-1.5616988999999948!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902e9f0a2c869adb%3A0xf2b9eef3176fc60a!2sMercado%20de%20Pescado%20Fresco!5e0!3m2!1sko!2sec!4v1755830988858!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d997.0840823234295!2d-80.8156441!3d-1.5616988999999948!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902e9f0a2c869adb%3A0xf2b9eef3176fc60a!2sMercado%20de%20Pescado%20Fresco!5e0!3m2!1sko!2sec!4v1755830988858!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 어부들이 옮기다가 <span style="color: #8D4801">**떨어뜨린 물고기를 주워 먹는 군함조**</span>. 뒤에 상황은 촬영하지 않았지만, 무리에서 조금 더 강해 보이는 군함조가 이 새를 쫓아내고 생선을 점유했다.
@@ -96,7 +96,7 @@ description: 2025.08.16 살랑고 섬 투어 이야기
 
 ## 살랑고 섬 투어
 투어 회사가 숙소에서 그리 멀지 않아서 10분 전인 <span style="color: #8D4801">**8시 50분쯤 예약한 투어 회사로 이동**</span>했다. 먼저 도착해서 대기 중인 일행들이 몇몇 그룹 보였고 간단한 금일 투어 브리핑을 마치고 9시 15분쯤 다 같이 부두로 이동을 시작했다.
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d997.0851755680017!2d-80.81300643194653!3d-1.5593929674134581!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902e9fe8871268e7%3A0xcbc625a91e5bfc22!2sFRAGATA%20XTREME%20(Subwing)!5e0!3m2!1sko!2sec!4v1755788534522!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d997.0851755680017!2d-80.81300643194653!3d-1.5593929674134581!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902e9fe8871268e7%3A0xcbc625a91e5bfc22!2sFRAGATA%20XTREME%20(Subwing)!5e0!3m2!1sko!2sec!4v1755788534522!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 부두에서 승선 대기 중
@@ -183,12 +183,12 @@ description: 2025.08.16 살랑고 섬 투어 이야기
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7976.554991334194!2d-80.8728910372913!3d-1.5923981350624137!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902e9d0018bf143b%3A0x41672f3d44c60d6c!2sObservaci%C3%B3n%20de%20lobos%20marinos!5e0!3m2!1sko!2sec!4v1755901882447!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7976.554991334194!2d-80.8728910372913!3d-1.5923981350624137!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902e9d0018bf143b%3A0x41672f3d44c60d6c!2sObservaci%C3%B3n%20de%20lobos%20marinos!5e0!3m2!1sko!2sec!4v1755901882447!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 ### 짧지만 Chill 했던 스노클링 시간
 마지막으로 <span style="color: #8D4801">**스노클링 포인트로 이동하며 간단한 빵과 콜라**</span>를 주셨다. 밖에 있을 때는 아직 춥지 않았던 것 같은데, <span style="color: #8D4801">**물에 들어가자마자 차가운 수온을 체감**</span>할 수 있었다. 구명조끼 벗고 조금이라도 물놀이하고 싶었는데 몸이 너무 추우니까 근육이 다 굳은 기분이어서 바로 보트에 올랐다. 무엇보다 물속이 아름다우면 조금이라도 나았을 것 같은데, <span style="color: indianred">**흐리고 물고기도 많이 안 보여서**</span> 아쉬웠다.
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7976.542791884246!2d-80.87077170610428!3d-1.5955471705488762!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902e9d3f23c59737%3A0x586d4ed02f9deee3!2sSalango%20Island%20Beach!5e0!3m2!1sko!2sec!4v1755902146609!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7976.542791884246!2d-80.87077170610428!3d-1.5955471705488762!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902e9d3f23c59737%3A0x586d4ed02f9deee3!2sSalango%20Island%20Beach!5e0!3m2!1sko!2sec!4v1755902146609!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 ---
@@ -206,7 +206,7 @@ description: 2025.08.16 살랑고 섬 투어 이야기
 
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d249.27119196801394!2d-80.81402186304335!3d-1.5602533008840351!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902e9fa44ef6877b%3A0x8544782637927b66!2sLa%20Cabana%20D&#39;Chuky!5e0!3m2!1sko!2sec!4v1755836125299!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d249.27119196801394!2d-80.81402186304335!3d-1.5602533008840351!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902e9fa44ef6877b%3A0x8544782637927b66!2sLa%20Cabana%20D&#39;Chuky!5e0!3m2!1sko!2sec!4v1755836125299!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 점심 식사를 마친 후 <span style="color: #8D4801">**낮잠 시간**</span>을 가지기로 하고 <span style="color: #8D4801">**발코니에 앉아 에어팟 꽂고 바다와 사람 구경**</span>을 하는데 정말 시간이 가는 줄 몰랐던 것 같다.
@@ -223,7 +223,7 @@ description: 2025.08.16 살랑고 섬 투어 이야기
 
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d498.5421549393736!2d-80.81469744443892!3d-1.5612192082110459!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902e9e1f170ea4ab%3A0x4ba38ee45c0e580!2sRestaurant%20Romance%20Marino!5e0!3m2!1sko!2sec!4v1755789625007!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d498.5421549393736!2d-80.81469744443892!3d-1.5612192082110459!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902e9e1f170ea4ab%3A0x4ba38ee45c0e580!2sRestaurant%20Romance%20Marino!5e0!3m2!1sko!2sec!4v1755789625007!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 식당 주인 분의 <span style="color: #8D4801">**따님으로 보이는 아이**</span>가 아시안인 <span style="color: #8D4801">**우리가 신기한지**</span> 식사가 끝난 우리 테이블에 말을 걸어왔다. 영어, 스페인어로 색깔 맞추기 놀이도 하고 너무 <span style="color: #8D4801">**귀여운 아이**</span>였다.
@@ -237,7 +237,7 @@ description: 2025.08.16 살랑고 섬 투어 이야기
 ---
 
 ## 여행 경로
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d3988.338530687649!2d-80.81501324999999!3d-1.5605384999999967!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e2!4m5!1s0x902e9f3524423219%3A0xa7fdda1621f08bc6!2sC5QP%2BC4P%20Coffee%20One%20Dolar%2C%20Mal.%20Julio%20Izurieta%2C%20Puerto%20L%C3%B3pez!3m2!1d-1.5614697!2d-80.8147219!4m5!1s0x902e9f0a2c869adb%3A0xf2b9eef3176fc60a!2sMercado%20de%20Pescado%20Fresco%2C%20Puerto%20Lopez!3m2!1d-1.5617009!2d-80.8156473!4m5!1s0x902e9fe8871268e7%3A0xcbc625a91e5bfc22!2sFRAGATA%20XTREME%20(Subwing)%2C%20Puerto%20Lopez!3m2!1d-1.5592884!2d-80.8127248!4m5!1s0x902e9f00545654e5%3A0x87f42cec0aa40f97!2sMuelle%20de%20Puerto%20Lopez!3m2!1d-1.5609933!2d-80.8174011!4m5!1s0x902e9fa44ef6877b%3A0x8544782637927b66!2sLa%20Cabana%20D&#39;Chuky%2C%20Malecon%20Julio%20Izurieta%2C%20Puerto%20Lopez!3m2!1d-1.5602532999999998!2d-80.81388489999999!4m5!1s0x902e9e1f170ea4ab%3A0x4ba38ee45c0e580!2sRestaurant%20Romance%20Marino%2C%20Malecon%20Julio%20Izurieta%2C%20Puerto%20Lopez!3m2!1d-1.561219!2d-80.8144239!5e0!3m2!1sko!2sec!4v1757351434909!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d3988.338530687649!2d-80.81501324999999!3d-1.5605384999999967!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e2!4m5!1s0x902e9f3524423219%3A0xa7fdda1621f08bc6!2sC5QP%2BC4P%20Coffee%20One%20Dolar%2C%20Mal.%20Julio%20Izurieta%2C%20Puerto%20L%C3%B3pez!3m2!1d-1.5614697!2d-80.8147219!4m5!1s0x902e9f0a2c869adb%3A0xf2b9eef3176fc60a!2sMercado%20de%20Pescado%20Fresco%2C%20Puerto%20Lopez!3m2!1d-1.5617009!2d-80.8156473!4m5!1s0x902e9fe8871268e7%3A0xcbc625a91e5bfc22!2sFRAGATA%20XTREME%20(Subwing)%2C%20Puerto%20Lopez!3m2!1d-1.5592884!2d-80.8127248!4m5!1s0x902e9f00545654e5%3A0x87f42cec0aa40f97!2sMuelle%20de%20Puerto%20Lopez!3m2!1d-1.5609933!2d-80.8174011!4m5!1s0x902e9fa44ef6877b%3A0x8544782637927b66!2sLa%20Cabana%20D&#39;Chuky%2C%20Malecon%20Julio%20Izurieta%2C%20Puerto%20Lopez!3m2!1d-1.5602532999999998!2d-80.81388489999999!4m5!1s0x902e9e1f170ea4ab%3A0x4ba38ee45c0e580!2sRestaurant%20Romance%20Marino%2C%20Malecon%20Julio%20Izurieta%2C%20Puerto%20Lopez!3m2!1d-1.561219!2d-80.8144239!5e0!3m2!1sko!2sec!4v1757351434909!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 ---

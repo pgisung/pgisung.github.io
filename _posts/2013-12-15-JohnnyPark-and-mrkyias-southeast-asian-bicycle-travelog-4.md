@@ -50,7 +50,7 @@ description: 2013.12.15 싱가포르 3일 차 여행기
 <br>
 
 예약해 둔 식당을 찾는데 유명한 레스토랑이라 그런지 바로 눈에 띄어서 금방 찾아 들어갔다.
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.809746365909!2d103.84355632988581!3d1.2883210371296918!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1975553e3fe5%3A0xdbda8b3e22b39132!2z7KCQ67O0IOyLnO2RuOuTnCAtIOumrOuyhOyCrOydtOuTnCDtj6zsnbjtirg!5e0!3m2!1sko!2sec!4v1755207344235!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.809746365909!2d103.84355632988581!3d1.2883210371296918!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1975553e3fe5%3A0xdbda8b3e22b39132!2z7KCQ67O0IOyLnO2RuOuTnCAtIOumrOuyhOyCrOydtOuTnCDtj6zsnbjtirg!5e0!3m2!1sko!2sec!4v1755207344235!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 <span style="color: indianred">**예약석을 알아봤더니 사실은 우리가 예약한 곳은 이스트사이드 지점이었고, 이곳은 리버사이드 지점이라 예약이 된 게 아니었으나,**</span> 직원이 친절하게 일 처리를 해줘서 <span style="color: #8D4801">**1시간 후에 예약 손님이 들어오는 자리**</span>에 앉아 식사할 수 있었다.
 
@@ -102,7 +102,7 @@ description: 2013.12.15 싱가포르 3일 차 여행기
 <br>
 
 점보 레스토랑 바로 옆에는 <span style="color: #8D4801">**Brewerkz라는 맥주 판매점이 있었는데, 세계적인 맥주 성지**</span>로도 유명하다고 하여 들어가 보았다.
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1994.4038753200562!2d103.8440046!3d1.2895951000000083!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19195b7af921%3A0x1dbe7c851eb8cc7!2sBrewerkz%20Riverside%20Point!5e0!3m2!1sko!2sec!4v1755210150541!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1994.4038753200562!2d103.8440046!3d1.2895951000000083!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19195b7af921%3A0x1dbe7c851eb8cc7!2sBrewerkz%20Riverside%20Point!5e0!3m2!1sko!2sec!4v1755210150541!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 응? 앞뒤로 맥주를 들고 계시네
 <div class="image-slider-auto">
@@ -176,7 +176,7 @@ description: 2013.12.15 싱가포르 3일 차 여행기
 ---
 
 ## 여행 경로
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m40!1m12!1m3!1d15955.146504723021!2d103.85144890000001!3d1.3030045000000055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m25!3e0!4m5!1s0x31da19cef14217db%3A0xa940c6966b2d5cf1!2zTGF2ZW5kZXIgU3RyZWV0LCBHcmVlbiBLaXdpIEJhY2twYWNrZXIgSG9zdGVsLCDsi7HqsIDtj6zrpbQ!3m2!1d1.3143083!2d103.8603667!4m5!1s0x31da19c59d456bc7%3A0xd91e374a1469abbb!2zVGVzc2Vuc29obiBSb2FkLCBIZWFwIEhvbmcgJiBDbywg7Iux6rCA7Y-s66W0!3m2!1d1.314558!2d103.8562511!4m5!1s0x31da1975553e3fe5%3A0xdbda8b3e22b39132!2z7Iux6rCA7Y-s66W0IE1lcmNoYW50IFJvYWQsIOumrOuyhOyCrOydtOuTnCDtj6zsnbjtirgg7KCQ67O0IOyLnO2RuOuTnCAtIOumrOuyhOyCrOydtOuTnCDtj6zsnbjtirg!3m2!1d1.2889217!2d103.84466139999999!4m5!1s0x31da19195b7af921%3A0x1dbe7c851eb8cc7!2zTWVyY2hhbnQgUm9hZCwgQnJld2Vya3ogUml2ZXJzaWRlIFBvaW50LCDrpqzrsoTsgqzsnbTrk5wg7Y-s7J247Yq4IOyLseqwgO2PrOultA!3m2!1d1.2895950999999999!2d103.84400459999999!5e0!3m2!1sko!2sec!4v1757353823067!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m40!1m12!1m3!1d15955.146504723021!2d103.85144890000001!3d1.3030045000000055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m25!3e0!4m5!1s0x31da19cef14217db%3A0xa940c6966b2d5cf1!2zTGF2ZW5kZXIgU3RyZWV0LCBHcmVlbiBLaXdpIEJhY2twYWNrZXIgSG9zdGVsLCDsi7HqsIDtj6zrpbQ!3m2!1d1.3143083!2d103.8603667!4m5!1s0x31da19c59d456bc7%3A0xd91e374a1469abbb!2zVGVzc2Vuc29obiBSb2FkLCBIZWFwIEhvbmcgJiBDbywg7Iux6rCA7Y-s66W0!3m2!1d1.314558!2d103.8562511!4m5!1s0x31da1975553e3fe5%3A0xdbda8b3e22b39132!2z7Iux6rCA7Y-s66W0IE1lcmNoYW50IFJvYWQsIOumrOuyhOyCrOydtOuTnCDtj6zsnbjtirgg7KCQ67O0IOyLnO2RuOuTnCAtIOumrOuyhOyCrOydtOuTnCDtj6zsnbjtirg!3m2!1d1.2889217!2d103.84466139999999!4m5!1s0x31da19195b7af921%3A0x1dbe7c851eb8cc7!2zTWVyY2hhbnQgUm9hZCwgQnJld2Vya3ogUml2ZXJzaWRlIFBvaW50LCDrpqzrsoTsgqzsnbTrk5wg7Y-s7J247Yq4IOyLseqwgO2PrOultA!3m2!1d1.2895950999999999!2d103.84400459999999!5e0!3m2!1sko!2sec!4v1757353823067!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 ---
@@ -211,7 +211,8 @@ window.panoramas = [
         compass: true,
         title: "Clarke Quay view",
         author: "Hagyun Kim",
-        showZoomCtrl: true
+        showZoomCtrl: true,
+        hfov: 120
       }
     }
   ];

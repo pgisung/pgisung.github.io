@@ -2316,6 +2316,12 @@ a {
   margin-bottom: 40px;
 }
 
+iframe {
+  display: block;
+  margin: 0 auto;
+  border-radius: 14px;
+}
+
 iframe[src*=google],
 div[id*=panorama] {
   border: 1px solid #8D4801;
@@ -3443,6 +3449,8 @@ div[id*=panorama] {
 }
 
 .skeleton-wrapper.iframe {
+  display: block;
+  margin: 0 auto;
   width: 80%;
   max-width: 1080px;
   aspect-ratio: 4/3;

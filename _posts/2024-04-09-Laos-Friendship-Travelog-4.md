@@ -44,7 +44,7 @@ description: 2024.04.09 루앙 프라방에서 탁발 행렬 관람 및 물의 �
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d468.9756527258171!2d102.13500441152458!3d19.89044495152468!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312f2a6b010a5541%3A0x6814a3460ad3cd10!2z66Oo7JWZ7ZSE652867CpIOyVvOyLnOyepSjrqr3sobEg7JW87Iuc7J6lKQ!5e0!3m2!1sko!2sec!4v1758064547614!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d468.9756527258171!2d102.13500441152458!3d19.89044495152468!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312f2a6b010a5541%3A0x6814a3460ad3cd10!2z66Oo7JWZ7ZSE652867CpIOyVvOyLnOyepSjrqr3sobEg7JW87Iuc7J6lKQ!5e0!3m2!1sko!2sec!4v1758064547614!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 또한 근래에 소문이 나서 탁발 행렬을 관람하기 위한 관광객들이 많이들 방문하셔서 그런지 <span style="color: #8D4801">**탁발 의식에 사용되는 공물들을 판매하는 행상인들**</span>이 매우 많았다.
@@ -97,7 +97,7 @@ description: 2024.04.09 루앙 프라방에서 탁발 행렬 관람 및 물의 �
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1875.8994065280085!2d102.13281174833581!3d19.89071545740549!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312f2a69f59caddb%3A0xda33a54a76694f08!2z66Oo7JWZ7YyM67CpIOyDiOuyveyLnOyepQ!5e0!3m2!1sko!2sec!4v1758064566932!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1875.8994065280085!2d102.13281174833581!3d19.89071545740549!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312f2a69f59caddb%3A0xda33a54a76694f08!2z66Oo7JWZ7YyM67CpIOyDiOuyveyLnOyepQ!5e0!3m2!1sko!2sec!4v1758064566932!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 늘 전통 시장을 방문하면 설령 무언가를 구매하지 않아도 <span style="color: #8D4801">**그 나라 사람들의 실제 생활상**</span>을 엿볼 수 있어서 너무 <span style="color: indianred">**유익하다**</span>는 생각이 든다. (모아놓은 개구리는 징그럽긴 하다)
@@ -168,7 +168,7 @@ description: 2024.04.09 루앙 프라방에서 탁발 행렬 관람 및 물의 �
 
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d469.04302944094826!2d102.21582675778478!3d19.867681163751662!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312f290057e6cfe1%3A0xd0f85bd58a84a060!2sRestaurants%20front%20of%20Luang%20Prabang%20Railway%20Station!5e0!3m2!1sko!2sec!4v1758079721448!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d469.04302944094826!2d102.21582675778478!3d19.867681163751662!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312f290057e6cfe1%3A0xd0f85bd58a84a060!2sRestaurants%20front%20of%20Luang%20Prabang%20Railway%20Station!5e0!3m2!1sko!2sec!4v1758079721448!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 ### 루앙 프라방 고속철도역
@@ -178,7 +178,7 @@ description: 2024.04.09 루앙 프라방에서 탁발 행렬 관람 및 물의 �
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3752.346229671646!2d102.2139883!3d19.867596900000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312f29d7213e8b31%3A0x795024773d164563!2z66Oo7JWZ7ZSE652867CpIOqzoOyGjeyyoOuPhOyXrQ!5e0!3m2!1sko!2sec!4v1757705482856!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3752.346229671646!2d102.2139883!3d19.867596900000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312f29d7213e8b31%3A0x795024773d164563!2z66Oo7JWZ7ZSE652867CpIOqzoOyGjeyyoOuPhOyXrQ!5e0!3m2!1sko!2sec!4v1757705482856!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 기차 타고 루앙 프라방을 떠나 물의 도시 방 비엥으로 이동하는 길. <span style="color: indianred">**고즈넉한 라오스의 시골 풍경**</span>을 눈에 담고 있다 보니 금방 방 비엥에 도착했다.
@@ -194,7 +194,7 @@ description: 2024.04.09 루앙 프라방에서 탁발 행렬 관람 및 물의 �
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3773.494266185378!2d102.45537!3d18.9537667!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312593ff85981161%3A0x79d70b4e89c1e5a5!2z67Cp67mE7JelIOq4sOywqOyXrQ!5e0!3m2!1sko!2sec!4v1758064737912!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3773.494266185378!2d102.45537!3d18.9537667!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312593ff85981161%3A0x79d70b4e89c1e5a5!2z67Cp67mE7JelIOq4sOywqOyXrQ!5e0!3m2!1sko!2sec!4v1758064737912!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 역들이 다 똑같이 생겨서 그런지 아니면 사진 찍는 것에 지쳐버린 건지 방 비엥역 기념사진은 <span style="color: indianred">**셀카로 가볍게**</span> 찍고
@@ -221,7 +221,7 @@ description: 2024.04.09 루앙 프라방에서 탁발 행렬 관람 및 물의 �
 
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d447.10795579593497!2d102.44592714315904!3d18.919732017648467!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312593f1289ff9b3%3A0xa6c8c90af1b4f053!2z7L2Y7Y6Y7YuwIOqwgOuToCDtmLjthZQ!5e0!3m2!1sko!2sec!4v1758082139469!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d447.10795579593497!2d102.44592714315904!3d18.919732017648467!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312593f1289ff9b3%3A0xa6c8c90af1b4f053!2z7L2Y7Y6Y7YuwIOqwgOuToCDtmLjthZQ!5e0!3m2!1sko!2sec!4v1758082139469!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 ---
@@ -257,7 +257,7 @@ description: 2024.04.09 루앙 프라방에서 탁발 행렬 관람 및 물의 �
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15692.79613212337!2d102.38392920784682!3d18.919494378564632!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3125eda2df94820b%3A0xe64ae2d4c26c371c!2snamxay%20viewpoint!5e0!3m2!1sko!2sec!4v1758082291302!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15692.79613212337!2d102.38392920784682!3d18.919494378564632!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3125eda2df94820b%3A0xe64ae2d4c26c371c!2snamxay%20viewpoint!5e0!3m2!1sko!2sec!4v1758082291302!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 출발 전 <span style="color: indianred">**아직은 표정이 매우 좋은**</span> 필자
@@ -339,7 +339,7 @@ SNS에서 유명한 전망 반대편에도 <span style="color: #8D4801">**또 �
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15692.79613212337!2d102.38392920784682!3d18.919494378564632!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3125ed08fb9bee9f%3A0x7e1af95489eccabc!2z67iU66Oo65286rWw!5e0!3m2!1sko!2sec!4v1758082308394!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15692.79613212337!2d102.38392920784682!3d18.919494378564632!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3125ed08fb9bee9f%3A0x7e1af95489eccabc!2z67iU66Oo65286rWw!5e0!3m2!1sko!2sec!4v1758082308394!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 <span style="color: indianred">**원래 영업시간이 오후 5시 30분까지**</span> 이기 때문에 <span style="color: indianred">**이미 영업이 종료**</span>된 상태라 <span style="color: indianred">**손님 한 명 없이 고요**</span>했는데, <span style="color: #8D4801">**입장료조차 낼 필요 없이 들어와서**</span> 구명조끼, 튜브를 받아 들고 <span style="color: #8D4801">**물놀이를 시작**</span>했다.
@@ -376,7 +376,7 @@ SNS에서 유명한 전망 반대편에도 <span style="color: #8D4801">**또 �
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d471.778475685138!2d102.445995!3d18.9213082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312593ebdce75d19%3A0x26e9e049d73fca85!2sVang%20Vieng%20Central%20Adventure!5e0!3m2!1sko!2sec!4v1758084674270!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d471.778475685138!2d102.445995!3d18.9213082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312593ebdce75d19%3A0x26e9e049d73fca85!2sVang%20Vieng%20Central%20Adventure!5e0!3m2!1sko!2sec!4v1758084674270!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 그래도 그 와중에 <span style="color: #8D4801">**열려있는 여행사**</span>가 있더라고요. 사실 당장 내일 투어인데 늦은 시각 어렵게 발견한 여행사여서 <span style="color: indianred">**욕심만큼 흥정을 해내지는 못했지만**</span>, 그래도 숙소 연계 여행사나 트래블라오보다는 싼 가격에 예약할 수 있었다.
@@ -392,7 +392,7 @@ SNS에서 유명한 전망 반대편에도 <span style="color: #8D4801">**또 �
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d235.88081376164072!2d102.44923777878284!3d18.927276357677368!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312592c8a135781f%3A0xda05ab1fe759848a!2z67GF7YK566CI7Iqk7Yag656R!5e0!3m2!1sko!2sec!4v1758085342814!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d235.88081376164072!2d102.44923777878284!3d18.927276357677368!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312592c8a135781f%3A0xda05ab1fe759848a!2z67GF7YK566CI7Iqk7Yag656R!5e0!3m2!1sko!2sec!4v1758085342814!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 여행 내내 빠질 수 없는 <span style="color: indianred">**비어라오**</span>. 근데 건배하는 자세가 어색한 게 이십년지기 친구 바이브 맞나요?
@@ -468,7 +468,7 @@ SNS에서 유명한 전망 반대편에도 <span style="color: #8D4801">**또 �
 ---
 
 ## 여행 경로
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d662550.5073321987!2d102.39195557973467!3d19.223206325944496!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e2!4m5!1s0x312f2bd022e00dcf%3A0x2ff11935f5f75bde!2svilla%20BouaThong%20Hotel%202!3m2!1d19.886638299999998!2d102.1366262!4m5!1s0x312f2a6b010a5541%3A0x6814a3460ad3cd10!2z66Oo7JWZ7ZSE652867CpIOyVvOyLnOyepSjrqr3sobEg7JW87Iuc7J6lKQ!3m2!1d19.890445!2d102.13517929999999!4m5!1s0x312f2a69f59caddb%3A0xda33a54a76694f08!2z66Oo7JWZ7YyM67CpIOyDiOuyveyLnOyepQ!3m2!1d19.890715099999998!2d102.1336176!4m5!1s0x312f29d7213e8b31%3A0x795024773d164563!2z66Oo7JWZ7ZSE652867CpIOqzoOyGjeyyoOuPhOyXrQ!3m2!1d19.8675969!2d102.2139883!4m5!1s0x312593ff85981161%3A0x79d70b4e89c1e5a5!2z67Cp67mE7JelIOq4sOywqOyXrQ!3m2!1d18.9530969!2d102.45625439999999!4m5!1s0x312593f1289ff9b3%3A0xa6c8c90af1b4f053!2z7L2Y7Y6Y7YuwIOqwgOuToCDtmLjthZQ!3m2!1d18.919766499999998!2d102.4461761!4m5!1s0x3125eda2df94820b%3A0xe64ae2d4c26c371c!2zTmFtIFhheSBWaWV3cG9pbnQsIE5ha2EsIOudvOyYpOyKpA!3m2!1d18.923599199999998!2d102.3869781!4m5!1s0x3125ed08fb9bee9f%3A0x7e1af95489eccabc!2z65287Jik7IqkIE5ha2EsIOu4lOujqOudvOq1sA!3m2!1d18.9263038!2d102.39545439999999!4m5!1s0x312593ebdce75d19%3A0x26e9e049d73fca85!2zVmFuZyBWaWVuZyBDZW50cmFsIEFkdmVudHVyZSwgS2hlbXNvbmcgUmQsIOuwqeu5hOyXpSDrnbzsmKTsiqQ!3m2!1d18.9213071!2d102.4459358!4m5!1s0x312592c8a135781f%3A0xda05ab1fe759848a!2z67GF7YK566CI7Iqk7Yag656R!3m2!1d18.9272764!2d102.44937449999999!5e0!3m2!1sko!2sec!4v1758085686284!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d662550.5073321987!2d102.39195557973467!3d19.223206325944496!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e2!4m5!1s0x312f2bd022e00dcf%3A0x2ff11935f5f75bde!2svilla%20BouaThong%20Hotel%202!3m2!1d19.886638299999998!2d102.1366262!4m5!1s0x312f2a6b010a5541%3A0x6814a3460ad3cd10!2z66Oo7JWZ7ZSE652867CpIOyVvOyLnOyepSjrqr3sobEg7JW87Iuc7J6lKQ!3m2!1d19.890445!2d102.13517929999999!4m5!1s0x312f2a69f59caddb%3A0xda33a54a76694f08!2z66Oo7JWZ7YyM67CpIOyDiOuyveyLnOyepQ!3m2!1d19.890715099999998!2d102.1336176!4m5!1s0x312f29d7213e8b31%3A0x795024773d164563!2z66Oo7JWZ7ZSE652867CpIOqzoOyGjeyyoOuPhOyXrQ!3m2!1d19.8675969!2d102.2139883!4m5!1s0x312593ff85981161%3A0x79d70b4e89c1e5a5!2z67Cp67mE7JelIOq4sOywqOyXrQ!3m2!1d18.9530969!2d102.45625439999999!4m5!1s0x312593f1289ff9b3%3A0xa6c8c90af1b4f053!2z7L2Y7Y6Y7YuwIOqwgOuToCDtmLjthZQ!3m2!1d18.919766499999998!2d102.4461761!4m5!1s0x3125eda2df94820b%3A0xe64ae2d4c26c371c!2zTmFtIFhheSBWaWV3cG9pbnQsIE5ha2EsIOudvOyYpOyKpA!3m2!1d18.923599199999998!2d102.3869781!4m5!1s0x3125ed08fb9bee9f%3A0x7e1af95489eccabc!2z65287Jik7IqkIE5ha2EsIOu4lOujqOudvOq1sA!3m2!1d18.9263038!2d102.39545439999999!4m5!1s0x312593ebdce75d19%3A0x26e9e049d73fca85!2zVmFuZyBWaWVuZyBDZW50cmFsIEFkdmVudHVyZSwgS2hlbXNvbmcgUmQsIOuwqeu5hOyXpSDrnbzsmKTsiqQ!3m2!1d18.9213071!2d102.4459358!4m5!1s0x312592c8a135781f%3A0xda05ab1fe759848a!2z67GF7YK566CI7Iqk7Yag656R!3m2!1d18.9272764!2d102.44937449999999!5e0!3m2!1sko!2sec!4v1758085686284!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 ---
@@ -505,7 +505,9 @@ window.panoramas = [
         compass: true,
         title: "Namxay viewpoint view",
         author: "Jaeyong Kim",
-        showZoomCtrl: true
+        showZoomCtrl: true,
+        yaw: 60,
+        hfov: 120
       }
     }
   ];

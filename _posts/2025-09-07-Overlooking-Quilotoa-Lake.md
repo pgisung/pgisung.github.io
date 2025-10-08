@@ -36,7 +36,7 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1361.769884688251!2d-78.48206211832948!3d-0.17636891274545957!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a846449b88b%3A0xb5ca75d150fcbb8c!2sQuito%20Tour%20Bus%20%2F%20Bulevar%20Naciones%20Unidas!5e0!3m2!1sko!2sec!4v1757346253476!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1361.769884688251!2d-78.48206211832948!3d-0.17636891274545957!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a846449b88b%3A0xb5ca75d150fcbb8c!2sQuito%20Tour%20Bus%20%2F%20Bulevar%20Naciones%20Unidas!5e0!3m2!1sko!2sec!4v1757346253476!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 어쨌든 <span style="color: indianred">**설레는 맘**</span>으로 킬로토아 호수를 보러 출발하는 길
@@ -64,7 +64,7 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.6532779720224!2d-78.57909768122862!3d-0.5211470628491083!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d5abe4b3ba39b1%3A0x32257dced0efee4!2sChasky%20Kfe%20Restaurante%20-%20Mini%20Market!5e0!3m2!1sko!2sec!4v1757346201906!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.6532779720224!2d-78.57909768122862!3d-0.5211470628491083!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d5abe4b3ba39b1%3A0x32257dced0efee4!2sChasky%20Kfe%20Restaurante%20-%20Mini%20Market!5e0!3m2!1sko!2sec!4v1757346201906!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 다른 승객들은 호텔 조식으로 아침을 이미 먹고 온 터라, 나와 가이드, 기사님만 <span style="color: #8D4801">**아침 식사**</span>를 했다.
@@ -102,7 +102,7 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 새우도 수출한다고 하는데 그래서 부쩍 새우 요리가 잘 보이는구나 싶었다.
 
 또한 에콰도르에는 화산이 총 97개에 활화산이 22개로 화산이 매우 많다는 것을 알았다.
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.5204640779043!2d-78.58859123704833!3d-0.7001113878597516!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d45714d5790457%3A0x9cccf84529e92588!2sRondador%20Cotopaxi!5e0!3m2!1sko!2sec!4v1757346307587!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.5204640779043!2d-78.58859123704833!3d-0.7001113878597516!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d45714d5790457%3A0x9cccf84529e92588!2sRondador%20Cotopaxi!5e0!3m2!1sko!2sec!4v1757346307587!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 ---
@@ -114,7 +114,7 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.3342779957975!2d-78.78374866773686!3d-0.8924977709766415!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d48da9a73aa98b%3A0xacf83a09dec45e9f!2zTGEgQ2FzYSBEZSBEb24gSnVsaWFu4puw77iP!5e0!3m2!1sko!2sec!4v1757346375046!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.3342779957975!2d-78.78374866773686!3d-0.8924977709766415!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d48da9a73aa98b%3A0xacf83a09dec45e9f!2zTGEgQ2FzYSBEZSBEb24gSnVsaWFu4puw77iP!5e0!3m2!1sko!2sec!4v1757346375046!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 열심히 훌리안 아저씨 댁에 대해서 설명하는 가이드. <span style="color: #8D4801">**최근에 낮은 기온으로 인해 집이 피해를 보아서 수리**</span>하셨다고 한다.
@@ -214,7 +214,7 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.268818454162!2d-78.867346!3d-0.9509345999999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d493bae9885995%3A0x3531d86fc18b919d!2sGaleria%20del%20Primer%20Pintor%20de%20Tigua%20%22Julio%20Toaquiza%20Tigasi%22!5e0!3m2!1sko!2sec!4v1757346489099!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.268818454162!2d-78.867346!3d-0.9509345999999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d493bae9885995%3A0x3531d86fc18b919d!2sGaleria%20del%20Primer%20Pintor%20de%20Tigua%20%22Julio%20Toaquiza%20Tigasi%22!5e0!3m2!1sko!2sec!4v1757346489099!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 여행을 마치고 궁금해서 검색해 보았는데 현지 케추아 원주민 공동체에서 시작된 민속 회화 양식인 <span style="color: indianred">**티구아 화풍은 라틴아메리카 민속 예술 분야에서 유명**</span>하다고 한다. <span style="color: #8D4801">**주로 양가죽에 그려지며, 안데스산맥, 마을 생활, 축제, 전설 등을 밝은 색감으로 표현**</span>하는 것이 특징이라고 한다.
@@ -234,7 +234,7 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 <br>
 
 <span style="color: indianred">**화산 폭발 후 붕괴했던 지형에 빙하가 생겼다가 녹으면서**</span> 만들어진 협곡과도 같은 지형이라고 가이드가 설명해 주셨다.
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.2719062487567!2d-78.900335!3d-0.9482589999999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d493250fef4bd7%3A0xdff28fc043e389fc!2sChami%20Wayku!5e0!3m2!1sko!2sec!4v1757346529842!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.2719062487567!2d-78.900335!3d-0.9482589999999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d493250fef4bd7%3A0xdff28fc043e389fc!2sChami%20Wayku!5e0!3m2!1sko!2sec!4v1757346529842!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 <span style="color: #8D4801">**여기서도 다 같이 기념사진**</span> 한 컷
@@ -261,7 +261,7 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.36160094242!2d-78.9162672!3d-0.8669418!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d48a30f1ec3a15%3A0x96246423457b42cf!2sHosteria%20Chukirawa!5e0!3m2!1sko!2sec!4v1757346593917!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.36160094242!2d-78.9162672!3d-0.8669418!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d48a30f1ec3a15%3A0x96246423457b42cf!2sHosteria%20Chukirawa!5e0!3m2!1sko!2sec!4v1757346593917!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 ---
@@ -278,7 +278,7 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 <br>
 
 <span style="color: #8D4801">**구글 지도상으로 본 하이킹 코스**</span>이다. 하지만 <span style="color: indianred">**높은 경사로 인해 길이 지그재그로 되어있고, 발이 푹푹 빠지는 모래로 이루어져 있어서**</span> 안정적으로 걷기가 어려웠다.
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d5242.755384422679!2d-78.91300445809607!3d-0.86521024709723!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x91d4ec973f217617%3A0x44e6e6c2c69094b9!2sMirador%20to%20Laguna%20Quilotoa!3m2!1d-0.8664004!2d-78.915958!4m5!1s0x91d4ec923bd75833%3A0xc806b80138208c0f!2zNDNRUSs0TTQg7YKs66Gc7Yag7JWEIO2ZlOyCsO2YuOyImCBMYWd1bmEgZGUgUXVpbG90b2EsIENodWNjaGlsw6Fu!3m2!1d-0.8622466999999999!2d-78.9108088!5e0!3m2!1sko!2sec!4v1757346746447!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d5242.755384422679!2d-78.91300445809607!3d-0.86521024709723!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x91d4ec973f217617%3A0x44e6e6c2c69094b9!2sMirador%20to%20Laguna%20Quilotoa!3m2!1d-0.8664004!2d-78.915958!4m5!1s0x91d4ec923bd75833%3A0xc806b80138208c0f!2zNDNRUSs0TTQg7YKs66Gc7Yag7JWEIO2ZlOyCsO2YuOyImCBMYWd1bmEgZGUgUXVpbG90b2EsIENodWNjaGlsw6Fu!3m2!1d-0.8622466999999999!2d-78.9108088!5e0!3m2!1sko!2sec!4v1757346746447!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 <span style="color: #8D4801">**이렇게 아름다운 곳을 이리 쉽게 올라와서 관람**</span>할 수 있다니 너무나도 신기했다. 백두산 천지를 가본 적은 없지만 언제고 TV에서 애국가가 흘러나오며 함께 비쳤던 그 <span style="color: indianred">**백두산 천지와 비슷한 느낌**</span>이라는 생각이 들었다.
@@ -377,7 +377,7 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.285903686055!2d-78.6810201!3d-0.9360342!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d48baaf63ebb27%3A0xebe8744a473c3991!2sPANADERIA%20Y%20PASTELERIA%20REY%20PAN%20PUJILI!5e0!3m2!1sko!2sec!4v1757346794951!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.285903686055!2d-78.6810201!3d-0.9360342!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d48baaf63ebb27%3A0xebe8744a473c3991!2sPANADERIA%20Y%20PASTELERIA%20REY%20PAN%20PUJILI!5e0!3m2!1sko!2sec!4v1757346794951!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 투어를 완료하고 키토에 도착. 쿠웨이트 사람들과 가이드와 헤어지며 들었던 생각이, <span style="color: #8D4801">**점심 먹으면서 내적 친밀감이 점점 쌓여가고 있었는데**</span> 같이 투어했던 일행들과 이렇게 <span style="color: indianred">**바로 헤어지게 되어서 조금 아쉬웠다**</span>.
@@ -395,7 +395,7 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 ---
 
 ## 여행 경로
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m70!1m12!1m3!1d707752.7532437582!2d-79.04008994256263!3d-0.4991088747249437!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m55!3e0!4m5!1s0x91d59a846449b88b%3A0xb5ca75d150fcbb8c!2sQuito%20Tour%20Bus%20%2F%20Bulevar%20Naciones%20Unidas!3m2!1d-0.1767204!2d-78.4818741!4m5!1s0x91d5abe4b3ba39b1%3A0x32257dced0efee4!2sChasky%20Kfe%20Restaurante%20-%20Mini%20Market!3m2!1d-0.5206320999999999!2d-78.577542!4m5!1s0x91d45714d5790457%3A0x9cccf84529e92588!2sRondador%20Cotopaxi!3m2!1d-0.7001543!2d-78.5870892!4m5!1s0x91d48da9a73aa98b%3A0xacf83a09dec45e9f!2zTGEgQ2FzYSBEZSBEb24gSnVsaWFu4puw77iP!3m2!1d-0.8921973999999999!2d-78.7821608!4m5!1s0x91d493bae9885995%3A0x3531d86fc18b919d!2sGaleria%20del%20Primer%20Pintor%20de%20Tigua%20%22Julio%20Toaquiza%20Tigasi%22!3m2!1d-0.9508907!2d-78.8673549!4m5!1s0x91d493250fef4bd7%3A0xdff28fc043e389fc!2sChami%20Wayku!3m2!1d-0.948259!2d-78.900335!4m5!1s0x91d48a30f1ec3a15%3A0x96246423457b42cf!2sHosteria%20Chukirawa!3m2!1d-0.8669418!2d-78.9162672!4m5!1s0x91d4ec973f217617%3A0x44e6e6c2c69094b9!2sMirador%20to%20Laguna%20Quilotoa!3m2!1d-0.8664004!2d-78.915958!4m5!1s0x91d48baaf63ebb27%3A0xebe8744a473c3991!2sPANADERIA%20Y%20PASTELERIA%20REY%20PAN%20PUJILI!3m2!1d-0.9360341999999999!2d-78.6810201!5e0!3m2!1sko!2sec!4v1757349518303!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m70!1m12!1m3!1d707752.7532437582!2d-79.04008994256263!3d-0.4991088747249437!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m55!3e0!4m5!1s0x91d59a846449b88b%3A0xb5ca75d150fcbb8c!2sQuito%20Tour%20Bus%20%2F%20Bulevar%20Naciones%20Unidas!3m2!1d-0.1767204!2d-78.4818741!4m5!1s0x91d5abe4b3ba39b1%3A0x32257dced0efee4!2sChasky%20Kfe%20Restaurante%20-%20Mini%20Market!3m2!1d-0.5206320999999999!2d-78.577542!4m5!1s0x91d45714d5790457%3A0x9cccf84529e92588!2sRondador%20Cotopaxi!3m2!1d-0.7001543!2d-78.5870892!4m5!1s0x91d48da9a73aa98b%3A0xacf83a09dec45e9f!2zTGEgQ2FzYSBEZSBEb24gSnVsaWFu4puw77iP!3m2!1d-0.8921973999999999!2d-78.7821608!4m5!1s0x91d493bae9885995%3A0x3531d86fc18b919d!2sGaleria%20del%20Primer%20Pintor%20de%20Tigua%20%22Julio%20Toaquiza%20Tigasi%22!3m2!1d-0.9508907!2d-78.8673549!4m5!1s0x91d493250fef4bd7%3A0xdff28fc043e389fc!2sChami%20Wayku!3m2!1d-0.948259!2d-78.900335!4m5!1s0x91d48a30f1ec3a15%3A0x96246423457b42cf!2sHosteria%20Chukirawa!3m2!1d-0.8669418!2d-78.9162672!4m5!1s0x91d4ec973f217617%3A0x44e6e6c2c69094b9!2sMirador%20to%20Laguna%20Quilotoa!3m2!1d-0.8664004!2d-78.915958!4m5!1s0x91d48baaf63ebb27%3A0xebe8744a473c3991!2sPANADERIA%20Y%20PASTELERIA%20REY%20PAN%20PUJILI!3m2!1d-0.9360341999999999!2d-78.6810201!5e0!3m2!1sko!2sec!4v1757349518303!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 ---
@@ -422,7 +422,9 @@ window.panoramas = [
         compass: true,
         title: "Chami Wayku view",
         author: "Jisung Park",
-        showZoomCtrl: true
+        showZoomCtrl: true,
+        yaw: -120,
+        hfov: 120
       }
     },
     {
@@ -435,7 +437,9 @@ window.panoramas = [
         compass: true,
         title: "Quilotoa Lake view",
         author: "Jisung Park",
-        showZoomCtrl: true
+        showZoomCtrl: true,
+        yaw: -40,
+        hfov: 120
       }
     }
   ];

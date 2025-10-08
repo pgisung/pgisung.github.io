@@ -27,6 +27,7 @@ $(function() {
   $('.page-content').fitVids({
     'customSelector': ['iframe[src*="ted.com"]']
   });
+  $('.post-content').fitVids();
 
   // Medium's Image Zoom
   $('.page img, .post img').attr('data-action', 'zoom');

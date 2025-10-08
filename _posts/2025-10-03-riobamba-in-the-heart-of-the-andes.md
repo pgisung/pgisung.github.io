@@ -71,7 +71,7 @@ description: 2025.10.03 우여곡절 키토에서 리오밤바까지 이동기
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1994.8826157188782!2d-78.5559712!3d-0.29557210000000206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d5a2064e11c911%3A0x2da40bba5380de7e!2sTerminal%20Terrestre%20Quitumbe!5e0!3m2!1sko!2sec!4v1759693658162!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1994.8826157188782!2d-78.5559712!3d-0.29557210000000206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d5a2064e11c911%3A0x2da40bba5380de7e!2sTerminal%20Terrestre%20Quitumbe!5e0!3m2!1sko!2sec!4v1759693658162!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 역시 그래도 수도의 버스 정류장이라서 그런지, 지도를 보면 정말로 <span style="color: #8D4801">**많은 고속버스 회사**</span>가 존재했다. 그 와중에 나의 <span style="color: indianred">**목적지와 동일한 이름을 가진 버스회사**</span>가 눈에 확 띄어서 그곳으로 이동했다.
@@ -143,7 +143,7 @@ description: 2025.10.03 우여곡절 키토에서 리오밤바까지 이동기
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d498.5172945248412!2d-78.66365295564667!3d-1.6627475493681219!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d3078b54f8b5b3%3A0x1074079b14eb9d7e!2sTerminal%20Riobamba!5e0!3m2!1sko!2sec!4v1759693728272!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d498.5172945248412!2d-78.66365295564667!3d-1.6627475493681219!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d3078b54f8b5b3%3A0x1074079b14eb9d7e!2sTerminal%20Riobamba!5e0!3m2!1sko!2sec!4v1759693728272!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 지도에서 보기에는 생각보다 큰 도시라고 느꼈었는데, 첫인상에는 <span style="color: indianred">**소박하고 수수**</span>하게 느껴졌었다.
@@ -168,7 +168,7 @@ description: 2025.10.03 우여곡절 키토에서 리오밤바까지 이동기
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d249.25862478382416!2d-78.66112473775752!3d-1.6629255381882726!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d30781073c7d1b%3A0xb6393e0026a71d68!2sRestaurant%20Chifa%20Azias!5e0!3m2!1sko!2sec!4v1759693861576!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d249.25862478382416!2d-78.66112473775752!3d-1.6629255381882726!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d30781073c7d1b%3A0xb6393e0026a71d68!2sRestaurant%20Chifa%20Azias!5e0!3m2!1sko!2sec!4v1759693861576!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 메뉴의 이름은 정확히는 기억이 안 나지만 메뉴판에 스페셜 메뉴라고 적혀있었는데, <span style="color: brown">**돼지고기와 채소들과 함께 볶은 볶음면**</span>으로 보였다. <span style="color: #8D4801">**가격에 비해서는 양이 정말 장난 아니게 많이**</span> 나왔다고 생각되었다.
@@ -200,7 +200,7 @@ description: 2025.10.03 우여곡절 키토에서 리오밤바까지 이동기
 
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.1084254744537!2d-78.64356339339294!3d-1.6774951999999734!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d3a9d01e9458ff%3A0xa976589c27ea5fc!2sCasa%20de%20M%C3%A1rmol!5e0!3m2!1sko!2sec!4v1759693890480!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.1084254744537!2d-78.64356339339294!3d-1.6774951999999734!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d3a9d01e9458ff%3A0xa976589c27ea5fc!2sCasa%20de%20M%C3%A1rmol!5e0!3m2!1sko!2sec!4v1759693890480!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 비밀번호 486은 아니고요. <span style="color: indianred">**밑에 검은색 버튼을 두 개 동시에 누르면**</span> 숙소 주인아주머니께 연락할 수 있었다.
@@ -244,7 +244,7 @@ description: 2025.10.03 우여곡절 키토에서 리오밤바까지 이동기
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d529.0720945076733!2d-78.64167471036379!3d-1.679857094747647!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d3a9c89dfb2375%3A0x49863304c424f4af!2sSupermercados%20Santa%20Mar%C3%ADa!5e0!3m2!1sko!2sec!4v1759694278819!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d529.0720945076733!2d-78.64167471036379!3d-1.679857094747647!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d3a9c89dfb2375%3A0x49863304c424f4af!2sSupermercados%20Santa%20Mar%C3%ADa!5e0!3m2!1sko!2sec!4v1759694278819!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 에콰도르에서 꽤 <span style="color: brown">**명문대라는 침보라소 국립 대학교**</span>와 이곳 <span style="color: #8D4801">**지역 주민들이 주로 믿고 있다는 마드레 돌로로사 가톨릭 성당**</span>
@@ -264,7 +264,7 @@ description: 2025.10.03 우여곡절 키토에서 리오밤바까지 이동기
 ---
 
 ## 여행 경로
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d185988.65945694482!2d-78.67789134356444!3d-1.632365184396755!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e0!4m5!1s0x91d59a85e62ca895%3A0x217098644d0182ff!2sCentro%20Comercial%20I%C3%B1aquito%20(CCI)!3m2!1d-0.1785457!2d-78.48494029999999!4m5!1s0x91d5a2064e11c911%3A0x2da40bba5380de7e!2zVGVybWluYWwgVGVycmVzdHJlIFF1aXR1bWJlLCDtgqTthqA!3m2!1d-0.2955721!2d-78.5559712!4m5!1s0x91d3078b54f8b5b3%3A0x1074079b14eb9d7e!2zVGVybWluYWwgUmlvYmFtYmEsIEVwaWNsYWNoaW1hLCDrpqzsmKTrsKTrsJQ!3m2!1d-1.6627474999999998!2d-78.66338379999999!4m5!1s0x91d30781073c7d1b%3A0xb6393e0026a71d68!2zUmVzdGF1cmFudCBDaGlmYSBBemlhcywgQXZlbmlkYSBEYW5pZWwgTGXDs24gQm9yamEsIOumrOyYpOuwpOuwlA!3m2!1d-1.6629432!2d-78.6609965!4m5!1s0x91d3a9d01e9458ff%3A0xa976589c27ea5fc!2zQ2FzYSBkZSBNw6FybW9sLCBCZXJuYXJkbyBEYXJxdWVhLCDrpqzsmKTrsKTrsJQ!3m2!1d-1.6774951999999999!2d-78.6426729!4m5!1s0x91d3a9c89dfb2375%3A0x49863304c424f4af!2s89C5%2B4C5%20Supermercados%20Santa%20Mar%C3%ADa%2C%20Av%20Eloy%20Alfaro%2C%20Riobamba%20060150!3m2!1d-1.6797425!2d-78.6414003!5e0!3m2!1sko!2sec!4v1759694479850!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d185988.65945694482!2d-78.67789134356444!3d-1.632365184396755!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e0!4m5!1s0x91d59a85e62ca895%3A0x217098644d0182ff!2sCentro%20Comercial%20I%C3%B1aquito%20(CCI)!3m2!1d-0.1785457!2d-78.48494029999999!4m5!1s0x91d5a2064e11c911%3A0x2da40bba5380de7e!2zVGVybWluYWwgVGVycmVzdHJlIFF1aXR1bWJlLCDtgqTthqA!3m2!1d-0.2955721!2d-78.5559712!4m5!1s0x91d3078b54f8b5b3%3A0x1074079b14eb9d7e!2zVGVybWluYWwgUmlvYmFtYmEsIEVwaWNsYWNoaW1hLCDrpqzsmKTrsKTrsJQ!3m2!1d-1.6627474999999998!2d-78.66338379999999!4m5!1s0x91d30781073c7d1b%3A0xb6393e0026a71d68!2zUmVzdGF1cmFudCBDaGlmYSBBemlhcywgQXZlbmlkYSBEYW5pZWwgTGXDs24gQm9yamEsIOumrOyYpOuwpOuwlA!3m2!1d-1.6629432!2d-78.6609965!4m5!1s0x91d3a9d01e9458ff%3A0xa976589c27ea5fc!2zQ2FzYSBkZSBNw6FybW9sLCBCZXJuYXJkbyBEYXJxdWVhLCDrpqzsmKTrsKTrsJQ!3m2!1d-1.6774951999999999!2d-78.6426729!4m5!1s0x91d3a9c89dfb2375%3A0x49863304c424f4af!2s89C5%2B4C5%20Supermercados%20Santa%20Mar%C3%ADa%2C%20Av%20Eloy%20Alfaro%2C%20Riobamba%20060150!3m2!1d-1.6797425!2d-78.6414003!5e0!3m2!1sko!2sec!4v1759694479850!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 ---
@@ -276,9 +276,9 @@ description: 2025.10.03 우여곡절 키토에서 리오밤바까지 이동기
 |:---:|:---:|:---:|
 | **우버 택시 교통비** | 9.65 USD | 13,856원 |
 | **고속버스 교통비** | 5.5 USD | 7,644원 |
-| **화장실** | 0.15 USD | 208원 |
+| **화장실 사용료** | 0.15 USD | 208원 |
 | **점심 겸 저녁 식비** | 9 USD | 12,509원 |
 | **인드라이브 택시 교통비** | 1.6 USD | 2,223원 |
-| **4박 숙박비** | 72 USD | 102,609원 |
+| **4.5박 숙박비** | 81 USD | 115,662원 |
 | **물, 콜라** | 2.12 USD | 2,946원 |
-| <span style="color: #8D4801">**총합**</span> | **100.02 USD** | **141,995원** |
+| <span style="color: #8D4801">**총합**</span> | **109.02 USD** | **155,048원** |

@@ -61,7 +61,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d948.8225731267813!2d102.61384695768355!3d17.96522631538877!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3124687d93c167f9%3A0x5577837f17076440!2z65S4656P7Iu47JikIOyVhOy5qOyLnOyepQ!5e0!3m2!1sko!2sec!4v1757704939613!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d948.8225731267813!2d102.61384695768355!3d17.96522631538877!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3124687d93c167f9%3A0x5577837f17076440!2z65S4656P7Iu47JikIOyVhOy5qOyLnOyepQ!5e0!3m2!1sko!2sec!4v1757704939613!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 라오스인들 소울푸드 쫄깃한 면발에 닭 육수, 볶음 마늘이 들어간 <span style="color: #8D4801">**카오 삐약 센(왼쪽)**</span>과 된장 베이스에 고기고명이 올라간 <span style="color: indianred">**카오 쏘이(오른쪽)**</span>. 필자는 첫 날부터 카오 삐약 센의 맛에 푹 빠져서 라오스 여행 내내 삐약 센 노래를 불렀더랬다.
@@ -92,7 +92,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7590.6700151050845!2d102.60823555753724!3d17.963144332219095!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31246887c8f655a7%3A0x90ebc63e63ee911d!2z7JSoIOyCrOy8kyDsgqzsm5A!5e0!3m2!1sko!2sec!4v1757705005931!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7590.6700151050845!2d102.60823555753724!3d17.963144332219095!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31246887c8f655a7%3A0x90ebc63e63ee911d!2z7JSoIOyCrOy8kyDsgqzsm5A!5e0!3m2!1sko!2sec!4v1757705005931!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 씨 사켓 사원은 시암(태국) 침공 때도 파괴되지 않고 남았을 정도로 <span style="color: indianred">**비엔티안에서 가장 오래된 사원**</span>이다.
@@ -142,7 +142,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15180.705170784422!2d102.61072702917767!3d17.970533220348255!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3124687ed455e1df%3A0x24af4d39ae4445b0!2z67mg65qc7IKs7J20IOuPheumveq4sOuFkOusuA!5e0!3m2!1sko!2sec!4v1757705068592!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15180.705170784422!2d102.61072702917767!3d17.970533220348255!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3124687ed455e1df%3A0x24af4d39ae4445b0!2z67mg65qc7IKs7J20IOuPheumveq4sOuFkOusuA!5e0!3m2!1sko!2sec!4v1757705068592!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 빠뚜사이는 <span style="color: indianred">**라오어로 승리의 문**</span>을 뜻하며 라오스가 <span style="color: #8D4801">**프랑스로부터 독립한 것을 기념**</span>하기 위해 세웠다고 한다.
@@ -196,7 +196,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15180.18282082088!2d102.62767582594107!3d17.976610451254064!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312467c5990ad2d1%3A0x47442b3d67b20290!2z7YOTIOujqOyVmSDsgqzsm5Ao7Zmp6riI7IKs7JuQKQ!5e0!3m2!1sko!2sec!4v1757705119594!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15180.18282082088!2d102.62767582594107!3d17.976610451254064!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312467c5990ad2d1%3A0x47442b3d67b20290!2z7YOTIOujqOyVmSDsgqzsm5Ao7Zmp6riI7IKs7JuQKQ!5e0!3m2!1sko!2sec!4v1757705119594!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 황금사원은 입구 문양부터 매우 화려했다. <span style="color: #8D4801">**사원의 정식 명칭은 파 탓 루앙(Pha That Luang)으로 위대한 불탑이라는 뜻**</span>이라고 한다.
@@ -287,7 +287,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1896.774622135108!2d102.68992248649232!3d18.046110902029834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31245dcfa631beff%3A0xd08d1f9a4a98ce8f!2sVientiane%20Railway%20Station!5e0!3m2!1sko!2sec!4v1757705253126!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1896.774622135108!2d102.68992248649232!3d18.046110902029834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31245dcfa631beff%3A0xd08d1f9a4a98ce8f!2sVientiane%20Railway%20Station!5e0!3m2!1sko!2sec!4v1757705253126!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 <span style="color: #8D4801">**중국 쿤밍에서부터 연결된 기차역**</span>으로 사실상 중국의 자본이 많이 쓰인 것으로 알고 있다.
@@ -346,7 +346,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3752.346229671646!2d102.2139883!3d19.867596900000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312f29d7213e8b31%3A0x795024773d164563!2z66Oo7JWZ7ZSE652867CpIOqzoOyGjeyyoOuPhOyXrQ!5e0!3m2!1sko!2sec!4v1757705482856!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3752.346229671646!2d102.2139883!3d19.867596900000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312f29d7213e8b31%3A0x795024773d164563!2z66Oo7JWZ7ZSE652867CpIOqzoOyGjeyyoOuPhOyXrQ!5e0!3m2!1sko!2sec!4v1757705482856!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 ### 빌라 부아 통 호텔
@@ -356,7 +356,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d937.9739504388513!2d102.1367444!3d19.8866213!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312f2b4503cc3165%3A0x1f2a2db69e7a96c2!2sVilla%20Boua%20Thong%20Hotel!5e0!3m2!1sko!2sec!4v1757705658102!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d937.9739504388513!2d102.1367444!3d19.8866213!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312f2b4503cc3165%3A0x1f2a2db69e7a96c2!2sVilla%20Boua%20Thong%20Hotel!5e0!3m2!1sko!2sec!4v1757705658102!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 숙소의 방 앞에 존재하던 연못으로 <span style="color: indianred">**모기가 매우 많았다**</span>.
@@ -375,7 +375,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7503.616269701858!2d102.13383524681429!3d19.89032199415336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312f2a6a667fef0b%3A0xfd9af2125d7a76fc!2z7ZG47IucIOyCsA!5e0!3m2!1sko!2sec!4v1757705754295!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7503.616269701858!2d102.13383524681429!3d19.89032199415336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312f2a6a667fef0b%3A0xfd9af2125d7a76fc!2z7ZG47IucIOyCsA!5e0!3m2!1sko!2sec!4v1757705754295!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 올라가기 전 다 같이 한 컷
@@ -459,7 +459,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3302.1928746390004!2d102.13421986208125!3d19.889772449884013!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312f2a6b010a5541%3A0x6814a3460ad3cd10!2z66Oo7JWZ7ZSE652867CpIOyVvOyLnOyepSjrqr3sobEg7JW87Iuc7J6lKQ!5e0!3m2!1sko!2sec!4v1757705796401!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3302.1928746390004!2d102.13421986208125!3d19.889772449884013!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312f2a6b010a5541%3A0x6814a3460ad3cd10!2z66Oo7JWZ7ZSE652867CpIOyVvOyLnOyepSjrqr3sobEg7JW87Iuc7J6lKQ!5e0!3m2!1sko!2sec!4v1757705796401!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 쇼핑 좋아하시는 두 분은 신나서 구경하시고 쇼핑 해이터는 그저 묵묵히 따라갈 뿐 
@@ -482,7 +482,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1040.1281049802426!2d102.13346199076135!3d19.889388846740225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312f2b003cc19f93%3A0xed51d4b897f0823d!2sGood%20Night%20Market!5e0!3m2!1sko!2sec!4v1757705866554!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1040.1281049802426!2d102.13346199076135!3d19.889388846740225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312f2b003cc19f93%3A0xed51d4b897f0823d!2sGood%20Night%20Market!5e0!3m2!1sko!2sec!4v1757705866554!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 아침에 <span style="color: #8D4801">**카오 삐약 센을 먹었던 사람은 다른 요리 먹어본다고 카오 쏘이를 주문**</span>했고, <span style="color: indianred">**카오 쏘이를 먹었던 친구는 카오 포운을 주문**</span>했는데, 어째 비주얼은 세 그릇이 다 비슷하다. <span style="color: #8D4801">**카오 포운은 라오스 매운 면**</span>이라는 뜻이라고 한다.
@@ -522,7 +522,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d234.48920583410305!2d102.13371511548758!3d19.88951331060192!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312f2a69e2c22545%3A0x39cfe4cfcf90dc42!2sIndigo%20Cafe!5e0!3m2!1sko!2sec!4v1757706027582!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d234.48920583410305!2d102.13371511548758!3d19.88951331060192!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312f2a69e2c22545%3A0x39cfe4cfcf90dc42!2sIndigo%20Cafe!5e0!3m2!1sko!2sec!4v1757706027582!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 환율이 괜찮은 환전소에 가서 가진 달러를 전부 환전하고 목이 말라서 카페에 들렸다. 라오스에 와서 국수가 1인당 가격이 2천 원도 안하고 <span style="color: indianred">**물가가 매우 싸다고 느끼던 중**</span> 여기서 커피값을 내면서 놀랐었다. 역시 임대료를 내시는 가게들이라 그런가? 했지만 <span style="color: #8D4801">**커피 1잔당 국수를 2그릇을 먹을 수 있다고요!**</span>
@@ -552,7 +552,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 <br>
 
 우리가 다녀왔던 가게는 <span style="color: #8D4801">**구글맵에는 등록이 되어있지 않은 것**</span> 같다.
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d234.48447619435206!2d102.13832549750799!3d19.892707350116734!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312f2b0076d4e533%3A0x5d967535c38146c6!2z15HXqCDXp9eV16fXmNeZ15nXnNeZ150g15nXpNeU!5e0!3m2!1sko!2sec!4v1757708845059!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d234.48447619435206!2d102.13832549750799!3d19.892707350116734!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312f2b0076d4e533%3A0x5d967535c38146c6!2z15HXqCDXp9eV16fXmNeZ15nXnNeZ150g15nXpNeU!5e0!3m2!1sko!2sec!4v1757708845059!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 맥주를 학수고대하는 중
@@ -576,7 +576,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 ---
 
 ## 여행 경로
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d1184200.000373561!2d102.51252985167756!3d18.803258060962325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e2!4m5!1s0x312469e3c6880ae3%3A0x8a7022cf28e4a57b!2sThe%20Giftown%20Vientiane%2C%20Haysoke!3m2!1d17.9661716!2d102.6051931!4m5!1s0x3124687d93c167f9%3A0x5577837f17076440!2z65S4656P7Iu47JikIOyVhOy5qOyLnOyepQ!3m2!1d17.965226299999998!2d102.6143941!4m5!1s0x31246887c8f655a7%3A0x90ebc63e63ee911d!2z7JSoIOyCrOy8kyDsgqzsm5A!3m2!1d17.9631444!2d102.6113689!4m5!1s0x3124687ed455e1df%3A0x24af4d39ae4445b0!2z67mg65qc7IKs7J20IOuPheumveq4sOuFkOusuA!3m2!1d17.9705331!2d102.6187375!4m5!1s0x312467c5990ad2d1%3A0x47442b3d67b20290!2z7YOTIOujqOyVmSDsgqzsm5Ao7Zmp6riI7IKs7JuQKQ!3m2!1d17.9766165!2d102.6364667!4m5!1s0x31245dcfa631beff%3A0xd08d1f9a4a98ce8f!2sVientiane%20Railway%20Station!3m2!1d18.046111!2d102.690556!4m5!1s0x312f29d7213e8b31%3A0x795024773d164563!2z66Oo7JWZ7ZSE652867CpIOqzoOyGjeyyoOuPhOyXrQ!3m2!1d19.8675969!2d102.2139883!4m5!1s0x312f2bd022e00dcf%3A0x2ff11935f5f75bde!2svilla%20BouaThong%20Hotel%202!3m2!1d19.886638299999998!2d102.1366262!4m5!1s0x312f2a6a667fef0b%3A0xfd9af2125d7a76fc!2z7ZG47IucIOyCsA!3m2!1d19.890321999999998!2d102.1370062!4m5!1s0x312f2a6b010a5541%3A0x6814a3460ad3cd10!2z65287Jik7IqkIOujqOyVme2UhOudvOuwqSBDaGFvZmEgTmd1bSBSb2FkLCDro6jslZntlITrnbzrsKkg7JW87Iuc7J6lKOuqveyhsSDslbzsi5zsnqUp!3m2!1d19.890445!2d102.13517929999999!5e0!3m2!1sko!2sec!4v1757709295105!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d1184200.000373561!2d102.51252985167756!3d18.803258060962325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e2!4m5!1s0x312469e3c6880ae3%3A0x8a7022cf28e4a57b!2sThe%20Giftown%20Vientiane%2C%20Haysoke!3m2!1d17.9661716!2d102.6051931!4m5!1s0x3124687d93c167f9%3A0x5577837f17076440!2z65S4656P7Iu47JikIOyVhOy5qOyLnOyepQ!3m2!1d17.965226299999998!2d102.6143941!4m5!1s0x31246887c8f655a7%3A0x90ebc63e63ee911d!2z7JSoIOyCrOy8kyDsgqzsm5A!3m2!1d17.9631444!2d102.6113689!4m5!1s0x3124687ed455e1df%3A0x24af4d39ae4445b0!2z67mg65qc7IKs7J20IOuPheumveq4sOuFkOusuA!3m2!1d17.9705331!2d102.6187375!4m5!1s0x312467c5990ad2d1%3A0x47442b3d67b20290!2z7YOTIOujqOyVmSDsgqzsm5Ao7Zmp6riI7IKs7JuQKQ!3m2!1d17.9766165!2d102.6364667!4m5!1s0x31245dcfa631beff%3A0xd08d1f9a4a98ce8f!2sVientiane%20Railway%20Station!3m2!1d18.046111!2d102.690556!4m5!1s0x312f29d7213e8b31%3A0x795024773d164563!2z66Oo7JWZ7ZSE652867CpIOqzoOyGjeyyoOuPhOyXrQ!3m2!1d19.8675969!2d102.2139883!4m5!1s0x312f2bd022e00dcf%3A0x2ff11935f5f75bde!2svilla%20BouaThong%20Hotel%202!3m2!1d19.886638299999998!2d102.1366262!4m5!1s0x312f2a6a667fef0b%3A0xfd9af2125d7a76fc!2z7ZG47IucIOyCsA!3m2!1d19.890321999999998!2d102.1370062!4m5!1s0x312f2a6b010a5541%3A0x6814a3460ad3cd10!2z65287Jik7IqkIOujqOyVme2UhOudvOuwqSBDaGFvZmEgTmd1bSBSb2FkLCDro6jslZntlITrnbzrsKkg7JW87Iuc7J6lKOuqveyhsSDslbzsi5zsnqUp!3m2!1d19.890445!2d102.13517929999999!5e0!3m2!1sko!2sec!4v1757709295105!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 ---

@@ -36,7 +36,7 @@ description: 2025.08.15 키토에서 푸에르토 로페스까지 이동기 및 
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.808942339798!2d-78.36056839999999!3d-0.12422709999999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d58db4352baa87%3A0x2f9f7623e0894b8b!2z66eI66as7Iqk7Lm8IOyImO2BrOugiCDqta3soJzqs7Xtla0!5e0!3m2!1sko!2sec!4v1755779329466!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.808942339798!2d-78.36056839999999!3d-0.12422709999999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d58db4352baa87%3A0x2f9f7623e0894b8b!2z66eI66as7Iqk7Lm8IOyImO2BrOugiCDqta3soJzqs7Xtla0!5e0!3m2!1sko!2sec!4v1755779329466!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 출발 시각 1시간 전에 맞춰서 공항에 도착했는데 문자 그대로 출국장에서 1시간 기다림... <span style="color: #8D4801">**친구가 구미 베어 같은 곰 모양 젤리를 줘서 맛있게 먹으며 기다리다**</span> 보니 드디어 모니터에 우리 비행기가 떴다!
@@ -100,7 +100,7 @@ description: 2025.08.15 키토에서 푸에르토 로페스까지 이동기 및 
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.2645171403233!2d-80.68424690926207!3d-0.9546492271615287!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902be6f60633c6ed%3A0x1260e2f387f7d729!2sEloy%20Alfaro%20International%20Airport!5e0!3m2!1sko!2sec!4v1755779250660!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.2645171403233!2d-80.68424690926207!3d-0.9546492271615287!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902be6f60633c6ed%3A0x1260e2f387f7d729!2sEloy%20Alfaro%20International%20Airport!5e0!3m2!1sko!2sec!4v1755779250660!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 ---
@@ -112,7 +112,7 @@ description: 2025.08.15 키토에서 푸에르토 로페스까지 이동기 및 
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7978.5150354392135!2d-80.69492996214741!3d-0.9606632465435505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902be69a8c47e8ab%3A0xd2d4d38082b8b234!2sTerminal%20Terrestre%20De%20Manta!5e0!3m2!1sko!2sec!4v1755782367739!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7978.5150354392135!2d-80.69492996214741!3d-0.9606632465435505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902be69a8c47e8ab%3A0xd2d4d38082b8b234!2sTerminal%20Terrestre%20De%20Manta!5e0!3m2!1sko!2sec!4v1755782367739!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 터미널이 생각보다 크고 버스 회사가 많아서 <span style="color: #8D4801">**Puerto Lopez에 가는 버스**</span>를 열심히 찾아 헤맸다. (<span style="color: indianred">**처음엔 내가 있는 곳이 만타인데 만타 가는 버스를 찾아다녔다는 것은 안 비밀**</span>) 터미널을 약 한 바퀴 돌고 나서야 가는 버스를 찾아 친구가 표를 구매해 줬다. 회사명은 <span style="color: #8D4801">**Manglaralto**</span>
@@ -140,7 +140,7 @@ description: 2025.08.15 키토에서 푸에르토 로페스까지 이동기 및 
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1492.2280688917492!2d-80.80263509332443!3d-1.5406865735430604!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902c208776215975%3A0x7272c8c8a037bf72!2sTerminal%20Terrestre%20Puerto%20Lopez!5e0!3m2!1sko!2sec!4v1755782683004!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1492.2280688917492!2d-80.80263509332443!3d-1.5406865735430604!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902c208776215975%3A0x7272c8c8a037bf72!2sTerminal%20Terrestre%20Puerto%20Lopez!5e0!3m2!1sko!2sec!4v1755782683004!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 터미널을 나서며 택시를 타야 하나하고 보던 찰나에 <span style="color: #8D4801">**이게 웬 툭툭**</span>들? 너무나 오랜만에 툭툭을 타고 숙소로 이동하는데 <span style="color: #8D4801">**로컬 정취가 흠씬 풍기는 정겨운 마을 풍경**</span>이 벌써 마음에 들었었다.
@@ -157,7 +157,7 @@ description: 2025.08.15 키토에서 푸에르토 로페스까지 이동기 및 
 <br>
 
 <span style="color: #8D4801">**부킹닷컴이나 에어비앤비에는 Loft beach라는 이름으로 숙소가 존재**</span>하는데 <span style="color: indianred">**구글 맵에는 위치가 존재하지 않는다.**</span> 혹시나 궁금하신 분이 있을까 [에어비앤비 링크](https://ko.airbnb.com/rooms/45672514?_set_bev_on_new_domain=1755784527_EAMTc2MTljZTQ0NG&source_impression_id=p3_1755784528_P3Q2C54UVXNKYk9f "Navigate to The link of the accommodation in airbnb")를 남긴다.
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d249.27106107986347!2d-80.81462446958814!3d-1.561357423802768!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sko!2sec!4v1755785237590!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d249.27106107986347!2d-80.81462446958814!3d-1.561357423802768!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sko!2sec!4v1755785237590!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 숙소는 전반적으로 다 마음에 들었는데 <span style="color: #8D4801">**딱 한 가지 단점이 있었다면 머무르는 내내 찬물로밖에 샤워를 못 했다.**</span> 친구 말로는 첫날에 따뜻한 물이 나왔다는데... 내가 고장 낸 건가... 진짜 수도꼭지 돌린 거 말고는 아무것도 안 했다고요 ㅜ.ㅜ
@@ -178,7 +178,7 @@ description: 2025.08.15 키토에서 푸에르토 로페스까지 이동기 및 
 
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d808.0157900556453!2d-80.81321955386272!3d-1.5592811400695787!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902e9e1f7ee47ecb%3A0x10de7eb9d7128f2d!2sRestaurante%20Espuma%20Del%20Mar!5e0!3m2!1sko!2sec!4v1755787745447!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d808.0157900556453!2d-80.81321955386272!3d-1.5592811400695787!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902e9e1f7ee47ecb%3A0x10de7eb9d7128f2d!2sRestaurante%20Espuma%20Del%20Mar!5e0!3m2!1sko!2sec!4v1755787745447!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 ### FRAGATA XTREME 여행사
@@ -192,7 +192,7 @@ description: 2025.08.15 키토에서 푸에르토 로페스까지 이동기 및 
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d997.0851755680017!2d-80.81300643194653!3d-1.5593929674134581!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902e9fe8871268e7%3A0xcbc625a91e5bfc22!2sFRAGATA%20XTREME%20(Subwing)!5e0!3m2!1sko!2sec!4v1755788534522!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d997.0851755680017!2d-80.81300643194653!3d-1.5593929674134581!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902e9fe8871268e7%3A0xcbc625a91e5bfc22!2sFRAGATA%20XTREME%20(Subwing)!5e0!3m2!1sko!2sec!4v1755788534522!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 ### 푸에르토 로페스 관광 부두
@@ -209,7 +209,7 @@ description: 2025.08.15 키토에서 푸에르토 로페스까지 이동기 및 
 <br>
 
 현실에 분명히 존재하는 부두 역시 <span style="color: indianred">**구글 맵에는 존재하지 않았다.**</span>
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3825.86682403606!2d-80.81863790498366!3d-1.5623063825594334!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902e9f00545654e5%3A0x87f42cec0aa40f97!2sMuelle%20de%20Puerto%20Lopez!5e0!3m2!1sko!2sec!4v1755789138440!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3825.86682403606!2d-80.81863790498366!3d-1.5623063825594334!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902e9f00545654e5%3A0x87f42cec0aa40f97!2sMuelle%20de%20Puerto%20Lopez!5e0!3m2!1sko!2sec!4v1755789138440!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 모를 때는 여기에 무슨 볼거리가 있어서 사람들이 이렇게 모여있으려나 했는데, 알고 보니 <span style="color: #8D4801">**플라타, 살랑고, 스쿠버다이빙 등 모든 투어가 여기서 출발**</span>해서 사람들이 이렇게 모여있는 거였다.
@@ -234,13 +234,13 @@ description: 2025.08.15 키토에서 푸에르토 로페스까지 이동기 및 
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d498.5421549393736!2d-80.81469744443892!3d-1.5612192082110459!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902e9e1f170ea4ab%3A0x4ba38ee45c0e580!2sRestaurant%20Romance%20Marino!5e0!3m2!1sko!2sec!4v1755789625007!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d498.5421549393736!2d-80.81469744443892!3d-1.5612192082110459!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902e9e1f170ea4ab%3A0x4ba38ee45c0e580!2sRestaurant%20Romance%20Marino!5e0!3m2!1sko!2sec!4v1755789625007!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 ---
 
 ## 여행 경로
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d78338.70827434002!2d-80.7852230928671!3d-1.5128481310961!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0x91d59a85e62ca895%3A0x217098644d0182ff!2sCentro%20Comercial%20I%C3%B1aquito%20(CCI)!3m2!1d-0.1767993!2d-78.4850658!4m5!1s0x91d58db4352baa87%3A0x2f9f7623e0894b8b!2z66eI66as7Iqk7Lm8IOyImO2BrOugiCDqta3soJzqs7Xtla0!3m2!1d-0.1242271!2d-78.36056839999999!4m5!1s0x902be6f60633c6ed%3A0x1260e2f387f7d729!2sEloy%20Alfaro%20International%20Airport!3m2!1d-0.9533834!2d-80.6838714!4m5!1s0x902be69a8c47e8ab%3A0xd2d4d38082b8b234!2zVGVybWluYWwgVGVycmVzdHJlIERlIE1hbnRhLCDrp4ztg4A!3m2!1d-0.9606631999999999!2d-80.6904709!4m5!1s0x902c208776215975%3A0x7272c8c8a037bf72!2sTerminal%20Terrestre%20Puerto%20Lopez!3m2!1d-1.5404421!2d-80.8018603!4m5!1s0x902e9f3524423219%3A0xa7fdda1621f08bc6!2sCoffee%20One%20Dolar!3m2!1d-1.5614697!2d-80.8147219!4m5!1s0x902e9e1f7ee47ecb%3A0x10de7eb9d7128f2d!2sRestaurante%20Espuma%20Del%20Mar!3m2!1d-1.5590112999999999!2d-80.8130405!4m5!1s0x902e9fe8871268e7%3A0xcbc625a91e5bfc22!2sFRAGATA%20XTREME%20(Subwing)%2C%20Puerto%20Lopez!3m2!1d-1.5592884!2d-80.8127248!4m5!1s0x902e9f00545654e5%3A0x87f42cec0aa40f97!2sMuelle%20de%20Puerto%20Lopez!3m2!1d-1.5609933!2d-80.8174011!4m5!1s0x902e9e1f170ea4ab%3A0x4ba38ee45c0e580!2sRestaurant%20Romance%20Marino%2C%20Malecon%20Julio%20Izurieta%2C%20Puerto%20Lopez!3m2!1d-1.561219!2d-80.8144239!5e0!3m2!1sko!2sec!4v1757351861847!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d78338.70827434002!2d-80.7852230928671!3d-1.5128481310961!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0x91d59a85e62ca895%3A0x217098644d0182ff!2sCentro%20Comercial%20I%C3%B1aquito%20(CCI)!3m2!1d-0.1767993!2d-78.4850658!4m5!1s0x91d58db4352baa87%3A0x2f9f7623e0894b8b!2z66eI66as7Iqk7Lm8IOyImO2BrOugiCDqta3soJzqs7Xtla0!3m2!1d-0.1242271!2d-78.36056839999999!4m5!1s0x902be6f60633c6ed%3A0x1260e2f387f7d729!2sEloy%20Alfaro%20International%20Airport!3m2!1d-0.9533834!2d-80.6838714!4m5!1s0x902be69a8c47e8ab%3A0xd2d4d38082b8b234!2zVGVybWluYWwgVGVycmVzdHJlIERlIE1hbnRhLCDrp4ztg4A!3m2!1d-0.9606631999999999!2d-80.6904709!4m5!1s0x902c208776215975%3A0x7272c8c8a037bf72!2sTerminal%20Terrestre%20Puerto%20Lopez!3m2!1d-1.5404421!2d-80.8018603!4m5!1s0x902e9f3524423219%3A0xa7fdda1621f08bc6!2sCoffee%20One%20Dolar!3m2!1d-1.5614697!2d-80.8147219!4m5!1s0x902e9e1f7ee47ecb%3A0x10de7eb9d7128f2d!2sRestaurante%20Espuma%20Del%20Mar!3m2!1d-1.5590112999999999!2d-80.8130405!4m5!1s0x902e9fe8871268e7%3A0xcbc625a91e5bfc22!2sFRAGATA%20XTREME%20(Subwing)%2C%20Puerto%20Lopez!3m2!1d-1.5592884!2d-80.8127248!4m5!1s0x902e9f00545654e5%3A0x87f42cec0aa40f97!2sMuelle%20de%20Puerto%20Lopez!3m2!1d-1.5609933!2d-80.8174011!4m5!1s0x902e9e1f170ea4ab%3A0x4ba38ee45c0e580!2sRestaurant%20Romance%20Marino%2C%20Malecon%20Julio%20Izurieta%2C%20Puerto%20Lopez!3m2!1d-1.561219!2d-80.8144239!5e0!3m2!1sko!2sec!4v1757351861847!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 ---

@@ -86,7 +86,7 @@ description: 2024.04.10 방 비엥에서 동굴 튜빙, 집라인, 카약킹 후
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d942.8925196084573!2d102.43017235986369!3d19.03865708021824!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3125f351d8b94929%3A0xef7d28e1829da4c6!2z7IyNIOuPmeq1tCjsvZTrgbzrpqwg64-Z6rW0KQ!5e0!3m2!1sko!2sec!4v1758597022630!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d942.8925196084573!2d102.43017235986369!3d19.03865708021824!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3125f351d8b94929%3A0xef7d28e1829da4c6!2z7IyNIOuPmeq1tCjsvZTrgbzrpqwg64-Z6rW0KQ!5e0!3m2!1sko!2sec!4v1758597022630!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 자 이 <span style="color: indianred">**동굴의 이름이 코끼리 동굴인 이유**</span>. 찾으셨나요? 확대하면 조금 더 그럴듯해 보이긴 합니다. <span style="color: #8D4801">**혹자들은 다른 곳에 있는 코끼리 동굴들이 더 코끼리 같다**</span>고들 하더라고요. 
@@ -117,7 +117,7 @@ description: 2024.04.10 방 비엥에서 동굴 튜빙, 집라인, 카약킹 후
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d942.9102774029186!2d102.4251089236976!3d19.035529842394848!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3125f345996bee7f%3A0xd5e46d5f32305bb7!2z64KoIOuPmeq1tCjtg5Ag64KoKQ!5e0!3m2!1sko!2sec!4v1758597123881!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d942.9102774029186!2d102.4251089236976!3d19.035529842394848!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3125f345996bee7f%3A0xd5e46d5f32305bb7!2z64KoIOuPmeq1tCjtg5Ag64KoKQ!5e0!3m2!1sko!2sec!4v1758597123881!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 동굴에 진입한 우리들. 일단 필자는 <span style="color: indianred">**물로 차 있는 동굴에 들어가는 경험 자체가 처음**</span>이라서 진행하는 내내 즐거웠다.
@@ -247,7 +247,7 @@ description: 2024.04.10 방 비엥에서 동굴 튜빙, 집라인, 카약킹 후
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d942.9037555208731!2d102.42540467530488!3d19.036678436435018!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3125f3006dfcdf3f%3A0xedffa6c318d142b!2z7Jik7JWE7Iuc7IqkIOynkeudvOyduA!5e0!3m2!1sko!2sec!4v1758597220516!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d942.9037555208731!2d102.42540467530488!3d19.036678436435018!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3125f3006dfcdf3f%3A0xedffa6c318d142b!2z7Jik7JWE7Iuc7IqkIOynkeudvOyduA!5e0!3m2!1sko!2sec!4v1758597220516!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 집라인을 타기 위해선 <span style="color: brown">**흔들다리를 건너고 약 5분 정도 가볍게 산을 올라야 했다**</span>. 앞에는 먼저 올라가시던 가이드분이 계셨는데, 아까 그분을 따라가란 뜻이었다. 집라인을 이용하는 동안 <span style="color: #8D4801">**가이드 두 분이 맨 앞과 맨 뒤에서 우리를 케어**</span>해주셨다.
@@ -365,7 +365,7 @@ description: 2024.04.10 방 비엥에서 동굴 튜빙, 집라인, 카약킹 후
 <br>
 
 나중에 우리가 카약킹했던 동선을 확인해 보았더니 <span style="color: #8D4801">**차로도 6km**</span>니까 그 이상의 거리를, 노를 저어서 이동했는데 <span style="color: indianred">**대략 1시간 조금 넘게**</span> 걸렸었다. 따지고 보면 그냥 걷는 거랑 비슷한 속도이다.
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d27557.083289602542!2d102.4420321739164!3d18.940253219909962!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x31258defbc00c45b%3A0x4d7d26d5d7b0927d!2zS2F5YWsgc3RhdGlvbiwg67Cp67mE7JelIOudvOyYpOyKpA!3m2!1d18.960870699999997!2d102.4438271!4m5!1s0x312592ce17bd9751%3A0xa833615a2c0bebca!2z65287Jik7IqkIFZhbmcgVmllbmcsIOy5tOyVve2CuSDrgZ0g7KeA7KCQKOuhse2FjOydvOuztO2KuCk!3m2!1d18.9216348!2d102.4451028!5e0!3m2!1sko!2sec!4v1758597534562!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d27557.083289602542!2d102.4420321739164!3d18.940253219909962!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x31258defbc00c45b%3A0x4d7d26d5d7b0927d!2zS2F5YWsgc3RhdGlvbiwg67Cp67mE7JelIOudvOyYpOyKpA!3m2!1d18.960870699999997!2d102.4438271!4m5!1s0x312592ce17bd9751%3A0xa833615a2c0bebca!2z65287Jik7IqkIFZhbmcgVmllbmcsIOy5tOyVve2CuSDrgZ0g7KeA7KCQKOuhse2FjOydvOuztO2KuCk!3m2!1d18.9216348!2d102.4451028!5e0!3m2!1sko!2sec!4v1758597534562!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 시작된 카약킹 일단 무작정 저어보았다. 처음 탑승 전에 가졌던 생각은 <span style="color: indianred">**마냥 힘과 체력만 좋고 열심히 저으면 되겠지, 하는 안일함**</span>이었다. 일단 나중에 알아본 결과
@@ -454,7 +454,7 @@ description: 2024.04.10 방 비엥에서 동굴 튜빙, 집라인, 카약킹 후
 사실 우리가 <span style="color: indianred">**방 비엥 숙소를 예약할 때 고려했던 사항**</span> 중 하나가 여러 개의 블루 라군이 전부 남송강 건너편에 자리 잡고 있기 때문에 블루 라군에 대한 접근성을 생각해서 <span style="color: brown">**다리가 근처에 존재하는 숙소**</span>를 일부러 선택한 것인데,
 
 나중에 알고 보니 이 다리는 <span style="color: indianred">**사람이나, 오토바이 정도의 작은 교통수단만 이동할 수 있어서**</span> 막상 차를 타고 이동할 때 오히려 한참 돌아가게 되었었다...
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1887.126185163912!2d102.44342301307925!3d18.92022029783551!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312592d1fab98b4d%3A0x41ef88c22ab0d75d!2sNam%20Song%20Motorcycle%20Bridge!5e0!3m2!1sko!2sec!4v1758597773943!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1887.126185163912!2d102.44342301307925!3d18.92022029783551!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312592d1fab98b4d%3A0x41ef88c22ab0d75d!2sNam%20Song%20Motorcycle%20Bridge!5e0!3m2!1sko!2sec!4v1758597773943!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 그래서 <span style="color: #8D4801">**멀리 돌아서 버기카 렌트 회사로 이동 중**</span>인 우리. 사실 전일 <span style="color: brown">**남싸이 전망대로 이동할 때도**</span> 소개받은 기사님께서 이쪽 다리로 돌아가셔서, 어차피 정찰제로 흥정하고 출발한 건데 <span style="color: indianred">**굳이 돌아가시는 이유가 무엇일지**</span> 이상하게 생각했었는데, 그냥 필자의 무지에서 온 오해였다.
@@ -463,7 +463,7 @@ description: 2024.04.10 방 비엥에서 동굴 튜빙, 집라인, 카약킹 후
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d943.4371228818547!2d102.44251741187949!3d18.94252350802386!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312593edd61c6859%3A0xc9f09ed33bccfdc9!2sNam%20Xong%20Bridge!5e0!3m2!1sko!2sec!4v1758597737684!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d943.4371228818547!2d102.44251741187949!3d18.94252350802386!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312593edd61c6859%3A0xc9f09ed33bccfdc9!2sNam%20Xong%20Bridge!5e0!3m2!1sko!2sec!4v1758597737684!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 ### 버기카 타고 가는 길
@@ -475,7 +475,7 @@ description: 2024.04.10 방 비엥에서 동굴 튜빙, 집라인, 카약킹 후
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d235.88915887828992!2d102.44268127322789!3d18.92136415176526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3125936b77250517%3A0x332996032d99c0a6!2sKham%20Tours%20and%20Bus%20Ticket%20Service!5e0!3m2!1sko!2sec!4v1758597847527!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d235.88915887828992!2d102.44268127322789!3d18.92136415176526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3125936b77250517%3A0x332996032d99c0a6!2sKham%20Tours%20and%20Bus%20Ticket%20Service!5e0!3m2!1sko!2sec!4v1758597847527!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 탑승 후기에 <span style="color: indianred">**먼지가 많이 날려서 눈이 아프거나 시야가 가려지고 호흡도 어려울 수 있다**</span>고 하여 중무장하고 출발한 우리들. 심지어 비가 온 뒤에는 <span style="color: brown">**웅덩이도 많고 진흙이 다 튀어서 온몸이 다 지저분해질 수도 있다**</span>고 했다.
@@ -571,7 +571,7 @@ description: 2024.04.10 방 비엥에서 동굴 튜빙, 집라인, 카약킹 후
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3773.7520972638113!2d102.33467862010004!3d18.942363997017264!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3125ef43b964f507%3A0x89bd32f7243924f3!2z67iU66Oo65286rWwIDM!5e0!3m2!1sko!2sec!4v1758597947229!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3773.7520972638113!2d102.33467862010004!3d18.942363997017264!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3125ef43b964f507%3A0x89bd32f7243924f3!2z67iU66Oo65286rWwIDM!5e0!3m2!1sko!2sec!4v1758597947229!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 입구에 들어서자마자 익히 유명한 이유를 느낄 수 있을 정도로 <span style="color: brown">**아름다웠던 블루 라군 3**</span>
@@ -741,7 +741,7 @@ description: 2024.04.10 방 비엥에서 동굴 튜빙, 집라인, 카약킹 후
 
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d943.5439503691927!2d102.4475229!3d18.9236111!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3125936db5d8203b%3A0x92f9f2fca3fac6cb!2sNight%20Market!5e0!3m2!1sko!2sec!4v1758598216726!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d943.5439503691927!2d102.4475229!3d18.9236111!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3125936db5d8203b%3A0x92f9f2fca3fac6cb!2sNight%20Market!5e0!3m2!1sko!2sec!4v1758598216726!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 루앙 프라방에서도 봤던 음식인데 <span style="color: indianred">**이제서야 구매해 본 튀김 요리**</span>
@@ -769,7 +769,7 @@ description: 2024.04.10 방 비엥에서 동굴 튜빙, 집라인, 카약킹 후
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d235.88573431028664!2d102.44802877306941!3d18.923790546578072!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312593003c52e30f%3A0x6ad36168766ae356!2sHot%20pot%26BBQ!5e0!3m2!1sko!2sec!4v1758598183264!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d235.88573431028664!2d102.44802877306941!3d18.923790546578072!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312593003c52e30f%3A0x6ad36168766ae356!2sHot%20pot%26BBQ!5e0!3m2!1sko!2sec!4v1758598183264!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 항아리가 데워져 <span style="color: #8D4801">**육수가 끓기를 기다리는 중**</span>
@@ -801,7 +801,7 @@ description: 2024.04.10 방 비엥에서 동굴 튜빙, 집라인, 카약킹 후
 ---
 
 ## 여행 경로
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m66!1m12!1m3!1d3771.5700779844765!2d102.43047039999999!3d19.038657099999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m51!3e2!4m5!1s0x3125f351d8b94929%3A0xef7d28e1829da4c6!2zMkNRSitGNTkg7IyNIOuPmeq1tCjsvZTrgbzrpqwg64-Z6rW0KSBOYW0gWG9uZyBSaXZlciwsIFBob3hheSwg65287Jik7Iqk!3m2!1d19.038657099999998!2d102.43047039999999!4m1!2z64KoIOuPmeq1tCjtg5Ag64KoKQ!4m5!1s0x3125f3006dfcdf3f%3A0xedffa6c318d142b!2z65287Jik7IqkIFBob3hheSwg7Jik7JWE7Iuc7IqkIOynkeudvOyduA!3m2!1d19.0366784!2d102.42595179999999!4m5!1s0x31258defbc00c45b%3A0x4d7d26d5d7b0927d!2zS2F5YWsgc3RhdGlvbiwg67Cp67mE7JelIOudvOyYpOyKpA!3m2!1d18.960870699999997!2d102.4438271!4m5!1s0x312592ce17bd9751%3A0xa833615a2c0bebca!2z65287Jik7IqkIOuwqeu5hOyXpSDsubTslb3tgrkg64GdIOyngOygkCjrobHthYzsnbzrs7Ttirgp!3m2!1d18.9216348!2d102.4451028!4m5!1s0x3125936b77250517%3A0x332996032d99c0a6!2zS2hhbSBUb3VycyBhbmQgQnVzIFRpY2tldCBTZXJ2aWNlLCBVbm5hbWVkIFJvYWQsIOuwqeu5hOyXpSDrnbzsmKTsiqQ!3m2!1d18.9214043!2d102.4427484!4m5!1s0x3125ef43b964f507%3A0x89bd32f7243924f3!2z65287Jik7IqkIEJhbiBOYW1ww6gsIOu4lOujqOudvOq1sCAz!3m2!1d18.942363699999998!2d102.33686759999999!4m5!1s0x3125936db5d8203b%3A0x92f9f2fca3fac6cb!2zTmlnaHQgTWFya2V0LCDrsKnruYTsl6Ug65287Jik7Iqk!3m2!1d18.9235144!2d102.4475078!4m5!1s0x312593003c52e30f%3A0x6ad36168766ae356!2z65287Jik7IqkIOuwqeu5hOyXpSBIb3QgcG90JkJCUQ!3m2!1d18.923790399999998!2d102.4481655!5e0!3m2!1sko!2sec!4v1758598494495!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m66!1m12!1m3!1d3771.5700779844765!2d102.43047039999999!3d19.038657099999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m51!3e2!4m5!1s0x3125f351d8b94929%3A0xef7d28e1829da4c6!2zMkNRSitGNTkg7IyNIOuPmeq1tCjsvZTrgbzrpqwg64-Z6rW0KSBOYW0gWG9uZyBSaXZlciwsIFBob3hheSwg65287Jik7Iqk!3m2!1d19.038657099999998!2d102.43047039999999!4m1!2z64KoIOuPmeq1tCjtg5Ag64KoKQ!4m5!1s0x3125f3006dfcdf3f%3A0xedffa6c318d142b!2z65287Jik7IqkIFBob3hheSwg7Jik7JWE7Iuc7IqkIOynkeudvOyduA!3m2!1d19.0366784!2d102.42595179999999!4m5!1s0x31258defbc00c45b%3A0x4d7d26d5d7b0927d!2zS2F5YWsgc3RhdGlvbiwg67Cp67mE7JelIOudvOyYpOyKpA!3m2!1d18.960870699999997!2d102.4438271!4m5!1s0x312592ce17bd9751%3A0xa833615a2c0bebca!2z65287Jik7IqkIOuwqeu5hOyXpSDsubTslb3tgrkg64GdIOyngOygkCjrobHthYzsnbzrs7Ttirgp!3m2!1d18.9216348!2d102.4451028!4m5!1s0x3125936b77250517%3A0x332996032d99c0a6!2zS2hhbSBUb3VycyBhbmQgQnVzIFRpY2tldCBTZXJ2aWNlLCBVbm5hbWVkIFJvYWQsIOuwqeu5hOyXpSDrnbzsmKTsiqQ!3m2!1d18.9214043!2d102.4427484!4m5!1s0x3125ef43b964f507%3A0x89bd32f7243924f3!2z65287Jik7IqkIEJhbiBOYW1ww6gsIOu4lOujqOudvOq1sCAz!3m2!1d18.942363699999998!2d102.33686759999999!4m5!1s0x3125936db5d8203b%3A0x92f9f2fca3fac6cb!2zTmlnaHQgTWFya2V0LCDrsKnruYTsl6Ug65287Jik7Iqk!3m2!1d18.9235144!2d102.4475078!4m5!1s0x312593003c52e30f%3A0x6ad36168766ae356!2z65287Jik7IqkIOuwqeu5hOyXpSBIb3QgcG90JkJCUQ!3m2!1d18.923790399999998!2d102.4481655!5e0!3m2!1sko!2sec!4v1758598494495!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 ---
@@ -834,7 +834,8 @@ window.panoramas = [
         compass: true,
         title: "Blue lagoon 3 view",
         author: "Jaeyong Kim",
-        showZoomCtrl: true
+        showZoomCtrl: true,
+        hfov: 120
       }
     }
   ];

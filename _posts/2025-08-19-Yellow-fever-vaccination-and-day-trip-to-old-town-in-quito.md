@@ -25,7 +25,7 @@ description: 2025.08.19 에콰도르 키토에서 무료로 황열병 예방접�
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.7880719613077!2d-78.5144598!3d-0.22310659999999033!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59986ce9fc975%3A0x2efbb6d53da8c834!2sHealth%20Center%20No%201%20HISTORICAL%20CENTER!5e0!3m2!1sko!2sec!4v1756250500451!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.7880719613077!2d-78.5144598!3d-0.22310659999999033!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59986ce9fc975%3A0x2efbb6d53da8c834!2sHealth%20Center%20No%201%20HISTORICAL%20CENTER!5e0!3m2!1sko!2sec!4v1756250500451!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 먼저 이곳에는 여전히 코로나가 유행 중이라서 <span style="color: indianred">**마스크를 착용하지 않으면 병원에 들어갈 수 없다**</span>. 하지만 병원 앞에서 <span style="color: #8D4801">**25센트에 마스크를 판매하는 행상인**</span>이 있으므로 설령 까먹고 챙기지 못했어도 괜찮다.
@@ -98,7 +98,7 @@ description: 2025.08.19 에콰도르 키토에서 무료로 황열병 예방접�
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2944.4095226416853!2d-78.51741006272798!3d-0.22726272781366744!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d5990051e15f39%3A0x62512709ba9c92f4!2sCentro%20Cultural%20Olguita%20Rengifo!5e0!3m2!1sko!2sec!4v1756258319172!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2944.4095226416853!2d-78.51741006272798!3d-0.22726272781366744!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d5990051e15f39%3A0x62512709ba9c92f4!2sCentro%20Cultural%20Olguita%20Rengifo!5e0!3m2!1sko!2sec!4v1756258319172!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 <span style="color: #8D4801">**남미에 해당 지역 치안 판별기라는 쇠창살 문**</span>. 사실 필자가 걸어온 <span style="color: indianred">**성모상을 향한 거리는 키토에서 우범지역으로 그냥 걸어가기에는 위험한 장소**</span>라고 하니 성모상 방문 시 우버나 택시 이용을 추천해 드린다. 
@@ -121,7 +121,7 @@ description: 2025.08.19 에콰도르 키토에서 무료로 황열병 예방접�
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.786408665254!2d-78.51974453310255!3d-0.2291586100917368!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59982ce830869%3A0x52b4c746cac24eca!2sVirgin%20of%20the%20Panecillo!5e0!3m2!1sko!2sec!4v1756261189678!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.786408665254!2d-78.51974453310255!3d-0.2291586100917368!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59982ce830869%3A0x52b4c746cac24eca!2sVirgin%20of%20the%20Panecillo!5e0!3m2!1sko!2sec!4v1756261189678!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 성모상 아래에는 <span style="color: #8D4801">**입장할 수 있는 전시관**</span> 같은 것도 준비되어 있었는데, 뭔가 <span style="color: indianred">**입장료를 지불**</span>해야 하지만 내부에 뭔가 특별한 게 있을 것 같지는 않아서 들어가지는 않았다.
@@ -229,7 +229,7 @@ description: 2025.08.19 에콰도르 키토에서 무료로 황열병 예방접�
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2350.5183923709064!2d-78.51310374531208!3d-0.22101767545504658!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59987820f190f%3A0x294cb69e1f4ca35e!2sIndependence%20Square!5e0!3m2!1sko!2sec!4v1756262280045!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2350.5183923709064!2d-78.51310374531208!3d-0.22101767545504658!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59987820f190f%3A0x294cb69e1f4ca35e!2sIndependence%20Square!5e0!3m2!1sko!2sec!4v1756262280045!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 아무튼 거리가 이뻐서 계속 찍다 보니 오래된 나의 <span style="color: indianred">**핸드폰 배터리가 간당간당**</span>해서 남은 올드타운은 다음을 기약하기로 했다.
@@ -254,7 +254,7 @@ description: 2025.08.19 에콰도르 키토에서 무료로 황열병 예방접�
 ---
 
 ## 여행 경로
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d47001.822557559506!2d-78.5229786764282!3d-0.23001555213763308!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e0!4m5!1s0x91d59a85e62ca895%3A0x217098644d0182ff!2sCentro%20Comercial%20I%C3%B1aquito%20(CCI)!3m2!1d-0.1767993!2d-78.4850658!4m5!1s0x91d59986ce9fc975%3A0x2efbb6d53da8c834!2sQFGP%2BQ63%20Health%20Center%20No%201%20HISTORICAL%20CENTER%2C%20Quito%20170130!3m2!1d-0.2231066!2d-78.5144598!4m5!1s0x91d5990051e15f39%3A0x62512709ba9c92f4!2sCentro%20Cultural%20Olguita%20Rengifo%2C%20QFFM%2B26R%2C%20Gral.%20Melchor%20Aymerich%2C%20Quito%20170111!3m2!1d-0.2273989!2d-78.5169762!4m5!1s0x91d59982ce830869%3A0x52b4c746cac24eca!2sVirgin%20of%20the%20Panecillo%2C%20General%20Melchor%20Aymerich%2C%20%ED%82%A4%ED%86%A0!3m2!1d-0.22915839999999998!2d-78.518597!4m5!1s0x91d59987820f190f%3A0x294cb69e1f4ca35e!2sIndependence%20Square!3m2!1d-0.220124!2d-78.512081!5e0!3m2!1sko!2sec!4v1757350253825!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d47001.822557559506!2d-78.5229786764282!3d-0.23001555213763308!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e0!4m5!1s0x91d59a85e62ca895%3A0x217098644d0182ff!2sCentro%20Comercial%20I%C3%B1aquito%20(CCI)!3m2!1d-0.1767993!2d-78.4850658!4m5!1s0x91d59986ce9fc975%3A0x2efbb6d53da8c834!2sQFGP%2BQ63%20Health%20Center%20No%201%20HISTORICAL%20CENTER%2C%20Quito%20170130!3m2!1d-0.2231066!2d-78.5144598!4m5!1s0x91d5990051e15f39%3A0x62512709ba9c92f4!2sCentro%20Cultural%20Olguita%20Rengifo%2C%20QFFM%2B26R%2C%20Gral.%20Melchor%20Aymerich%2C%20Quito%20170111!3m2!1d-0.2273989!2d-78.5169762!4m5!1s0x91d59982ce830869%3A0x52b4c746cac24eca!2sVirgin%20of%20the%20Panecillo%2C%20General%20Melchor%20Aymerich%2C%20%ED%82%A4%ED%86%A0!3m2!1d-0.22915839999999998!2d-78.518597!4m5!1s0x91d59987820f190f%3A0x294cb69e1f4ca35e!2sIndependence%20Square!3m2!1d-0.220124!2d-78.512081!5e0!3m2!1sko!2sec!4v1757350253825!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 ---

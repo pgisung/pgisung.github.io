@@ -48,7 +48,7 @@ description: 2024.04.11 라오스 방 비엥에서 비엔티안까지 이동 및
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d260.9729734268068!2d102.44783503277435!3d18.926231896868508!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312592cf4ea92e5b%3A0x332def13ccbf7843!2z64W464Sk7J6EIOyLneuLuQ!5e0!3m2!1sko!2sec!4v1758982786473!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d260.9729734268068!2d102.44783503277435!3d18.926231896868508!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312592cf4ea92e5b%3A0x332def13ccbf7843!2z64W464Sk7J6EIOyLneuLuQ!5e0!3m2!1sko!2sec!4v1758982786473!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 필자는 베트남에서도 오랜 기간 머무른 적이 있었는데, <span style="color: indianred">**카오 삐약 센은 단연코 노상에서 판매되는 베트남 쌀국수에 비견될 정도**</span>로 깊은 맛을 가진 음식이었다.
@@ -87,7 +87,7 @@ description: 2024.04.11 라오스 방 비엥에서 비엔티안까지 이동 및
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d943.5626878334477!2d102.44363059999999!3d18.920292!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312592d21cfc5bdb%3A0x3a9dcdfd914659fd!2sPasanchai%20Bungalow!5e0!3m2!1sko!2sec!4v1758983157127!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d943.5626878334477!2d102.44363059999999!3d18.920292!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312592d21cfc5bdb%3A0x3a9dcdfd914659fd!2sPasanchai%20Bungalow!5e0!3m2!1sko!2sec!4v1758983157127!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 마땅히 갈 곳도 없고 <span style="color: #8D4801">**기차 시간까지 이곳에서 강변 전망을 보며 시간을 보내자**</span>고 생각했더니, 갑자기 <span style="color: brown">**음식이 당기기 시작했다**</span>. (<span style="color: indianred">**밥 먹은 지 몇 시간**</span>이나 되었다고...)
@@ -165,7 +165,7 @@ description: 2024.04.11 라오스 방 비엥에서 비엔티안까지 이동 및
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d724057.6104181737!2d102.3974034320559!3d18.378565491416882!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x312593ff85981161%3A0x79d70b4e89c1e5a5!2zWEYzNCs0RiDrsKnruYTsl6Ug6riw7LCo7JetIFZhbmcgVmllbmcsIOudvOyYpOyKpA!3m2!1d18.9538129!2d102.4558947!4m5!1s0x31245dcfa631beff%3A0xd08d1f9a4a98ce8f!2sVientiane%20Railway%20Station%2C%20Vientiane%20Railway%20Station%2C%20Don%20Noun%2C%20%EB%9D%BC%EC%98%A4%EC%8A%A4!3m2!1d18.046111!2d102.690556!5e0!3m2!1sko!2sec!4v1758983294371!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d724057.6104181737!2d102.3974034320559!3d18.378565491416882!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x312593ff85981161%3A0x79d70b4e89c1e5a5!2zWEYzNCs0RiDrsKnruYTsl6Ug6riw7LCo7JetIFZhbmcgVmllbmcsIOudvOyYpOyKpA!3m2!1d18.9538129!2d102.4558947!4m5!1s0x31245dcfa631beff%3A0xd08d1f9a4a98ce8f!2sVientiane%20Railway%20Station%2C%20Vientiane%20Railway%20Station%2C%20Don%20Noun%2C%20%EB%9D%BC%EC%98%A4%EC%8A%A4!3m2!1d18.046111!2d102.690556!5e0!3m2!1sko!2sec!4v1758983294371!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 기차 안에서 잠든 필자. 마지막 날이 되어서 긴장이 많이 풀렸었다.
@@ -181,7 +181,7 @@ description: 2024.04.11 라오스 방 비엥에서 비엔티안까지 이동 및
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1933.0863266958727!2d102.61817119863436!3d17.96165110675433!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3124690978228295%3A0xaed12c70ffb36198!2z7YyN7Iu8IOuwse2ZlOygkA!5e0!3m2!1sko!2sec!4v1758983363175!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1933.0863266958727!2d102.61817119863436!3d17.96165110675433!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3124690978228295%3A0xaed12c70ffb36198!2z7YyN7Iu8IOuwse2ZlOygkA!5e0!3m2!1sko!2sec!4v1758983363175!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 가장 먼저 친구가 모으고 있다는 <span style="color: #8D4801">**스타벅스 컵**</span>을 보기 위해서 스타벅스를 방문했다.
@@ -233,7 +233,7 @@ description: 2024.04.11 라오스 방 비엥에서 비엔티안까지 이동 및
 
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d474.42005140097103!2d102.6166249970116!3d17.9619614053029!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312469c2b95161f1%3A0xbb41054a48444596!2sRelaxify%20Massage%20%26%20Spa!5e0!3m2!1sko!2sec!4v1758983465608!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d474.42005140097103!2d102.6166249970116!3d17.9619614053029!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312469c2b95161f1%3A0xbb41054a48444596!2sRelaxify%20Massage%20%26%20Spa!5e0!3m2!1sko!2sec!4v1758983465608!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 <span style="color: indianred">**아침에도 2시간 만에 연속으로 식사**</span>했던 것 같은데, 마사지를 받고 나니 <span style="color: brown">**배고프다며 또 먹으러**</span> 찾아온 피자 컴퍼니. 무난한 <span style="color: #8D4801">**페퍼로니 피자**</span>로 5시간 비행을 하기 전에 배를 채웠다.
@@ -253,7 +253,7 @@ description: 2024.04.11 라오스 방 비엥에서 비엔티안까지 이동 및
 
 ## 여행을 마무리하며
 앞에는 함께 <span style="color: #8D4801">**일본 가고시마**</span>를 다녀왔었는데, 이번에 기간이 길어서 그랬던 건지는 몰라도 <span style="color: indianred">**무언가 좀 더 진짜 재밌었다!!!**</span> 하는 기분이 들었다. 아마도 라오스는 이번 여행으로 가볼 만한 곳은 다 가봤다고 하는 느낌이라서 재방문은 안 할 것 같지만, <span style="color: brown">**친구들과의 여행은 계속될지도... (feat. 몽골)**</span>
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30358.42454852179!2d102.54672251197815!3d17.987896911190408!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312469b9e9408103%3A0x2437295adc2faacd!2sWattay%20International%20Airport!5e0!3m2!1sko!2sec!4v1757649022280!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30358.42454852179!2d102.54672251197815!3d17.987896911190408!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312469b9e9408103%3A0x2437295adc2faacd!2sWattay%20International%20Airport!5e0!3m2!1sko!2sec!4v1757649022280!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 여담으로 한국에 복귀하고도 석촌호수, 롯데타워, 새벽 한강 자전거 라이딩 등 <span style="color: #8D4801">**서울에서 신나게 놀다가 헤어졌다**</span>는...
@@ -265,7 +265,7 @@ description: 2024.04.11 라오스 방 비엥에서 비엔티안까지 이동 및
 ---
 
 ## 여행 경로
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m64!1m12!1m3!1d1010071.5537413491!2d102.76122765423892!3d18.04283476800525!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m49!3e0!4m5!1s0x312593f1289ff9b3%3A0xa6c8c90af1b4f053!2z7L2Y7Y6Y7YuwIOqwgOuToCDtmLjthZQg65287Jik7IqkIFZhbmcgVmllbmc!3m2!1d18.919766499999998!2d102.4461761!4m5!1s0x312592cf4ea92e5b%3A0x332def13ccbf7843!2zV0NHWCtGNVgg64W464Sk7J6EIOyLneuLuSBWYW5nIFZpZW5nLCDrnbzsmKTsiqQ!3m2!1d18.9262405!2d102.4479435!4m5!1s0x312592d21cfc5bdb%3A0x3a9dcdfd914659fd!2zUGFzYW5jaGFpIEJ1bmdhbG93LCBCYW4gS2hvdWFwaGFuLCDrnbzsmKTsiqQ!3m2!1d18.9201698!2d102.4436298!4m5!1s0x312593ff85981161%3A0x79d70b4e89c1e5a5!2z65287Jik7IqkIOuwqeu5hOyXpSDrsKnruYTsl6Ug6riw7LCo7Jet!3m2!1d18.9538129!2d102.4558947!4m5!1s0x31245dcfa631beff%3A0xd08d1f9a4a98ce8f!2sVientiane%20Railway%20Station%2C%20Vientiane%20Railway%20Station%2C%20Don%20Noun%2C%20%EB%9D%BC%EC%98%A4%EC%8A%A4!3m2!1d18.046111!2d102.690556!4m5!1s0x3124690978228295%3A0xaed12c70ffb36198!2z65287Jik7IqkIOu5hOyXlO2LsOyViCDtjI3si7wg67Cx7ZmU7KCQ!3m2!1d17.9613647!2d102.61852999999999!4m5!1s0x312469c2b95161f1%3A0xbb41054a48444596!2zUmVsYXhpZnkgTWFzc2FnZSAmIFNwYSwg67mE7JeU7Yuw7JWIIOudvOyYpOyKpA!3m2!1d17.9619613!2d102.6168103!4m5!1s0x312469b9e9408103%3A0x2437295adc2faacd!2zV2F0dGF5IEludGVybmF0aW9uYWwgQWlycG9ydCwg67mE7JeU7Yuw7JWIIOudvOyYpOyKpA!3m2!1d17.9758837!2d102.5703808!5e0!3m2!1sko!2sec!4v1758983912286!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m64!1m12!1m3!1d1010071.5537413491!2d102.76122765423892!3d18.04283476800525!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m49!3e0!4m5!1s0x312593f1289ff9b3%3A0xa6c8c90af1b4f053!2z7L2Y7Y6Y7YuwIOqwgOuToCDtmLjthZQg65287Jik7IqkIFZhbmcgVmllbmc!3m2!1d18.919766499999998!2d102.4461761!4m5!1s0x312592cf4ea92e5b%3A0x332def13ccbf7843!2zV0NHWCtGNVgg64W464Sk7J6EIOyLneuLuSBWYW5nIFZpZW5nLCDrnbzsmKTsiqQ!3m2!1d18.9262405!2d102.4479435!4m5!1s0x312592d21cfc5bdb%3A0x3a9dcdfd914659fd!2zUGFzYW5jaGFpIEJ1bmdhbG93LCBCYW4gS2hvdWFwaGFuLCDrnbzsmKTsiqQ!3m2!1d18.9201698!2d102.4436298!4m5!1s0x312593ff85981161%3A0x79d70b4e89c1e5a5!2z65287Jik7IqkIOuwqeu5hOyXpSDrsKnruYTsl6Ug6riw7LCo7Jet!3m2!1d18.9538129!2d102.4558947!4m5!1s0x31245dcfa631beff%3A0xd08d1f9a4a98ce8f!2sVientiane%20Railway%20Station%2C%20Vientiane%20Railway%20Station%2C%20Don%20Noun%2C%20%EB%9D%BC%EC%98%A4%EC%8A%A4!3m2!1d18.046111!2d102.690556!4m5!1s0x3124690978228295%3A0xaed12c70ffb36198!2z65287Jik7IqkIOu5hOyXlO2LsOyViCDtjI3si7wg67Cx7ZmU7KCQ!3m2!1d17.9613647!2d102.61852999999999!4m5!1s0x312469c2b95161f1%3A0xbb41054a48444596!2zUmVsYXhpZnkgTWFzc2FnZSAmIFNwYSwg67mE7JeU7Yuw7JWIIOudvOyYpOyKpA!3m2!1d17.9619613!2d102.6168103!4m5!1s0x312469b9e9408103%3A0x2437295adc2faacd!2zV2F0dGF5IEludGVybmF0aW9uYWwgQWlycG9ydCwg67mE7JeU7Yuw7JWIIOudvOyYpOyKpA!3m2!1d17.9758837!2d102.5703808!5e0!3m2!1sko!2sec!4v1758983912286!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 ---

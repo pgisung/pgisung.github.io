@@ -41,7 +41,7 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1361.769884688251!2d-78.48206211832948!3d-0.17636891274545957!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a846449b88b%3A0xb5ca75d150fcbb8c!2sQuito%20Tour%20Bus%20%2F%20Bulevar%20Naciones%20Unidas!5e0!3m2!1sko!2sec!4v1757346253476!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1361.769884688251!2d-78.48206211832948!3d-0.17636891274545957!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a846449b88b%3A0xb5ca75d150fcbb8c!2sQuito%20Tour%20Bus%20%2F%20Bulevar%20Naciones%20Unidas!5e0!3m2!1sko!2sec!4v1757346253476!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 음? 무언가 이 앵글에 기시감이 드신다면 저의 다른 여행 글도 봐주셨단 뜻이겠죠. 감사합니다. <span style="color: #8D4801">**아무튼 오늘 여행도 출발!**</span>
@@ -60,7 +60,7 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 <br>
 
 같은 여행사를 이용했지만, 킬로토아 투어와 달리 가이드분이 차에서 1시간 넘게 <span style="color: #8D4801">**설명 없이 조용히 이동**</span>하다 보니 음악 듣기에 좋기도 했지만 약간 심심했는데 알고 보니 일행이 16명이나 되어서 이틀 전처럼 <span style="color: indianred">**탑승할 때마다 일일이 따로 설명이 어려워서 일행을 모두 픽업하고 고속도로에 진입하고 나서 투어 설명을 시작**</span>하셨다.
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.789198340962!2d-78.5046152!3d-0.2189132!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59b8b6932bf15%3A0xcb83e029bb315a40!2sTravel%20Agency%20Secret%20Garden%20Ecuador!5e0!3m2!1sko!2sec!4v1757514593432!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.789198340962!2d-78.5046152!3d-0.2189132!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59b8b6932bf15%3A0xcb83e029bb315a40!2sTravel%20Agency%20Secret%20Garden%20Ecuador!5e0!3m2!1sko!2sec!4v1757514593432!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 이틀 전에는 없었던 <span style="color: #8D4801">**교통 체증**</span>도 있어서 이동이 좀 지연되었다.
@@ -76,7 +76,7 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.6532779720224!2d-78.57909768122862!3d-0.5211470628491083!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d5abe4b3ba39b1%3A0x32257dced0efee4!2sChasky%20Kfe%20Restaurante%20-%20Mini%20Market!5e0!3m2!1sko!2sec!4v1757346201906!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.6532779720224!2d-78.57909768122862!3d-0.5211470628491083!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d5abe4b3ba39b1%3A0x32257dced0efee4!2sChasky%20Kfe%20Restaurante%20-%20Mini%20Market!5e0!3m2!1sko!2sec!4v1757346201906!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 에콰도르 차 중에는 이유는 모르겠는데 <span style="color: #8D4801">**번호판을 떼어놓고**</span> 앞 유리에 <span style="color: #8D4801">**종이로 번호를 붙여놓은 차**</span>들이 자주 보이는 데 <span style="color: indianred">**법적으로 문제**</span>가 없는지 궁금했다.
@@ -95,7 +95,7 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 
 ## 코토팍시 국립공원
 아침 식사를 마치고 코토팍시 국립공원으로 이동 중 <span style="color: indianred">**점심 메뉴를 미리 조사**</span>하시길래 투어 중에 닭고기, 소고기 메뉴는 이미 먹어서 <span style="color: #8D4801">**이번에는 돼지고기로 주문**</span>했다.
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d65399.71438303551!2d-78.45088825766301!3d-0.7095152500929278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d44f0000000721%3A0xfcb277e2b76a0775!2z7L2U7Yag7YyN7IucIOq1reumveqzteybkA!5e0!3m2!1sko!2sec!4v1757514798311!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d65399.71438303551!2d-78.45088825766301!3d-0.7095152500929278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d44f0000000721%3A0xfcb277e2b76a0775!2z7L2U7Yag7YyN7IucIOq1reumveqzteybkA!5e0!3m2!1sko!2sec!4v1757514798311!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 ### 코토팍시 국립공원 관리사무소
@@ -106,7 +106,7 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.5382506598376!2d-78.5542128!3d-0.6788856999999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d45146188b733f%3A0x1c51649516c0f3fa!2sCotopaxi-%20Administration%20National%20Park!5e0!3m2!1sko!2sec!4v1757514864448!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.5382506598376!2d-78.5542128!3d-0.6788856999999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d45146188b733f%3A0x1c51649516c0f3fa!2sCotopaxi-%20Administration%20National%20Park!5e0!3m2!1sko!2sec!4v1757514864448!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 **흔들리는 버스 안에서~ 네 유황 향이 느껴진 거야~**
@@ -124,7 +124,7 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.5670606622634!2d-78.4959671!3d-0.6430204!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d4526ae679fb3d%3A0xbe8cab3da0ba6fd8!2sCotopaxi%20Visitors%20Center!5e0!3m2!1sko!2sec!4v1757514945053!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.5670606622634!2d-78.4959671!3d-0.6430204!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d4526ae679fb3d%3A0xbe8cab3da0ba6fd8!2sCotopaxi%20Visitors%20Center!5e0!3m2!1sko!2sec!4v1757514945053!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 입구에 들어가서 <span style="color: #8D4801">**오른쪽에는 기념품 및 방한용품 상점**</span>이 있었고 <span style="color: indianred">**안쪽으로는 코토팍시 국립공원에 대한 전시관**</span>이 있었는데 내부에 이미 우리보다 앞서 도착한 그룹이 3그룹이나 있어서 그들을 기다릴 겸 쇼핑 등을 하며 잠시 대기시간을 가질 것을 안내해 준 가이드
@@ -214,7 +214,7 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.5557535069133!2d-78.4384688!3d-0.6573299000000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d44dd0e745ddeb%3A0x5f5cfeee04e714ce!2sCotopaxi%20refugee%20parking!5e0!3m2!1sko!2sec!4v1757515003835!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.5557535069133!2d-78.4384688!3d-0.6573299000000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d44dd0e745ddeb%3A0x5f5cfeee04e714ce!2sCotopaxi%20refugee%20parking!5e0!3m2!1sko!2sec!4v1757515003835!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 차로 이동해서 온 곳의 <span style="color: #8D4801">**고도가 이미 4,620m**</span>였다.
@@ -293,7 +293,7 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.550902554654!2d-78.4385255!3d-0.6633743!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d44dd7d439ac6b%3A0x7281e1450509693!2sRefugio%20Cotopaxi%20(Jose%20Rivas)!5e0!3m2!1sko!2sec!4v1757515080378!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.550902554654!2d-78.4385255!3d-0.6633743!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d44dd7d439ac6b%3A0x7281e1450509693!2sRefugio%20Cotopaxi%20(Jose%20Rivas)!5e0!3m2!1sko!2sec!4v1757515080378!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 마시기 전에 <span style="color: indianred">**손만 댔는데도 너무나 행복했던 핫초코**</span>. <span style="color: #8D4801">**달콤 따뜻한 음료에 온몸이 금방 따뜻해지는**</span> 듯했다. 앞에 앉아계시던 여성분은 일행이 만년설까지 보러 올라갔다고 기다리고 계신다고 했다. 약 20분 정도 걸릴 거라고 했다는데 <span style="color: indianred">**필자도 만약 이런 단체 여행만 아니었다면 더 올라가 보고 싶었는데**</span> 아쉬웠다. 프라이빗 투어가 조금 더 비싸서 선택하지 않았는데 <span style="color: #8D4801">**이럴 때는 돈을 아낀 게 조금 후회**</span>도 된다.
@@ -402,7 +402,7 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.589597224059!2d-78.4738671!3d-0.6135051000000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d44d4b8e90f1bf%3A0xdd0138f8e7efdb25!2sLaguna%20De%20Limpiopungo!5e0!3m2!1sko!2sec!4v1757515194179!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.589597224059!2d-78.4738671!3d-0.6135051000000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d44d4b8e90f1bf%3A0xdd0138f8e7efdb25!2sLaguna%20De%20Limpiopungo!5e0!3m2!1sko!2sec!4v1757515194179!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 #### 240도 파노라마 코토팍시 화산 전경
@@ -459,7 +459,7 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.5204640779043!2d-78.58859123704833!3d-0.7001113878597516!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d45714d5790457%3A0x9cccf84529e92588!2sRondador%20Cotopaxi!5e0!3m2!1sko!2sec!4v1757346307587!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.5204640779043!2d-78.58859123704833!3d-0.7001113878597516!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d45714d5790457%3A0x9cccf84529e92588!2sRondador%20Cotopaxi!5e0!3m2!1sko!2sec!4v1757346307587!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 점심으로 나온 <span style="color: #8D4801">**수프는 두부, 현미, 감자, 당근 등을 재료로 사용**</span>했고 <span style="color: indianred">**담백하고 맛있었다**</span>.
@@ -511,7 +511,7 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 ---
 
 ## 여행 경로
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m70!1m12!1m3!1d138020.49713691193!2d-78.5247326795586!3d-0.6198636389542553!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m55!3e0!4m5!1s0x91d59a846449b88b%3A0xb5ca75d150fcbb8c!2sQuito%20Tour%20Bus%20%2F%20Bulevar%20Naciones%20Unidas%2C%20Naciones%20Unidas%20Ave%2C%20Quito%20170506!3m2!1d-0.1767204!2d-78.4818741!4m5!1s0x91d59b8b6932bf15%3A0xcb83e029bb315a40!2sTravel%20Agency%20Secret%20Garden%20Ecuador%2C%20Jos%C3%A9%20de%20Antepara%20E4-50%20y%2C%20Quito%20170113!3m2!1d-0.2189205!2d-78.5046165!4m5!1s0x91d5abe4b3ba39b1%3A0x32257dced0efee4!2sChasky%20Kf%C3%A9%20-%20Restaurante%20Mini%20Market%20Boutique%2C%20Carretera%20Panamericana%2C%20Aloasi!3m2!1d-0.5206320999999999!2d-78.577542!4m5!1s0x91d45146188b733f%3A0x1c51649516c0f3fa!2sCotopaxi-%20Administration%20National%20Park!3m2!1d-0.6788856999999999!2d-78.5542128!4m5!1s0x91d4526ae679fb3d%3A0xbe8cab3da0ba6fd8!2zQ290b3BheGkgVmlzaXRvcnMgQ2VudGVyLCDrnbztg4Dsv7XqsIA!3m2!1d-0.6430203999999999!2d-78.4959671!4m5!1s0x91d44dd0e745ddeb%3A0x5f5cfeee04e714ce!2sCotopaxi%20refugee%20parking!3m2!1d-0.6573299!2d-78.4384688!4m5!1s0x91d44dd7d439ac6b%3A0x7281e1450509693!2sRefugio%20Cotopaxi%20(Jose%20Rivas)!3m2!1d-0.6633743!2d-78.4385255!4m5!1s0x91d44d4b8e90f1bf%3A0xdd0138f8e7efdb25!2sLaguna%20De%20Limpiopungo%2C%20Ovejer%C3%ADa!3m2!1d-0.6135051!2d-78.47386709999999!4m5!1s0x91d45714d5790457%3A0x9cccf84529e92588!2sRondador%20Cotopaxi%2C%20PASTOCALLE!3m2!1d-0.7001543!2d-78.5870892!5e0!3m2!1sko!2sec!4v1757515689609!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m70!1m12!1m3!1d138020.49713691193!2d-78.5247326795586!3d-0.6198636389542553!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m55!3e0!4m5!1s0x91d59a846449b88b%3A0xb5ca75d150fcbb8c!2sQuito%20Tour%20Bus%20%2F%20Bulevar%20Naciones%20Unidas%2C%20Naciones%20Unidas%20Ave%2C%20Quito%20170506!3m2!1d-0.1767204!2d-78.4818741!4m5!1s0x91d59b8b6932bf15%3A0xcb83e029bb315a40!2sTravel%20Agency%20Secret%20Garden%20Ecuador%2C%20Jos%C3%A9%20de%20Antepara%20E4-50%20y%2C%20Quito%20170113!3m2!1d-0.2189205!2d-78.5046165!4m5!1s0x91d5abe4b3ba39b1%3A0x32257dced0efee4!2sChasky%20Kf%C3%A9%20-%20Restaurante%20Mini%20Market%20Boutique%2C%20Carretera%20Panamericana%2C%20Aloasi!3m2!1d-0.5206320999999999!2d-78.577542!4m5!1s0x91d45146188b733f%3A0x1c51649516c0f3fa!2sCotopaxi-%20Administration%20National%20Park!3m2!1d-0.6788856999999999!2d-78.5542128!4m5!1s0x91d4526ae679fb3d%3A0xbe8cab3da0ba6fd8!2zQ290b3BheGkgVmlzaXRvcnMgQ2VudGVyLCDrnbztg4Dsv7XqsIA!3m2!1d-0.6430203999999999!2d-78.4959671!4m5!1s0x91d44dd0e745ddeb%3A0x5f5cfeee04e714ce!2sCotopaxi%20refugee%20parking!3m2!1d-0.6573299!2d-78.4384688!4m5!1s0x91d44dd7d439ac6b%3A0x7281e1450509693!2sRefugio%20Cotopaxi%20(Jose%20Rivas)!3m2!1d-0.6633743!2d-78.4385255!4m5!1s0x91d44d4b8e90f1bf%3A0xdd0138f8e7efdb25!2sLaguna%20De%20Limpiopungo%2C%20Ovejer%C3%ADa!3m2!1d-0.6135051!2d-78.47386709999999!4m5!1s0x91d45714d5790457%3A0x9cccf84529e92588!2sRondador%20Cotopaxi%2C%20PASTOCALLE!3m2!1d-0.7001543!2d-78.5870892!5e0!3m2!1sko!2sec!4v1757515689609!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 ---
@@ -540,7 +540,9 @@ window.panoramas = [
         compass: true,
         title: "Hiking Cotopaxi Volcano",
         author: "Jisung Park",
-        showZoomCtrl: true
+        showZoomCtrl: true,
+        yaw: -60,
+        hfov: 120
       }
     },
     {
@@ -553,7 +555,8 @@ window.panoramas = [
         compass: true,
         title: "Cotopaxi Volcano view",
         author: "Jisung Park",
-        showZoomCtrl: true
+        showZoomCtrl: true,
+        yaw: -60
       }
     },
     {
@@ -566,7 +569,9 @@ window.panoramas = [
         compass: true,
         title: "Limpiopungo Lake view",
         author: "Jisung Park",
-        showZoomCtrl: true
+        showZoomCtrl: true,
+        yaw: -120,
+        hfov: 120
       }
     }
   ];

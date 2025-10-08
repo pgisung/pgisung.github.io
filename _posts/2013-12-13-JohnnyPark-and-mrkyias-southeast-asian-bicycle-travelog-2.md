@@ -59,7 +59,7 @@ description: 2013.12.12~13 엉망진창 첫 해외 출국 공항 해프닝 및 �
 
 ## 싱가포르 여행 1일 차 시작
 우리가 싱가포르에서 묵었던 숙소는 라벤더 스트리트(Ravendar street)의 <span style="color: #8D4801">**Green kiwi 백팩커즈 숙소**</span>로 방은 8인실 도미토리로 2층 침대 4개가 있는 방이었는데 생각 외로 아늑하여 좋았다. 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.769950678066!2d103.85900413782042!3d1.3134931228458737!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19cef14217db%3A0xa940c6966b2d5cf1!2sGreen%20Kiwi%20Backpacker%20Hostel!5e0!3m2!1sko!2sec!4v1754856437766!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.769950678066!2d103.85900413782042!3d1.3134931228458737!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19cef14217db%3A0xa940c6966b2d5cf1!2sGreen%20Kiwi%20Backpacker%20Hostel!5e0!3m2!1sko!2sec!4v1754856437766!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 3박을 체크인하고 벌써 6시라서 그런지 너무 피곤해서 가자마자 짐을 풀고 바로 잠들었다. <span style="color: indianred">**약 4시간 정도 취침 후 생각보다 일찍 10시쯤에 잠이 깨서**</span> 일찍 거리를 둘러보기로 했다.
 
@@ -104,7 +104,7 @@ description: 2013.12.12~13 엉망진창 첫 해외 출국 공항 해프닝 및 �
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2395.1701607000928!2d103.8418482842079!3d1.2826804184266198!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19731fe5e901%3A0xb475a831c42577e0!2sXiu%20Ji%20Ikan%20Bilis%20Yong%20Tau%20Fu%20(%2302-88)!5e0!3m2!1sko!2sec!4v1755037153781!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2395.1701607000928!2d103.8418482842079!3d1.2826804184266198!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19731fe5e901%3A0xb475a831c42577e0!2sXiu%20Ji%20Ikan%20Bilis%20Yong%20Tau%20Fu%20(%2302-88)!5e0!3m2!1sko!2sec!4v1755037153781!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 약 30분 정도 기다린 끝에 주문할 수 있었다.
 <div class="image-slider-auto">
@@ -155,7 +155,7 @@ description: 2013.12.12~13 엉망진창 첫 해외 출국 공항 해프닝 및 �
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1448.2305374946939!2d103.85651375026097!3d1.288961238520085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da196d2fffffed%3A0x6c0c3f2856edd6b7!2z66eI7Lm47IiY7Yq46528IOq4gOujqO2EtOyKpCDrsqDsnbQ!5e0!3m2!1sko!2sec!4v1755037566823!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1448.2305374946939!2d103.85651375026097!3d1.288961238520085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da196d2fffffed%3A0x6c0c3f2856edd6b7!2z66eI7Lm47IiY7Yq46528IOq4gOujqO2EtOyKpCDrsqDsnbQ!5e0!3m2!1sko!2sec!4v1755037566823!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 식사 후 천천히 마리나 호텔로 걸어갈 무렵 해가 지고 점점 어두워졌다. 마리나 호텔은 자체로도 아름다웠지만 <span style="color: #8D4801">**밤이 되니 두 배로 아름다웠다.**</span> 
 <div class="image-slider-static">
@@ -214,7 +214,7 @@ description: 2013.12.12~13 엉망진창 첫 해외 출국 공항 해프닝 및 �
 ---
 
 ## 여행 경로
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d146789.02133685426!2d103.88048312270166!3d1.3312359043714284!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e0!4m5!1s0x31da17d693d0cde3%3A0xd6d6dd5e414e4503!2zNjAgQWlycG9ydCBCbHZkLiwg7Iux6rCA7Y-s66W0IOywveydtCDqta3soJzqs7Xtla0gKFNJTikg7Iux6rCA7Y-s66W0IDgxOTY0Mw!3m2!1d1.358604!2d103.98994359999999!4m5!1s0x31da19cef14217db%3A0xa940c6966b2d5cf1!2zTGF2ZW5kZXIgU3RyZWV0LCBHcmVlbiBLaXdpIEJhY2twYWNrZXIgSG9zdGVsLCDsi7HqsIDtj6zrpbQ!3m2!1d1.3143083!2d103.8603667!4m5!1s0x31da19731fe5e901%3A0xb475a831c42577e0!2z7Iqk66-47IqkIOyKpO2KuOumrO2KuCBYaXUgSmkgSWthbiBCaWxpcyBZb25nIFRhdSBGdSAoIzAyLTg4KSwg7Iux6rCA7Y-s66W0!3m2!1d1.2826290999999999!2d103.8430906!4m5!1s0x31da19085926dadb%3A0x9f427391c9f64c38!2z66i465287J207Ja4IOqzteybkCBNZXJsaW9u!3m2!1d1.2867891999999999!2d103.85450139999999!4m5!1s0x31da196d2fffffed%3A0x6c0c3f2856edd6b7!2z7Iux6rCA7Y-s66W0IOuemO2UjOyKpCDslaDruYTribQgRXNwbGFuYWRlIE1hbGwsIOuniOy5uOyImO2KuOudvCDquIDro6jthLTsiqQg67Kg7J20!3m2!1d1.2894024!2d103.8568698!4m5!1s0x31da1904937e1633%3A0x62099677b59fca76!2z6rCA65Og7IqkIOuwlOydtCDrjZQg67Kg7J20IEdhcmRlbnMgYnkgdGhlIEJheQ!3m2!1d1.2815683!2d103.86361319999999!5e0!3m2!1sko!2sec!4v1757352382261!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d146789.02133685426!2d103.88048312270166!3d1.3312359043714284!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e0!4m5!1s0x31da17d693d0cde3%3A0xd6d6dd5e414e4503!2zNjAgQWlycG9ydCBCbHZkLiwg7Iux6rCA7Y-s66W0IOywveydtCDqta3soJzqs7Xtla0gKFNJTikg7Iux6rCA7Y-s66W0IDgxOTY0Mw!3m2!1d1.358604!2d103.98994359999999!4m5!1s0x31da19cef14217db%3A0xa940c6966b2d5cf1!2zTGF2ZW5kZXIgU3RyZWV0LCBHcmVlbiBLaXdpIEJhY2twYWNrZXIgSG9zdGVsLCDsi7HqsIDtj6zrpbQ!3m2!1d1.3143083!2d103.8603667!4m5!1s0x31da19731fe5e901%3A0xb475a831c42577e0!2z7Iqk66-47IqkIOyKpO2KuOumrO2KuCBYaXUgSmkgSWthbiBCaWxpcyBZb25nIFRhdSBGdSAoIzAyLTg4KSwg7Iux6rCA7Y-s66W0!3m2!1d1.2826290999999999!2d103.8430906!4m5!1s0x31da19085926dadb%3A0x9f427391c9f64c38!2z66i465287J207Ja4IOqzteybkCBNZXJsaW9u!3m2!1d1.2867891999999999!2d103.85450139999999!4m5!1s0x31da196d2fffffed%3A0x6c0c3f2856edd6b7!2z7Iux6rCA7Y-s66W0IOuemO2UjOyKpCDslaDruYTribQgRXNwbGFuYWRlIE1hbGwsIOuniOy5uOyImO2KuOudvCDquIDro6jthLTsiqQg67Kg7J20!3m2!1d1.2894024!2d103.8568698!4m5!1s0x31da1904937e1633%3A0x62099677b59fca76!2z6rCA65Og7IqkIOuwlOydtCDrjZQg67Kg7J20IEdhcmRlbnMgYnkgdGhlIEJheQ!3m2!1d1.2815683!2d103.86361319999999!5e0!3m2!1sko!2sec!4v1757352382261!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 ---
@@ -261,7 +261,9 @@ window.panoramas = [
         compass: true,
         title: "Singapore City view",
         author: "Hagyun Kim",
-        showZoomCtrl: true
+        showZoomCtrl: true,
+        yaw: 60,
+        hfov: 120
       }
     }
   ];

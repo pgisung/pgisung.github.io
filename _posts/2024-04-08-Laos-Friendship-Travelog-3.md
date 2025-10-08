@@ -52,7 +52,7 @@ description: 2024.04.08 루앙 프라방 국립 박물관, 씨 앙통 사원 방
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d468.975874939042!2d102.13452602792083!3d19.89036991601202!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312f2a6a1e0c0d5b%3A0x74e4a387a9f19f8f!2sStreet%20Market!5e0!3m2!1sko!2sec!4v1757860439827!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d468.975874939042!2d102.13452602792083!3d19.89036991601202!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312f2a6a1e0c0d5b%3A0x74e4a387a9f19f8f!2sStreet%20Market!5e0!3m2!1sko!2sec!4v1757860439827!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 <span style="color: #8D4801">**어느 나라 전통시장을 방문**</span>하든지 간에 일하시는 분들의 <span style="color: indianred">**연령대가 대체로 높으신 것**</span>을 보았을 때, 전 세계적인 관점에서 전통시장이 <span style="color: #8D4801">**사라질 날이 머지않은 것이 아닐까**</span> 하는 생각도 들었다.
@@ -81,7 +81,7 @@ description: 2024.04.08 루앙 프라방 국립 박물관, 씨 앙통 사원 방
 <br>
 
 루앙 프라방 국립 박물관은 사람들이 <span style="color: indianred">**주로 왕래하는 거리에 자리 잡고 있어**</span> 방문하기에 쉬웠다.
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1875.8815539820305!2d102.13443487875584!3d19.892222463061962!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312f2a6a328c6c99%3A0x336269f4807f9366!2z66Oo7JWZ7ZSE652867CpIOq1reumvSDrsJXrrLzqtIA!5e0!3m2!1sko!2sec!4v1757860474210!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1875.8815539820305!2d102.13443487875584!3d19.892222463061962!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312f2a6a328c6c99%3A0x336269f4807f9366!2z66Oo7JWZ7ZSE652867CpIOq1reumvSDrsJXrrLzqtIA!5e0!3m2!1sko!2sec!4v1757860474210!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 프랑스의 식민지였다지만 <span style="color: indianred">**왕궁의 호수치고는 조금 소박**</span>하지 않은가 생각했었다.
@@ -137,7 +137,7 @@ description: 2024.04.08 루앙 프라방 국립 박물관, 씨 앙통 사원 방
 
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d753.0698470966724!2d102.14300885752897!3d19.89732739426442!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312f2a12ffc51c6b%3A0x1c5835a5bac7c503!2z7JmTIOyUqOyVme2FhQ!5e0!3m2!1sko!2sec!4v1757860643894!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d753.0698470966724!2d102.14300885752897!3d19.89732739426442!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312f2a12ffc51c6b%3A0x1c5835a5bac7c503!2z7JmTIOyUqOyVme2FhQ!5e0!3m2!1sko!2sec!4v1757860643894!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 <span style="color: indianred">**과거 루앙 프라방 왕실의 의식과 장례식이 거행**</span>되던 왕실 사원이기 때문에 <span style="color: #8D4801">**역사적 의미가 큰 장소**</span>라고 했다.
@@ -186,7 +186,7 @@ description: 2024.04.08 루앙 프라방 국립 박물관, 씨 앙통 사원 방
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d234.48048256025163!2d102.13901159773926!3d19.895403964189004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312f2b782b7a5f6b%3A0xa2b632e5c7054d8a!2sDaDa%20Cafe%20(roasters%2C%20bar%2C%20restaurant)!5e0!3m2!1sko!2sec!4v1757860529396!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d234.48048256025163!2d102.13901159773926!3d19.895403964189004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312f2b782b7a5f6b%3A0xa2b632e5c7054d8a!2sDaDa%20Cafe%20(roasters%2C%20bar%2C%20restaurant)!5e0!3m2!1sko!2sec!4v1757860529396!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 무언가 <span style="color: #8D4801">**분위기가 매우 맘에 들었던 사진**</span>
@@ -217,7 +217,7 @@ description: 2024.04.08 루앙 프라방 국립 박물관, 씨 앙통 사원 방
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7509.971339845942!2d101.99225319440811!3d19.75576343905702!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3128d336913f380b%3A0x5c02259ca0afd0b8!2z6r2d7Iuc7Y-t7Y-s6rO17JuQIOunpO2RnOyGjA!5e0!3m2!1sko!2sec!4v1757860770821!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7509.971339845942!2d101.99225319440811!3d19.75576343905702!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3128d336913f380b%3A0x5c02259ca0afd0b8!2z6r2d7Iuc7Y-t7Y-s6rO17JuQIOunpO2RnOyGjA!5e0!3m2!1sko!2sec!4v1757860770821!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 입장료를 내고 들어오면 실제 꽝시 폭포 입구까지 다시 <span style="color: #8D4801">**전동 셔틀 카트를 타고 이동**</span>해야 한다.
@@ -234,7 +234,7 @@ description: 2024.04.08 루앙 프라방 국립 박물관, 씨 앙통 사원 방
 
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d234.69334520752489!2d101.99635617434977!3d19.75118075022633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3128d37cb57e9c93%3A0x674402677b83382b!2sClean%20food%20BBQ%20PORK!5e0!3m2!1sko!2sec!4v1757860973611!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d234.69334520752489!2d101.99635617434977!3d19.75118075022633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3128d37cb57e9c93%3A0x674402677b83382b!2sClean%20food%20BBQ%20PORK!5e0!3m2!1sko!2sec!4v1757860973611!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 ### 꽝시 폭포
@@ -244,7 +244,7 @@ description: 2024.04.08 루앙 프라방 국립 박물관, 씨 앙통 사원 방
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3755.1304053753342!2d101.99204653501512!3d19.749613398158008!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3128d216c82caa13%3A0xe1f331979b7f211f!2z6r2d7Iuc7Y-t7Y-s!5e0!3m2!1sko!2sec!4v1757861040220!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3755.1304053753342!2d101.99204653501512!3d19.749613398158008!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3128d216c82caa13%3A0xe1f331979b7f211f!2z6r2d7Iuc7Y-t7Y-s!5e0!3m2!1sko!2sec!4v1757861040220!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 ### 240도 파노라마 꽝시 폭포 전경
@@ -366,7 +366,7 @@ description: 2024.04.08 루앙 프라방 국립 박물관, 씨 앙통 사원 방
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7874.455611755232!2d101.99152384905173!3d19.75139962302427!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3128d2113e50eb8b%3A0x72f89eeab58835d6!2sTat%20Kuang%20Si%20Bear%20Rescue%20Centre%2C%20Free%20the%20Bears!5e0!3m2!1sko!2sec!4v1757943303393!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7874.455611755232!2d101.99152384905173!3d19.75139962302427!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3128d2113e50eb8b%3A0x72f89eeab58835d6!2sTat%20Kuang%20Si%20Bear%20Rescue%20Centre%2C%20Free%20the%20Bears!5e0!3m2!1sko!2sec!4v1757943303393!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 <span style="color: indianred">**곰과 이렇게 가까이에서 사진**</span> 찍어보는 건 처음이었다.
@@ -389,7 +389,7 @@ description: 2024.04.08 루앙 프라방 국립 박물관, 씨 앙통 사원 방
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d1446.1363781326045!2d101.99199055693498!3d19.748809430210468!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTnCsDQ0JzU3LjUiTiAxMDHCsDU5JzMwLjYiRQ!5e0!3m2!1sko!2sec!4v1757943404355!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d1446.1363781326045!2d101.99199055693498!3d19.748809430210468!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTnCsDQ0JzU3LjUiTiAxMDHCsDU5JzMwLjYiRQ!5e0!3m2!1sko!2sec!4v1757943404355!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 #### 240도 파노라마 꽝시 폭포 꼭대기 전경
@@ -440,7 +440,7 @@ description: 2024.04.08 루앙 프라방 국립 박물관, 씨 앙통 사원 방
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4636.3678073375995!2d101.9945008063166!3d19.753447265337247!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3128d23d7cb2d22b%3A0x8126d64eeab2e9d5!2sKhoun%20Moung%20Keo%20Waterfall!5e0!3m2!1sko!2sec!4v1757943574016!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4636.3678073375995!2d101.9945008063166!3d19.753447265337247!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3128d23d7cb2d22b%3A0x8126d64eeab2e9d5!2sKhoun%20Moung%20Keo%20Waterfall!5e0!3m2!1sko!2sec!4v1757943574016!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 #### 240도 파노라마 쿤 몽 케오 폭포 전경
@@ -480,7 +480,7 @@ description: 2024.04.08 루앙 프라방 국립 박물관, 씨 앙통 사원 방
 
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1387.6950994947033!2d101.98019425575957!3d19.78708001941456!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3128d3d5f9e2a7bd%3A0x730e08bb7e210957!2sLuang%20Prabang%20Elephants%20camp!5e0!3m2!1sko!2sec!4v1757943635312!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1387.6950994947033!2d101.98019425575957!3d19.78708001941456!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3128d3d5f9e2a7bd%3A0x730e08bb7e210957!2sLuang%20Prabang%20Elephants%20camp!5e0!3m2!1sko!2sec!4v1757943635312!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 고래도 그렇고 코끼리도 그렇고 커다란 덩치와 힘을 갖고 있는데도 <span style="color: indianred">**이렇게 순한 성격**</span>일 수 있다는 게 신기하다.
@@ -513,7 +513,7 @@ description: 2024.04.08 루앙 프라방 국립 박물관, 씨 앙통 사원 방
 
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d234.49821047806918!2d102.13356634802385!3d19.88343089700606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTnCsDUzJzAwLjYiTiAxMDLCsDA4JzAwLjkiRQ!5e0!3m2!1sko!2sec!4v1757944429491!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d234.49821047806918!2d102.13356634802385!3d19.88343089700606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTnCsDUzJzAwLjYiTiAxMDLCsDA4JzAwLjkiRQ!5e0!3m2!1sko!2sec!4v1757944429491!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 푸짐했던 <span style="color: indianred">**채소 한 상**</span>
@@ -539,7 +539,7 @@ description: 2024.04.08 루앙 프라방 국립 박물관, 씨 앙통 사원 방
 ---
 
 ## 여행 경로
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m75!1m12!1m3!1d101883.54313726448!2d102.05879778625311!3d19.814294239819404!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m60!3e2!4m5!1s0x312f2bd022e00dcf%3A0x2ff11935f5f75bde!2svilla%20BouaThong%20Hotel%202!3m2!1d19.886638299999998!2d102.1366262!4m5!1s0x312f2a6a1e0c0d5b%3A0x74e4a387a9f19f8f!2sStreet%20Market!3m2!1d19.8903699!2d102.1347598!4m5!1s0x312f2a6a328c6c99%3A0x336269f4807f9366!2z66Oo7JWZ7ZSE652867CpIOq1reumvSDrsJXrrLzqtIA!3m2!1d19.8922222!2d102.13555559999999!4m5!1s0x312f2a12ffc51c6b%3A0x1c5835a5bac7c503!2z7JmTIOyUqOyVme2FhQ!3m2!1d19.8976267!2d102.1431106!4m5!1s0x312f2b782b7a5f6b%3A0xa2b632e5c7054d8a!2sDaDa%20Cafe%20(roasters%2C%20bar%2C%20restaurant)!3m2!1d19.895474099999998!2d102.1390929!4m5!1s0x3128d37cb57e9c93%3A0x674402677b83382b!2z65287Jik7IqkIEJhbiBMb25nLCBDbGVhbiBmb29kIEJCUSBQT1JL!3m2!1d19.7511808!2d101.9964931!4m5!1s0x3128d216c82caa13%3A0xe1f331979b7f211f!2z65287Jik7IqkIOq9neyLnO2Pre2PrA!3m2!1d19.749572999999998!2d101.99318389999999!4m5!1s0x3128d23d7cb2d22b%3A0x8126d64eeab2e9d5!2sKhoun%20Moung%20Keo%20Waterfall!3m2!1d19.756268199999997!2d101.995561!4m5!1s0x3128d3d5f9e2a7bd%3A0x730e08bb7e210957!2sLuang%20Prabang%20Elephants%20camp!3m2!1d19.7877469!2d101.9807702!4m4!2zMTnCsDUzJzAwLjYiTiAxMDLCsDA4JzAwLjkiRQ!3m2!1d19.883499999999998!2d102.1335833!5e0!3m2!1sko!2sec!4v1757945855416!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m75!1m12!1m3!1d101883.54313726448!2d102.05879778625311!3d19.814294239819404!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m60!3e2!4m5!1s0x312f2bd022e00dcf%3A0x2ff11935f5f75bde!2svilla%20BouaThong%20Hotel%202!3m2!1d19.886638299999998!2d102.1366262!4m5!1s0x312f2a6a1e0c0d5b%3A0x74e4a387a9f19f8f!2sStreet%20Market!3m2!1d19.8903699!2d102.1347598!4m5!1s0x312f2a6a328c6c99%3A0x336269f4807f9366!2z66Oo7JWZ7ZSE652867CpIOq1reumvSDrsJXrrLzqtIA!3m2!1d19.8922222!2d102.13555559999999!4m5!1s0x312f2a12ffc51c6b%3A0x1c5835a5bac7c503!2z7JmTIOyUqOyVme2FhQ!3m2!1d19.8976267!2d102.1431106!4m5!1s0x312f2b782b7a5f6b%3A0xa2b632e5c7054d8a!2sDaDa%20Cafe%20(roasters%2C%20bar%2C%20restaurant)!3m2!1d19.895474099999998!2d102.1390929!4m5!1s0x3128d37cb57e9c93%3A0x674402677b83382b!2z65287Jik7IqkIEJhbiBMb25nLCBDbGVhbiBmb29kIEJCUSBQT1JL!3m2!1d19.7511808!2d101.9964931!4m5!1s0x3128d216c82caa13%3A0xe1f331979b7f211f!2z65287Jik7IqkIOq9neyLnO2Pre2PrA!3m2!1d19.749572999999998!2d101.99318389999999!4m5!1s0x3128d23d7cb2d22b%3A0x8126d64eeab2e9d5!2sKhoun%20Moung%20Keo%20Waterfall!3m2!1d19.756268199999997!2d101.995561!4m5!1s0x3128d3d5f9e2a7bd%3A0x730e08bb7e210957!2sLuang%20Prabang%20Elephants%20camp!3m2!1d19.7877469!2d101.9807702!4m4!2zMTnCsDUzJzAwLjYiTiAxMDLCsDA4JzAwLjkiRQ!3m2!1d19.883499999999998!2d102.1335833!5e0!3m2!1sko!2sec!4v1757945855416!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 ---
@@ -574,7 +574,8 @@ window.panoramas = [
         compass: true,
         title: "Kuang Si Waterfall view",
         author: "Jaeyong Kim",
-        showZoomCtrl: true
+        showZoomCtrl: true,
+        hfov: 120
       }
     },
     {
@@ -587,7 +588,9 @@ window.panoramas = [
         compass: true,
         title: "The top of Kuang Si Waterfall view",
         author: "Jaeyong Kim",
-        showZoomCtrl: true
+        showZoomCtrl: true,
+        yaw: -100,
+        hfov: 120
       }
     },
     {
@@ -600,7 +603,9 @@ window.panoramas = [
         compass: true,
         title: "Khoun Moung Keo Waterfall view",
         author: "Jaeyong Kim",
-        showZoomCtrl: true
+        showZoomCtrl: true,
+        yaw: -40,
+        hfov: 120
       }
     }
   ];

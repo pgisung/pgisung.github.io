@@ -39,7 +39,7 @@ description: 2025.08.25 ~ 2025.10.02 무언가 굉장히 많이 했지만, 보�
 </div>
 <br>
 
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1061.042851460698!2d-78.47978655747329!3d-0.1763305947081866!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a839d85747f%3A0x3a84aaacbd81297a!2sQuicentro!5e0!3m2!1sko!2sec!4v1759682373341!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1061.042851460698!2d-78.47978655747329!3d-0.1763305947081866!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a839d85747f%3A0x3a84aaacbd81297a!2sQuicentro!5e0!3m2!1sko!2sec!4v1759682373341!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 문득 <span style="color: #8D4801">**필리핀 세부의 SM 몰**</span>이 떠올랐는데요. <span style="color: indianred">**범퍼카**</span>라든가 생각보다 대형의 오락 시설 또한 존재했다. (근데 쇼핑은요...? 아차차)
@@ -79,7 +79,7 @@ description: 2025.08.25 ~ 2025.10.02 무언가 굉장히 많이 했지만, 보�
 <br>
 
 나중에 리뷰를 보았더니 <span style="color: indianred">**평점이 매우 낮고 모든 리뷰가 여성분들**</span>인데, <span style="color: brown">**현지 여성분들 기준으로는 가격도 비싸고 잘 못 자르는 듯**</span>하다.
-<center><iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d249.36247968611383!2d-78.48466570658633!3d-0.17516473961628853!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59be3f0167c8f%3A0x72275c9fa3fc59d7!2sCosmo%20Beauty!5e0!3m2!1sko!2sec!4v1759682653206!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d249.36247968611383!2d-78.48466570658633!3d-0.17516473961628853!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59be3f0167c8f%3A0x72275c9fa3fc59d7!2sCosmo%20Beauty!5e0!3m2!1sko!2sec!4v1759682653206!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 하지만 필자의 경우에는 서투른 스페인어로 몇 번 수정을 요청해도 군말 없이 다듬어주시고 <span style="color: #8D4801">**6불이라는 저렴한 가격에 머리를 정리할 수 있어서 만족**</span>했었다.

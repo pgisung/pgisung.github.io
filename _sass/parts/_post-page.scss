@@ -194,6 +194,12 @@
   }
 }
 
+iframe {
+  display: block;
+  margin: 0 auto;
+  border-radius: variables.$common-border-radius;
+}
+
 iframe[src*="google"],
 div[id*="panorama"] {
   border: 1px solid variables.$brown;
