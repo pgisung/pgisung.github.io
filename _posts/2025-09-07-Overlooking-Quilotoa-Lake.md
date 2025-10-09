@@ -9,21 +9,21 @@ tags: [ Ecuador trip, Quito, Quilotoa Lake, 에콰도르 여행, 키토, 킬로�
 description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 투어 이야기
 ---
 
-> 1. [투어 시작](#투어-시작 "Navigate to Tour start")
-- [챠스키 카페](#챠스키-카페 "Navigate to Chasky Kfé")
-- [론다도르 코토팍시](#론다도르-코토팍시 "Navigate to Rondador Cotopaxi")
-2. [돈 훌리안 아저씨 댁](#돈-훌리안-아저씨-댁 "Navigate to Don Julian's house")
-3. [호수 가는 길](#호수-가는-길 "Navigate to On the way to the lake")
-- [티구아의 첫 번째 화가 갤러리](#티구아의-첫-번째-화가-갤러리 "Navigate to The gallery of first painter in Tigua")
-- [챠미 와이쿠](#챠미-와이쿠 "Navigate to Chami Wayku")
-  - [240도 파노라마 챠미 와이쿠 전경](#240도-파노라마-챠미-와이쿠-전경 "Navigate to 240-degree panoramic view for Chami Wayku")
-- [츄키라와 식당](#츄키라와-식당 "Navigate to Chukirawa restaurant")
-4. [킬로토아 호수](#킬로토아-호수 "Navigate to Quilotoa Lake")
-  - [240도 파노라마 킬로토아 호수 전경](#240도-파노라마-킬로토아-호수-전경 "Navigate to 240-degree panoramic view for Quilotoa Lake")
-5. [돌아오는 길](#돌아오는-길 "Navigate to On the way back to home")
-- [레이 판 푸힐리 베이커리](#레이-판-푸힐리-베이커리 "Navigate to Rey Pan Pujili Bakery")
-6. [여행 경로](#여행-경로 "Navigate to Travel route")
-7. [여행 경비](#여행-경비 "Navigate to Travel expenses")
+> 1. [투어 시작](#투어-시작)
+- [챠스키 카페](#챠스키-카페)
+- [론다도르 코토팍시](#론다도르-코토팍시)
+2. [돈 훌리안 아저씨 댁](#돈-훌리안-아저씨-댁)
+3. [호수 가는 길](#호수-가는-길)
+- [티구아의 첫 번째 화가 갤러리](#티구아의-첫-번째-화가-갤러리)
+- [챠미 와이쿠](#챠미-와이쿠)
+  - [240도 파노라마 챠미 와이쿠 전경](#240도-파노라마-챠미-와이쿠-전경)
+- [츄키라와 식당](#츄키라와-식당)
+4. [킬로토아 호수](#킬로토아-호수)
+  - [240도 파노라마 킬로토아 호수 전경](#240도-파노라마-킬로토아-호수-전경)
+5. [돌아오는 길](#돌아오는-길)
+- [레이 판 푸힐리 베이커리](#레이-판-푸힐리-베이커리)
+6. [여행 경로](#여행-경로)
+7. [여행 경비](#여행-경비)
 
 ---
 
@@ -32,7 +32,7 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 
 밴은 6시 50분부터 나를 기다리고 있었고, <span style="color: #8D4801">**가이드가 나를 반갑게 맞아주었다**</span>.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/the-van-picked-up-me-for-a-trip.jpg" title="The van picked up me for a trip and the guide greeting to me" alt="The van picked up me for a trip and the guide greeting to me">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/the-van-picked-up-me-for-a-trip.jpg" alt="The van picked up me for a trip and the guide greeting to me">
 </div>
 <br>
 
@@ -43,7 +43,7 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 
 밴은 이동 중간에 딱 봐도 세계여행을 하는 듯 엄청난 짐들을 짊어지고 나타나신 <span style="color: #8D4801">**이스라엘 모자**</span>와 <span style="color: #8D4801">**쿠웨이트에서 남미 여행을 왔다는 두 남자**</span>를 마저 픽업하고 남쪽을 향했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/blogger-on-the-van.jpg" title="Blogger on the van" alt="Blogger on the van">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/blogger-on-the-van.jpg" alt="Blogger on the van">
 </div>
 <br>
 
@@ -53,14 +53,14 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 
 창밖으로 보이는 산이 <span style="color: #8D4801">**빠소초아 화산**</span>이라는데, <span style="color: indianred">**그냥 언덕**</span> 같아 보였다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/pasochoa-volcano.jpg" title="Pasochoa volcano" alt="Pasochoa volcano">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/pasochoa-volcano.jpg" alt="Pasochoa volcano">
 </div>
 <br>
 
 ### 챠스키 카페
 약 1시간을 달려서 도착한 식당으로 <span style="color: #8D4801">**ATM도 존재하니 현금이 필요하다면**</span> 이곳에서 인출하고 출발하면 된다. (<span style="color: indianred">**킬로토아 호수 근처 식당에서 카드 계산이 안 되었다**</span>.) 
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/chasky-kfe.jpg" title="Chasky Kfé" alt="Chasky Kfé">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/chasky-kfe.jpg" alt="Chasky Kfé">
 </div>
 <br>
 
@@ -72,20 +72,20 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 일부러 <span style="color: indianred">**가장 싼 메뉴인 DESAYUNO COMPLETO**</span>를 시켰는데, 생각보다 음식이 잘 나와서 좋았다.
 
 |:---:|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/the-menu.jpg" title="The menu" alt="The menu"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/appetizer.jpg" title="Bread, juice and coffee" alt="Bread, juice and coffee"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/breakfast.jpg" title="Chicken rice with eggs and salad" alt="Chicken rice with eggs and salad"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/the-menu.jpg" alt="The menu"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/appetizer.jpg" alt="Bread, juice and coffee"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/breakfast.jpg" alt="Chicken rice with eggs and salad"> |
 
 <br>
 
 화장실 다녀오던 중 보이던 특이하게 생긴 건물
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/weird-building.jpg" title="The building looks weird" alt="The building looks weird">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/weird-building.jpg" alt="The building looks weird">
 </div>
 <br>
 
 ### 론다도르 코토팍시
 아침 식사를 마치고 이동하던 중 <span style="color: indianred">**창문 밖으로 안개가 많이 보여서 호수가 안개로 가려져 있을까 봐 걱정**</span>했었다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/fog-weather.jpg" title="Fog weather" alt="Fog weather">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/fog-weather.jpg" alt="Fog weather">
 </div>
 <br>
 
@@ -93,7 +93,7 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 
 여기서는 일행으로 보이는 <span style="color: #8D4801">**브라질 여성과 말레이시아 남성**</span>이 탑승하고 출발했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/rondador-cotopaxi.jpg" title="Rondador Cotopaxi" alt="Rondador Cotopaxi">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/rondador-cotopaxi.jpg" alt="Rondador Cotopaxi">
 </div>
 <br>
 
@@ -110,7 +110,7 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 ## 돈 훌리안 아저씨 댁
 출발하고 약 1시간 40분이 지나서 <span style="color: indianred">**사실상 첫 번째 투어 지역인 원주민 아저씨 댁에 도착**</span>했다. 이곳에 도착하기 거의 직전에 가이드가 에콰도르의 농사에 관해서 에코시스템이 이렇다저렇다 하시면서 농사에 따로 물 공급이 필요하지 않다고 설명해 주셨는데, 자세한 내용은 놓쳐버렸었다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/the-sign-of-julians-house.jpg" title="The sign of Don Julian's house" alt="The sign of Don Julian's house">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/the-sign-of-julians-house.jpg" alt="The sign of Don Julian's house">
 </div>
 <br>
 
@@ -119,25 +119,25 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 
 열심히 훌리안 아저씨 댁에 대해서 설명하는 가이드. <span style="color: #8D4801">**최근에 낮은 기온으로 인해 집이 피해를 보아서 수리**</span>하셨다고 한다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/the-guide-explaining-at-julians-house.jpg" title="The guide explaining at Julian's house" alt="The guide explaining at Julian's house">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/the-guide-explaining-at-julians-house.jpg" alt="The guide explaining at Julian's house">
 </div>
 <br>
 
 반갑게 악수를 청해오신 <span style="color: #8D4801">**훌리안 아저씨**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/don-julian-1.webp" title="Mr. Don Julian" alt="Mr. Don Julian">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/don-julian-1.webp" alt="Mr. Don Julian">
 </div>
 <br>
 
 훌리안 아저씨가 키우시는 양들. 사실 사진에는 없지만 기니피그라던가 <span style="color: #8D4801">**많은 가축**</span>을 키우고 계셨다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/the-sheeps.jpg" title="Julian's sheeps" alt="Julian's sheeps">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/the-sheeps.jpg" alt="Julian's sheeps">
 </div>
 <br>
 
 에콰도르의 농사에 관해서 설명 후 우리를 안으로 인도했던 가이드 아드리안
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/don-julians-house.jpg" title="Don Julian's house" alt="Don Julian's house">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/don-julians-house.jpg" alt="Don Julian's house">
 </div>
 <br>
 
@@ -145,26 +145,26 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 
 보통 <span style="color: #8D4801">**식사 준비를 하실 때 피운 불로 난방**</span>을 하신다는데 <span style="color: indianred">**외투까지 입고 집 안에 있는데도 한기**</span>가 느껴지는데 여기서 어떻게 생활하시나 신기했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/don-julian-2.webp" title="Mr. Don Julian" alt="Mr. Don Julian">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/don-julian-2.webp" alt="Mr. Don Julian">
 </div>
 <br>
 
 자꾸 <span style="color: #8D4801">**손에 쥐여주시던 직접 재배하신 작물들**</span> 너무 많이 쥐여주셔서, 다 찍긴 어려웠어요.
 
 |:---:|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/hand-grown-crops-1.jpg" title="Hand-grown crops" alt="Hand-grown crops"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/hand-grown-crops-2.jpg" title="Hand-grown crops" alt="Hand-grown crops"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/hand-grown-crops-3.jpg" title="Hand-grown crops" alt="Hand-grown crops"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/hand-grown-crops-1.jpg" alt="Hand-grown crops"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/hand-grown-crops-2.jpg" alt="Hand-grown crops"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/hand-grown-crops-3.jpg" alt="Hand-grown crops"> |
 
 <br>
 
 판초를 짜실 때 쓰신다고 <span style="color: #8D4801">**직접 깎으신 양털들**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/sheared-wool.jpg" title="Sheared wool" alt="Sheared wool">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/sheared-wool.jpg" alt="Sheared wool">
 </div>
 <br>
 
 엔쎄보야도 속에 <span style="color: #8D4801">**감자 같던 유카**</span>. 조리 전에는 처음 보는 것 같다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/yuca-among-the-grains.jpg" title="Yuca among the grains" alt="Yuca among the grains">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/yuca-among-the-grains.jpg" alt="Yuca among the grains">
 </div>
 <br>
 
@@ -173,7 +173,7 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 나중에 갤러리에 들렀을 때 <span style="color: #8D4801">**그림 속 원주민의 집이 아저씨 댁과 똑 닮아서**</span> 옆에 두었다.
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/don-julian-3.jpg" title="Mr. Don Julian" alt="Mr. Don Julian"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/a-painted-traditional-house.jpg" title="A painted traditional house" alt="A painted traditional house"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/don-julian-3.jpg" alt="Mr. Don Julian"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/a-painted-traditional-house.jpg" alt="A painted traditional house"> |
 
 <br>
 
@@ -181,19 +181,19 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 
 <span style="color: #8D4801">**반갑습니다! 다 같이 한 컷**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/everyone-at-traditional-house.jpg" title="Everyone at traditional house" alt="Everyone at traditional house">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/everyone-at-traditional-house.jpg" alt="Everyone at traditional house">
 </div>
 <br>
 
 사실 투어 당시에는 깨닫지 못했는데 지나고 <span style="color: indianred">**사진 속 그를 보며 우리 외할아버지 생각이 나서 살짝 울컥**</span>했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/blogger-with-julian.jpg" title="Blogger with Julian" alt="Blogger with Julian">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/blogger-with-julian.jpg" alt="Blogger with Julian">
 </div>
 <br>
 
 아니 심지어 <span style="color: #8D4801">**할머님도 우리 외할머니가 떠오르게 하는 모습**</span>이었다. 우리나라에서 사진 찍을 때 '김치'라고 하듯이 훌리안 아저씨는 누군가가 함께 사진을 찍을 때마다 주문을 외우셨는데, <span style="color: indianred">**설령 이 일이 보수를 받고 하시는 거라고 하더라도 무언가 마음이 아팠다**</span>. 제가 뭐라고 감히 측은지심을 가져서 죄송스러웠습니다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/blogger-with-julian-and-his-wife.jpg" title="Blogger with Julian and his wife" alt="Blogger with Julian and his wife">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/blogger-with-julian-and-his-wife.jpg" alt="Blogger with Julian and his wife">
 </div>
 <br>
 
@@ -203,14 +203,14 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 훌리안 아저씨와 헤어지고 다시 호수로 향하는 길, <span style="color: indianred">**가이드가 잠자는 호랑이 산이라고 설명을 해준 것으로 기억**</span>하는데 구글이나 AI에도 관련한 정보가 없다. 
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/sleeping-tiger-mountain.jpg" title="Sleeping tiger mountain" alt="Sleeping tiger mountain"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/a-painted-sleeping-tiger-mountain.jpg" title="A painted sleeping tiger mountain" alt="A painted sleeping tiger mountain"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/sleeping-tiger-mountain.jpg" alt="Sleeping tiger mountain"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/a-painted-sleeping-tiger-mountain.jpg" alt="A painted sleeping tiger mountain"> |
 
 <br>
 
 ### 티구아의 첫 번째 화가 갤러리
 사실 막상 도착했을 당시에는 건물 외관도 그렇고 <span style="color: #8D4801">**큰 기대를 하지 않고 방문**</span>했던 갤러리. 하지만, 막상 갤러리에 들어서서 관람을 시작하면서 느낀 것이 그려져 있는 <span style="color: indianred">**그림들이 굉장히 나이브한 느낌에 밝고 기운찬 느낌**</span>을 주는 것 같다고 생각했었다. 물론 이런 예술에 문외한이라서 뭐가 대단한지 아닌지는 모르겠지만, 그저 그림을 보고 느낀 감상은 그랬다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/the-gallery-of-first-painter-in-tigua.jpg" title="The gallery of first painter in Tigua" alt="The gallery of first painter in Tigua">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/the-gallery-of-first-painter-in-tigua.jpg" alt="The gallery of first painter in Tigua">
 </div>
 <br>
 
@@ -220,16 +220,16 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 여행을 마치고 궁금해서 검색해 보았는데 현지 케추아 원주민 공동체에서 시작된 민속 회화 양식인 <span style="color: indianred">**티구아 화풍은 라틴아메리카 민속 예술 분야에서 유명**</span>하다고 한다. <span style="color: #8D4801">**주로 양가죽에 그려지며, 안데스산맥, 마을 생활, 축제, 전설 등을 밝은 색감으로 표현**</span>하는 것이 특징이라고 한다.
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/pictures-at-the-gallery-1.jpg" title="Indigenous Art" alt="Indigenous Art"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/pictures-at-the-gallery-2.jpg" title="Indigenous Art" alt="Indigenous Art"> |
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/pictures-at-the-gallery-3.jpg" title="Indigenous Art" alt="Indigenous Art"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/pictures-at-the-gallery-4.jpg" title="Indigenous Art" alt="Indigenous Art"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/pictures-at-the-gallery-1.jpg" alt="Indigenous Art"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/pictures-at-the-gallery-2.jpg" alt="Indigenous Art"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/pictures-at-the-gallery-3.jpg" alt="Indigenous Art"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/pictures-at-the-gallery-4.jpg" alt="Indigenous Art"> |
 
 <br>
 
 ### 챠미 와이쿠
 <span style="color: #8D4801">**원주민의 비율이 90% 이상이라는 Zumbahua 커뮤니티**</span>에 대한 가이드의 설명을 들으며 이동하다 보니 금방 도착한 짧게 들리는 전망대이다.
 <div class="image-slider-auto">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/chami-wayku.jpg" title="Chami Wayku" alt="Chami Wayku">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/blogger-in-chami-wayku.jpg" title="Blogger in Chami Wayku" alt="Blogger in Chami Wayku">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/chami-wayku.jpg" alt="Chami Wayku">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/blogger-in-chami-wayku.jpg" alt="Blogger in Chami Wayku">
 </div>
 <br>
 
@@ -239,7 +239,7 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 
 <span style="color: #8D4801">**여기서도 다 같이 기념사진**</span> 한 컷
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/everyone-at-chami-wayku.jpg" title="Everyone at Chami Wayku" alt="Everyone at Chami Wayku">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/everyone-at-chami-wayku.jpg" alt="Everyone at Chami Wayku">
 </div>
 <br>
 
@@ -251,13 +251,13 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 ### 츄키라와 식당
 드디어 도착한 <span style="color: #8D4801">**킬로토아 호수의 매표소**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/ticket-office-for-quilotoa-lake.jpg" title="The ticket office for Quilotoa Lake " alt="The ticket office for Quilotoa Lake">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/ticket-office-for-quilotoa-lake.jpg" alt="The ticket office for Quilotoa Lake">
 </div>
 <br>
 
 츄키라와 식당은 <span style="color: #8D4801">**가이드가 정해준 집합 장소**</span>로 <span style="color: indianred">**약 2시간의 자유시간**</span>을 마치고 모이기로 했던 식당이다. 먼저 다 같이 들어가서 점심 메뉴를 예약하던 중 <span style="color: #8D4801">**쿠웨이트 사람인 핫산과 조금 대화할 시간**</span>이 생겼었는데 그들도 남미 여행 중이었고 본인들 말로는 비자 때문에 페루와 에콰도르만 방문했고 이제 곧 집으로 돌아간다고 했다. 더 대화를 이어 나가려는 때 가이드가 출발하자고 모아서 부랴부랴 달려 나갔다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/chukirawa-restaurant.jpg" title="Chukirawa restaurant" alt="Chukirawa restaurant">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/chukirawa-restaurant.jpg" alt="Chukirawa restaurant">
 </div>
 <br>
 
@@ -273,7 +273,7 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 
 도착하자마자 가이드가 찍어준 만세 사진
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/blogger-with-quilotoa-lake-1.jpg" title="Blogger with Quilotoa Lake" alt="Blogger with Quilotoa Lake">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/blogger-with-quilotoa-lake-1.jpg" alt="Blogger with Quilotoa Lake">
 </div>
 <br>
 
@@ -284,7 +284,7 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 <span style="color: #8D4801">**이렇게 아름다운 곳을 이리 쉽게 올라와서 관람**</span>할 수 있다니 너무나도 신기했다. 백두산 천지를 가본 적은 없지만 언제고 TV에서 애국가가 흘러나오며 함께 비쳤던 그 <span style="color: indianred">**백두산 천지와 비슷한 느낌**</span>이라는 생각이 들었다.
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/quilotoa-lake-1.jpg" title="Quilotoa Lake" alt="Quilotoa Lake"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/a-painted-quilotoa-lake.jpg" title="A painted Quilotoa Lake" alt="A painted Quilotoa Lake"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/quilotoa-lake-1.jpg" alt="Quilotoa Lake"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/a-painted-quilotoa-lake.jpg" alt="A painted Quilotoa Lake"> |
 
 <br>
 
@@ -292,16 +292,16 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 
 어쩌다 보니 <span style="color: indianred">**가위바위보 자세**</span>가 되어버렸다.
 <div class="image-slider-auto">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/blogger-with-quilotoa-lake-rock.jpg" title="Blogger with Quilotoa Lake" alt="Blogger with Quilotoa Lake">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/blogger-with-quilotoa-lake-scissors.jpg" title="Blogger with Quilotoa Lake" alt="Blogger with Quilotoa Lake">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/blogger-with-quilotoa-lake-paper.jpg" title="Blogger with Quilotoa Lake" alt="Blogger with Quilotoa Lake">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/blogger-with-quilotoa-lake-rock.jpg" alt="Blogger with Quilotoa Lake">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/blogger-with-quilotoa-lake-scissors.jpg" alt="Blogger with Quilotoa Lake">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/blogger-with-quilotoa-lake-paper.jpg" alt="Blogger with Quilotoa Lake">
 </div>
 <br>
 
 이게 그 <span style="color: #8D4801">**B**</span>ehind <span style="color: #8D4801">**T**</span>he <span style="color: #8D4801">**S**</span>cenes(<span style="color: indianred">**BTS**</span>)인가? 나를 찍어주는 일행들을 찍어주는 가이드 
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/blogger-with-quilotoa-lake-2.jpg" title="Blogger with Quilotoa Lake" alt="Blogger with Quilotoa Lake"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/travel-companions-taking-picture-of-blogger.jpg" title="Travel companions taking picture of blogger" alt="Travel companions taking picture of blogger"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/blogger-with-quilotoa-lake-2.jpg" alt="Blogger with Quilotoa Lake"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/travel-companions-taking-picture-of-blogger.jpg" alt="Travel companions taking picture of blogger"> |
 
 <br>
 
@@ -311,7 +311,7 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 
 천천히 내려가다가 <span style="color: #8D4801">**멈출만한 공간**</span>이 보이면 어디가 사진이 잘 나오나 계속 찍어보았다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/blogger-with-quilotoa-lake-3.jpg" title="Blogger with Quilotoa Lake" alt="Blogger with Quilotoa Lake">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/blogger-with-quilotoa-lake-3.jpg" alt="Blogger with Quilotoa Lake">
 </div>
 <br>
 
@@ -321,49 +321,49 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 
 <span style="color: indianred">**가이드도 호수 도착 전에 정말 긴급하게 올라오기 힘든 상황이 아니라면 이용하지 않는 것을 권장**</span>했다. 말에서 떨어지는 <span style="color: #8D4801">**낙마 사고나 말의 뒷발에 차여서 다친**</span> 고객들도 있었다고 했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/the-horses-going-up-the-mountain-for-customers.jpg" title="The horses going up the mountain for customers" alt="The horses going up the mountain for customers">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/the-horses-going-up-the-mountain-for-customers.jpg" alt="The horses going up the mountain for customers">
 </div>
 <br>
 
 <span style="color: indianred">**대략 호수로 내려가는 길**</span>이다. 필자는 발이 푹푹 빠지는 모래에 신발과 옷도 더 더러워질 것 같고, 말이 자꾸 지나갈 때마다 먼지를 날려서 <span style="color: #8D4801">**절반쯤만 내려갔다가 올라왔다**</span>.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/quilotoa-lake-2.jpg" title="The way to going down to the Quilotoa Lake" alt="The way to going down to the Quilotoa Lake">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/quilotoa-lake-2.jpg" alt="The way to going down to the Quilotoa Lake">
 </div>
 <br>
 
 내려갈 시간에 <span style="color: indianred">**이쁜 풍경을 조금이라도 더 담고 싶어서**</span> 찍은 영상
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/quilotoa-lake-3.webp" title="Quilotoa Lake" alt="Quilotoa Lake">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/quilotoa-lake-3.webp" alt="Quilotoa Lake">
 </div>
 <br>
 
 역시 <span style="color: #8D4801">**남는 건 사진뿐**</span> 아니겠나?
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/blogger-with-quilotoa-lake-4.webp" title="Blogger with Quilotoa Lake" alt="Blogger with Quilotoa Lake">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/blogger-with-quilotoa-lake-4.webp" alt="Blogger with Quilotoa Lake">
 </div>
 <br>
 
 한정된 시간만 볼 수 있는 경치라는 생각에 실컷 구경 중인데, <span style="color: #8D4801">**남미 친구들이 아시안이 신기한지 자꾸 말을 걸어와서**</span> MBTI <span style="color: indianred">**I는 기가 다 빨려버렸다**</span>는 후문이... 축 처진 어깨 보이시나요? 그래도 사진은 고마워요.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/blogger-with-quilotoa-lake-5.jpg" title="Blogger with Quilotoa Lake" alt="Blogger with Quilotoa Lake">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/blogger-with-quilotoa-lake-5.jpg" alt="Blogger with Quilotoa Lake">
 </div>
 <br>
 
 <span style="color: #8D4801">**집합 시간이 거의 다 되어서 올라가는 길**</span>. 입구가 뭔가 밑에서 보니까 웅장해 보여서 찍어보았다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/entrance-of-quilotoa-lake-for-hiking.jpg" title="Entrance of Quilotoa Lake for hiking" alt="Entrance of Quilotoa Lake for hiking">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/entrance-of-quilotoa-lake-for-hiking.jpg" alt="Entrance of Quilotoa Lake for hiking">
 </div>
 <br>
 
 <span style="color: #8D4801">**호수에 도착한 우리 투어 일행들**</span>. 반만 내려갔던 <span style="color: indianred">**필자와 이스라엘 모자는 식당에서 일행들을 기다리며 잡담**</span>을 나누고 있었는데, 막내 아들분과 세계여행 중이시며 따님이 두 분 더 있으시다고 하셨다. <span style="color: #8D4801">**아들분이 듀오링고와 8개월간의 남미 여행으로 스페인어가 많이 느셨다고 하는 것**</span>을 듣고 나도 스페인어 실력이 늘 수 있을까? 하는 기대감이 생겼다. 올라오는 길이 확실히 쉽지 않았는지 <span style="color: indianred">**일행들은 약속 시간보다 20분 정도 늦게 도착**</span>했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/travel-companions-arrived-the-lake.jpg" title="Travel companions arrived the lake" alt="Travel companions arrived the lake">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/travel-companions-arrived-the-lake.jpg" alt="Travel companions arrived the lake">
 </div>
 <br>
 
 점심 메뉴는 <span style="color: indianred">**볼로네스 파스타**</span>와 <span style="color: #8D4801">**구아바나 주스**</span>였는데 사실 처음에 주문할 때 12시쯤에 당장 먹는 줄 알고 주문했던 메뉴인데 나중에 먹게 되어서, 다른 메뉴를 주문할 걸 후회도 살짝 하긴 했다. 그런데 막상 파스타도 맛있고, 주스도 상큼해서 좋았는데, <span style="color: #8D4801">**파스타가 가격에 비해 양이 너무 많아서**</span> 이걸 좋았다고 해야 할지... 결국 다 먹긴 했지만 너무나도 배불렀다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/bolognese-pasta-with-guanabana-juice.jpg" title="Bolognese pasta with Guanabana juice" alt="Bolognese pasta with Guanabana juice">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/bolognese-pasta-with-guanabana-juice.jpg" alt="Bolognese pasta with Guanabana juice">
 </div>
 <br>
 
@@ -373,7 +373,7 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 ### 레이 판 푸힐리 베이커리
 키토에 복귀하기 전 마지막으로 들렸던 휴게소 느낌으로 <span style="color: #8D4801">**이곳에서 이스라엘 모자와 브라질 여성, 말레이시아 남성**</span>과는 목적지가 달라서 헤어졌다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/rey-pan-pujili-bakery.jpg" title="Rey Pan Pujili Bakery" alt="Rey Pan Pujili Bakery">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/rey-pan-pujili-bakery.jpg" alt="Rey Pan Pujili Bakery">
 </div>
 <br>
 
@@ -382,13 +382,13 @@ description: 2025.09.07 에콰도르 키토에서 킬로토아 호수 하이킹 
 
 투어를 완료하고 키토에 도착. 쿠웨이트 사람들과 가이드와 헤어지며 들었던 생각이, <span style="color: #8D4801">**점심 먹으면서 내적 친밀감이 점점 쌓여가고 있었는데**</span> 같이 투어했던 일행들과 이렇게 <span style="color: indianred">**바로 헤어지게 되어서 조금 아쉬웠다**</span>.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/returned-quito-street.jpg" title="Returned Quito street" alt="Returned Quito street">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/returned-quito-street.jpg" alt="Returned Quito street">
 </div>
 <br>
 
 집에 도착하고 씻고 나오자, 저녁 메뉴는 <span style="color: #8D4801">**맛있는 김치볶음밥**</span>이었다. <span style="color: indianred">**필자가 계란을 잘 못 뒤집어서 모양이 안 이쁜 것**</span>은 비밀이 아니다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/kimchi-bokkeumbap.jpg" title="Returned Quito street" alt="Returned Quito street">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-07-Looking-down-Quilotoa-Lake/kimchi-bokkeumbap.jpg" alt="Returned Quito street">
 </div>
 <br>
 

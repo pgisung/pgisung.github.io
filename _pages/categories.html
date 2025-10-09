@@ -12,7 +12,7 @@ permalink: /categories/
   <ul class="categories clearfix">
   {% for item in (0..site.categories.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ category_words[item] | strip_newlines }}{% endcapture %}
-    <li><a href="#{{ this_word | replace: ' ', '-' | cgi_escape }}" class="category" title="Scroll to {{ this_word }} category">{{ this_word }} <span>({{ site.categories[this_word].size }})</span></a></li>
+    <li><a href="#{{ this_word | replace: ' ', '-' | cgi_escape }}" class="category" title="{{ this_word }} 카테고리로 스크롤">{{ this_word }} <span>({{ site.categories[this_word].size }})</span></a></li>
   {% endunless %}{% endfor %}
   </ul>
   <canvas class="elements-tree"></canvas>
@@ -22,19 +22,19 @@ permalink: /categories/
   <h2 id="{{ this_word | replace: ' ', '-' | cgi_escape }}">{{ this_word }}</h2>
     {% for post in site.categories[this_word] %}{% if post.title != null %}
     <div class="category-list">
-        <span><a href="{{ post.url }}" title="Navigate to {{ post.title }} post">{{ post.title }}</a></span>
+        <span><a href="{{ post.url }}" title="{{ post.title }} 포스트로 이동">{{ post.title }}</a></span>
         <small><span>| {{ post.date | date_to_string }}</span></small>
         {% if post.categories.size >= 1 %}
           <small>| </small>
           {% for category in post.categories %}
-            <a href="#{{ category | replace: ' ', '-' | cgi_escape }}" class="category" title="Scroll to {{ category }} category"><i class="fa fa-th-list" aria-hidden="true"></i> {{ category }}</a>
+            <a href="#{{ category | replace: ' ', '-' | cgi_escape }}" class="category" title="{{ category }} 카테고리로 스크롤"><i class="fa fa-th-list" aria-hidden="true"></i> {{ category }}</a>
           {% endfor %}
         {% else %}
         {% endif %}
         {% if post.tags.size >= 1 %}
           <small>| </small>
           {% for tag in post.tags %}
-            <a href="/tags/#{{tag | replace: ' ', '-' | cgi_escape }}" class="tag" title="Navigate to {{ tag }} tag"><i class="fa fa-tags" aria-hidden="true"></i> {{ tag }}</a>
+            <a href="/tags/#{{tag | replace: ' ', '-' | cgi_escape }}" class="tag" title="{{ tag }} 태그로 이동"><i class="fa fa-tags" aria-hidden="true"></i> {{ tag }}</a>
           {% endfor %}
         {% else %}
         {% endif %}

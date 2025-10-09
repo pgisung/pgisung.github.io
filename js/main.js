@@ -90,7 +90,7 @@ $(function() {
     json: '/assets/search.json',
     searchResultTemplate: `
       <li>
-        <a href="{url}" title="Navigate to {subject} post">
+        <a href="{url}" title="{subject} 포스트로 이동">
           <div class="template-box">
             <div class="template-image">
               <span class="img-icon" style="background-image: url('{img}');"></span>

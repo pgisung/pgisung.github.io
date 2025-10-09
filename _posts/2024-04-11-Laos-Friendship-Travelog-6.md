@@ -9,24 +9,24 @@ tags: [ Laos trip, Vang Vieng trip, Vientiane trip, 라오스 여행, 방 비엥
 description: 2024.04.11 라오스 방 비엥에서 비엔티안까지 이동 및 여행 마무리 이야기
 ---
 
-> 1. [아디오스 방 비엥](#아디오스-방-비엥 "Navigate to Adios Vang Vieng")
-- [노 네임 식당](#노-네임-식당 "Navigate to No name restaurant")
-- [파산차이 방갈로](#파산차이-방갈로 "Navigate to Pasanchai Bungalow")
-- [분 삐 마이 맛보기](#분-삐-마이-맛보기 "Navigate to Briefly experiencing Boun Pi Mai")
-2. [비엔티안에서 여독 풀기](#비엔티안에서-여독-풀기 "Navigate to Recovering from travel fatigue in Vientiane")
-- [기차 타고 비엔티안으로 이동](#기차-타고-비엔티안으로-이동 "Navigate to Heading to Vientiane by railway")
-- [팍싼 백화점](#팍싼-백화점 "Navigate to Parkson department store")
-- [릴랙시파이 마사지 앤 스파](#릴랙시파이-마사지-앤-스파 "Navigate to Relaxify Massage & Spa")
-3. [여행을 마무리하며](#여행을-마무리하며 "Navigate to Wrapping up our travel")
-4. [여행 경로](#여행-경로 "Navigate to Travel route")
-5. [여행 경비](#여행-경비 "Navigate to Travel expenses")
+> 1. [아디오스 방 비엥](#아디오스-방-비엥)
+- [노 네임 식당](#노-네임-식당)
+- [파산차이 방갈로](#파산차이-방갈로)
+- [분 삐 마이 맛보기](#분-삐-마이-맛보기)
+2. [비엔티안에서 여독 풀기](#비엔티안에서-여독-풀기)
+- [기차 타고 비엔티안으로 이동](#기차-타고-비엔티안으로-이동)
+- [팍싼 백화점](#팍싼-백화점)
+- [릴랙시파이 마사지 앤 스파](#릴랙시파이-마사지-앤-스파)
+3. [여행을 마무리하며](#여행을-마무리하며)
+4. [여행 경로](#여행-경로)
+5. [여행 경비](#여행-경비)
 
 ---
 
 ## 아디오스 방 비엥
 <span style="color: #8D4801">**라오스 여행 마지막 날**</span>. 전날 과음으로 인해 늦게 일어나서 못 먹고 <span style="color: indianred">**친구들이 찍은 호텔 조식 뷔페의 과일들**</span>이다. 필자가 눈 뜨자마자 찾았던 음식은 카오 삐약 센으로 삐약삐약 노래를 불렀더니, 친구들이 함께 나서주었다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/hotel-breakfast.webp" title="Hotel breakfast" alt="Hotel breakfast">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/hotel-breakfast.webp" alt="Hotel breakfast">
 </div>
 <br>
 
@@ -37,14 +37,14 @@ description: 2024.04.11 라오스 방 비엥에서 비엔티안까지 이동 및
 사실 축제 기간에 맞춰서 라오스를 방문했다면 특별한 경험이 되었을 것 같긴 했지만, 직장인들의 특성상 시간을 맞추기가 쉽지 않았다.
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/laotian-children-celebrate-pi-mai-with-water-play-at-school-1.webp" title="Laotian children celebrate Pi Mai with water play at school" alt="Laotian children celebrate Pi Mai with water play at school"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/laotian-children-celebrate-pi-mai-with-water-play-at-school-2.webp" title="Laotian children celebrate Pi Mai with water play at school" alt="Laotian children celebrate Pi Mai with water play at school"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/laotian-children-celebrate-pi-mai-with-water-play-at-school-1.webp" alt="Laotian children celebrate Pi Mai with water play at school"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/laotian-children-celebrate-pi-mai-with-water-play-at-school-2.webp" alt="Laotian children celebrate Pi Mai with water play at school"> |
 
 <br>
 
 ### 노 네임 식당
 오직 이 가게에만 한국어로 가득한 입간판이 존재했기 때문에 식당을 찾는 것은 아주 어렵지 않았다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/no-name-restaurant.webp" title="No name restaurant" alt="No name restaurant">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/no-name-restaurant.webp" alt="No name restaurant">
 </div>
 <br>
 
@@ -55,7 +55,7 @@ description: 2024.04.11 라오스 방 비엥에서 비엔티안까지 이동 및
 
 <span style="color: #8D4801">**고수와 고추를 보이는 대로 모두 부어 넣어**</span> 먹었는데, 전날 술을 마셨단 사실마저 잊힐 정도로 맛있게 ~~마셨다~~ <span style="color: brown">**먹었다**</span>.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/khao-piak-sen-1.webp" title="Khao Piak Sen" alt="Khao Piak Sen">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/khao-piak-sen-1.webp" alt="Khao Piak Sen">
 </div>
 <br>
 
@@ -64,26 +64,26 @@ description: 2024.04.11 라오스 방 비엥에서 비엔티안까지 이동 및
 
 <span style="color: indianred">**싸우는 거 아닙니다**</span>. <span style="color: brown">**같이 놀고 있는 거에요**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/friend1-playing-with-dog.webp" title="Friend playing with dog" alt="Friend playing with dog">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/friend1-playing-with-dog.webp" alt="Friend playing with dog">
 </div>
 <br>
 
 기차 시간까지 아직 시간이 남아있어서 호텔에 짐을 맡겨두고 일단 <span style="color: #8D4801">**목적지 없이 걷다 보니 보이는 남송강 풍경**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/nam-xong-motorcycle-bridge-1.webp" title="Nam Xong motorcycle bridge" alt="Nam Xong motorcycle bridge">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/nam-xong-motorcycle-bridge-1.webp" alt="Nam Xong motorcycle bridge">
 </div>
 <br>
 
 스콜의 영향인지 아직도 물이 뿌연데 <span style="color: brown">**스티로폼 타고 잘 놀고 있는 라오스 아이들**</span>
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/laotian-children-playing-in-nam-xong-river-1.webp" title="Laotian children playing in Nam Xong river" alt="Laotian children playing in Nam Xong river"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/laotian-children-playing-in-nam-xong-river-2.webp" title="Laotian children playing in Nam Xong river" alt="Laotian children playing in Nam Xong river"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/laotian-children-playing-in-nam-xong-river-1.webp" alt="Laotian children playing in Nam Xong river"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/laotian-children-playing-in-nam-xong-river-2.webp" alt="Laotian children playing in Nam Xong river"> |
 
 <br>
 
 <span style="color: indianred">**찌는듯한 라오스의 더위**</span>에 목을 축이기 위해 앉았었는데, 나중에 알고 보니 전업 식당은 아니고 숙박업소였다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/cola-with-ice.webp" title="Cola with ice" alt="Cola with ice">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/cola-with-ice.webp" alt="Cola with ice">
 </div>
 <br>
 
@@ -96,20 +96,20 @@ description: 2024.04.11 라오스 방 비엥에서 비엔티안까지 이동 및
 아무튼 친구들은 반쎄오는 아닌 <span style="color: brown">**파전 같은 라오스식 팬케이크와 해물 믹스를 주문**</span>했고, <span style="color: indianred">**배부른데 다 먹을 수 있나? 했는데 또 다 먹어지더라고요**</span>.
 
 |:---:|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/laotian-pancake.webp" title="Laotian pancake" alt="Laotian pancake"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/khao-piak-sen-2.webp" title="Khao Piak Sen" alt="Khao Piak Sen"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/seafood-mix.webp" title="Seafood mix" alt="Seafood mix"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/laotian-pancake.webp" alt="Laotian pancake"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/khao-piak-sen-2.webp" alt="Khao Piak Sen"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/seafood-mix.webp" alt="Seafood mix"> |
 
 <br>
 
 이제 <span style="color: #8D4801">**기차역으로 이동하기 위해**</span> 짐을 가지러 <span style="color: brown">**돌아가는 중**</span>인 우리
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/friend1-passing-the-barricade.webp" title="Friend passing the barricade" alt="Friend passing the barricade">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/friend1-passing-the-barricade.webp" alt="Friend passing the barricade">
 </div>
 <br>
 
 <span style="color: indianred">**바리케이드가 반쯤 닫혀있던 남송 모터사이클 다리**</span>. 오토바이 타고 건너시는 분들이 종종 보였는데, 위태위태 위험해 보였다. 대체 왜 이렇게 열다 만 상태로 내버려두는 걸까?
 
 |:---:|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/friend2-taking-picture-of-the-barricade.webp" title="Friend taking picture of the barricade" alt="Friend taking picture of the barricade"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/the-barricade-of-the-bridge.webp" title="The barricade of the bridge" alt="The barricade of the bridge"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/nam-xong-motorcycle-bridge-2.webp" title="Nam Xong motorcycle bridge" alt="Nam Xong motorcycle bridge"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/friend2-taking-picture-of-the-barricade.webp" alt="Friend taking picture of the barricade"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/the-barricade-of-the-bridge.webp" alt="The barricade of the bridge"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/nam-xong-motorcycle-bridge-2.webp" alt="Nam Xong motorcycle bridge"> |
 
 <br>
 
@@ -119,19 +119,19 @@ description: 2024.04.11 라오스 방 비엥에서 비엔티안까지 이동 및
 사진 속 우리의 위치가 오른쪽으로 <span style="color: #8D4801">**갈수록 멀어지는 게**</span> 보이시나요?
 
 |:---:|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/friend2-enjoying-boun-pi-mai-1.webp" title="Friend enjoying Boun Pi Mai" alt="Friend enjoying Boun Pi Mai"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/friend2-enjoying-boun-pi-mai-2.webp" title="Friend enjoying Boun Pi Mai" alt="Friend enjoying Boun Pi Mai"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/friend2-enjoying-boun-pi-mai-3.webp" title="Friend enjoying Boun Pi Mai" alt="Friend enjoying Boun Pi Mai"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/friend2-enjoying-boun-pi-mai-1.webp" alt="Friend enjoying Boun Pi Mai"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/friend2-enjoying-boun-pi-mai-2.webp" alt="Friend enjoying Boun Pi Mai"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/friend2-enjoying-boun-pi-mai-3.webp" alt="Friend enjoying Boun Pi Mai"> |
 
 <br>
 
 아니 우리 체크아웃도 다 했고 <span style="color: brown">**이제 기차역 가야 하는데**</span> <span style="color: indianred">**밀가루**</span> 맞아...?
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/friend2-enjoying-boun-pi-mai-4.webp" title="Friend enjoying Boun Pi Mai" alt="Friend enjoying Boun Pi Mai">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/friend2-enjoying-boun-pi-mai-4.webp" alt="Friend enjoying Boun Pi Mai">
 </div>
 <br>
 
 <span style="color: #8D4801">**이리 오라는 악마의 손짓**</span>에 <span style="color: brown">**주춤**</span>거리는 촬영 중인 누군가
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/friend2-enjoying-boun-pi-mai-5.webp" title="Friend enjoying Boun Pi Mai" alt="Friend enjoying Boun Pi Mai">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/friend2-enjoying-boun-pi-mai-5.webp" alt="Friend enjoying Boun Pi Mai">
 </div>
 <br>
 
@@ -139,7 +139,7 @@ description: 2024.04.11 라오스 방 비엥에서 비엔티안까지 이동 및
 
 아침에 카오 삐약 센 가게까지 걸어가던 도중에 <span style="color: #8D4801">**기차역까지 이동할 교통수단을 고민**</span>하던 중이었는데, 도로에 <span style="color: brown">**정차해 있던 툭툭들**</span>이 보여서 <span style="color: brown">**그중 한 명의 기사님께 예약**</span>했었고 숙소 안에서 툭툭이 오기를 기다렸다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/waiting-for-tuktuk-in-the-hotel-lobby.webp" title="Waiting for Tuktuk in the hotel lobby" alt="Waiting for Tuktuk in the hotel lobby">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/waiting-for-tuktuk-in-the-hotel-lobby.webp" alt="Waiting for Tuktuk in the hotel lobby">
 </div>
 <br>
 
@@ -148,20 +148,20 @@ description: 2024.04.11 라오스 방 비엥에서 비엔티안까지 이동 및
 ## 비엔티안에서 여독 풀기
 마침내 도착한 툭툭을 타고 <span style="color: #8D4801">**기차역을 향하는 제군들**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/friends-on-the-tuktuk.webp" title="Friends on the Tuktuk" alt="Friends on the Tuktuk">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/friends-on-the-tuktuk.webp" alt="Friends on the Tuktuk">
 </div>
 <br>
 
 <span style="color: indianred">**방 비엥에서 마지막 단체 사진**</span>. 마음 같아서는 축제를 떠나서 방 비엥에서 하루에서 이틀 정도만 더 머물렀으면 했을 정도로 <span style="color: brown">**맘에 들었던 도시**</span>였다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/the-group-photo-on-the-tuktuk.webp" title="The group photo on the Tuktuk" alt="The group photo on the Tuktuk">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/the-group-photo-on-the-tuktuk.webp" alt="The group photo on the Tuktuk">
 </div>
 <br>
 
 ### 기차 타고 비엔티안으로 이동
 기차 밖 <span style="color: #8D4801">**라오스의 아름다운 농경지**</span> 풍경
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/the-scenery-outside-the-train-in-laos.webp" title="The scenery outside the train in Laos" alt="The scenery outside the train in Laos">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/the-scenery-outside-the-train-in-laos.webp" alt="The scenery outside the train in Laos">
 </div>
 <br>
 
@@ -170,14 +170,14 @@ description: 2024.04.11 라오스 방 비엥에서 비엔티안까지 이동 및
 
 기차 안에서 잠든 필자. 마지막 날이 되어서 긴장이 많이 풀렸었다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/blogger-napping-on-the-train.webp" title="Blogger napping on the train" alt="Blogger napping on the train">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/blogger-napping-on-the-train.webp" alt="Blogger napping on the train">
 </div>
 <br>
 
 ### 팍싼 백화점
 사실 <span style="color: #8D4801">**비엔티안에서도 마지막 날 여행의 여지**</span>를 남겨두려고 <span style="color: brown">**일부러 비행기 시간에 비해서 비엔티안에 일찍 도착하는 기차표**</span>를 끊었었는데, 우리 모두 <span style="color: indianred">**며칠간 쌓여있는 여독이 가득**</span>해서 기념품도 살 겸, 편하고 시원하게 비행기를 기다릴 겸 대형 몰을 검색해서 이동해 왔다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/parkson-department-store.webp" title="Parkson department store" alt="Parkson department store">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/parkson-department-store.webp" alt="Parkson department store">
 </div>
 <br>
 
@@ -186,42 +186,42 @@ description: 2024.04.11 라오스 방 비엥에서 비엔티안까지 이동 및
 
 가장 먼저 친구가 모으고 있다는 <span style="color: #8D4801">**스타벅스 컵**</span>을 보기 위해서 스타벅스를 방문했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/the-entrance-of-starbucks.webp" title="The entrance of Starbucks" alt="The entrance of Starbucks">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/the-entrance-of-starbucks.webp" alt="The entrance of Starbucks">
 </div>
 <br>
 
 종류도 꽤 다양했는데, 다들 각자 취향에 따라 골랐다. <span style="color: brown">**필자의 경우엔 도시별 컵은 너무 종류가 많다고 생각**</span>하여서 <span style="color: indianred">**라오스 국가 컵**</span>만 골랐다.
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/souvenirs-in-the-laos-starbucks-1.webp" title="Souvenirs in the Laos Starbucks" alt="Souvenirs in the Laos Starbucks"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/souvenirs-in-the-laos-starbucks-2.webp" title="Souvenirs in the Laos Starbucks" alt="Souvenirs in the Laos Starbucks"> |
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/souvenirs-in-the-laos-starbucks-3.webp" title="Souvenirs in the Laos Starbucks" alt="Souvenirs in the Laos Starbucks"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/souvenirs-in-the-laos-starbucks-4.webp" title="Souvenirs in the Laos Starbucks" alt="Souvenirs in the Laos Starbucks"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/souvenirs-in-the-laos-starbucks-1.webp" alt="Souvenirs in the Laos Starbucks"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/souvenirs-in-the-laos-starbucks-2.webp" alt="Souvenirs in the Laos Starbucks"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/souvenirs-in-the-laos-starbucks-3.webp" alt="Souvenirs in the Laos Starbucks"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/souvenirs-in-the-laos-starbucks-4.webp" alt="Souvenirs in the Laos Starbucks"> |
 
 <br>
 
 <span style="color: #8D4801">**참고용 라오스 스타벅스 컵의 가격**</span>. 사실 커피도 아니고 공산품의 경우에는 어느 나라이든 대체로 가격이 비슷하지 않을까 하는 생각은 들었다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/the-price-of-souvenirs-in-the-laos-starbucks.webp" title="The price of souvenirs in the Laos Starbucks" alt="The price of souvenirs in the Laos Starbucks">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/the-price-of-souvenirs-in-the-laos-starbucks.webp" alt="The price of souvenirs in the Laos Starbucks">
 </div>
 <br>
 
 다음으로 방문했던 <span style="color: brown">**팍싼 백화점의 마트**</span>. 건조된 과일이라든가 <span style="color: indianred">**사려고 했던 모든 기념품**</span>을 이곳에서 구매할 수 있었다.
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/souvenirs-in-the-laos-market-1.webp" title="Souvenirs in the Laos market" alt="Souvenirs in the Laos market"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/souvenirs-in-the-laos-market-2.webp" title="Souvenirs in the Laos market" alt="Souvenirs in the Laos market"> |
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/souvenirs-in-the-laos-market-3.webp" title="Souvenirs in the Laos market" alt="Souvenirs in the Laos market"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/souvenirs-in-the-laos-market-4.webp" title="Souvenirs in the Laos market" alt="Souvenirs in the Laos market"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/souvenirs-in-the-laos-market-1.webp" alt="Souvenirs in the Laos market"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/souvenirs-in-the-laos-market-2.webp" alt="Souvenirs in the Laos market"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/souvenirs-in-the-laos-market-3.webp" alt="Souvenirs in the Laos market"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/souvenirs-in-the-laos-market-4.webp" alt="Souvenirs in the Laos market"> |
 
 <br>
 
 기념품 구경만 다녔는데 벌써 1시간이 넘게 지나갔고 슬슬 허기가 져서 <span style="color: #8D4801">**푸드 코트**</span>에 들렀다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/parkson-department-store-food-court.webp" title="Parkson department store food court" alt="Parkson department store food court">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/parkson-department-store-food-court.webp" alt="Parkson department store food court">
 </div>
 <br>
 
 필자는 <span style="color: brown">**돼지고기 뱃살 국수**</span>를 시켰는데, 맛이 없는 정도는 아니었지만, 아침, 점심 내리 카오 삐약 센만 먹고 왔더니 맛이 좀 비교되긴 했다. (솔직히 <span style="color: indianred">**카오 삐약 센**</span>이 먹고 싶긴 했는데, 삼시세끼는 좀 아닌가 하고 바꿨다가 그만...)
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/pork-belly-soup.webp" title="Pork belly soup" alt="Pork belly soup"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/chicken-soup.webp" title="Chicken soup" alt="Chicken soup"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/pork-belly-soup.webp" alt="Pork belly soup"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/chicken-soup.webp" alt="Chicken soup"> |
 
 <br>
 
@@ -229,7 +229,7 @@ description: 2024.04.11 라오스 방 비엥에서 비엔티안까지 이동 및
 기념품을 다 샀는데도 <span style="color: #8D4801">**시간이 좀 남아서**</span> 무엇을 할지 고민하다가 방문하게 된 <span style="color: brown">**마사지 가게**</span>. 필자는 평소에 낯선 사람이 터치하는 것을 안 좋아해서 잘 다니지 않아서 모르겠지만, 친구들의 반응은 그저 그랬던 것 같다. (이제 와서 얘기지만 딱히 별달리 차선책이 없어서 받았지만, <span style="color: indianred">**라오스 물가치고 마사지 가격이 많이 비싸다고 느꼈다**</span>)
 
 |:---:|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/relaxify-massage-and-spa-1.webp" title="Relaxify Massage & Spa" alt="Relaxify Massage & Spa"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/relaxify-massage-and-spa-2.webp" title="Relaxify Massage & Spa" alt="Relaxify Massage & Spa"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/relaxify-massage-and-spa-3.webp" title="Relaxify Massage & Spa" alt="Relaxify Massage & Spa"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/relaxify-massage-and-spa-1.webp" alt="Relaxify Massage & Spa"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/relaxify-massage-and-spa-2.webp" alt="Relaxify Massage & Spa"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/relaxify-massage-and-spa-3.webp" alt="Relaxify Massage & Spa"> |
 
 <br>
 
@@ -239,13 +239,13 @@ description: 2024.04.11 라오스 방 비엥에서 비엔티안까지 이동 및
 <span style="color: indianred">**아침에도 2시간 만에 연속으로 식사**</span>했던 것 같은데, 마사지를 받고 나니 <span style="color: brown">**배고프다며 또 먹으러**</span> 찾아온 피자 컴퍼니. 무난한 <span style="color: #8D4801">**페퍼로니 피자**</span>로 5시간 비행을 하기 전에 배를 채웠다.
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/the-pizza-in-the-pizza-company-1.webp" title="The pizza in The pizza company" alt="The pizza in The pizza company"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/the-pizza-in-the-pizza-company-2.webp" title="The pizza in The pizza company" alt="The pizza in The pizza company"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/the-pizza-in-the-pizza-company-1.webp" alt="The pizza in The pizza company"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/the-pizza-in-the-pizza-company-2.webp" alt="The pizza in The pizza company"> |
 
 <br>
 
 팍싼 백화점 앞의 동상들. 이곳에서 <span style="color: brown">**로카 앱으로 택시를 불러서 공항으로 이동**</span>했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/small-statues-in-front-of-parkson-department-store.webp" title="Small statues in front of Parkson department store" alt="Small statues in front of Parkson department store">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/small-statues-in-front-of-parkson-department-store.webp" alt="Small statues in front of Parkson department store">
 </div>
 <br>
 
@@ -258,7 +258,7 @@ description: 2024.04.11 라오스 방 비엥에서 비엔티안까지 이동 및
 
 여담으로 한국에 복귀하고도 석촌호수, 롯데타워, 새벽 한강 자전거 라이딩 등 <span style="color: #8D4801">**서울에서 신나게 놀다가 헤어졌다**</span>는...
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/friends-riding-bicycle-along-han-river.webp" title="Friends riding bicycle along Han river" alt="Friends riding bicycle along Han river">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-11-Laos-Friendship-Travelog-6/friends-riding-bicycle-along-han-river.webp" alt="Friends riding bicycle along Han river">
 </div>
 <br>
 

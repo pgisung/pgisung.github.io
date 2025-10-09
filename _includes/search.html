@@ -4,12 +4,12 @@
       <label class="screen-reader-text" for="search-input">Search for Blog</label>
       <input type="text" id="search-input" class="search-field" name="s" placeholder="Type to search...">
     </form>
-    <div class="btn-remove" title="Remove text to type new text">
+    <div class="btn-remove" title="지우기">
       <span class="bt-search-remove">
         <i class="fa fa-eraser" aria-hidden="true"></i>
       </span>
     </div>
-    <div class="btn-close" title="Close search bar">
+    <div class="btn-close" title="닫기">
       <span class="bt-search-close">
         <i class="fa fa-times" aria-hidden="true"></i>
       </span>
@@ -19,10 +19,10 @@
   {% assign category_words = site_categories | split:',' | sort %}
   <div class="blog-categories">
     <ul class="categories clearfix">
-      <a href="{{ site.url }}/categories" class="bar-title" title="Navigate to Categories page">Categories:</a>
+      <a href="{{ site.url }}/categories" class="bar-title" title="Categories 페이지로 이동">Categories:</a>
       {% for item in (0..site.categories.size) %}{% unless forloop.last %}
         {% capture this_word %}{{ category_words[item] | strip_newlines }}{% endcapture %}
-        <li><a href="" class="category" title="{{ this_word }} category"><i class="fa fa-th-list" aria-hidden="true"></i>{{ this_word }} <span>({{ site.categories[this_word].size }})</span></a></li>
+        <li><a href="" class="category" title="{{ this_word }} 카테고리"><i class="fa fa-th-list" aria-hidden="true"></i>{{ this_word }} <span>({{ site.categories[this_word].size }})</span></a></li>
       {% endunless %}{% endfor %}
     </ul>
   </div>
@@ -30,10 +30,10 @@
   {% assign tag_words = site_tags | split:',' | sort %}
   <div class="blog-tags">
     <ul class="tags clearfix">
-      <a href="{{ site.url }}/tags" class="bar-title" title="Navigate to Tags page">Tags:</a>
+      <a href="{{ site.url }}/tags" class="bar-title" title="Tags 페이지로 이동">Tags:</a>
       {% for item in (0..site.tags.size) %}{% unless forloop.last %}
         {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-        <li><a href="" class="tag" title="{{ this_word }} tag"><i class="fa fa-tags" aria-hidden="true"></i>{{ this_word }} <span>({{ site.tags[this_word].size }})</span></a></li>
+        <li><a href="" class="tag" title="{{ this_word }} 태그"><i class="fa fa-tags" aria-hidden="true"></i>{{ this_word }} <span>({{ site.tags[this_word].size }})</span></a></li>
       {% endunless %}{% endfor %}
     </ul>
   </div>

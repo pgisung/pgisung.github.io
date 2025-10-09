@@ -9,22 +9,22 @@ tags: [ Laos trip, Luang Prabang trip, Vang Vieng trip, Namxay Viewpoint, 라오
 description: 2024.04.09 루앙 프라방에서 탁발 행렬 관람 및 물의 도시 방 비엥 이동 후 남싸이 전망대, 블루 라군 1, 로컬 여행사 방문기
 ---
 
-> 1. [탁발 행렬 관람기](#탁발-행렬-관람기 "Navigate to Watching the Alms Giving Ceremony")
-- [루앙 프라방 아침 시장](#루앙-프라방-아침-시장 "Navigate to Luang Prabang morning market")
-2. [기차 타고 방 비엥 숙소로 이동](#기차-타고-방-비엥-숙소로-이동 "Navigate to Heading to accommodation in Vang Vieng by train")
-- [역 앞 식당](#역-앞-식당 "Navigate to Restaurant in front of Railway station")
-- [루앙 프라방 고속철도역](#루앙-프라방-고속철도역 "Navigate to Luang Prabang Railway station")
-- [방 비엥 고속철도역](#방-비엥-고속철도역 "Navigate to Vang Vieng Railway station")
-- [콘페티 가든 호텔](#콘페티-가든-호텔 "Navigate to Confetti Garden hotel")
-3. [남싸이 전망대 방문기](#남싸이-전망대-방문기 "Navigate to Visiting Namxay viewpoint")
-- [남싸이 전망대](#남싸이-전망대 "Navigate to Namxay viewpoint")
-  - [240도 파노라마 남싸이 전망대 전경](#240도-파노라마-남싸이-전망대-전경 "Navigate to 240-degree panoramic view for Namxay viewpoint")
-- [블루 라군 1](#블루-라군-1 "Navigate to Blue lagoon 1")
-- [방 비엥 센트럴 어드벤쳐 여행사](#방-비엥-센트럴-어드벤쳐-여행사 "Navigate to Vang Vieng Central Adventure tour company")
-- [뱅킹 식당](#뱅킹-식당 "Navigate to Banking restaurant")
-4. [스콜의 습격](#스콜의-습격 "Navigate to An attack by the squall")
-5. [여행 경로](#여행-경로 "Navigate to Travel route")
-6. [여행 경비](#여행-경비 "Navigate to Travel expenses")
+> 1. [탁발 행렬 관람기](#탁발-행렬-관람기)
+- [루앙 프라방 아침 시장](#루앙-프라방-아침-시장)
+2. [기차 타고 방 비엥 숙소로 이동](#기차-타고-방-비엥-숙소로-이동)
+- [역 앞 식당](#역-앞-식당)
+- [루앙 프라방 고속철도역](#루앙-프라방-고속철도역)
+- [방 비엥 고속철도역](#방-비엥-고속철도역)
+- [콘페티 가든 호텔](#콘페티-가든-호텔)
+3. [남싸이 전망대 방문기](#남싸이-전망대-방문기)
+- [남싸이 전망대](#남싸이-전망대)
+  - [240도 파노라마 남싸이 전망대 전경](#240도-파노라마-남싸이-전망대-전경)
+- [블루 라군 1](#블루-라군-1)
+- [방 비엥 센트럴 어드벤쳐 여행사](#방-비엥-센트럴-어드벤쳐-여행사)
+- [뱅킹 식당](#뱅킹-식당)
+4. [스콜의 습격](#스콜의-습격)
+5. [여행 경로](#여행-경로)
+6. [여행 경비](#여행-경비)
 
 ---
 
@@ -32,7 +32,7 @@ description: 2024.04.09 루앙 프라방에서 탁발 행렬 관람 및 물의 �
 여행 4일 차 <span style="color: indianred">**지금 시각 새벽 5시 36분**</span> <span style="color: #8D4801">**그들은 어디로 가는 걸까요?**</span>
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/on-the-way-to-alms-giving-ceremony-1.jpg" title="On the way to Alms Giving ceremony" alt="On the way to Alms Giving ceremony"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/on-the-way-to-alms-giving-ceremony-2.webp" title="On the way to Alms Giving ceremony" alt="On the way to Alms Giving ceremony"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/on-the-way-to-alms-giving-ceremony-1.jpg" alt="On the way to Alms Giving ceremony"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/on-the-way-to-alms-giving-ceremony-2.webp" alt="On the way to Alms Giving ceremony"> |
 
 <br>
 
@@ -40,7 +40,7 @@ description: 2024.04.09 루앙 프라방에서 탁발 행렬 관람 및 물의 �
 
 저녁에는 야시장으로 활동하는 거리를 따라서 목욕탕 <span style="color: indianred">**의자가 쭈욱 배치**</span>되어 있었다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/alms-giving-ceremony-1.jpg" title="Alms Giving ceremony" alt="Alms Giving ceremony">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/alms-giving-ceremony-1.jpg" alt="Alms Giving ceremony">
 </div>
 <br>
 
@@ -53,19 +53,19 @@ description: 2024.04.09 루앙 프라방에서 탁발 행렬 관람 및 물의 �
 
 당연히 세상에 공짜는 없다지만 어쨌든 <span style="color: #8D4801">**공양하는 행렬 앞에서 보란 듯이 일용할 양식들을 쌓아놓고**</span> 외국인 <span style="color: indianred">**관광객에게 판매**</span>해서 그들을 돕는다는 게, 마치 우스꽝스러운 아이러니 같았다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/snacks-for-alms-giving-ceremony.jpg" title="The snacks for Alms Giving ceremony" alt="The snacks for Alms Giving ceremony">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/snacks-for-alms-giving-ceremony.jpg" alt="The snacks for Alms Giving ceremony">
 </div>
 <br>
 
 관광객이 적어서인지 우리와 비슷한 생각에서였는지 몰라도 <span style="color: indianred">**대부분이 빈자리**</span>였다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/alms-giving-ceremony-2.jpg" title="Alms Giving ceremony" alt="Alms Giving ceremony">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/alms-giving-ceremony-2.jpg" alt="Alms Giving ceremony">
 </div>
 <br>
 
 시작된 탁발 행렬. 반드시 새벽 일찍 출발해야 볼 수 있다고 하여서 일찍 나왔는데 막상 <span style="color: #8D4801">**생각보다 늦게 시작되어서 기다렸었다**</span>.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/alms-giving-ceremony-3.webp" title="Alms Giving ceremony" alt="Alms Giving ceremony">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/alms-giving-ceremony-3.webp" alt="Alms Giving ceremony">
 </div>
 <br>
 
@@ -74,26 +74,26 @@ description: 2024.04.09 루앙 프라방에서 탁발 행렬 관람 및 물의 �
 그 안에서 가족들 모두가 <span style="color: #8D4801">**불교적 공덕**</span>을 쌓는다고 믿기도 한다고 했고 또한 라오스 시골 지역에 대부분의 가정은 가난한 가정 환경으로 인해 적절한 교육의 기회를 얻기가 어려운데 <span style="color: indianred">**사원에서는 무료로 교육과 숙식을 제공**</span>하기 때문에 <span style="color: #8D4801">**어린 나이에 출가해 사미로 생활하는 경우가 흔하다**</span>고 했다.
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/alms-giving-ceremony-4.webp" title="Alms Giving ceremony" alt="Alms Giving ceremony"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/alms-giving-ceremony-5.webp" title="Alms Giving ceremony" alt="Alms Giving ceremony"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/alms-giving-ceremony-4.webp" alt="Alms Giving ceremony"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/alms-giving-ceremony-5.webp" alt="Alms Giving ceremony"> |
 
 <br>
 
 라오스 사람들은 머리에 영혼이 깃들어 있다고 믿기 때문에 <span style="color: indianred">**절대로 머리를 만져서는 안 된다**</span>고 한다. 또한 <span style="color: #8D4801">**승려들과의 신체접촉도 엄격히 금지**</span>되어 있다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/alms-giving-ceremony-6.jpg" title="Alms Giving ceremony" alt="Alms Giving ceremony">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/alms-giving-ceremony-6.jpg" alt="Alms Giving ceremony">
 </div>
 <br>
 
 탁발 행렬이 모두 지나간 뒤에도 <span style="color: #8D4801">**기도하는 듯한 자세로 공덕을 발원**</span>하시는 어머님들
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/praying-women.jpg" title="Praying women" alt="Praying women">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/praying-women.jpg" alt="Praying women">
 </div>
 <br>
 
 ### 루앙 프라방 아침 시장
 탁발 행렬 관람을 마치고 <span style="color: indianred">**전일에는 빡빡했던 일정**</span>으로 인해 <span style="color: #8D4801">**편하게 둘러보지 못했던 아침 시장에 다시 방문**</span>했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/on-the-way-to-luang-prabang-morning-market.webp" title="On the way to Luang Prabang morning market" alt="On the way to Luang Prabang morning market">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/on-the-way-to-luang-prabang-morning-market.webp" alt="On the way to Luang Prabang morning market">
 </div>
 <br>
 
@@ -103,55 +103,55 @@ description: 2024.04.09 루앙 프라방에서 탁발 행렬 관람 및 물의 �
 늘 전통 시장을 방문하면 설령 무언가를 구매하지 않아도 <span style="color: #8D4801">**그 나라 사람들의 실제 생활상**</span>을 엿볼 수 있어서 너무 <span style="color: indianred">**유익하다**</span>는 생각이 든다. (모아놓은 개구리는 징그럽긴 하다)
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/luang-prabang-morning-market-1.jpg" title="Luang Prabang morning market" alt="Luang Prabang morning market"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/luang-prabang-morning-market-2.jpg" title="Luang Prabang morning market" alt="Luang Prabang morning market"> |
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/luang-prabang-morning-market-3.jpg" title="Luang Prabang morning market" alt="Luang Prabang morning market"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/luang-prabang-morning-market-4.jpg" title="Luang Prabang morning market" alt="Luang Prabang morning market"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/luang-prabang-morning-market-1.jpg" alt="Luang Prabang morning market"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/luang-prabang-morning-market-2.jpg" alt="Luang Prabang morning market"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/luang-prabang-morning-market-3.jpg" alt="Luang Prabang morning market"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/luang-prabang-morning-market-4.jpg" alt="Luang Prabang morning market"> |
 
 <br>
 
 그의 발걸음을 멈추게 한 <span style="color: #8D4801">**튀긴 밥**</span> (<span style="color: indianred">**그래도 다음 날에는 먹어보았다**</span>)
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/friend1-in-luang-prabang-morning-market.jpg" title="Friend in Luang Prabang morning market" alt="Friend in Luang Prabang morning market">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/friend1-in-luang-prabang-morning-market.jpg" alt="Friend in Luang Prabang morning market">
 </div>
 <br>
 
 오징어가 참 맛있어 보이네요
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/luang-prabang-morning-market-5.webp" title="Luang Prabang morning market" alt="Luang Prabang morning market"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/luang-prabang-morning-market-6.webp" title="Luang Prabang morning market" alt="Luang Prabang morning market"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/luang-prabang-morning-market-5.webp" alt="Luang Prabang morning market"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/luang-prabang-morning-market-6.webp" alt="Luang Prabang morning market"> |
 
 <br>
 
 동남아시아의 전통 시장을 다니다 보면 흔하게 볼 수 있는 <span style="color: #8D4801">**부모님을 돕는 자식들**</span> (<span style="color: indianred">**핸드폰 보는 건 전 세계 공통**</span>)
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/luang-prabang-morning-market-7.jpg" title="Luang Prabang morning market" alt="Luang Prabang morning market"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/luang-prabang-morning-market-8.jpg" title="Luang Prabang morning market" alt="Luang Prabang morning market"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/luang-prabang-morning-market-7.jpg" alt="Luang Prabang morning market"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/luang-prabang-morning-market-8.jpg" alt="Luang Prabang morning market"> |
 
 <br>
 
 이름이 무엇인지는 모르겠지만 <span style="color: #8D4801">**맛있어 보여서 구매했던 롤**</span>. 야무지게 말아주시네요
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/nameless-rolls-1.webp" title="Nameless rolls" alt="Nameless rolls"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/nameless-rolls-2.jpg" title="Nameless rolls" alt="Nameless rolls"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/nameless-rolls-1.webp" alt="Nameless rolls"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/nameless-rolls-2.jpg" alt="Nameless rolls"> |
 
 <br>
 
 인터넷에서 라오스에서 먹어볼 만한 음식들을 검색 중에 <span style="color: #8D4801">**루앙 프라방에서만 먹을 수 있다고 추천**</span>한다던 <span style="color: indianred">**카이펜**</span>. 필자 입맛에는 전혀 맞지를 않아서 전부 남겼다...
 
-25,000 LAK이라고 대놓고 쓰여 있는데 [경비](#여행-경비 "Navigate to Travel expenses")에는 34,000 LAK인 이유는 <span style="color: indianred">**거스름돈 없음 신공**</span>에 당했다.
+25,000 LAK이라고 대놓고 쓰여 있는데 [경비](#여행-경비)에는 34,000 LAK인 이유는 <span style="color: indianred">**거스름돈 없음 신공**</span>에 당했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/kaipen.jpg" title="Kaipen" alt="Kaipen">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/kaipen.jpg" alt="Kaipen">
 </div>
 <br>
 
 구매한 음식들과 아침을 <span style="color: #8D4801">**먹기 위해 귀가 중**</span>인 우리들
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/on-the-way-back-to-accommodation.jpg" title="On the way back to accommodation" alt="On the way back to accommodation">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/on-the-way-back-to-accommodation.jpg" alt="On the way back to accommodation">
 </div>
 <br>
 
 커다란 바게트에 베이컨, 치킨 등 원하는 재료를 터질 듯이 넣어준다던 <span style="color: indianred">**바게트샌드위치**</span>. 먹기 전에 사진 찍는 것을 깜빡하고 중간에 찍어버렸다. 근데 가게가 다른 가게라 그런가 <span style="color: #8D4801">**그렇게 크고 푸짐하진 않았다**</span>.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/baguette-sandwich.jpg" title="Baguette sandwich" alt="Baguette sandwich">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/baguette-sandwich.jpg" alt="Baguette sandwich">
 </div>
 <br>
 
@@ -164,7 +164,7 @@ description: 2024.04.09 루앙 프라방에서 탁발 행렬 관람 및 물의 �
 <span style="color: indianred">**점심을 먹기 위해 방문한 역 근처에 자리 잡은 가게**</span>에서 필자는 푹 빠져버린 <span style="color: #8D4801">**카오 삐약 센**</span>에 고수를 듬뿍 넣어 먹었다.
 
 |:---:|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-lunch-menu-for-friend1.jpg" title="The lunch menu for friend" alt="The lunch menu for friend"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-lunch-menu-for-blogger.jpg" title="The lunch menu for blogger" alt="The lunch menu for blogger"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-lunch-menu-for-friend2.jpg" title="The lunch menu for friend" alt="The lunch menu for friend"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-lunch-menu-for-friend1.jpg" alt="The lunch menu for friend"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-lunch-menu-for-blogger.jpg" alt="The lunch menu for blogger"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-lunch-menu-for-friend2.jpg" alt="The lunch menu for friend"> |
 
 <br>
 
@@ -174,7 +174,7 @@ description: 2024.04.09 루앙 프라방에서 탁발 행렬 관람 및 물의 �
 ### 루앙 프라방 고속철도역
 이미 왔던 곳이라고 찍은 사진이라고는 멀리 서 있는 <span style="color: #8D4801">**친구 녀석뿐**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/friend2-in-luang-prabang-railway-station.jpg" title="Friend in Luang Prabang railway station" alt="Friend in Luang Prabang railway station">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/friend2-in-luang-prabang-railway-station.jpg" alt="Friend in Luang Prabang railway station">
 </div>
 <br>
 
@@ -183,14 +183,14 @@ description: 2024.04.09 루앙 프라방에서 탁발 행렬 관람 및 물의 �
 
 기차 타고 루앙 프라방을 떠나 물의 도시 방 비엥으로 이동하는 길. <span style="color: indianred">**고즈넉한 라오스의 시골 풍경**</span>을 눈에 담고 있다 보니 금방 방 비엥에 도착했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/on-the-way-to-vang-vieng-railway-station.jpg" title="On the way to Vang Vieng railway station" alt="On the way to Vang Vieng railway station">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/on-the-way-to-vang-vieng-railway-station.jpg" alt="On the way to Vang Vieng railway station">
 </div>
 <br>
 
 ### 방 비엥 고속철도역
 명패만 떼고 보면 사실 다 똑같이 생긴 거 아니냐고 생각했던 <span style="color: #8D4801">**라오스의 고속철도역들**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/vang-vieng-railway-station.jpg" title="Vang Vieng railway station" alt="Vang Vieng railway station">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/vang-vieng-railway-station.jpg" alt="Vang Vieng railway station">
 </div>
 <br>
 
@@ -203,21 +203,21 @@ description: 2024.04.09 루앙 프라방에서 탁발 행렬 관람 및 물의 �
 
 주차장에서 <span style="color: #8D4801">**도착한 관광객들을 줄 세우고 정렬시키는 사람**</span>이 보였고, 루앙 프라방에서는 보지 못했던 툭툭들이 눈에 보여서 <span style="color: indianred">**툭툭 타고 가게 되겠거니**</span> 생각하고 있었는데, <span style="color: #8D4801">**커다란 관광버스 짐칸에 캐리어를 싣고 버스로 이동**</span>하게 되었다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-group-photo-in-vang-vieng-railway-station.jpg" title="The group photo in Vang Vieng railway station" alt="The group photo in Vang Vieng railway station">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-group-photo-in-vang-vieng-railway-station.jpg" alt="The group photo in Vang Vieng railway station">
 </div>
 <br>
 
 ### 콘페티 가든 호텔
 버스는 <span style="color: #8D4801">**방 비엥 시내 중심쯤**</span>에 우리를 내려줬고, 천천히 <span style="color: indianred">**캐리어를 끌고 도착한 방 비엥 숙소**</span>. 귀여운 강아지가 우리를 맞이해준다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-dog-welcoming-us.jpg" title="The dog welcoming us" alt="The dog welcoming us">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-dog-welcoming-us.jpg" alt="The dog welcoming us">
 </div>
 <br>
 
 숙소 발코니에서 내려다보이는 방 비엥 거리. 여행 중 <span style="color: #8D4801">**마지막 숙소여서 예약한 숙소 중 가장 비싼 가격**</span>을 준 보람이 있었달까...
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/confetti-garden-hotel-1.jpg" title="Confetti Garden hotel" alt="Confetti Garden hotel"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/confetti-garden-hotel-2.jpg" title="Confetti Garden hotel" alt="Confetti Garden hotel"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/confetti-garden-hotel-1.jpg" alt="Confetti Garden hotel"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/confetti-garden-hotel-2.jpg" alt="Confetti Garden hotel"> |
 
 <br>
 
@@ -234,26 +234,26 @@ description: 2024.04.09 루앙 프라방에서 탁발 행렬 관람 및 물의 �
 가격을 흥정 후 숙소 앞에서 음료를 마시면서 <span style="color: #8D4801">**기사님을 기다리고 있었는데**</span>, 전망대가 산에 올라가야 하는 장소여서 해가 지기 전에 올라갔다 내려와야 하므로 안 그래도 <span style="color: indianred">**시간에 조금 쫓기는 기분**</span>이 들었는데 기사님이 약속 시간보다 <span style="color: #8D4801">**15분이 넘도록 도착하지를 않아서**</span> 조금 많이 화가 났었다.
 
 |:---:|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-drink-for-friend1.jpg" title="The drink for friend" alt="The drink for friend"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-drink-for-blogger.jpg" title="The drink for blogger" alt="The drink for blogger"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-drink-for-friend2.jpg" title="The drink for friend" alt="The drink for friend"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-drink-for-friend1.jpg" alt="The drink for friend"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-drink-for-blogger.jpg" alt="The drink for blogger"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-drink-for-friend2.jpg" alt="The drink for friend"> |
 
 <br>
 
 어쨌든 우여곡절 끝에 <span style="color: indianred">**전망대를 향하여 출발!**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/on-the-way-to-namxay-viewpoint.webp" title="On the way to Namxay viewpoint" alt="On the way to Namxay viewpoint">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/on-the-way-to-namxay-viewpoint.webp" alt="On the way to Namxay viewpoint">
 </div>
 <br>
 
 ### 남싸이 전망대
 차로 20여 분을 달려서 도착한 <span style="color: #8D4801">**전망대 입구**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-entrance-of-namxay-viewpoint.jpg" title="The entrance of Namxay viewpoint" alt="The entrance of Namxay viewpoint">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-entrance-of-namxay-viewpoint.jpg" alt="The entrance of Namxay viewpoint">
 </div>
 <br>
 
 올라가기 전 주차장 근처의 <span style="color: #8D4801">**매표소에서 입장권을 구매**</span>할 수 있다. (<span style="color: indianred">**솔직히 위에서 확인하는 곳도 없는데**</span>) 이미 올라갔다가 내려오면서 알게 된 건데 <span style="color: #8D4801">**신발 등이 하이킹에 어울리지 않을 경우 이곳에서 빌릴 수 있다**</span>.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-tickets-for-namxay-viewpoint.jpg" title="The tickets for Namxay viewpoint" alt="The tickets for Namxay viewpoint">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-tickets-for-namxay-viewpoint.jpg" alt="The tickets for Namxay viewpoint">
 </div>
 <br>
 
@@ -262,27 +262,27 @@ description: 2024.04.09 루앙 프라방에서 탁발 행렬 관람 및 물의 �
 
 출발 전 <span style="color: indianred">**아직은 표정이 매우 좋은**</span> 필자
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-group-photo-at-the-entrance-of-namxay-viewpoint.jpg" title="The group photo at the entrance of Namxay viewpoint" alt="The group photo at the entrance of Namxay viewpoint">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-group-photo-at-the-entrance-of-namxay-viewpoint.jpg" alt="The group photo at the entrance of Namxay viewpoint">
 </div>
 <br>
 
 입장료는 받아놓고 올라가는 길이 <span style="color: indianred">**계단이라던가 제대로 되어있는 게 아무것도 없다**</span>. 경사가 조금 가파른 곳은 <span style="color: #8D4801">**가로로 묶어놓은 나무에 의지**</span>해서 올라야 한다. (<span style="color: indianred">**이렇게 관리할 거면 입장료는 왜 받는 건데**</span>...?)
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/on-the-way-up-to-namxay-viewpoint.jpg" title="On the way up to Namxay viewpoint" alt="On the way up to Namxay viewpoint">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/on-the-way-up-to-namxay-viewpoint.jpg" alt="On the way up to Namxay viewpoint">
 </div>
 <br>
 
 길이 정비가 안 되어있는 것은 맞지만 못 오를 정도는 아니었다. 필자는 당시 90kg이 넘는 체중에 밑창이 다 닳아있는 크록스를 신고 올라가다 <span style="color: indianred">**중간에 지쳐 휴식**</span>을 취했다. (Feat. <span style="color: #8D4801">**필자를 기다리는 친구들**</span>)
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-group-photo-on-the-way-up-to-namxay-viewpoint.jpg" title="The group photo on the way up to Namxay viewpoint" alt="The group photo on the way up to Namxay viewpoint">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-group-photo-on-the-way-up-to-namxay-viewpoint.jpg" alt="The group photo on the way up to Namxay viewpoint">
 </div>
 <br>
 
 <span style="color: indianred">**먼저 도착한 친구들**</span>
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/friend1-on-the-namxay-viewpoint-1.jpg" title="Friend on the Namxay viewpoint" alt="Friend on the Namxay viewpoint"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/friend2-on-the-namxay-viewpoint-1.jpg" title="Friend on the Namxay viewpoint" alt="Friend on the Namxay viewpoint"> |
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/friend1-on-the-namxay-viewpoint-2.jpg" title="Friend on the Namxay viewpoint" alt="Friend on the Namxay viewpoint"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/friend2-on-the-namxay-viewpoint-2.jpg" title="Friend on the Namxay viewpoint" alt="Friend on the Namxay viewpoint"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/friend1-on-the-namxay-viewpoint-1.jpg" alt="Friend on the Namxay viewpoint"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/friend2-on-the-namxay-viewpoint-1.jpg" alt="Friend on the Namxay viewpoint"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/friend1-on-the-namxay-viewpoint-2.jpg" alt="Friend on the Namxay viewpoint"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/friend2-on-the-namxay-viewpoint-2.jpg" alt="Friend on the Namxay viewpoint"> |
 
 <br>
 
@@ -290,28 +290,28 @@ description: 2024.04.09 루앙 프라방에서 탁발 행렬 관람 및 물의 �
 
 만약 이곳에 오실 계획이 있으시다면 반드시 <span style="color: indianred">**적절한 의상과 신발을 착용**</span>하시길 권장한다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/blogger-exhausted.jpg" title="Blogger exhausted" alt="Blogger exhausted">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/blogger-exhausted.jpg" alt="Blogger exhausted">
 </div>
 <br>
 
 아무튼 다들 <span style="color: #8D4801">**여기서 사진 찍으려고**</span> 올라온다면서요?
 
 |:---:|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/friend1-on-the-namxay-viewpoint-3.jpg" title="Friend on the Namxay viewpoint" alt="Friend on the Namxay viewpoint"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/blogger-on-the-namxay-viewpoint-1.jpg" title="Blogger on the Namxay viewpoint" alt="Blogger on the Namxay viewpoint"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/friend2-on-the-namxay-viewpoint-3.jpg" title="Friend on the Namxay viewpoint" alt="Friend on the Namxay viewpoint"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/friend1-on-the-namxay-viewpoint-3.jpg" alt="Friend on the Namxay viewpoint"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/blogger-on-the-namxay-viewpoint-1.jpg" alt="Blogger on the Namxay viewpoint"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/friend2-on-the-namxay-viewpoint-3.jpg" alt="Friend on the Namxay viewpoint"> |
 
 <br>
 
 솔직히 필자는 <span style="color: indianred">**뭐 하는 곳인지도 모르고**</span>, 전망대라길래 그냥 올라왔었어요. 그래서 옷도 이상하고 고소공포증 때문에 무서워서 사진도 제대로 못 찍었어요. 와중에 <span style="color: #8D4801">**깃발 공격 맞은 친구**</span> (필자가 동영상 찍는다고 해서 더 머무르다가 깃발에 맞음)
 
 |:---:|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/friend1-on-the-namxay-viewpoint-4.webp" title="Friend on the Namxay viewpoint" alt="Friend on the Namxay viewpoint"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/blogger-on-the-namxay-viewpoint-2.webp" title="Blogger on the Namxay viewpoint" alt="Blogger on the Namxay viewpoint"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/friend2-on-the-namxay-viewpoint-4.webp" title="Friend on the Namxay viewpoint" alt="Friend on the Namxay viewpoint"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/friend1-on-the-namxay-viewpoint-4.webp" alt="Friend on the Namxay viewpoint"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/blogger-on-the-namxay-viewpoint-2.webp" alt="Blogger on the Namxay viewpoint"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/friend2-on-the-namxay-viewpoint-4.webp" alt="Friend on the Namxay viewpoint"> |
 
 <br>
 
 라오스 국기를 촬영 중인 친구의 <span style="color: #8D4801">**B**</span>ehind <span style="color: #8D4801">**T**</span>he <span style="color: #8D4801">**S**</span>cenes(<span style="color: indianred">**BTS**</span>)
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/laos-flag-on-the-namxay-viewpoint.jpg" title="Laos flag on the Namxay viewpoint" alt="Laos flag on the Namxay viewpoint"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/friend2-taking-a-picture-of-the-laos-flag-on-the-namxay-viewpoint.jpg" title="Friend taking a picture of the Laos flag on the Namxay viewpoint" alt="Friend taking a picture of  the Laos flag on the Namxay viewpoint"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/laos-flag-on-the-namxay-viewpoint.jpg" alt="Laos flag on the Namxay viewpoint"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/friend2-taking-a-picture-of-the-laos-flag-on-the-namxay-viewpoint.jpg" alt="Friend taking a picture of  the Laos flag on the Namxay viewpoint"> |
 
 <br>
 
@@ -321,21 +321,21 @@ description: 2024.04.09 루앙 프라방에서 탁발 행렬 관람 및 물의 �
 
 전망대에 올라서 찍은 <span style="color: indianred">**유일한 단체 사진**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-group-photo-on-the-namxay-viewpoint.webp" title="The group photo on the Namxay viewpoint" alt="The group photo on the Namxay viewpoint">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-group-photo-on-the-namxay-viewpoint.webp" alt="The group photo on the Namxay viewpoint">
 </div>
 <br>
 
 SNS에서 유명한 전망 반대편에도 <span style="color: #8D4801">**또 오토바이가 존재**</span>했었다. (<span style="color: indianred">**필자 기준 가는 길이 위험**</span>했음)
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/friend1-on-the-namxay-viewpoint-5.jpg" title="Friend on the Namxay viewpoint" alt="Friend on the Namxay viewpoint"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/friend2-on-the-namxay-viewpoint-5.jpg" title="Friend on the Namxay viewpoint" alt="Friend on the Namxay viewpoint"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/friend1-on-the-namxay-viewpoint-5.jpg" alt="Friend on the Namxay viewpoint"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/friend2-on-the-namxay-viewpoint-5.jpg" alt="Friend on the Namxay viewpoint"> |
 
 <br>
 
 ### 블루 라군 1
 아무튼 힘겨웠던 남싸이 전망대 하이킹을 마치고 <span style="color: #8D4801">**숙소로 돌아가는 길**</span>. 아무 생각 없이 기사님이 숙소로 향하실 거로 생각하고 쉬고 있었는데 <span style="color: indianred">**갑자기 도착한 블루 라군 1**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/blue-lagoon1.jpg" title="Blue lagoon 1" alt="Blue lagoon 1">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/blue-lagoon1.jpg" alt="Blue lagoon 1">
 </div>
 <br>
 
@@ -344,14 +344,14 @@ SNS에서 유명한 전망 반대편에도 <span style="color: #8D4801">**또 �
 
 <span style="color: indianred">**원래 영업시간이 오후 5시 30분까지**</span> 이기 때문에 <span style="color: indianred">**이미 영업이 종료**</span>된 상태라 <span style="color: indianred">**손님 한 명 없이 고요**</span>했는데, <span style="color: #8D4801">**입장료조차 낼 필요 없이 들어와서**</span> 구명조끼, 튜브를 받아 들고 <span style="color: #8D4801">**물놀이를 시작**</span>했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/blogger-and-friend2-in-blue-lagoon1-1.jpg" title="Blogger and friend in Blue lagoon 1" alt="Blogger and friend in Blue lagoon 1">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/blogger-and-friend2-in-blue-lagoon1-1.jpg" alt="Blogger and friend in Blue lagoon 1">
 </div>
 <br>
 
 처음 물놀이를 시작할 때, <span style="color: indianred">**기사님이 출발할 때 늦어서 화났던 일이 눈 녹듯이 사라지고**</span> 진심으로 <span style="color: #8D4801">**고맙다고 연신 표현**</span>했던 것 같다.
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/swimming-in-blue-lagoon1-1.webp" title="Swimming in Blue lagoon 1" alt="Swimming in Blue lagoon 1"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/swimming-in-blue-lagoon1-2.webp" title="Swimming in Blue lagoon 1" alt="Swimming in Blue lagoon 1"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/swimming-in-blue-lagoon1-1.webp" alt="Swimming in Blue lagoon 1"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/swimming-in-blue-lagoon1-2.webp" alt="Swimming in Blue lagoon 1"> |
 
 <br>
 
@@ -359,20 +359,20 @@ SNS에서 유명한 전망 반대편에도 <span style="color: #8D4801">**또 �
 
 많은 종류의 블루 라군 중에서 시내와 가장 가깝기도 하고 <span style="color: #8D4801">**가장 사람 많기로 유명**</span>한 곳이라고요
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/blogger-and-friend2-in-blue-lagoon1-2.jpg" title="Blogger and friend in Blue lagoon 1" alt="Blogger and friend in Blue lagoon 1">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/blogger-and-friend2-in-blue-lagoon1-2.jpg" alt="Blogger and friend in Blue lagoon 1">
 </div>
 <br>
 
 하이킹도 하고 물놀이도 하다 보니 <span style="color: indianred">**금방 배가 고파져서 저녁을 먹기 위해 떠나기**</span> 직전에 즐긴 <span style="color: #8D4801">**다이빙**</span>. 평소에 사람 많을 때 다이빙대에 오르면 많은 사람의 시선이 집중되어서 편하게 즐기기 어렵다는 후기를 많이 봤는데 우리뿐이니까 너무 좋았다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/blogger-diving.webp" title="Blogger diving" alt="Blogger diving">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/blogger-diving.webp" alt="Blogger diving">
 </div>
 <br>
 
 ### 방 비엥 센트럴 어드벤쳐 여행사
 <span style="color: #8D4801">**숙소에서 씻고 바로**</span> 나선 우리들. 신나게 즐기고 돌아와 생각해 보니 아직 <span style="color: indianred">**액티비티 예약도 못 했다**</span>. 설상가상으로 <span style="color: indianred">**이미 문을 닫은 여행사들**</span>이 많았다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/on-the-way-to-vang-vieng-central-adventure-tour-company.webp" title="On the way to Vang Vieng Central Adventure tour company" alt="On the way to Vang Vieng Central Adventure tour company">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/on-the-way-to-vang-vieng-central-adventure-tour-company.webp" alt="On the way to Vang Vieng Central Adventure tour company">
 </div>
 <br>
 
@@ -381,14 +381,14 @@ SNS에서 유명한 전망 반대편에도 <span style="color: #8D4801">**또 �
 
 그래도 그 와중에 <span style="color: #8D4801">**열려있는 여행사**</span>가 있더라고요. 사실 당장 내일 투어인데 늦은 시각 어렵게 발견한 여행사여서 <span style="color: indianred">**욕심만큼 흥정을 해내지는 못했지만**</span>, 그래도 숙소 연계 여행사나 트래블라오보다는 싼 가격에 예약할 수 있었다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/vang-vieng-central-adventure-tour-company.jpg" title="Vang Vieng Central Adventure tour company" alt="Vang Vieng Central Adventure tour company">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/vang-vieng-central-adventure-tour-company.jpg" alt="Vang Vieng Central Adventure tour company">
 </div>
 <br>
 
 ### 뱅킹 식당
 오늘은 가볍게 이동만 하고 중요한 액티비티는 내일 하자 생각했었는데 돌이켜보니 <span style="color: #8D4801">**오늘도 뭔가 많이 했던 하루**</span>였다. <span style="color: indianred">**라오스 사람들도 한국 사람 못지않게 돼지고기를 좋아한다**</span>고 하는데 쫄깃쫄깃한 식감과 진한 숯향으로 유명한 <span style="color: #8D4801">**돼지뽈살 구이**</span>로 하루를 마무리하러 왔다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/grilled-pork-jowl.jpg" title="Grilled pork jowl" alt="Grilled pork jowl">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/grilled-pork-jowl.jpg" alt="Grilled pork jowl">
 </div>
 <br>
 
@@ -397,7 +397,7 @@ SNS에서 유명한 전망 반대편에도 <span style="color: #8D4801">**또 �
 
 여행 내내 빠질 수 없는 <span style="color: indianred">**비어라오**</span>. 근데 건배하는 자세가 어색한 게 이십년지기 친구 바이브 맞나요?
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/friends-making-a-toast.webp" title="Friends making a toast" alt="Friends making a toast">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/friends-making-a-toast.webp" alt="Friends making a toast">
 </div>
 <br>
 
@@ -409,59 +409,59 @@ SNS에서 유명한 전망 반대편에도 <span style="color: #8D4801">**또 �
 정말 조금 전까지만 해도 <span style="color: #8D4801">**평화롭던 하늘에서 갑자기 천둥, 번개, 비, 바람이 몰아쳐 오더니**</span> 거리에 <span style="color: indianred">**전기도 전부 나가버리고**</span> 먹고 있던 <span style="color: #8D4801">**상추가 날아가는**</span> 등 난리였다.
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/squall-in-laos-1.webp" title="Squall in Laos" alt="Squall in Laos"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/squall-in-laos-2.webp" title="Squall in Laos" alt="Squall in Laos"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/squall-in-laos-1.webp" alt="Squall in Laos"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/squall-in-laos-2.webp" alt="Squall in Laos"> |
 
 <br>
 
 <span style="color: #8D4801">**그래도 먹을 건 먹어야지?**</span> 어떻게 해야 빛을 찾을까? 핸드폰 조명을 만지작거리던 중 <span style="color: indianred">**비어라오 맥주병이 분위기 좋은 무드등으로 변신**</span>했다.
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-bottle-of-beerlao-with-light-1.jpg" title="The bottle of Beerlao with light" alt="The bottle of Beerlao with light"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-bottle-of-beerlao-with-light-2.jpg" title="The bottle of Beerlao with light" alt="The bottle of Beerlao with light"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-bottle-of-beerlao-with-light-1.jpg" alt="The bottle of Beerlao with light"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-bottle-of-beerlao-with-light-2.jpg" alt="The bottle of Beerlao with light"> |
 
 <br>
 
 누가 <span style="color: #8D4801">**셀카를 더 잘**</span> 찍을지 비엔티안에 이어서 2차전 발발
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-group-photo-in-banking-restaurant-1.jpg" title="The group photo in Banking restaurant" alt="The group photo in Banking restaurant"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-group-photo-in-banking-restaurant-2.jpg" title="The group photo in Banking restaurant" alt="The group photo in Banking restaurant"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-group-photo-in-banking-restaurant-1.jpg" alt="The group photo in Banking restaurant"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-group-photo-in-banking-restaurant-2.jpg" alt="The group photo in Banking restaurant"> |
 
 <br>
 
 아무튼 비가 전쟁처럼 들이닥치는 상황에서도 <span style="color: indianred">**접시를 싹 비우고**</span> 떠나는 우리는 한국인. 숙소가 가까워서 돈이 아깝긴 했지만, <span style="color: #8D4801">**비가 너무 심하게 오는 관계로 가게 주인분께 여쭈어서 툭툭을 호출하여 이동**</span>하기로 했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/empty-dishes.jpg" title="Empty dishes" alt="Empty dishes">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/empty-dishes.jpg" alt="Empty dishes">
 </div>
 <br>
 
 비온다고 신나있던 <span style="color: indianred">**30대 남자들**</span>. 갑자기 무언가를 발견한 친구
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-group-photo-on-the-tuktuk-1.webp" title="The group photo on the Tuktuk" alt="The group photo on the Tuktuk">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-group-photo-on-the-tuktuk-1.webp" alt="The group photo on the Tuktuk">
 </div>
 <br>
 
 시원하다는 명성에 걸맞게 진짜 시원해져 있던 그의 코끼리 바지
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/friend1-hiding-the-hole-on-his-pants.webp" title="Friend hiding the hole on his pants" alt="Friend hiding the hole on his pants">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/friend1-hiding-the-hole-on-his-pants.webp" alt="Friend hiding the hole on his pants">
 </div>
 <br>
 
 생각해 보니 <span style="color: #8D4801">**라오스와서 처음 탑승한 툭툭**</span>이네요
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-group-photo-on-the-tuktuk-2.webp" title="The group photo on the Tuktuk" alt="The group photo on the Tuktuk">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-group-photo-on-the-tuktuk-2.webp" alt="The group photo on the Tuktuk">
 </div>
 <br>
 
 남자들이 모이면 어떻게 노는지 보여주마! <span style="color: indianred">**가위 바위 보해서 진 사람 스콜 속에 얼굴 내밀기**</span> 내기하는 우리들
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/playing-rock-scissors-paper-game-1.webp" title="Playing rock scissors paper game" alt="Playing rock scissors paper game"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/playing-rock-scissors-paper-game-2.webp" title="Playing rock scissors paper game" alt="Playing rock scissors paper game"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/playing-rock-scissors-paper-game-1.webp" alt="Playing rock scissors paper game"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/playing-rock-scissors-paper-game-2.webp" alt="Playing rock scissors paper game"> |
 
 <br>
 
 아무튼 마지막까지 방심할 수 없는 <span style="color: indianred">**킬링 포인트가 몇 개인지**</span> 모르겠는 <span style="color: #8D4801">**라오스 여행 4일 차**</span> 밤도 그렇게 지나갔다.
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-tuktuk-in-squall-1.webp" title="The Tuktuk in squall" alt="The Tuktuk in squall"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-tuktuk-in-squall-2.webp" title="The Tuktuk in squall" alt="The Tuktuk in squall"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-tuktuk-in-squall-1.webp" alt="The Tuktuk in squall"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-09-Laos-Friendship-Travelog-4/the-tuktuk-in-squall-2.webp" alt="The Tuktuk in squall"> |
 
 <br>
 

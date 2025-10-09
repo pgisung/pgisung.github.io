@@ -9,15 +9,15 @@ tags: [ Singapore trip, Bicycle trip, 싱가포르 여행, 자전거 여행 ]
 description: 2013.12.12~13 엉망진창 첫 해외 출국 공항 해프닝 및 싱가포르 1일 차 여행기
 ---
 
-> 1. [홀로 공항을 헤매다](#홀로-공항을-헤매다 "Navigate to Wandering alone")
-2. [동상이몽](#동상이몽 "Navigate to Same object different think")
-3. [싱가포르 여행 1일 차 시작](#싱가포르-여행-1일-차-시작 "Navigate to Day 1. Singapore trip")
-- [차이나타운](#차이나타운 "Navigate to China town")
-- [마리나 베이 샌즈 호텔](#마리나-베이-샌즈-호텔 "Navigate to Marina bay sands hotel")
-  - [240도 파노라마 싱가포르 도시 전경](#240도-파노라마-싱가포르-도시-전경 "Navigate to 240-degree panoramic view for Singapore city")
-- [가든즈 바이 더 베이](#가든즈-바이-더-베이 "Navigate to Gardens by the bay")
-4. [여행 경로](#여행-경로 "Navigate to Travel route")
-5. [여행 경비](#여행-경비 "Navigate to Travel expenses")
+> 1. [홀로 공항을 헤매다](#홀로-공항을-헤매다)
+2. [동상이몽](#동상이몽)
+3. [싱가포르 여행 1일 차 시작](#싱가포르-여행-1일-차-시작)
+- [차이나타운](#차이나타운)
+- [마리나 베이 샌즈 호텔](#마리나-베이-샌즈-호텔)
+  - [240도 파노라마 싱가포르 도시 전경](#240도-파노라마-싱가포르-도시-전경)
+- [가든즈 바이 더 베이](#가든즈-바이-더-베이)
+4. [여행 경로](#여행-경로)
+5. [여행 경비](#여행-경비)
 
 ---
 
@@ -35,21 +35,21 @@ description: 2013.12.12~13 엉망진창 첫 해외 출국 공항 해프닝 및 �
 ## 동상이몽
 그렇게 밤 10시 30분쯤에 입국장을 나와서 다음날 자정 조금 넘은 새벽 00시 45분 입국 예정인 mrkyia를 하염없이 기다리기 시작했다. 그런데 1시 30분이 지나도 나오지 않자, 점점 불안해지기 시작해서 <span style="color: #8D4801">**도착하지 않는 mrkyia를 찾아 창이공항을 헤매기 시작했다.**</span> 
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/friends-arrival-time.jpg" title="Estimated arrival time for my friend" alt="Estimated arrival time for my friend">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/friends-arrival-time.jpg" alt="친구가 탑승한 비행기의 도착 예정 시각">
 </div>
 <br>
 
 내가 도착한 3터미널부터 1터미널, 2터미널까지 무거운 자전거 짐을 낑낑대며 끌고 다니다가 2터미널에서 새벽 2시쯤이 되어서야 mrkyia를 만날 수 있었다. 이 녀석 말이 자기도 나의 연락을 기다리는 중이었다고 한다. 나중에 알고 보니 이미 나에게 여러 개의 카톡을 보내놓고 기다리고 있던 것이었는데, <span style="color: #8D4801">**당시의 나는 와이파이가 무엇인지도 어떻게 사용할 줄도 모르던 때라 당연히 데이터가 통하지 않아 서로 엇갈렸던 것**</span>이다.
 <div class="image-slider-auto">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/blogger-with-baggages.jpg" title="Blogger with baggages" alt="Blogger with baggages">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/friend-with-baggages.jpg" title="Friend with baggages" alt="Friend with baggages">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/blogger-with-baggages.jpg" alt="블로거와 여행 짐들">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/friend-with-baggages.jpg" alt="블로거의 친구와 여행 짐들">
 </div>
 <br>
 
 만남 이후 일정을 상의하는데 새벽 시간이라 시내로 나간다고 해도 숙소를 잡기 힘들 것 같아 mrkyia는 <span style="color: indianred">**공항에서 노숙을 권했지만...**</span> 당시 여행 경험도 부족하고 민감했던 성격의 나는 잠이 올만큼 편안한 환경도 아닌 데다가 혹시나 짐을 분실하지 않을까 싶은 노파심으로 잠에 들지를 못해서 결국 둘이 수다를 나누며 이래저래 5시까지 공항 안쪽을 기웃거리며 돌아다녔다. (근데 기껏 찍은 게 에스컬레이터와 전화부스뿐이라니...)
 <div class="image-slider-auto">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/phone-booth.jpg" title="The phone booth in Changi airport" alt="The phone booth in Changi airport">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/escalator.jpg" title="The escalator in Changi airport" alt="The escalator in Changi airport">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/phone-booth.jpg" alt="싱가포르 창이 공항의 공중전화들">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/escalator.jpg" alt="싱가포르 창이 공항의 에스컬레이터">
 </div>
 <br>
 
@@ -67,40 +67,40 @@ description: 2013.12.12~13 엉망진창 첫 해외 출국 공항 해프닝 및 �
 
 싱가포르에서 이동할 때는 <span style="color: #8D4801">**대체로 한국의 지하철과 비슷한 MRT**</span>를 이용했다.  
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/mrt-ticket.jpg" title="MRT ticket" alt="MRT ticket">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/mrt-ticket.jpg" alt="싱가포르 MRT 표">
 </div>
 <br>
 
 ### 차이나타운
 먼저 방문한 곳은 차이나타운이었는데, 차이나타운을 약 3시간을 걸었는데 너무 더워서 죽는 줄 알았다... <span style="color: #8D4801">**처음엔 덥고 습한 이 날씨가 숨이 턱턱 막힐 정도로 적응이 안 되었다.**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/china-town-entrance.jpg" title="The entrance of China town in Singapore" alt="The entrance of China town in Singapore">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/china-town-entrance.jpg" alt="차이나타운 입구">
 </div>
 <br>
 
 <span style="color: #8D4801">**아파트 밖에 옷을 이렇게 걸어서 말리는 것**</span>을 처음 봤는데 옷이 날아가진 않을까 내가 괜히 걱정하고 있었다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/china-town-the-way-to-dry-clothes.jpg" title="The clothes hanging out of apartment in China town in Singapore" alt="The clothes hanging out of apartment in China town in Singapore">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/china-town-the-way-to-dry-clothes.jpg" alt="아파트 창밖으로 건조 중인 빨래들">
 </div>
 <br>
 
 무슨 절인지 모르지만... 향도 한번 피워보고...
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/china-town-pray.jpg" title="Praying friend on the temple" alt="Praying friend on the temple">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/china-town-pray.jpg" alt="공덕을 발원 중인 블로거의 친구">
 </div>
 <br>
 
 아직은 화려한 절의 모습이 생소했던 시절이라 모든 게 신비롭고 아름답게 보였다.
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/china-town-temple-1.jpg" title="The temple in China town" alt="The temple in China town"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/china-town-temple-2.jpg" title="The temple in China town" alt="The temple in China town"> |
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/china-town-temple-3.jpg" title="The temple in China town" alt="The temple in China town"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/china-town-street.jpg" title="The street in China town" alt="The street in China town"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/china-town-temple-1.jpg" alt="차이나타운의 어느 한 절"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/china-town-temple-2.jpg" alt="차이나타운의 어느 한 절"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/china-town-temple-3.jpg" alt="차이나타운의 어느 한 절"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/china-town-street.jpg" alt="차이나타운의 어느 한 거리를 바라보는 블로거"> |
 
 <br>
 
 배가 고파질 즈음에 푸드코트를 발견하여 가는 중에 영문 모를 줄이 길게 늘어서 있는 것을 보고 맛집인가?하고 줄에 합류했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/china-town-lunch-1.jpg" title="Waiting for order in queue" alt="Waiting for order in queue">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/china-town-lunch-1.jpg" alt="식사를 기다리는 줄">
 </div>
 <br>
 
@@ -108,28 +108,28 @@ description: 2013.12.12~13 엉망진창 첫 해외 출국 공항 해프닝 및 �
 <br>
 약 30분 정도 기다린 끝에 주문할 수 있었다.
 <div class="image-slider-auto">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/china-town-lunch-2.jpg" title="Waiting for order in queue" alt="Waiting for order in queue">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/china-town-lunch-3.jpg" title="The newspapers mentioned this shop" alt="The newspapers mentioned this shop">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/china-town-lunch-2.jpg" alt="Young tau fu라는 요리를 먹기 위해 기다리는 줄">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/china-town-lunch-3.jpg" alt="신문에 실린 식당">
 </div>
 <br>
 
 <span style="color: #8D4801">**Young tau fu라는 요리**</span>를 먹었는데 면 그릇과 육수가 따로 나왔고, 육수는 어묵 국물 같았는데 안에 6개 정도의 어묵이 들어있었다. 면 위에는 멸치가 한 움큼 올려져 있었는데, 육수의 시원함과 멸치의 짠맛이 조화로웠던 것 같다. (뭐야... 미슐랭이라도 된 듯...)
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/china-town-lunch-4.jpg" title="Young tau fu" alt="Young tau fu">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/china-town-lunch-4.jpg" alt="Young tau fu">
 </div>
 <br>
 
 식사를 마치고 또 거리를 무작정 걷다 보니
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/city-view-in-singapore.jpg" title="Singapore city view" alt="Singapore city view">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/city-view-in-singapore.jpg" alt="싱가포르의 어느 한 거리">
 </div>
 <br>
 
 ### 마리나 베이 샌즈 호텔
 싱가포르의 상징인 <span style="color: #8D4801">**마리나 베이 샌즈 호텔**</span>이 보이기 시작했다. 호텔 방향으로 걷다 보니 또, 멀라이언 파크도 보여서 사진도 찍고 하던 중 물 위에 한가득 떠 있는 풍선들을 발견하고 무엇인지 궁금해서 가봤는데, <span style="color: #8D4801">**소원을 빌어서 호수에 띄워두는 거**</span>라고 했다. 그래서 우리도 <span style="color: #8D4801">**풍선**</span>을 하나 받아서 <span style="color: #8D4801">**우리 여행의 무사 안녕을 빈 내용**</span>을 적어서 호수에 띄워보았다.
 <div class="image-slider-auto">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/marina-bay-sands-hotel-and-merlion.jpg" title="Marina bay sands hotel and Merlion" alt="Marina bay sands hotel and Merlion">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/ballon-to-pray-the-safe-trip.jpg" title="The ballon written our wish" alt="The ballon written our wish">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/marina-bay-sands-hotel-and-merlion.jpg" alt="마리나 베이 샌즈 호텔과 멀라이언 동상과 함께 사진을 찍는 중인 블로거">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/ballon-to-pray-the-safe-trip.jpg" alt="안전한 여행을 기원하며 호수에 띄운 풍선">
 </div>
 <br>
 
@@ -139,19 +139,19 @@ description: 2013.12.12~13 엉망진창 첫 해외 출국 공항 해프닝 및 �
 
 싱가포르의 국회의사당. 처음에 Parliament를 보고 <span style="color: #8D4801">**담배 회사**</span>인가 생각했다...
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/the-house-of-parliament-in-singapore.jpg" title="The house of parliament in Singapore" alt="The house of parliament in Singapore">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/the-house-of-parliament-in-singapore.jpg" alt="싱가포르 국회의사당">
 </div>
 <br>
 
 그리고 또 이리저리 사진 찍으며 다니다가 멀라이언 파크의 명물이라는 단돈 1불짜리 <span style="color: #8D4801">**아이스크림 샌드**</span>도 먹어보았다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/street-stall-to-sell-ice-cream-sand.jpg" title="The street stall to sell ice cream sand" alt="The street stall to sell ice cream sand">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/street-stall-to-sell-ice-cream-sand.jpg" alt="아이스크림 샌드 노점">
 </div>
 <br>
 
 마리나 호텔 건너편 강변의 <span style="color: #8D4801">**야시장에서 저녁으로 치킨라이스와 싱가포르 맥주인 타이거 맥주**</span>를 마셔보았다. 덥고 습한 날씨라 그런지 맥주 맛이 두 배 이상 맛있는 것 같다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/night-market-dinner.jpg" title="The dinner at night market" alt="The dinner at night market">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/night-market-dinner.jpg" alt="야시장에서 치킨라이스와 타이거 맥주를 먹는 중인 블로거">
 </div>
 <br>
 
@@ -159,7 +159,7 @@ description: 2013.12.12~13 엉망진창 첫 해외 출국 공항 해프닝 및 �
 <br>
 식사 후 천천히 마리나 호텔로 걸어갈 무렵 해가 지고 점점 어두워졌다. 마리나 호텔은 자체로도 아름다웠지만 <span style="color: #8D4801">**밤이 되니 두 배로 아름다웠다.**</span> 
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-1.jpg" title="Marina hotel and garden" alt="Marina hotel and garden">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-1.jpg" alt="마리나 베이 샌즈 호텔과 가든즈 바이더 베이의 나무">
 </div>
 <br>
 
@@ -167,47 +167,47 @@ description: 2013.12.12~13 엉망진창 첫 해외 출국 공항 해프닝 및 �
 하이라이트는 <span style="color: #8D4801">**Gardens by the bay**</span>였다. 아직 초저녁 무렵엔 그냥 큰 나무구나 싶었는데 밤이 되고 조명이 켜지니 그림같이 아름다워 눈을 뗄 수가 없었다.
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-2.jpg" title="The scenery of Gardens by the bay" alt="The scenery of Gardens by the bay"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-3.jpg" title="The scenery of Gardens by the bay" alt="The scenery of Gardens by the bay"> |
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-6.jpg" title="The scenery of Gardens by the bay" alt="The scenery of Gardens by the bay"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-10.jpg" title="The scenery of Gardens by the bay" alt="The scenery of Gardens by the bay"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-2.jpg" alt="저녁 무렵 아름다운 가든즈 바이 더 베이의 풍경"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-3.jpg" alt="저녁 무렵 아름다운 가든즈 바이 더 베이의 풍경"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-6.jpg" alt="저녁 무렵 아름다운 가든즈 바이 더 베이의 풍경"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-10.jpg" alt="저녁 무렵 아름다운 가든즈 바이 더 베이의 풍경"> |
 
 <br>
 
 5불에 <span style="color: #8D4801">**티켓**</span>을 구매하면 직접 나무다리 위에 올라갈 수 있었다. 
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-ticket.jpg" title="The ticket to enter to observation on trees in Gardens by the bay" alt="The ticket to enter to observation on trees in Gardens by the bay">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-ticket.jpg" alt="가든즈 바이 더 베이의 나무 위에 오를 수 있는 표">
 </div>
 <br>
 
 나는 <span style="color: indianred">**고소공포증**</span> 때문에 무서워서 사진도 제대로 못 찍었는데 풍경은 정말 아름다웠다... 운이 좋아서 나무 위에서 마리나 호텔의 조명 쇼도 함께 볼 수 있었는데 은은한 음악과 화려한 조명들의 연출이 꿈만 같았다. <span style="color: #8D4801">**밤의 마리나 호텔 주변 풍경은 낮과는 천지 차이였다 마치 다른 세계에 온 듯했다.**</span> 멀라이언 파크는 물론 주변 시가지가 말 그대로 빛났다.
 <div class="image-slider-auto">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-4.jpg" title="The scenery of Gardens by the bay" alt="The scenery of Gardens by the bay">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-5.jpg" title="The scenery of Gardens by the bay" alt="The scenery of Gardens by the bay">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-7.jpg" title="The scenery of Gardens by the bay" alt="The scenery of Gardens by the bay">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-8.jpg" title="The scenery of Gardens by the bay" alt="The scenery of Gardens by the bay">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-9.jpg" title="The scenery of Gardens by the bay" alt="The scenery of Gardens by the bay">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-11.jpg" title="The scenery of Gardens by the bay" alt="The scenery of Gardens by the bay">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-12.jpg" title="The scenery of Gardens by the bay" alt="The scenery of Gardens by the bay">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-13.jpg" title="The scenery of Gardens by the bay" alt="The scenery of Gardens by the bay">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-4.jpg" alt="아름다운 가든즈 바이 더 베이의 풍경">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-5.jpg" alt="아름다운 가든즈 바이 더 베이의 풍경">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-7.jpg" alt="아름다운 가든즈 바이 더 베이의 풍경">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-8.jpg" alt="아름다운 가든즈 바이 더 베이의 풍경">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-9.jpg" alt="아름다운 가든즈 바이 더 베이의 풍경">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-11.jpg" alt="아름다운 가든즈 바이 더 베이의 풍경">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-12.jpg" alt="아름다운 가든즈 바이 더 베이의 풍경">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/gardens-by-the-bay-13.jpg" alt="아름다운 가든즈 바이 더 베이의 풍경">
 </div>
 <br>
 
 정원 구경을 마치고 돌아가는 길의 야경 또한 매우 아름다웠다.
 <div class="image-slider-auto">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/night-view-in-singapore-1.jpg" title="Night view in Singapore" alt="Night view in Singapore">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/night-view-in-singapore-2.jpg" title="Night view in Singapore" alt="Night view in Singapore">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/night-view-in-singapore-1.jpg" alt="아름다운 싱가포르의 야경">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/night-view-in-singapore-2.jpg" alt="아름다운 싱가포르의 야경">
 </div>
 <br>
 
 술자리는 이제부터 시작인 야시장 사람들...
 <div class="image-slider-auto">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/night-market-1.jpg" title="Night market in Singapore" alt="Night market in Singapore">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/night-market-2.jpg" title="Night market in Singapore" alt="Night market in Singapore">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/night-market-1.jpg" alt="싱가포르 야시장 풍경">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/night-market-2.jpg" alt="싱가포르 야시장 풍경">
 </div>
 <br>
 
 마지막으로 숙소로 돌아가기 전에 빌보드 차트 <span style="color: #8D4801">**팝송을 부르시는 무대**</span>를 감상하고 복귀했다 끄읕!
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/the-song-stage.jpg" title="The song stage" alt="The song stage">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/the-song-stage.jpg" alt="커다란 광장 무대에서 노래를 부르는 중인 싱가포르 가수들">
 </div>
 <br>
 
@@ -222,11 +222,11 @@ description: 2013.12.12~13 엉망진창 첫 해외 출국 공항 해프닝 및 �
 ## 여행 경비
 경비는 <span style="color: indianred">**2인 기준**</span>이다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/budget-book.jpg" title="Budget book" alt="Budget book">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/budget-book.jpg" alt="블로거가 여행 경비를 작성한 메모">
 </div>
 <br>
 
-| 2013.12.12~13 | 현지 통화 | 원화 |
+| 2013.12.12 ~ 13 | 현지 통화 | 원화 |
 |:---:|:---:|:---:|
 | **공항 빅맥** | 6.6 SGD | 5,527원 |
 | **숙소 이동 교통비** | 60 SGD | 50,250원 |

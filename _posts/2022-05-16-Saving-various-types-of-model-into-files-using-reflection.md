@@ -9,16 +9,16 @@ description: Reflection을 이용한 단일 함수로 런타임 도중에 모델
 permalink: /csharp/:year/:month/:day/:title/
 ---
 
-> 1. [작성 동기](#작성-동기 "Navigate to Motivation to write code")
-2. [문제 인식](#문제-인식 "Navigate to Recognition of problem")
-3. [기존의 저장 함수](#기존의-저장-함수 "Navigate to Original saving function")
-4. [새로운 함수를 구현해 보자](#새로운-함수를-구현해-보자 "Navigate to Let's write new function")
-- [열거형 멤버 변수 선언](#열거형-멤버-변수-선언 "Navigate to Declaration member enumeration variable")
-- [메인 함수](#메인-함수 "Navigate to Main function")
-- [저장 시 객체 이름 짓기 함수](#저장-시-객체-이름-짓기-함수 "Navigate to Function that naming instance for saving")
-5. [구현한 함수의 장단점](#구현한-함수의-장단점 "Navigate to Strong and Weak point of the function written")
-- [장점](#장점 "Navigate to Strong point")
-- [단점](#단점 "Navigate to Weak point")
+> 1. [작성 동기](#작성-동기)
+2. [문제 인식](#문제-인식)
+3. [기존의 저장 함수](#기존의-저장-함수)
+4. [새로운 함수를 구현해 보자](#새로운-함수를-구현해-보자)
+- [열거형 멤버 변수 선언](#열거형-멤버-변수-선언)
+- [메인 함수](#메인-함수)
+- [저장 시 객체 이름 짓기 함수](#저장-시-객체-이름-짓기-함수)
+5. [구현한 함수의 장단점](#구현한-함수의-장단점)
+- [장점](#장점)
+- [단점](#단점)
 
 ---
 
@@ -418,7 +418,7 @@ foreach( var originField in originFields ) {
     newFields.Remove( newField.Key );
 }
 ```
-  - [배열 구현부](#배열-구현부 "Navigate to Code block for the field in array condition")와 [컬렉션 구현부](#컬렉션-구현부 "Navigate to Code block for the field in collection condition"), 저장 로그와 예외 처리 부분은 <span style="color: #8D4801">**가독성을 위해 생략**</span>한 상태이다.
+  - [배열 구현부](#배열-구현부 "배열 구현부로 이동")와 [컬렉션 구현부](#컬렉션-구현부 "컬렉션 구현부로 이동"), 저장 로그와 예외 처리 부분은 <span style="color: #8D4801">**가독성을 위해 생략**</span>한 상태이다.
   - origin과 changed 객체는 <span style="color: #8D4801">**본래 같은 클래스의 객체로써 정렬 및 순서가 같으므로**</span> originFields의 각 필드를 순차적으로 순회하면서 newFields의 첫 번째 요소와 비교를 진행하며 <span style="color: #8D4801">**서로 값이 다를 경우**</span>에만 실제 파일에 write 하는 함수를 호출하고 반복문이 종료되기 전에 비교를 완료한 newFields의 요소를 제거한다.
   - 각 파라미터가 가질 수 있는 <span style="color: #8D4801">**타입**</span>은 다음과 같다.
 ```c#
@@ -533,7 +533,7 @@ switch( eTypeCode ) {
       break;
 }
 ```
-  - 기본적으로 큰 틀의 동작은 <span style="color: #8D4801">**위의 [반복문 코드](#반복문 "Navigate to Loop block in main function")와 동일한 로직**</span>을 인덱스별로 다시 반복하는 것과 같다.
+  - 기본적으로 큰 틀의 동작은 <span style="color: #8D4801">**위의 [반복문 코드](#반복문 "반복문 코드로 이동")와 동일한 로직**</span>을 인덱스별로 다시 반복하는 것과 같다.
   - Type 클래스의 <span style="color: #8D4801">**GetArrayRank 함수를 통해 배열의 차수를 확인**</span>하려 했으나 2차원 배열의 경우 1차원 배열 안에 또다시 배열들이 존재하는 <span style="color: #8D4801">**Jagged 배열의 형태**</span>로 밖에 확인할 수가 없어서 코드가 더 복잡해졌다. (case에 Rank가 2차원 이상을 시도해 보았으나 동작하지 않았다.)
 
 <br>
@@ -571,7 +571,7 @@ switch( eTypeCode ) {
       break;
 }
 ```
-  - 기본적으로 큰 틀의 동작은 <span style="color: #8D4801">**위의 [반복문 코드](#반복문 "Navigate to Loop block in main function")와 동일한 로직**</span>을 인덱스별로 다시 반복하는 것과 같다.
+  - 기본적으로 큰 틀의 동작은 <span style="color: #8D4801">**위의 [반복문 코드](#반복문 "반복문 코드로 이동")와 동일한 로직**</span>을 인덱스별로 다시 반복하는 것과 같다.
 
 <br>
 

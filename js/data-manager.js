@@ -320,7 +320,7 @@ function renderPostList(id, posts) {
 
     const a = document.createElement("a");
     a.href = post.url;
-    a.title = "Navigate to " + post.title + " post";
+    a.title = post.title + " 포스트로 이동";
 
     const elementBox = document.createElement("div");
     elementBox.classList.add("element-box");
@@ -669,7 +669,7 @@ async function renderRecentComments(comments) {
 
         const a = document.createElement("a");
         a.href = c.postId;
-        a.title = "Navigate to the commented post";
+        a.title = "해당 댓글의 포스트로 이동";
 
         const elementInfo = document.createElement("div");
         elementInfo.classList.add("element-info");

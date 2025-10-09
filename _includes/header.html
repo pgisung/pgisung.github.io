@@ -1,7 +1,7 @@
 <header class="site-header clearfix">
   <div class="wrapper-content">
     <div class="site-logo">
-      <a href="{{ "/" | relative_url }}" title="Navigate to Home">{{ site.title | escape }}</a>
+      <a href="{{ "/" | relative_url }}" title="홈으로 이동">{{ site.title | escape }}</a>
     </div>
 
     <div class="navigation-wrap">
@@ -10,7 +10,7 @@
         {% for page in site.pages %}
           {% if page.name == 'about.md' or page.name == 'categories.html' or page.name == 'contact.html' or page.name == 'tags.html' %}
             {% if page.title %}
-              <a href='{{ page.url | prepend: site.baseurl }}' title="Navigate to {{ page.title }} page">{{ page.title }}</a>
+              <a href='{{ page.url | prepend: site.baseurl }}' title="{{ page.title }} 페이지로 이동">{{ page.title }}</a>
             {% endif %}
           {% endif %}
           <!-- {% unless page.name == 'style-guide.md' or page.name == '404.html' %}
@@ -22,13 +22,13 @@
       </nav>
     </div>
 
-    <div class="nav-toggle" title="Popup menu">
+    <div class="nav-toggle" title="메뉴">
       <span></span>
       <span></span>
       <span></span>
     </div>
 
-    <span class="search-toggle" title="Popup modal search box">
+    <span class="search-toggle" title="검색창">
       <i class="fa fa-search" aria-hidden="true"></i>
     </span>
   </div>

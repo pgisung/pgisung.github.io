@@ -9,23 +9,23 @@ tags: [ Ecuador trip, Puerto Lopez, 에콰도르 여행, 푸에르토 로페스 
 description: 2025.08.18 여행 마지막 날 푸에르토 로페스에서 키토 복귀 이야기
 ---
 
-> 1. [아침 산책](#아침-산책 "Navigate to Strolling in the morning")
-- [Encebollados de Brian 식당](#encebollados-de-brian-식당 "Navigate to Encebollados de Brian restaurant")
-2. [버스 타고 만타로 이동](#버스-타고-만타로-이동 "Navigate to Heading to Manta by bus")
-- [푸에르토 로페스 지상 터미널](#푸에르토-로페스-지상-터미널 "Navigate to Puerto Lopez Terrestrial Terminal")
-3. [비행기 타고 키토 복귀](#비행기-타고-키토-복귀 "Navigate to Flying to Quito")
-- [엘로이 알파로 국제공항](#엘로이-알파로-국제공항 "Navigate to Eloy Alfaro international airport")
-- [마리스칼 수크레 국제공항](#마리스칼-수크레-국제공항 "Navigate to Mariscal Sucre international airport")
-- [Kobe 식당](#kobe-식당 "Navigate to Kobe restaurant")
-4. [여행 경로](#여행-경로 "Navigate to Travel route")
-5. [여행 경비](#여행-경비 "Navigate to Travel expenses")
+> 1. [아침 산책](#아침-산책)
+- [Encebollados de Brian 식당](#encebollados-de-brian-식당)
+2. [버스 타고 만타로 이동](#버스-타고-만타로-이동)
+- [푸에르토 로페스 지상 터미널](#푸에르토-로페스-지상-터미널)
+3. [비행기 타고 키토 복귀](#비행기-타고-키토-복귀)
+- [엘로이 알파로 국제공항](#엘로이-알파로-국제공항)
+- [마리스칼 수크레 국제공항](#마리스칼-수크레-국제공항)
+- [Kobe 식당](#kobe-식당)
+4. [여행 경로](#여행-경로)
+5. [여행 경비](#여행-경비)
 
 ---
 
 ## 아침 산책
 <span style="color: #8D4801">**여행과 이주의 차이는 귀가 여부에 달려있다**</span>고 했던가? 여행이 되려면 반드시 집으로 돌아가야 하는 날 아침이 밝았다. 숙소 앞에 동상 옆에서 정말 많은 분이 기념사진을 찍으셔서 뭔가 아침마다 루틴처럼 보러 나왔었는데 그것도 오늘이 마지막이다. 그래도 <span style="color: indianred">**마지막으로 마을 풍경을 눈에 담으려고 문을 나서**</span>본다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/puerto-lopez-tourist-pier-view-from-balcony.jpg" title="Puerto Lopez tourist pier view from balcony" alt="Puerto Lopez tourist pier view from balcony">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/puerto-lopez-tourist-pier-view-from-balcony.jpg" alt="Puerto Lopez tourist pier view from balcony">
 </div>
 <br>
 
@@ -34,19 +34,19 @@ description: 2025.08.18 여행 마지막 날 푸에르토 로페스에서 키토
 
 가게에서 먹을 거 줄 사람을 찾는 고양이 식사 내내 간절한 눈빛을 보내왔다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/hungry-cat.jpg" title="Hungry cat" alt="Hungry cat">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/hungry-cat.jpg" alt="Hungry cat">
 </div>
 <br>
 
 이 작은 마을의 초등학생들로 보였다. 이동 수업인지 교실을 옮기는 모습
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/moving-students.webp" title="Moving students" alt="Moving students">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/moving-students.webp" alt="Moving students">
 </div>
 <br>
 
 Bolon과 간단한 계란후라이 하나가 나왔다. <span style="color: #8D4801">**옥수수나 감자를 으깨어 만든 둥근 형태의 음식**</span>이라고 하는데 치즈나 다른 재료를 섞어서 만들기도 한다고 한다. 실제로 맛은 솔직히 필자 기준 조금 싱거운 감자 느낌이었는데 다 먹고 나니 포만감이 크게 느껴졌다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/bolon.jpg" title="Bolon" alt="Bolon">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/bolon.jpg" alt="Bolon">
 </div>
 <br>
 
@@ -57,7 +57,7 @@ Bolon과 간단한 계란후라이 하나가 나왔다. <span style="color: #8D4
 
 Bolon과 직접 타 먹는 설탕 커피의 가격은 <span style="color: indianred">**2.5불**</span>이었다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/sugar-coffee.jpg" title="Sugar coffee" alt="Sugar coffee">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/sugar-coffee.jpg" alt="Sugar coffee">
 </div>
 <br>
 
@@ -66,14 +66,14 @@ Bolon과 직접 타 먹는 설탕 커피의 가격은 <span style="color: indian
 ## 버스 타고 만타로 이동
 숙소로 이동할 때도 그러했듯이 <span style="color: #8D4801">**도로에 많이 보이는 툭툭**</span>을 잡아타고 버스 정류장을 향했다. 올 때 탑승했던 툭툭보다 <span style="color: #8D4801">**갈 때 탑승했던 툭툭이 뭔가 좌석도 넓고 바람도 잘 막아주고 쾌적**</span>해서 좋았다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/blogger-on-the-tuktuk.jpg" title="Blogger on the Tuktuk" alt="Blogger on the Tuktuk">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/blogger-on-the-tuktuk.jpg" alt="Blogger on the Tuktuk">
 </div>
 <br>
 
 ### 푸에르토 로페스 지상 터미널
 만타에서와 다르게 푸에르토 로페스의 버스정류장은 작아서 금방 우리가 타고 왔던 버스 회사인 <span style="color: #8D4801">**Manglaralto**</span>를 찾을 수 있었다. 또한 <span style="color: indianred">**화장실도 돈을 지불해야 들어갈 수 있게 지키고 있었는데 그리 깨끗해 보이지도 않았다**</span>.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/puerto-lopez-terrestrial-terminal.jpg" title="Puerto Lopez terrestrial terminal" alt="Puerto Lopez terrestrial terminal">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/puerto-lopez-terrestrial-terminal.jpg" alt="Puerto Lopez terrestrial terminal">
 </div>
 <br>
 
@@ -82,13 +82,13 @@ Bolon과 직접 타 먹는 설탕 커피의 가격은 <span style="color: indian
 
 <span style="color: #8D4801">**만타로 향하는 버스 티켓**</span>. 만타에서 올 때는 휴일이어서 그랬는지 정류장에서부터 탑승객도 많았고 그래서 붙어있는 자리에 앉을 수도 없었는데 갈 때는 여유롭게 옆자리에 앉아서 갈 수 있었다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/bus-ticket-to-manta.jpg" title="Bus ticket to Manta" alt="Bus ticket to Manta">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/bus-ticket-to-manta.jpg" alt="Bus ticket to Manta">
 </div>
 <br>
 
 <span style="color: #8D4801">**손님들의 목적지가 어딘지도 모르는데 그냥 보이는 버스에 무작정 오르라며 호객**</span>하던 아저씨가 생각난다. 아무튼 제대로 만타에 가는 버스인지 여쭤보고 버스에 올랐다. <span style="color: indianred">**올 때는 자리가 없어서 가방을 앞에 안고 탔었는데, 갈 때는 위에 선반에 가방을 올려놨었다. 당연히 편하긴 했었는데 나중에 친구가 사실은 굉장히 위험한 행동**</span>이라고 말해줬다. 자칫하면 가방을 통째로 잃어버릴 수 있다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/bus-going-to-manta.jpg" title="The bus going to Manta" alt="The bus going to Manta">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/bus-going-to-manta.jpg" alt="The bus going to Manta">
 </div>
 <br>
 
@@ -102,7 +102,7 @@ Bolon과 직접 타 먹는 설탕 커피의 가격은 <span style="color: indian
 
 어느 정도 버스 정류장에 거의 다 도착했을 때쯤에 공항까지 걸어가려는 승객이 있어서인지 <span style="color: #8D4801">**정류장도 아닌데 버스가 멈추고 많이들 내리시길래 우리도 따라 내렸다**</span>가 걷지는 않고 우버를 타고 공항으로 이동했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/bus-stopped-at-fuel-station.jpg" title="The bus stopped at fuel station" alt="The bus stopped at fuel station">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/bus-stopped-at-fuel-station.jpg" alt="The bus stopped at fuel station">
 </div>
 <br>
 
@@ -115,7 +115,7 @@ Bolon과 직접 타 먹는 설탕 커피의 가격은 <span style="color: indian
 ### 엘로이 알파로 국제공항
 매우 작고 평일이라서 더욱 사람도 많이 없던 만타 공항. <span style="color: #8D4801">**규모가 작아서 그런지 비행기별로 탑승구가 따로 존재하지도 않고**</span> 그냥 다 이곳에서 출발하는 것 같았다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/departure-hall-in-manta-airport-1.jpg" title="Departure hall in Manta airport" alt="Departure hall in Manta airport">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/departure-hall-in-manta-airport-1.jpg" alt="Departure hall in Manta airport">
 </div>
 <br>
 
@@ -124,19 +124,19 @@ Bolon과 직접 타 먹는 설탕 커피의 가격은 <span style="color: indian
 
 일정상 점심을 먹을 수 없었던 우리는 <span style="color: #8D4801">**친구가 자판기에서 뽑아온 감자칩으로 점심**</span>을 해결하고 비행기를 기다렸다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/departure-hall-in-manta-airport-2.jpg" title="Departure hall in Manta airport" alt="Departure hall in Manta airport">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/departure-hall-in-manta-airport-2.jpg" alt="Departure hall in Manta airport">
 </div>
 <br>
 
 드디어 이륙 <span style="color: #8D4801">**만타 안녕**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/a-plane-on-takeoff.webp" title="A plane on takeoff" alt="A plane on takeoff">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/a-plane-on-takeoff.webp" alt="A plane on takeoff">
 </div>
 <br>
 
 떠날 때 보니까 아름다운 만타 전경. 비행기 안에도 <span style="color: #8D4801">**공석이 많아서 옆자리에도 아무도 없는 채**</span>로 매우 편했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/manta-city-view.jpg" title="Manta city view" alt="Manta city view">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/manta-city-view.jpg" alt="Manta city view">
 </div>
 <br>
 
@@ -147,19 +147,19 @@ Bolon과 직접 타 먹는 설탕 커피의 가격은 <span style="color: indian
 
 지상이 보이기 시작하는 것을 보니 키토에 거의 다 온 것 같다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/mountain-view-near-quito.jpg" title="The mountain view near Quito" alt="The mountain view near Quito">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/mountain-view-near-quito.jpg" alt="The mountain view near Quito">
 </div>
 <br>
 
 다시 봐서 반갑다. <span style="color: #8D4801">**키토**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/a-landing-plane.webp" title="A landing plane" alt="A landing plane">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/a-landing-plane.webp" alt="A landing plane">
 </div>
 <br>
 
 키토 공항 국내선 출구를 처음 이용해 봐서 그런가 나오는 길에 보이는 <span style="color: #8D4801">**바깥 풍경이 매우 아름다웠**</span>었다. (근데 여행 끝난 안도감에 사진은 못 찍음)
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/mariscal-sucre-international-airport.jpg" title="Mariscal Sucre international airport" alt="Mariscal Sucre international airport">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/mariscal-sucre-international-airport.jpg" alt="Mariscal Sucre international airport">
 </div>
 <br>
 
@@ -170,7 +170,7 @@ Bolon과 직접 타 먹는 설탕 커피의 가격은 <span style="color: indian
 
 <span style="color: indianred">**아무튼 3박 4일간 좋았던 푸에르토 로페스 여행 끄-읕-!**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/california-rolls.jpg" title="California rolls" alt="California rolls">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-18-Puerto-Lopez-travelog-4/california-rolls.jpg" alt="California rolls">
 </div>
 <br>
 

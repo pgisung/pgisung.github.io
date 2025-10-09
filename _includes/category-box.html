@@ -7,7 +7,7 @@
       {% capture this_word %}{{ category_words[item] | strip_newlines }}{% endcapture %}
       {% assign filtered_word = this_word | replace: '#', 'sharp' | downcase %}
       <div class="category-element">
-        <a href="{{ site.baseurl }}/categories/{{ filtered_word | replace: ' ', '-' | cgi_escape | downcase }}/" class="category-link" title="Navigate to {{ this_word }} category">
+        <a href="{{ site.baseurl }}/categories/{{ filtered_word | replace: ' ', '-' | cgi_escape | downcase }}/" class="category-link" title="{{ this_word }} 카테고리 페이지로 이동">
           {% for page in (0..site.pages.size) %}{% unless forloop.last %}
             {% assign page_image = site.pages[page].image %}
             {% assign page_image_parts = page_image | split: "." %}
