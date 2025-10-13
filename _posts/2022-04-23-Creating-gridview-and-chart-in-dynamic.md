@@ -38,7 +38,7 @@ permalink: /csharp/:year/:month/:day/:title/
 이벤트 함수 대리자로 실행할 아래의 함수들은 <span style="color: #8D4801">**Form designer 화면(View)에서 테이블의 이벤트에 직접 연결**</span>하여도 되고 <span style="color: #8D4801">**Form class(View controller) 안에서 수동으로 delegate를 연결**</span>하여도 된다.
 ### CellMouseClick 이벤트
 <center>
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2022-04-23-Creating-gridview-and-chart-in-dynamic/cell-mouse-click-event.gif" alt="Reference of CellMouseClick event">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2022-04-23-Creating-gridview-and-chart-in-dynamic/cell-mouse-click-event.gif" alt="마우스로 그리드뷰의 셀을 클릭하는 화면">
 </center>
 
 - DataGridView의 Cell에 마우스 클릭할 경우 발생하는 이벤트이다.
@@ -65,7 +65,7 @@ private void GridViewList_CellMouseClick( object sender, DataGridViewCellMouseEv
 
 ### KeyDown & KeyUp 이벤트
 <center>
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2022-04-23-Creating-gridview-and-chart-in-dynamic/key-down-up-event.gif" alt="Reference of KeyDown and KeyUp event">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2022-04-23-Creating-gridview-and-chart-in-dynamic/key-down-up-event.gif" alt="키보드로 그리드뷰의 셀을 이동하는 화면">
 </center>
 
 - DataGridView에서 키보드 입력이 있으면 발생하는 이벤트로 키보드 방향키로 Selection을 이동시킬 경우 발생한다.
@@ -114,7 +114,7 @@ private void GridViewList_KeyUp( object sender, KeyEventArgs e )
 
 ### SelectionChanged 이벤트
 <center>
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2022-04-23-Creating-gridview-and-chart-in-dynamic/selection-changed-event.gif" alt="Reference of SelectionChanged event">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2022-04-23-Creating-gridview-and-chart-in-dynamic/selection-changed-event.gif" alt="그리드뷰의 여러 개의 셀을 선택하는 화면">
 </center>
 
 - DataGridView에서 선택 영역이 변경될 경우 발생하는 이벤트로 마우스 드래그, 키보드 시프트키 + 방향키로 Selection 확장 시 발생한다.
@@ -763,14 +763,14 @@ private double GetCalculateStandardDeviation( IEnumerable<double> dValueSet )
 ## 결과를 확인해 보자
 ### 단일 시리즈 동작
 <center>
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2022-04-23-Creating-gridview-and-chart-in-dynamic/single-series-chart-and-gridview.gif" alt="Example of single series action">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2022-04-23-Creating-gridview-and-chart-in-dynamic/single-series-chart-and-gridview.gif" alt="이벤트의 단일 시리즈 동작을 시연하는 화면">
 </center>
 
 <br>
 
 ### 다중 시리즈 동작
 <center>
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2022-04-23-Creating-gridview-and-chart-in-dynamic/multi-series-chart-and-gridview.gif" alt="Example of multi series action">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2022-04-23-Creating-gridview-and-chart-in-dynamic/multi-series-chart-and-gridview.gif" alt="이벤트의 다중 시리즈 동작을 시연하는 화면">
 </center>
 
 ---

@@ -32,7 +32,7 @@ description: 2025.08.15 키토에서 푸에르토 로페스까지 이동기 및 
 
 비행기 출발 시각이 7시 55분이었는데 사실 지금까지 비행기를 타면서 <span style="color: #8D4801">**탑승 시각보다 두세 시간씩 일찍 도착하는 것을 당연**</span>하게 여겼었는데, 이번에 <span style="color: indianred">**처음으로 해외의 국내선을 타보면서 너무 일찍 도착할 필요가 없다**</span>는 것을 깨달았다. 사람도 많이 없고 보안 검색대 통과하는 데 시간이 얼마 걸리지도 않았다. 눈 떠보니 출국장이란 게 이런 느낌인가? 
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/domestic-departure-hall-1.jpg" alt="Domestic departure hall in Mariscal Sucre international airport">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/domestic-departure-hall-1.jpg" alt="마리스칼 수크레 국제공항 국내선 출국장">
 </div>
 <br>
 
@@ -41,62 +41,62 @@ description: 2025.08.15 키토에서 푸에르토 로페스까지 이동기 및 
 
 출발 시각 1시간 전에 맞춰서 공항에 도착했는데 문자 그대로 출국장에서 1시간 기다림... <span style="color: #8D4801">**친구가 구미 베어 같은 곰 모양 젤리를 줘서 맛있게 먹으며 기다리다**</span> 보니 드디어 모니터에 우리 비행기가 떴다!
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/domestic-departure-hall-2.jpg" alt="Domestic departure hall in Mariscal Sucre international airport">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/domestic-departure-hall-2.jpg" alt="마리스칼 수크레 국제공항 국내선 출국장">
 </div>
 <br>
 
 우와... <span style="color: #8D4801">**우리 비행기는 얼마나 멀리 있길래 버스까지**</span> 타...?
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/the-bus-going-to-airplane-1.jpg" alt="On bus going to plane">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/the-bus-going-to-airplane-1.jpg" alt="비행기까지 이동하는 셔틀 버스">
 </div>
 <br>
 
 에...? <span style="color: indianred">**안 기다리고 걸어가는 게 빠르지**</span> 않았을까요?
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/the-bus-going-to-airplane-2.webp" alt="On bus going to plane">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/the-bus-going-to-airplane-2.webp" alt="비행기까지 이동하는 셔틀 버스">
 </div>
 <br>
 
 드디어 이륙 <span style="color: #8D4801">**키토 안녕**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/a-plane-on-takeoff.webp" alt="A plane on takeoff">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/a-plane-on-takeoff.webp" alt="키토를 떠나 이륙하는 비행기">
 </div>
 <br>
 
 <span style="color: #8D4801">**키토 시내에서 공항 오는 길**</span> 산길이라서 그런지 몰라도 <span style="color: #8D4801">**구불구불 엄청나게 빙글빙글**</span> 돈다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/a-twisted-road-between-quito-and-airport.jpg" alt="A twisted road between Quito and airport">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/a-twisted-road-between-quito-and-airport.jpg" alt="비행기에서 바라보는 구불구불한 키토 시내에서 공항 오는 길">
 </div>
 <br>
 
 이렇게 <span style="color: #8D4801">**높은 산 위에 저렇게 커다란 도시**</span>가 있다니 봐도 봐도 신기해
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/city-view-on-plane.jpg" alt="City view on plane">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/city-view-on-plane.jpg" alt="비행기에서 바라보는 키토 도시 전경">
 </div>
 <br>
 
 ### 엘로이 알파로 국제공항
 어라... 잠깐 시선 돌렸는데 비행기가 <span style="color: indianred">**왜 이렇게 낮게 날고**</span> 있지?
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/sea-view-on-plane.webp" alt="Sea view on plane">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/sea-view-on-plane.webp" alt="비행기에서 바라보는 바다 풍경">
 </div>
 <br>
 
 ...? 착륙? 원래 비행시간이 50분 아니었나... <span style="color: #8D4801">**아무튼 그만큼 금방 도착했음**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/a-landing-plane.webp" alt="A landing plane">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/a-landing-plane.webp" alt="착륙하는 비행기">
 </div>
 <br>
 
 <span style="color: #8D4801">**안녕 만타**</span> 어둑어둑한 게 날씨가 그리 좋지 않네
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/avianca-plane.jpg" alt="Avianca airplane">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/avianca-plane.jpg" alt="아비앙카 비행기">
 </div>
 <br>
 
 만타 공항에 도착하자마자 키토에 비해 <span style="color: #8D4801">**상대적으로 습함**</span>이 느껴졌다. 공항을 나서려고 하자 역시나 택시 기사님들의 호객이 있긴 했으나 그렇게 <span style="color: #8D4801">**공격적으로 마케팅하지는 않으셨다.**</span> 그나저나 <span style="color: indianred">**위탁 수하물이 없으니까, 비행기를 탈 때도 내릴 때도 새삼 쾌적함**</span>이 피부로 와닿았다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/eloy-alfaro-international-airport.jpg" alt="Eloy Alfaro international airport">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/eloy-alfaro-international-airport.jpg" alt="엘로이 알파로 국제공항">
 </div>
 <br>
 
@@ -108,7 +108,7 @@ description: 2025.08.15 키토에서 푸에르토 로페스까지 이동기 및 
 ### 만타 지상 터미널
 출발 전 버스 터미널을 검색할 때, 구글 맵 기준으로 <span style="color: #8D4801">**공항 바로 옆**</span>에 있는 것처럼 보여서 걸어갈까도 고려했었지만 그냥 <span style="color: #8D4801">**우버를 이용**</span>했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/manta-terrestrial-terminal-1.jpg" alt="Manta terrestrial terminal">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/manta-terrestrial-terminal-1.jpg" alt="만타 지상 터미널 외부">
 </div>
 <br>
 
@@ -121,7 +121,7 @@ description: 2025.08.15 키토에서 푸에르토 로페스까지 이동기 및 
 
 버스로 향하기 전에 <span style="color: #8D4801">**화장실**</span>을 다녀왔는데 <span style="color: #8D4801">**생각보다 깨끗하고**</span> (남자 화장실 기준) <span style="color: #8D4801">**돈도 따로 받지 않았다.**</span> (<span style="color: indianred">**남미에서 보통은 돈도 받고 화장실 위생 상태도 매우 더러운 경우**</span>가 많다고 한다.)
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/manta-terrestrial-terminal-2.jpg" alt="Manta terrestrial terminal">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/manta-terrestrial-terminal-2.jpg" alt="만타 지상 터미널 내부">
 </div>
 <br>
 
@@ -129,14 +129,14 @@ description: 2025.08.15 키토에서 푸에르토 로페스까지 이동기 및 
 
 버스가 이동하는 내내 몇 번째 시리즈인지는 모르겠지만 분노의 질주 영화가 흘러나왔는데 <span style="color: indianred">**영화 소리와 옆에 아주머니의 통화가 환상의 컬래버**</span>를 이뤘던 것으로 기억한다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/on-the-bus.jpg" alt="On bus going to Puerto Lopez">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/on-the-bus.jpg" alt="푸에르토 로페스로 향하는 버스안">
 </div>
 <br>
 
 ### 푸에르토 로페스 지상 터미널
 우리가 타고 온 버스 같지만 같은 회사일 뿐 다른 버스다. 아무튼 무사히 푸에르토 로페스에 도착해서 이제 숙소로 이동하면 되는데, <span style="color: #8D4801">**원래 숙소 주인이 도착 1시간 전에 연락을 달라고 해놓고선 메시지 답장이 없어서**</span> 친구가 전화로 연락을 취한 이후에 이동했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/puerto-lopez-terrestrial-terminal.jpg" alt="Puerto Lopez terrestrial terminal">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/puerto-lopez-terrestrial-terminal.jpg" alt="푸에르토 로페스 지상 터미널">
 </div>
 <br>
 
@@ -145,14 +145,14 @@ description: 2025.08.15 키토에서 푸에르토 로페스까지 이동기 및 
 
 터미널을 나서며 택시를 타야 하나하고 보던 찰나에 <span style="color: #8D4801">**이게 웬 툭툭**</span>들? 너무나 오랜만에 툭툭을 타고 숙소로 이동하는데 <span style="color: #8D4801">**로컬 정취가 흠씬 풍기는 정겨운 마을 풍경**</span>이 벌써 마음에 들었었다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/on-the-tuktuk.jpg" alt="On the Tuktuk">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/on-the-tuktuk.jpg" alt="툭툭 위의 블로거">
 </div>
 <br>
 
 ### Loft beach 숙소
 숙소 주인 분은 어디를 가신 건지 자리에 없으셨고, 주인에게 부탁받으신 이모님께서 숙소 안내를 해주셨다. 그나저나 <span style="color: #8D4801">**발코니가 너무 좋았다. 묵는 내내 음악 들으며 바다와 사람들 보려고 자주 머물렀다.**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/loft-beach-1.jpg" alt="The balcony of Loft beach">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/loft-beach-1.jpg" alt="Loft beach 숙소의 발코니">
 </div>
 <br>
 
@@ -163,8 +163,8 @@ description: 2025.08.15 키토에서 푸에르토 로페스까지 이동기 및 
 숙소는 전반적으로 다 마음에 들었는데 <span style="color: #8D4801">**딱 한 가지 단점이 있었다면 머무르는 내내 찬물로밖에 샤워를 못 했다.**</span> 친구 말로는 첫날에 따뜻한 물이 나왔다는데... 내가 고장 낸 건가... 진짜 수도꼭지 돌린 거 말고는 아무것도 안 했다고요 ㅜ.ㅜ
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/loft-beach-2.jpg" alt="The balcony of Loft beach"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/loft-beach-3.jpg" alt="The balcony of Loft beach"> |
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/loft-beach-4.jpg" alt="The balcony of Loft beach"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/loft-beach-5.jpg" alt="The balcony of Loft beach"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/loft-beach-2.jpg" alt="Loft beach 숙소의 발코니"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/loft-beach-3.jpg" alt="Loft beach 숙소의 거실"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/loft-beach-4.jpg" alt="Loft beach 숙소의 작은 침실"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/loft-beach-5.jpg" alt="Loft beach 숙소의 큰 침실"> |
 
 <br>
 
@@ -188,7 +188,7 @@ description: 2025.08.15 키토에서 푸에르토 로페스까지 이동기 및 
 
 아무튼 나중에 이 여행사에서는 WhatsApp으로 <span style="color: #8D4801">**살랑고 섬 투어를 예약**</span>했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/fragata-xtreme-tour-company.jpg" alt="FRAGATA XTREME tour company">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/fragata-xtreme-tour-company.jpg" alt="FRAGATA XTREME 여행사">
 </div>
 <br>
 
@@ -198,13 +198,13 @@ description: 2025.08.15 키토에서 푸에르토 로페스까지 이동기 및 
 ### 푸에르토 로페스 관광 부두
 뭔가 표지판이 이뻐서 찍었는데, 이거 보고 어디 찾아갈 수는 있는 건가? 방향이 없는데
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/street-sign.jpg" alt="Street sign in Puerto Lopez">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/street-sign.jpg" alt="푸에르토 로페스의 표지판">
 </div>
 <br>
 
 일단 당장 투어 예약을 허탕 치고 <span style="color: #8D4801">**사람들이 많이 모여있는 것 같은 부두**</span>를 향해 가볍게 산책했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/puerto-lopez-tourist-pier-1.jpg" alt="Puerto Lopez tourist pier">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/puerto-lopez-tourist-pier-1.jpg" alt="푸에르토 로페스 관광 부두">
 </div>
 <br>
 
@@ -215,7 +215,7 @@ description: 2025.08.15 키토에서 푸에르토 로페스까지 이동기 및 
 모를 때는 여기에 무슨 볼거리가 있어서 사람들이 이렇게 모여있으려나 했는데, 알고 보니 <span style="color: #8D4801">**플라타, 살랑고, 스쿠버다이빙 등 모든 투어가 여기서 출발**</span>해서 사람들이 이렇게 모여있는 거였다.
 
 |:---:|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/puerto-lopez-tourist-pier-2.jpg" alt="On the Puerto Lopez tourist pier"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/puerto-lopez-tourist-pier-3.jpg" alt="On the Puerto Lopez tourist pier"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/puerto-lopez-tourist-pier-4.jpg" alt="Puerto Lopez tourist pier view from balcony"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/puerto-lopez-tourist-pier-2.jpg" alt="푸에르토 로페스 관광 부두에서 바라본 보트들"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/puerto-lopez-tourist-pier-3.jpg" alt="푸에르토 로페스 관광 부두 위 줄 서 있는 사람들"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-15-Puerto-Lopez-travelog-1/puerto-lopez-tourist-pier-4.jpg" alt="숙소 발코니에서 바라본 푸에르토 로페스 관광 부두"> |
 
 <br>
 

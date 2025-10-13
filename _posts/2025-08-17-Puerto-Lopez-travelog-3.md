@@ -28,7 +28,7 @@ description: 2025.08.17 플라타 섬 투어 이야기
 
 벌써 내일이 키토로 복귀하는 날이라 우리는 <span style="color: #8D4801">**만타로 돌아가는 버스 시간표**</span>를 확인하고 10시 30분 버스를 타기로 결정했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/bus-timetable.jpg" alt="A bus timetable to go back home tomorrow">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/bus-timetable.jpg" alt="만타로 돌아가는 버스 시간표">
 </div>
 <br>
 
@@ -43,13 +43,13 @@ description: 2025.08.17 플라타 섬 투어 이야기
 
 그리고 기다리고 있던 많은 여행사를 제치고 <span style="color: #8D4801">**먼저 선착장에 입장**</span>할 수 있었는데 정확한 건 아니지만 부두 사용료 명목으로 냈던 <span style="color: indianred">**인당 2불이 1불은 부두 우선 사용료고 1불은 플라타 섬 입도비**</span>인가? 하고 추측했었다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/the-boats-waiting-for-their-turn.jpg" alt="The boats waiting for their turn">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/the-boats-waiting-for-their-turn.jpg" alt="차례를 기다리는 중인 많은 여행사의 보트들">
 </div>
 <br>
 
 승선 중인 <span style="color: #8D4801">**우리 여행사 보트**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/the-boat-of-tour-company.jpg" alt="The boat of tour company">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/the-boat-of-tour-company.jpg" alt="승선을 시작한 우리 여행사 보트">
 </div>
 <br>
 
@@ -60,8 +60,8 @@ description: 2025.08.17 플라타 섬 투어 이야기
 
 어찌 됐든 오늘도 우리를 반겨주던 귀여운 혹등고래들
 <div class="image-slider-passive">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/humpback-whale-1.webp" alt="Humpback whale">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/humpback-whale-2.webp" alt="Humpback whale">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/humpback-whale-1.webp" alt="혹등고래">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/humpback-whale-2.webp" alt="혹등고래">
 </div>
 <br>
 
@@ -69,7 +69,7 @@ description: 2025.08.17 플라타 섬 투어 이야기
 
 사진을 찍진 못했지만 섬에 도착하기 전에 <span style="color: #8D4801">**가볍게 빵과 콜라**</span>를 주셨다. (처음엔 이게 포함된 점심인가? 하고 너무 적다고 생각했었지만 <span style="color: indianred">**나중에 점심은 따로 준다**</span>.)
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/the-sailing-boats.webp" alt="The sailing boats">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/the-sailing-boats.webp" alt="플라타 섬을 향해 항해 중인 여러 여행사의 보트들">
 </div>
 <br>
 
@@ -80,37 +80,37 @@ description: 2025.08.17 플라타 섬 투어 이야기
 
 아직 하선하기 전 섬에 도착하면 먼저 <span style="color: #8D4801">**여러 마리의 바다거북들이 우리를 반겨준다**</span>. (물론 우리가 아니라 가이드들이 주는 과자나 먹이를 반기는 거겠지...)
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/sea-turtle-1.webp" alt="Sea turtle">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/sea-turtle-1.webp" alt="바다거북">
 </div>
 <br>
 
 고개 빼꼼 <span style="color: #8D4801">**귀여운 거북이**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/sea-turtle-2.jpg" alt="Sea turtle">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/sea-turtle-2.jpg" alt="바다거북">
 </div>
 <br>
 
 입도하기 직전 가이드가 <span style="color: indianred">**신고 있던 신발을 모두 벗어서**</span> 안쪽에 두고 섬 트래킹할 때 신을 <span style="color: indianred">**트래킹 신발을 손에 들고 내리라고**</span> 하는데, 그 이유는 <span style="color: #8D4801">**마땅한 선착장이 없고 보트가 모래사장까지 올라올 순 없어서**</span> 물 위로 하선해야 하기 때문이다. 
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/the-coast-of-plata-island.jpg" alt="The coast of Plata island">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/the-coast-of-plata-island.jpg" alt="플라타 섬의 해안가">
 </div>
 <br>
 
 바닷물과 모래를 잔뜩 밟고 섬에 들어서면 가장 먼저 <span style="color: #8D4801">**발 씻는 곳**</span>이 나오긴 합니다만... 그리 깨끗이 씻을 수 있는 환경은 아니라서 등산화로 들고 온 신발은 세탁할 각오를 해야 한다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/the-place-to-wash-feet.jpg" alt="The place to wash feet">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/the-place-to-wash-feet.jpg" alt="플라타 섬 도착 후 발을 씻을 수 있는 장소">
 </div>
 <br>
 
 먼저 도착해서 가이드의 설명을 듣고 있는 다른 여행사 그룹
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/plata-island-protection-center-1.jpg" alt="Another group listening guide's explanation">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/plata-island-protection-center-1.jpg" alt="먼저 출발한 다른 여행사의 그룹">
 </div>
 <br>
 
 이곳 플라타 섬 보호 센터에는 <span style="color: indianred">**무료로 사용할 수 있는 화장실**</span>도 있어서 섬 트래킹 시작 전에 다녀오면 된다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/plata-island-protection-center-2.jpg" alt="Plata island protection center">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/plata-island-protection-center-2.jpg" alt="플라타 섬 보호 센터">
 </div>
 <br>
 
@@ -120,7 +120,7 @@ description: 2025.08.17 플라타 섬 투어 이야기
 
 어차피 우리 투어 그룹은 다수가 한 가족인 가족 구성원이라서 우린 그냥 사람 많은 곳 쫓아서 갔던 기억이...
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/island-map.jpg" alt="The map of Plata island">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/island-map.jpg" alt="플라타 섬 지도">
 </div>
 <br>
 
@@ -128,25 +128,25 @@ description: 2025.08.17 플라타 섬 투어 이야기
 
 시즌이 달랐던 건지 날씨가 다른 건지 아무튼 푸에르토 로페스 머무는 내내 맑은 날이 없어서 <span style="color: #8D4801">**오히려 선선하고 시원한 환경에서 트래킹해서**</span> 더운 것은 몰랐고, 앞에 가족이 느려서인지 모르겠지만 <span style="color: #8D4801">**매우 천천히 이동**</span>해서 사실 힘들 기회도 없었다...
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/trekking-start.jpg" alt="Our group starting trekking">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/trekking-start.jpg" alt="트래킹을 시작하는 우리 여행사 그룹">
 </div>
 <br>
 
 플라타 섬에서 <span style="color: #8D4801">**유일하게 열매를 맺는 나무 종류**</span>로 이 열매는 <span style="color: indianred">**주로 접착제**</span>로 쓰인다고 한다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/the-only-fruit-tree-on-the-plata-island.webp" alt="The only fruit tree on the Plata island">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/the-only-fruit-tree-on-the-plata-island.webp" alt="플라타 섬에서 유일하게 열매를 맺는 나무">
 </div>
 <br>
 
 가족사진 찍으신다고 양쪽 길을 틀어막으신 가족...
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/the-family-stucked-the-road.jpg" alt="The family stucked road">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/the-family-stucked-the-road.jpg" alt="가족사진을 찍기 위해 길을 막고 있는 가족">
 </div>
 <br>
 
 군함조는 우리 숙소 앞 해변에도 많이 다녀서 신기하진 않았다. 어제 살랑고 섬 투어 여행사 이름도 군함조였는데
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/fragata-habitat-sign.jpg" alt="Fragata habitat sign">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/fragata-habitat-sign.jpg" alt="군함조 서식지 표지판">
 </div>
 <br>
 
@@ -154,7 +154,7 @@ description: 2025.08.17 플라타 섬 투어 이야기
 
 앞에 플라타 섬 지도에서 보았던 <span style="color: gray">**Los Acantilados 동선**</span>의 시작점
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/cliff-sign.jpg" alt="Cliff sign">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/cliff-sign.jpg" alt="절벽 장소 표지판">
 </div>
 <br>
 
@@ -163,7 +163,7 @@ description: 2025.08.17 플라타 섬 투어 이야기
 
 제가 보고 싶으셨나요?
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-1.jpg" alt="Blue-footed booby">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-1.jpg" alt="푸른발부비새">
 </div>
 <br>
 
@@ -171,7 +171,7 @@ description: 2025.08.17 플라타 섬 투어 이야기
 
 사람이 옆을 지나가도 전혀 경계하지 않고 <span style="color: #8D4801">**바보같이 바라만 보는**</span> 게 너무 귀여운 <span style="color: skyblue">**푸른발얼가니새**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-9.webp" alt="Blue-footed booby">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-9.webp" alt="푸른발부비새">
 </div>
 <br>
 
@@ -185,41 +185,41 @@ description: 2025.08.17 플라타 섬 투어 이야기
 <br>
 <sub>유리왕(儒理王) 황조가 中</sub>
 <div class="image-slider-auto">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-12.jpg" alt="Blue-footed booby">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-13.jpg" alt="Blue-footed booby">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-12.jpg" alt="푸른발부비새">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-13.jpg" alt="푸른발부비새">
 </div>
 <br>
 
 섬에서 <span style="color: skyblue">**푸른발부비새**</span>를 관람하는 동안 느낀 점이 진짜 <span style="color: #8D4801">**대부분은 암수가 함께 머무르는 모습**</span>을 보여서 질투가 날 정도였다. (그래서 뜬금없이 황조가가 생각난)
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-2.webp" alt="Blue-footed booby">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-2.webp" alt="푸른발부비새">
 </div>
 <br>
 
 **뭘 찍는 거냐, 인간 연애하는 거 처음 보나?**
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-with-blogger-1.jpg" alt="Blue-footed booby with blogger">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-with-blogger-1.jpg" alt="블로거와 푸른발부비새들">
 </div>
 <br>
 
 아장아장 걷는 게 너무 귀여운 <span style="color: skyblue">**푸른발부비새**</span> 나중에 설명으로 알게 된 것이 <span style="color: #8D4801">**부비새의 발은 물갈퀴로 되어있어서 걷기에는 불편하지만 먹이를 사냥할 때 약간의 수영을 할 수 있도록 도움 되게 진화**</span>되었다고 한다. 그래서 부비새가 사냥할 때는 <span style="color: #8D4801">**수심 3m까지도 잠수**</span>해 들어가서 사냥을 할 수 있다고 한다.
 <div class="image-slider-passive">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-3.webp" alt="Blue-footed booby">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-10.webp" alt="Blue-footed booby">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-11.webp" alt="Blue-footed booby">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-3.webp" alt="푸른발부비새">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-10.webp" alt="푸른발부비새">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-11.webp" alt="푸른발부비새">
 </div>
 <br>
 
 **어때 날개 펼치니까 나 조금 멋있지 않아?**
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-14.jpg" alt="Blue-footed booby">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-14.jpg" alt="푸른발부비새">
 </div>
 <br>
 
 하... 황조가 황조가 어디 갔는가!
 <div class="image-slider-auto">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-15.jpg" alt="Blue-footed booby">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-16.jpg" alt="Blue-footed booby">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-15.jpg" alt="푸른발부비새">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-16.jpg" alt="푸른발부비새">
 </div>
 <br>
 
@@ -231,14 +231,14 @@ description: 2025.08.17 플라타 섬 투어 이야기
 
 <span style="color: darkblue">**고마워 여보**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-21.webp" alt="Blue-footed booby">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-21.webp" alt="푸른발부비새">
 </div>
 <br>
 
 뒷모습도 늠름한 <span style="color: skyblue">**푸른발부비새**</span>
 <div class="image-slider-auto">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-17.jpg" alt="Blue-footed booby">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-18.jpg" alt="Blue-footed booby">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-17.jpg" alt="푸른발부비새">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-18.jpg" alt="푸른발부비새">
 </div>
 <br>
 
@@ -246,13 +246,13 @@ description: 2025.08.17 플라타 섬 투어 이야기
 
 <span style="color: darkblue">**뭐? 어이 거기 잠깐 서보슈! 우리 얘기 좀 합시다.**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-22.webp" alt="Blue-footed booby">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-22.webp" alt="푸른발부비새">
 </div>
 <br>
 
 <span style="color: #8D4801">**카메라로 찍을 때마다 바라봐주는 녀석들**</span> 너무 신기했던
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-with-blogger-2.jpg" alt="Blue-footed booby with blogger">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-with-blogger-2.jpg" alt="블로거와 푸른발부비새">
 </div>
 <br>
 
@@ -262,33 +262,33 @@ description: 2025.08.17 플라타 섬 투어 이야기
 
 **우리 오늘 저녁 뭐 먹어?**
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-19.webp" alt="Blue-footed booby">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-19.webp" alt="푸른발부비새">
 </div>
 <br>
 
 
 <span style="color: #8D4801">**바닷새 관측소**</span>. 이름은 거창하지만, 그냥 <span style="color: #8D4801">**섬 주변을 날아다니는 많은 새**</span>를 볼 수 있었다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/sea-bird-observatory.jpg" alt="Sea bird observatory">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/sea-bird-observatory.jpg" alt="바닷새 관측소">
 </div>
 <br>
 
 어미와 아기 <span style="color: skyblue">**푸른발부비새**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-4.webp" alt="Blue-footed booby with baby">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-4.webp" alt="푸른발부비새와 아기 새">
 </div>
 <br>
 
 아직 태어나지 않은 알을 품고 있는 어미 <span style="color: skyblue">**푸른발부비새**</span>
 <div class="image-slider-passive">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-5.webp" alt="Blue-footed booby with eggs">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-20.jpg" alt="Blue-footed booby with eggs">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-5.webp" alt="푸른발부비새와 알들">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-20.jpg" alt="푸른발부비새와 알들">
 </div>
 <br>
 
 너무 커서 잘 보이진 않지만, <span style="color: #8D4801">**절벽들 중간중간에 부비새들이 많이들 앉아서 사냥 준비**</span>를 하고 있는 것으로 보인다. 플라타 섬이 <span style="color: gray">**실버 아일랜드**</span>라고도 불리는데 부비새들의 용변의 색깔이 은색이라서 섬 전체가 은색으로 보인다고 하여 그렇게 불린다고 한다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/cliff-that-blue-footed-booby-living.jpg" alt="Cliff that blue-footed booby living">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/cliff-that-blue-footed-booby-living.jpg" alt="푸른발부비새가 주로 서식하는 절벽 장소">
 </div>
 <br>
 
@@ -296,47 +296,47 @@ description: 2025.08.17 플라타 섬 투어 이야기
 
 **저희 아무 사이도 아니에요**
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-6.jpg" alt="Blue-footed booby">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-6.jpg" alt="푸른발부비새">
 </div>
 <br>
 
 어미 <span style="color: skyblue">**푸른발부비새**</span>가 알을 품는 동안 <span style="color: gray">**둥지 주변을 돌면서 용변을 봐서 저렇게 하얀색**</span>으로 보인다. <span style="color: gray">**실버 아일랜드**</span>로 불리게 된 주된 이유
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-7.jpg" alt="Blue-footed booby">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-7.jpg" alt="푸른발부비새">
 </div>
 <br>
 
 ### 부비새의 원조 나스카부비새
 아기 <span style="color: #8D4801">**나스카부비새**</span>이다. 아직 털이 보송보송한 게 너무 귀엽다.
 <div class="image-slider-auto">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/nazca-booby-1.jpg" alt="Nazca booby baby">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/nazca-booby-with-blogger-1.jpg" alt="Nazca booby baby with blogger">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/nazca-booby-1.jpg" alt="아기 나스카부비새">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/nazca-booby-with-blogger-1.jpg" alt="블로거와 아기 나스카부비새">
 </div>
 <br>
 
 늠름한 <span style="color: #8D4801">**나스카부비새**</span> 약간 오리 같기도 하다
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/nazca-booby-3.jpg" alt="Nazca booby">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/nazca-booby-3.jpg" alt="나스카부비새">
 </div>
 <br>
 
 같은 얼가니새속인데 <span style="color: skyblue">**푸른발부비새**</span>는 어쩌다 <span style="color: #8D4801">**다른 색깔**</span>을 가지게 되었을까?
 <div class="image-slider-auto">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/nazca-booby-2.jpg" alt="Nazca booby">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/nazca-booby-with-blogger-2.jpg" alt="Nazca booby with blogger">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/nazca-booby-2.jpg" alt="나스카부비새">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/nazca-booby-with-blogger-2.jpg" alt="블로거와 나스카부비새">
 </div>
 <br>
 
 처음 보는 새인가? 했는데 아직 어린 <span style="color: skyblue">**푸른발부비새**</span> 조금 더 자라야 발이 파랗게 변할 것이다.
 <div class="image-slider-auto">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-8.jpg" alt="Blue-footed booby">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-with-blogger-3.jpg" alt="Blue-footed booby with blogger">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-8.jpg" alt="푸른발부비새">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/blue-footed-booby-with-blogger-3.jpg" alt="블로거와 푸른발부비새">
 </div>
 <br>
 
 <span style="color: #8D4801">**섬 트래킹을 마치고 다시 돌아가는 길**</span> 저 밑 절벽에 <span style="color: skyblue">**푸른발부비새**</span>들은 안 보이시죠?
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/cliff-when-we-were-going-back.jpg" alt="Cliff">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/cliff-when-we-were-going-back.jpg" alt="절벽 장소">
 </div>
 <br>
 
@@ -348,20 +348,20 @@ description: 2025.08.17 플라타 섬 투어 이야기
 
 플라타 섬 보호 센터 <span style="color: #8D4801">**복귀**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/plata-island-protection-center-3.jpg" alt="Plata island protection center">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/plata-island-protection-center-3.jpg" alt="플라타 섬 보호 센터">
 </div>
 <br>
 
 ### 눈으로만 즐긴 스노클링
 트래킹을 마치고 보트에 복귀하면 스노클링 포인트로 이동한 후에 <span style="color: #8D4801">**점심으로 샌드위치와 콜라**</span>를 나눠주신다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/lunch-time-1.jpg" alt="Tour staff giving out sandwiches">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/lunch-time-1.jpg" alt="점심으로 샌드위치와 콜라를 나눠주시는 투어 회사 직원">
 </div>
 <br>
 
 무려 <span style="color: indianred">**1인당 샌드위치 2개!**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/lunch-time-2.jpg" alt="Lunch Sandwiches">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/lunch-time-2.jpg" alt="점심 식사용 샌드위치들">
 </div>
 <br>
 
@@ -369,9 +369,9 @@ description: 2025.08.17 플라타 섬 투어 이야기
 
 그래도 빵조각으로 유혹하며 <span style="color: #8D4801">**물 밖에서 물고기들을 감상**</span>했다.
 <div class="image-slider-passive">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/fishes-in-plata-island-1.webp" alt="Fishes in Plata island">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/fishes-in-plata-island-2.webp" alt="Fishes in Plata island">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/fishes-in-plata-island-3.webp" alt="Fishes in Plata island">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/fishes-in-plata-island-1.webp" alt="플라타 섬의 물고기들">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/fishes-in-plata-island-2.webp" alt="플라타 섬의 물고기들">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/fishes-in-plata-island-3.webp" alt="플라타 섬의 물고기들">
 </div>
 <br>
 
@@ -380,45 +380,45 @@ description: 2025.08.17 플라타 섬 투어 이야기
 ### 놀고 있는 혹등고래들
 푸에르토 로페스로 복귀하는 길옆에 보트가 <span style="color: #8D4801">**반쯤 하늘을 날듯이 항해**</span>하고 있다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/flying-boat.jpg" alt="Flying boat">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/flying-boat.jpg" alt="반쯤 하늘을 날듯이 항해하는 옆의 보트">
 </div>
 <br>
 
 그리고 돌아가는 길에 다시 마주친 <span style="color: #8D4801">**혹등고래 출몰**</span> 지역
 <div class="image-slider-passive">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/humpback-whale-3.webp" alt="Humpback whale">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/humpback-whale-4.webp" alt="Humpback whale">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/humpback-whale-3.webp" alt="혹등고래">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/humpback-whale-4.webp" alt="혹등고래">
 </div>
 <br>
 
 확실히 어제 투어에서 <span style="color: indianred">**오랜 시간 찾아다니며 마주친 고래들의 개체수보단 적은 수의 고래들**</span>을 만나긴 했지만, 플라타 섬까지 오기 위해 외해로 멀리 나와서 그런지 <span style="color: #8D4801">**오늘 만난 고래들이 훨씬 장난기(?)도 많아 보이고 역동적이게 계속 움직이며 노는 모습**</span>을 보여줘서 다른 의미로 만족스러운 고래 투어였다.
 <div class="image-slider-passive">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/humpback-whale-5.webp" alt="Humpback whale">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/humpback-whale-6.webp" alt="Humpback whale">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/humpback-whale-5.webp" alt="혹등고래">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/humpback-whale-6.webp" alt="혹등고래">
 </div>
 <br>
 
 둘이서 뭐가 그리 즐거운지 <span style="color: #8D4801">**물장구 삼매경**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/humpback-whale-9.webp" alt="Humpback whale">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/humpback-whale-9.webp" alt="혹등고래">
 </div>
 <br>
 
 노는 걸 <span style="color: indianred">**멈추지 않는**</span> 녀석들
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/humpback-whale-10.webp" alt="Humpback whale">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/humpback-whale-10.webp" alt="혹등고래">
 </div>
 <br>
 
 덕분에 <span style="color: #8D4801">**고래와 함께 찍은**</span> 사진
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/humpback-whale-with-blogger.jpg" alt="Humpback whale with blogger">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/humpback-whale-with-blogger.jpg" alt="블로거와 혹등고래">
 </div>
 <br>
 
 그렇게 고래들이 놀다 지치기 전에 <span style="color: #8D4801">**우리가 먼저 출발**</span>했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/humpback-whale-7.webp" alt="Humpback whale">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/humpback-whale-7.webp" alt="혹등고래">
 </div>
 <br>
 
@@ -426,7 +426,7 @@ description: 2025.08.17 플라타 섬 투어 이야기
 
 바다에서 <span style="color: #8D4801">**보트를 타고 왕복 2시간 이상**</span>이라 나는 공짜로 에버랜드 <span style="color: #8D4801">**후룸라이드를 수십 번 타는 기분으로 항해**</span> 자체도 좋았지만, <span style="color: indianred">**멀미가 심하신 분들은 이동 구간이 좀 힘들 수도**</span> 있겠다고 생각했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/humpback-whale-8.jpg" alt="Humpback whale">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/humpback-whale-8.jpg" alt="혹등고래">
 </div>
 <br>
 
@@ -437,7 +437,7 @@ description: 2025.08.17 플라타 섬 투어 이야기
 
 사실 주말이어서 그랬는지 <span style="color: indianred">**번화가 쪽 근처 식당들은 정말 고막이 터져나갈 듯한 볼륨으로 시끄러운 음악**</span>을 틀어놔서 엊그제랑 어제 조용한 식당을 매우 찾고 싶었는데 <span style="color: #8D4801">**위치가 멀찍이 떨어져 있는 곳이라서 시끄러운 음악 소리도 안 들려서 평화롭게 식사**</span>할 수 있어서 좋았다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/sabor-espanol-restaurant.jpg" alt="Sabor Español restaurant">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/sabor-espanol-restaurant.jpg" alt="Sabor Español 식당">
 </div>
 <br>
 
@@ -448,7 +448,7 @@ description: 2025.08.17 플라타 섬 투어 이야기
 
 하지만 사장님께 여쭈었을 때 <span style="color: indianred">**Langosta는 재료가 없어서 다른 메뉴를 주문**</span>할 수밖에 없었다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/sabor-espanol-restaurant-menu.jpg" alt="The menu sign of Sabor Español restaurant">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/sabor-espanol-restaurant-menu.jpg" alt="Sabor Español 식당의 메뉴 표지판">
 </div>
 <br>
 
@@ -488,7 +488,7 @@ description: 2025.08.17 플라타 섬 투어 이야기
 
 진짜 서비스였던 걸까? 아니면 사장님 우리가 떠나고 아차 하셨을까? <span style="color: #8D4801">**아무튼 배부르고 너무 기분 좋은 식사**</span>였다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/la-cuenta-con-plato-pequeno-de-chocolates.jpg" alt="La cuenta con plato pequeño de chocolates">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/la-cuenta-con-plato-pequeno-de-chocolates.jpg" alt="페레로 로셰 초콜릿과 함께 나온 계산서">
 </div>
 <br>
 

@@ -42,7 +42,7 @@ description: 2013.12.12~13 엉망진창 첫 해외 출국 공항 해프닝 및 �
 내가 도착한 3터미널부터 1터미널, 2터미널까지 무거운 자전거 짐을 낑낑대며 끌고 다니다가 2터미널에서 새벽 2시쯤이 되어서야 mrkyia를 만날 수 있었다. 이 녀석 말이 자기도 나의 연락을 기다리는 중이었다고 한다. 나중에 알고 보니 이미 나에게 여러 개의 카톡을 보내놓고 기다리고 있던 것이었는데, <span style="color: #8D4801">**당시의 나는 와이파이가 무엇인지도 어떻게 사용할 줄도 모르던 때라 당연히 데이터가 통하지 않아 서로 엇갈렸던 것**</span>이다.
 <div class="image-slider-auto">
   <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/blogger-with-baggages.jpg" alt="블로거와 여행 짐들">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/friend-with-baggages.jpg" alt="블로거의 친구와 여행 짐들">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/friend-with-baggages.jpg" alt="친구와 여행 짐들">
 </div>
 <br>
 
@@ -86,7 +86,7 @@ description: 2013.12.12~13 엉망진창 첫 해외 출국 공항 해프닝 및 �
 
 무슨 절인지 모르지만... 향도 한번 피워보고...
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/china-town-pray.jpg" alt="공덕을 발원 중인 블로거의 친구">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-13-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-2/china-town-pray.jpg" alt="공덕을 발원 중인 친구">
 </div>
 <br>
 

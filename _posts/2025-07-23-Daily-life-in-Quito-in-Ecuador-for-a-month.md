@@ -35,13 +35,13 @@ description: 2025.07.23 ~ 2025.08.24 카롤리나 공원 아침 운동 일지 �
 ## 처음 겪어보는 비행기 회항
 <span style="color: #8D4801">**지구 반대편**</span>을 이동해 왔는데 어째 찍은 사진이 인천 공항 한식당에서 먹은 비빔밥 사진 뿐일지 의문이다. 아무튼 <span style="color: #8D4801">**국내 동선은 매우 상투적으로 천안아산역에서 KTX 타고 서울역에 도착해서 공항 철도를 통해 인천공항 T2에 도착**</span>했다. 
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/brunch-at-incheon-airport.jpg" alt="Bibimbap">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/brunch-at-incheon-airport.jpg" alt="비빔밥">
 </div>
 <br>
 
 멕시코시티를 향하는 AEROMAXICO 기내식, 메뉴에 비빔밥이 또 나와서 일부러 다른 메뉴를 시켰다. 15시간의 비행이어서 제일 많이 걱정했던 비행기 편이었는데 <span style="color: indianred">**운이 좋게 옆 좌석에 아무도 탑승하지 않아서 제일 긴 비행을 쾌적**</span>하게 마칠 수 있었다. 장거리 비행이라 그런가? <span style="color: #8D4801">**비행기 와이파이도 잘되어서 비행기 위에서 카톡하면서 스스로 신기해**</span>했다. (원시인도 아니고...) 여기까진 좋았는데...
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/aeromaxico-in-flight-meal.jpg" alt="Aeromaxico in-flight meal">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/aeromaxico-in-flight-meal.jpg" alt="Aeromaxico 기내식">
 </div>
 <br>
 
@@ -63,8 +63,8 @@ description: 2025.07.23 ~ 2025.08.24 카롤리나 공원 아침 운동 일지 �
 
 그래서 Latam play 앱에 들어가서 현재 위치를 확인하는데 <span style="color: #8D4801">**Quito 근처를 빙빙 도는**</span> 기분이 드는 것이다.
 <div class="image-slider-auto">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/latam-play-screen-1.jpg" alt="Latam play screen">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/latam-play-screen-2.jpg" alt="Latam play screen">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/latam-play-screen-1.jpg" alt="Latam play 웹사이트 화면">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/latam-play-screen-2.jpg" alt="Latam play 웹사이트 화면">
 </div>
 <br>
 
@@ -84,13 +84,13 @@ description: 2025.07.23 ~ 2025.08.24 카롤리나 공원 아침 운동 일지 �
 
 아직 스페인어가 안 되어서 <span style="color: indianred">**혹시나 말이 안 통할지 걱정**</span>했는데 정말 <span style="color: #8D4801">**운이 좋게도 기초적인 영어를 이해하시는 기사분을 만나서**</span> 핫스팟을 빌려서 친구에게 연락해서 잘 도착할 수 있었다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/uber-screen-to-quito.jpg" alt="Uber screen showing a path to Quito downtown">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/uber-screen-to-quito.jpg" alt="키토를 향하는 우버 화면">
 </div>
 <br>
 
 에콰도르에 머무는 동안 이용한 <span style="color: #8D4801">**데이터 요금제 10.5불이면 한 달을 사용**</span>할 수 있다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/usim-chip.jpg" alt="Usim chip pay bill">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/usim-chip.jpg" alt="에콰도르 한 달 선불데이터 요금 영수증">
 </div>
 <br>
 
@@ -103,20 +103,20 @@ description: 2025.07.23 ~ 2025.08.24 카롤리나 공원 아침 운동 일지 �
 지구 반대편에서 만난 <span style="color: #8D4801">**아버지가 청춘을 바치신 회사**</span>. 사실 사진만 보면 한국이라고 해도 전혀 위화감이 없을 것 같은 비주얼이다.
 
 |:---:|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/hyndai-in-quito.jpg" alt="Hyundai in Quito"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/building-feels-like-oriental.jpg" alt="Building feels like oriental"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/quito-street-1.jpg" alt="Quito street"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/hyndai-in-quito.jpg" alt="키토에서 만난 현대자동차 영업소"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/building-feels-like-oriental.jpg" alt="동양풍의 건물"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/quito-street-1.jpg" alt="키토 거리"> |
 
 <br>
 
 사진을 가로로 찍었어야 더 잘 보였을 텐데 도로 가운데에 한국의 서울처럼 버스정류장으로써 <span style="color: #8D4801">**교통섬이 존재**</span>하는 것은 익숙했으나 그곳에 멈춘 <span style="color: indianred">**버스의 길이가 기차를 방불케 할 정도로 엄청 길었다**</span>. 
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/bus-station-for-long-bus.jpg" alt="Bus station for long bus">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/bus-station-for-long-bus.jpg" alt="기다란 버스의 정류장">
 </div>
 <br>
 
 걷다 보니 보이는 <span style="color: #8D4801">**에콰도르 국회**</span> 이때쯤에 비행기가 착륙해서 연락이 온 친구에게 올드타운 방향으로 걸어왔다고 했다가 많이 혼났다. 이쪽 거리는 <span style="color: indianred">**치안이 좋지 않으므로 위험하니까 용무가 있다면 반드시 우버를 이용하는 것을 추천**</span>한다.
 
 |:---:|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/grafitti-1.jpg" alt="The grafitti showing family"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/quito-street-2.jpg" alt="Quito street"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/national-assembly-of-ecuador.jpg" alt="Quito street"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/grafitti-1.jpg" alt="가족을 나타내는 듯한 그라피티"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/quito-street-2.jpg" alt="키토 거리"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/national-assembly-of-ecuador.jpg" alt="에콰도르 국회"> |
 
 <br>
 
@@ -133,7 +133,7 @@ description: 2025.07.23 ~ 2025.08.24 카롤리나 공원 아침 운동 일지 �
 
 주말이면 많은 아이들이 분수대 앞에서 놀고 있다. 어느 나라를 가도 아이들의 동심은 똑같구나
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/playing-children-with-fountain.webp" alt="Playing children with fountain">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/playing-children-with-fountain.webp" alt="분수대 앞에서 놀고 있는 에콰도르 어린이들">
 </div>
 <br>
 
@@ -143,34 +143,34 @@ description: 2025.07.23 ~ 2025.08.24 카롤리나 공원 아침 운동 일지 �
 공원 안에는 정말 <span style="color: #8D4801">**다양한 스포츠 시설**</span>들이 존재했다. 한국에도 서울 어딘가에 존재할 수 있을지도 모르지만 적어도 내가 살던 천안에선 이 정도로 많은 종류와 신기한 스포츠들을 즐길 수 있는 장소를 본 적이 없다.
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/skateboard.webp" alt="Skateboard"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/teqball.webp" alt="Teqball"> |
-|  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/cycle-road.webp" alt="Children riding bicycle at a curved road"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/bicycle.webp" alt="Bicycle show"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/skateboard.webp" alt="스케이트보드"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/teqball.webp" alt="테크볼"> |
+|  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/cycle-road.webp" alt="급격하게 굽은 길에서 자전거를 타는 아이들"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/bicycle.webp" alt="자전거를 타고 급경사를 올라오는 스포츠인"> |
 
 <br>
 
 꽤 <span style="color: #8D4801">**작은 호수**</span>였지만 나름 <span style="color: indianred">**오리배**</span>도 존재한다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/lake.webp" alt="Tiny lake">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/lake.webp" alt="카롤리나 공원 내의 작은 호수">
 </div>
 <br>
 
 뭔가 해가 비치는 공원이 멋져서 한 컷
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/carolina-park.jpg" alt="Carolina park">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/carolina-park.jpg" alt="해가 비치는 카롤리나 공원의 어느 한 부분">
 </div>
 <br>
 
 야외에서 진행되는 에어로빅과 요가 클래스
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/aerobic-class.webp" alt="Aerobic class at outdoor"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/yoga-class.jpg" alt="Yoga class at outdoor"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/aerobic-class.webp" alt="야외 에어로빅 수업"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/yoga-class.jpg" alt="야외 요가 수업"> |
 
 <br>
 
 ### 북쪽 이벤트홀
 어떤 특별한 목적을 가지고 방문했던 곳은 아니고 새로운 동선으로 조깅하고 싶어서 이번엔 북쪽으로 걷던 중 도달했던 곳으로 여기서 조금 더 진행하면 <span style="color: #8D4801">**사람들이 많이 안 보이는 거리들이 시작되어서 안전을 위해 알아서 돌아왔다**</span>.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/plaza-de-toros-quito.jpg" alt="Plaza de toros Quito">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/plaza-de-toros-quito.jpg" alt="키토 투우장">
 </div>
 <br>
 
@@ -179,14 +179,14 @@ description: 2025.07.23 ~ 2025.08.24 카롤리나 공원 아침 운동 일지 �
 
 건널목을 보며 문득 생각난 게 그래도 한 나라의 수도인데 그냥 많이들 <span style="color: indianred">**당연한 듯이 무단횡단을 하더라고요**</span> 베트남인 줄 알았어요
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/cross-road.jpg" alt="Cross road">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/cross-road.jpg" alt="키토 시내 건널목">
 </div>
 <br>
 
 ### 메트로폴리탄 공원
 <span style="color: #8D4801">**친구가 추천해 줘서 방문해 본 공원**</span>으로 엄청 높지는 않았지만, 고산에 경사라서 생각보다 숨이 차올랐지만 그래서 또 좋았다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/jogging-path.jpg" alt="Jogging course for the day">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/jogging-path.jpg" alt="메트로폴리탄 공원을 포함해서 걸었던 경로">
 </div>
 <br>
 
@@ -195,38 +195,38 @@ description: 2025.07.23 ~ 2025.08.24 카롤리나 공원 아침 운동 일지 �
 
 올림픽 경기장 옆길로 열심히 경사를 올라오니 나타난 <span style="color: #8D4801">**초입부**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/metropolitan-park-1.jpg" alt="Metropolitan park">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/metropolitan-park-1.jpg" alt="메트로폴리탄 공원 초입부">
 </div>
 <br>
 
 가드분들이 지키고 계시길래 수줍게 여쭤보았었다. <span style="color: indianred">**들어가려면 돈을 내야 하나요?**</span> 알고 보니 차들만 주차비를 내는 듯했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/metropolitan-park-5.jpg" alt="Metropolitan park">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/metropolitan-park-5.jpg" alt="메트로폴리탄 공원">
 </div>
 <br>
 
 이른 아침이라 그런가 <span style="color: #8D4801">**가끔 애완견과 산책**</span>하시는 분들을 제외하고는 거의 인적이 없었다. 그나저나 <span style="color: #8D4801">**강렬한 적도의 태양 빛**</span>은 지금 사진도 뚫고 나올 것만 같다.
 
 |:---:|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/metropolitan-park-2.jpg" alt="Metropolitan park"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/metropolitan-park-4.jpg" alt="Metropolitan park"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/metropolitan-park-6.jpg" alt="Metropolitan park"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/metropolitan-park-2.jpg" alt="메트로폴리탄 공원"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/metropolitan-park-4.jpg" alt="메트로폴리탄 공원"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/metropolitan-park-6.jpg" alt="메트로폴리탄 공원"> |
 
 <br>
 
 어라 구글맵엔 길이 있었는데...? <span style="color: indianred">**뭔가 이상함을 직감**</span> 자그마한 샛길 따라 엄청나게 들어왔는데 <span style="color: #8D4801">**숲으로 가로막혀있어서**</span> 당황했던 이렇게 저렇게 빙글빙글 돌다 보니 어떻게 잘 빠져나오긴 했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/metropolitan-park-3.jpg" alt="Metropolitan park">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/metropolitan-park-3.jpg" alt="메트로폴리탄 공원">
 </div>
 <br>
 
 하산하는 중 뭔가 맘에 들어서 찍은 <span style="color: #8D4801">**그라피티**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/grafitti-2.jpg" alt="Grafitti seems presenting desert">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/grafitti-2.jpg" alt="사막을 표현한 듯한 그라피티">
 </div>
 <br>
 
 <span style="color: #8D4801">**아타우알파 올림픽 경기장**</span> 평일과 주말 할 거 없이 축구 경기가 있는 날이면 줄지은 인파들을 볼 수 있다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/atahualpa-olympic-stadium.jpg" alt="Atahualpa olympic stadium">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/atahualpa-olympic-stadium.jpg" alt="아타우알파 올림픽 경기장">
 </div>
 <br>
 
@@ -235,7 +235,7 @@ description: 2025.07.23 ~ 2025.08.24 카롤리나 공원 아침 운동 일지 �
 
 방에서 자주 볼 수 있었던 풍경으로 이렇게 <span style="color: indianred">**소소한 불꽃**</span>도 자주 터트렸다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/firework-at-atahualpa-olympic-stadium.webp" alt="Firework at Atahualpa olympic stadium">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/firework-at-atahualpa-olympic-stadium.webp" alt="아타우알파 올림픽 경기장의 불꽃놀이">
 </div>
 <br>
 
@@ -244,20 +244,20 @@ description: 2025.07.23 ~ 2025.08.24 카롤리나 공원 아침 운동 일지 �
 
 GPT가 말하길 **검은지빠귀**라는 새
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/common-blackbird-1.jpg" alt="Common blackbird">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/common-blackbird-1.jpg" alt="검은지빠귀">
 </div>
 <br>
 
 열매를 맛있게 쪼아먹는 **검은지빠귀**
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/common-blackbird-2.webp" alt="Common blackbird eating some fruit">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/common-blackbird-2.webp" alt="과일을 쪼아먹는 검은지빠귀">
 </div>
 <br>
 
 그리고 대망의 벌새 찍고 싶어도 너무 빨라서 촬영하기가 매우 어려웠다. 어쨌든 <span style="color: indianred">**집 앞 공원에서 벌새**</span>를 볼 수 있다니 너무 신기했다.
 
 |:---:|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/hummingbird-1.webp" alt="Hummingbird"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/hummingbird-2.webp" alt="Hummingbird"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/hummingbird-3.webp" alt="Hummingbird"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/hummingbird-1.webp" alt="카롤리나 공원의 벌새"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/hummingbird-2.webp" alt="카롤리나 공원의 벌새"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/hummingbird-3.webp" alt="카롤리나 공원의 벌새"> |
 
 <br>
 
@@ -271,7 +271,7 @@ GPT가 말하길 **검은지빠귀**라는 새
 
 외국인의 경우 <span style="color: #8D4801">**9불**</span>이고 에콰도르 신분증을 갖고 있으면 <span style="color: indianred">**5.25불**</span>로 절반 정도 싸게 케이블카에 탑승할 수 있다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/cable-car-ticket.jpg" alt="Cable car ticket">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/cable-car-ticket.jpg" alt="키토 케이블카 입장권">
 </div>
 <br>
 
@@ -280,20 +280,20 @@ GPT가 말하길 **검은지빠귀**라는 새
 
 아는 사람끼리 따로따로 탑승하고 싶지만, <span style="color: #8D4801">**모르는 사람까지 꾸역꾸역 6명**</span>을 다 채워서 올려보낸다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/cable-car.jpg" alt="Cable car">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/cable-car.jpg" alt="키토 케이블카">
 </div>
 <br>
 
 <span style="color: #8D4801">**4,050미터에서 내려다보는 경치**</span> 구경하느라 사진을 못 찍은 것도 있지만 이런 높은 장소 특성상 눈에는 이쁜 도시 풍경이 사진에는 잘 안 담긴다.
 
 |:---:|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/quito-city-view-1.jpg" alt="View from the top of the cable car's destination"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/mirador-de-los-volcanes.jpg" alt="View from the top of the cable car's destination"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/natural-scenery-from-volcan-pichincha.jpg" alt="View from the top of the cable car's destination"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/quito-city-view-1.jpg" alt="케이블카 도착지에서 보이는 키토 전경"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/mirador-de-los-volcanes.jpg" alt="케이블카 도착지에서 보이는 키토 전경"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/natural-scenery-from-volcan-pichincha.jpg" alt="케이블카 도착지에서 보이는 키토 전경"> |
 
 <br>
 
 고층 빌딩도 마치 점처럼 보이네요.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/quito-city-view-2.jpg" alt="View from the top of the cable car's destination">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/quito-city-view-2.jpg" alt="케이블카 도착지에서 보이는 키토 전경">
 </div>
 <br>
 
@@ -302,7 +302,7 @@ GPT가 말하길 **검은지빠귀**라는 새
 
 잉카 분위기 나는 판초라던가 각종 의류도 팔았고 인형이나 액세서리들도 많이 팔고 있었다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/la-mariscal-artisan-market.jpg" alt="La mariscal artisan market">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/la-mariscal-artisan-market.jpg" alt="마리스칼 장인 시장">
 </div>
 <br>
 
@@ -318,24 +318,24 @@ GPT가 말하길 **검은지빠귀**라는 새
 ## 전망대가 따로 필요 없는 숙소
 정작 이용해 본 건 체육관뿐이지만 굉장히 다양한 시설들이 존재했던 숙소
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/facilities-directory.jpg" alt="Facilities directory">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/facilities-directory.jpg" alt="숙소의 시설 안내도">
 </div>
 <br>
 
 ### 키토 전경
 에... 살 좀 빠졌나 하고 찍어봤어요. 그냥
 <div class="image-slider-auto">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/blogger-at-home-1.jpg" alt="Blogger taking selfie at home">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/blogger-at-home-2.jpg" alt="Blogger taking selfie at home">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/blogger-at-home-1.jpg" alt="블로거가 숙소에서 찍은 셀카">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/blogger-at-home-2.jpg" alt="블로거가 숙소에서 찍은 셀카">
 </div>
 <br>
 
 이게 <span style="color: indianred">**집에서 볼 수 있는 경치**</span>라고요? 전망대는 왜 가나요? 집에서 보면 되는데요. 머리가 복잡할 때 가만히 앉아 밖의 사람과 차들만 구경해도 금방 <span style="color: #8D4801">**뜨랑낄로**</span>해졌다.
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/quito-morning-view-1.jpg" alt="Quito city view at morning"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/quito-night-view-1.jpg" alt="Quito city view at night"> |
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/quito-night-view-2.jpg" alt="Quito city view at night"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/quito-morning-view-2.jpg" alt="Quito city view at morning"> |
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/quito-morning-view-3.jpg" alt="Quito city view at morning"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/quito-night-view-3.jpg" alt="Quito city view at night"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/quito-morning-view-1.jpg" alt="숙소에서 바라본 아침의 키토 풍경"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/quito-night-view-1.jpg" alt="숙소에서 바라본 밤의 키토 야경"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/quito-night-view-2.jpg" alt="숙소에서 바라본 밤의 키토 야경"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/quito-morning-view-2.jpg" alt="숙소에서 바라본 아침의 키토 풍경"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/quito-morning-view-3.jpg" alt="숙소에서 바라본 아침의 키토 풍경"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/quito-night-view-3.jpg" alt="숙소에서 바라본 밤의 키토 야경"> |
 
 <br>
 
@@ -344,7 +344,7 @@ GPT가 말하길 **검은지빠귀**라는 새
 신기해서 머선 일이고 하고 아침 운동 중에 들러봤는데 아무렇지 않게 갈 길 가시는 키토 시민분들 (사실 나처럼 사진 찍는 분들도 더러 있는 것을 보아하니 흔한 광경은 아닌 듯)
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/overflow-1.webp" alt="Overflowing water from underground"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/overflow-2.webp" alt="Overflowing water from underground"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/overflow-1.webp" alt="끼쎈뜨로 몰 앞에 분수처럼 터져오른 맨홀"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/overflow-2.webp" alt="끼쎈뜨로 몰 앞에 분수처럼 터져오른 맨홀"> |
 
 <br>
 
@@ -354,7 +354,7 @@ GPT가 말하길 **검은지빠귀**라는 새
 
 사진 속인데도 <span style="color: indianred">**자체 발광하는 듯한 적도의 일출**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/sunrise.jpg" alt="Glorious sunrise">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/sunrise.jpg" alt="사진 속인데도 밝은 빛이 느껴지는 적도의 일출">
 </div>
 <br>
 
@@ -362,13 +362,13 @@ GPT가 말하길 **검은지빠귀**라는 새
 근래에는 블로그 작성한다고 못 갔지만 <span style="color: #8D4801">**한동안 하루도 빠짐없이 다녔던 체육관**</span>. 넓고 나름 있을 건 다 있고, 사람도 많이 안 와서 대부분 혼자 빌려서 운동하는 기분이었다. 무엇보다 좋았던 건 샌드백이 달린 체육관을 한 번도 가본 적이 없어서 샌드백 치는 기분이 궁금했었는데 이곳에선 아무도 없어서 마음 편하게 때려볼 수 있어서 좋았다.
 
 |:---:|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/gymnasio-1.webp" alt="Gymnasio"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/gymnasio-2.webp" alt="Gymnasio"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/gymnasio-3.webp" alt="Gymnasio"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/gymnasio-1.webp" alt="블로거가 한 달 정도 다닌 숙소 체육관"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/gymnasio-2.webp" alt="블로거가 한 달 정도 다닌 숙소 체육관"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/gymnasio-3.webp" alt="블로거가 한 달 정도 다닌 숙소 체육관"> |
 
 <br>
 
 운동하다 잠깐 창밖을 봤다가 잘못 봤는지 의심하며 눈 비비고 다시 봤는데 대체 왜 저러는 걸까요? 이러시는 이유가 있을 거 아니에요?
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/weird-couple.webp" alt="Weird couple on the road">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/weird-couple.webp" alt="도로에서 춤을 추는 이상한 커플">
 </div>
 <br>
 
@@ -378,14 +378,14 @@ GPT가 말하길 **검은지빠귀**라는 새
 ### 미천한 도전
 오자마자 <span style="color: #8D4801">**태국에서 먹던 땡모반**</span> 생각에 수박도 썰어놓고
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/packed-watermelon.jpg" alt="Packed watermelon">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/packed-watermelon.jpg" alt="블로거가 썰어서 보관해 둔 수박들">
 </div>
 <br>
 
 장조림도하고 계란말이도 해봤는데 음... 네 망한 것 같아요. <span style="color: #8D4801">**그래도 맛은 좋아서 다행**</span>이었다.
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/korean-style-soy-braised-pork-and-eggs.jpg" alt="Korean-style soy braised pork and eggs"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/korean-rolled-omelet.jpg" alt="Korean rolled omelet"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/korean-style-soy-braised-pork-and-eggs.jpg" alt="블로거가 요리한 돼지고기 계란 장조림"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/korean-rolled-omelet.jpg" alt="블로거가 요리한 계란말이"> |
 
 <br>
 
@@ -393,15 +393,15 @@ GPT가 말하길 **검은지빠귀**라는 새
 그래서 이후에는 <span style="color: indianred">**닭 가슴살에 바나나 간편식**</span>으로 메뉴를 전환했는데, 친구가 그렇게 먹다가 통풍 온다는 말에 괜히 뜨끔해져서 <span style="color: #8D4801">**밥과 김치**</span>로 바꿨다.
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/fixed-lunch-menu-1.jpg" alt="Fixed lunch menu with Chicken chest and banana"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/fixed-lunch-menu-2.jpg" alt="Fixed lunch menu with Chicken chest and rice as well as Kimchi"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/fixed-lunch-menu-1.jpg" alt="한동안 블로거의 점심 고정 메뉴였던 바나나 하나 닭가슴살 두 조각"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/fixed-lunch-menu-2.jpg" alt="블로거의 점심 고정 메뉴였던 밥과 김치, 닭가슴살 두 조각"> |
 
 <br>
 
 ### 베이킹 메뉴
 친구의 취미가 베이킹이면 좋은 점. <span style="color: #8D4801">**자다가도 '빵'이 나온다**</span>.
 <div class="image-slider-auto">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/muffin.jpg" alt="Muffin">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/egg-tarts.jpg" alt="Egg tarts">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/muffin.jpg" alt="머핀">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/egg-tarts.jpg" alt="에그타르트">
 </div>
 <br>
 
@@ -409,41 +409,41 @@ GPT가 말하길 **검은지빠귀**라는 새
 저녁은 특별한 일이 없으면 친구와 같이 먹었는데 <span style="color: #8D4801">**한 달간 친구의 홈메이드 식단**</span>이... 내가 혼자 근 몇 년간 먹었던 한식 메뉴들보다도 더 화려한 데...?
 
 |:---:|:---:|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/aglio-e-olio-1.jpg" alt="Aglio e olio"> | **07.28 알리오올리오** | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/perilla-leaf-wraps-with-spicy-stir-fried-pork.jpg" alt="Perilla leaf wraps with spicy stir-fried pork"> | **07.29 깻잎쌈과 제육볶음** |
-| **07.30 미역국과 오징어채무침** | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/seaweed-soup-with-spicy-dried-squid.jpg" alt="Seaweed soup with spicy dried squid"> | **07.31 간장 비빔국수** | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/soy-sauce-noodles.jpg" alt="Soy sauce noodles"> |
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/gambas-al-ajillo.jpg" alt="Gambas al ajillo"> | **08.01 감바스 알아히요** | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/curry-rice.jpg" alt="Curry rice"> | **08.04 카레라이스** |
-| **08.05 크림파스타** | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/cream-pasta.jpg" alt="Cream pasta"> | **08.08 닭도리탕** | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/spicy-korean-chicken-stew.jpg" alt="Spicy Korean chicken stew"> |
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/korean-cold-soybean-noodles.jpg" alt="Korean cold soybean noodles"> | **08.09 콩국수** | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/carbonara-style-spicy-chicken-rice-cakes.jpg" alt="Carbonara style spicy chicken rice cakes"> | **08.11 까르보나라 불닭 떡볶이** |
-| **08.12 된장찌개** | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/doenjangjjigae.jpg" alt="Doenjangjjigae"> | **08.13 비빔국수와 군만두** | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/bibim-noodles-and-crispy-korean-dumplings.jpg" alt="Bibim noodles and crispy Korean dumplings"> |
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/korean-style-spam-mayo-rice-bowl.jpg" alt="Korean style Spam mayo rice bowl"> | **08.14 스팸마요덮밥** | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/aglio-e-olio-2.jpg" alt="Aglio e olio"> | **08.20 알리오올리오** |
-| **08.21 두부김치** | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/korean-tofu-with-stir-fried-kimchi.jpg" alt="Korean tofu with stir-fried Kimchi"> | **08.22 지코바 치킨** | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/gcova-chicken.jpg" alt="Gcova chicken"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/aglio-e-olio-1.jpg" alt="알리오올리오"> | **07.28 알리오올리오** | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/perilla-leaf-wraps-with-spicy-stir-fried-pork.jpg" alt="깻잎쌈과 제육볶음"> | **07.29 깻잎쌈과 제육볶음** |
+| **07.30 미역국과 오징어채무침** | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/seaweed-soup-with-spicy-dried-squid.jpg" alt="미역국과 오징어채무침"> | **07.31 간장 비빔국수** | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/soy-sauce-noodles.jpg" alt="간장 비빔국수"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/gambas-al-ajillo.jpg" alt="감바스 알아히요"> | **08.01 감바스 알아히요** | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/curry-rice.jpg" alt="카레라이스"> | **08.04 카레라이스** |
+| **08.05 크림파스타** | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/cream-pasta.jpg" alt="크림파스타"> | **08.08 닭도리탕** | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/spicy-korean-chicken-stew.jpg" alt="닭도리탕"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/korean-cold-soybean-noodles.jpg" alt="콩국수"> | **08.09 콩국수** | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/carbonara-style-spicy-chicken-rice-cakes.jpg" alt="까르보나라 불닭 떡볶이"> | **08.11 까르보나라 불닭 떡볶이** |
+| **08.12 된장찌개** | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/doenjangjjigae.jpg" alt="된장찌개"> | **08.13 비빔국수와 군만두** | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/bibim-noodles-and-crispy-korean-dumplings.jpg" alt="비빔국수와 군만두"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/korean-style-spam-mayo-rice-bowl.jpg" alt="스팸마요덮밥"> | **08.14 스팸마요덮밥** | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/aglio-e-olio-2.jpg" alt="알리오올리오"> | **08.20 알리오올리오** |
+| **08.21 두부김치** | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/korean-tofu-with-stir-fried-kimchi.jpg" alt="두부김치"> | **08.22 지코바 치킨** | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/gcova-chicken.jpg" alt="지코바 치킨"> |
 
 <br>
 
 <span style="color: #8D4801">**08.24 소시지 야채볶음**</span>. 한 달간 잘 먹었고, 앞으로도 잘 부탁드립니... 퍽
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/stir-fried-sausage-and-vegetables.jpg" alt="Stir-fried sausage and vegetables">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/stir-fried-sausage-and-vegetables.jpg" alt="소시지 야채볶음">
 </div>
 <br>
 
 ### 과일 및 배달
 처음 먹어보는 과일로 이름은 <span style="color: indianred">**치리모야**</span>이었다. 식감은 <span style="color: #8D4801">**아이스크림처럼 자연스럽게 녹는데 딱히 무언가를 첨가하지 않아도 자체적으로 굉장히 달콤**</span>한 과일이었다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/chirimoya.jpg" alt="Chirimoya">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/chirimoya.jpg" alt="치리모야">
 </div>
 <br>
 
 아마도 두 번째 외식 중식당 <span style="color: #8D4801">**꿔바로우와 양꼬치**</span> 너무 맛있어서 이미 배가 불렀는데도 꾸역꾸역 배에 한가득 채우고 복귀했다.
 <div class="image-slider-auto">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/guobaorou.jpg" alt="Guobaorou">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/lamb-skewers.jpg" alt="Lamb skewers">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/guobaorou.jpg" alt="꿔바로우">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/lamb-skewers.jpg" alt="양꼬치">
 </div>
 <br>
 
 배달은 3번 정도 시켜 먹었는데 한 번은 다른 포스트에서 언급했던 Kobe의 캘리포니아 롤을 먹었고, 페퍼로니 피자와 인도 카레 및 탄두리 치킨을 먹어보았다. 사실 배달 음식들은 감히 홈메이드에 비교할 수가 없어서 딱히 소감이랄게...
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/pepperoni-pizza.jpg" alt="Pepperoni pizza"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/indian-curry-and-tandoori-chicken.jpg" alt="Indian curry and Tandoori chicken"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/pepperoni-pizza.jpg" alt="페퍼로니 피자"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-07-23-Daily-life-in-Quito-in-Ecuador-for-a-month/indian-curry-and-tandoori-chicken.jpg" alt="인도식 카레와 탄두리 치킨"> |
 
 <br>
 

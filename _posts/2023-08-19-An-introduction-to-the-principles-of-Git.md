@@ -18,7 +18,7 @@ description: Git에 입문하기 전에 기본적인 Git의 어원과 정의 그
 글을 시작하기에 앞서 가장 먼저 궁금했던 질문이었다. SVN이 SubVersioN의 약자이듯이 버전관리와 관련된 영어의 약자라고만 막연히 생각했다 그러나, Linux와 Git의 창시자인 <span style="color: #8D4801">**Linus Torvalds가 말하길 Linux의 이름을 내 이름과 똑같다는 이유로 정했듯이 Git의 명칭 또한 "모든 프로젝트에 자신의 이름을 명명하는 이기주의자"라는 의미로 사용했다고 한다.**</span> 여기서 Git은 본래 영국에서 사용되는 속어로 "고집이 센 사람", "이기적인 사람" 등의 부정적인 의미를 가진 단어이다.
 
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-19-An-introduction-to-the-principles-of-Git/statistics-what-is-the-hardest-thing-for-developer.jpg" alt="The statistics what is the hardest thing for developer">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-19-An-introduction-to-the-principles-of-Git/statistics-what-is-the-hardest-thing-for-developer.jpg" alt="프로그래머가 가장 힘들어하는 일의 원형 그래프">
 </div>
 <br>
 세계적인 개발자도 이름 짓기의 어려움에선 예외가 없었나 보다...
@@ -29,7 +29,7 @@ description: Git에 입문하기 전에 기본적인 Git의 어원과 정의 그
 그럼, 개인적인 궁금증은 해결되었고 그래서 Git은 무엇일까? <span style="color: #8D4801">**Git은 대표적인 분산형 버전관리 시스템이다.**</span> 그렇다면 버전관리란 대체 무엇일까? 사실 데스크톱이든 태블릿이든 가정마다 컴퓨터 하나씩은 대부분 갖고 있는 지금 세대의 우리는 이미 버전관리를 경험해 봤을 가능성이 높다. 
 
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-19-An-introduction-to-the-principles-of-Git/version-management-example.jpg" alt="Version management example">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-19-An-introduction-to-the-principles-of-Git/version-management-example.jpg" alt="버전 관리의 예시">
 </div>
 <br>
 가령 대학 시절 팀 발표 과제를 받았을 때 누군가가 발표 자료를 수정할 때마다 수정 이전의 발표 자료와 구분하기 위해 파일명을 다르게 저장했던 행위도 버전관리의 일종이다. 하지만 위의 사진과 같이 파일이름을 정하는 사람도 저장되는 시각도 모두 제각각이다 보니 어떤 파일이 진짜 최종적으로 모든 History를 포함하고 있는 파일인지 구분하기가 무척 어렵다. 이때 사용하는 것이 바로 버전관리 시스템이다. 파일 버전을 좀 더 편리하고 정확하게 관리할 수 있게 도와주는 소프트웨어를 뜻한다. 그럼, 분산형 버전관리는 무엇을 뜻할까? 그리고 다른 버전관리와 어떤 차이점이 있을까? 

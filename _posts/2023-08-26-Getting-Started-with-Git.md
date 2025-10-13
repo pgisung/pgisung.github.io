@@ -38,10 +38,10 @@ description: Windows / Mac 환경에서 Git 설치 및 환경설정을 해보자
 일단 Git을 시작하기 위해 설치해 보자.
 ### 설치 파일 다운로드
 1. 먼저 Git 공식 웹사이트([https://git-scm.com][git-official-website-link])에 접속한다.
-<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-official-website-1.jpg" alt="Git official website" width="60%">
+<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-official-website-1.jpg" alt="Git 공식 웹사이트" width="60%">
 
 2. 다운로드 페이지에서 Windows 용 설치파일을 다운받는다.
-<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-official-website-2.png" alt="Download page in Git official website" width="60%">
+<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-official-website-2.png" alt="Git 공식 웹사이트의 다운로드 페이지" width="60%">
 
 <br>
 
@@ -49,67 +49,67 @@ description: Windows / Mac 환경에서 Git 설치 및 환경설정을 해보자
 다음으로 다운받은 설치파일을 실행하여 설치를 진행한다. 아래는 간단한 설명을 붙인 설치 과정이다.
 
 1. GNU 오픈 소스 라이선스 관련 약관이다. 동의한다면 Next를 누르고 진행한다.
-<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-setup-1.png" alt="GNU Open Source License Terms and Conditions while installing Git for Windows">
+<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-setup-1.png" alt="Windows 환경에서 Git 설치 중 GNU 오픈 소스 라이선스 관련 약관">
 
 1. Git이 설치될 경로이다. 원하는 경로가 따로 있다면 이곳에서 변경하면 된다. 보통은 default 경로로 진행한다.
-<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-setup-2.png" alt="Select destination location while installing Git for Windows">
+<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-setup-2.png" alt="Windows 환경에서 Git 설치 중 설치될 경로">
 
 1. 이미 Git의 다양한 컴포넌트에 익숙하신 분들은 필요한 컴포넌트를 추가로 설치할 수 있다. 하지만 초심자는 그대로 Next를 누르고 진행한다.
-<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-setup-3.png" alt="Select components while installing Git for Windows">
+<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-setup-3.png" alt="Windows 환경에서 Git 설치 중 컴포넌트 선택 화면">
 
 1. Git 프로그램에 대한 시작메뉴 폴더명을 다르게 지정할 수 있으나 그대로 진행하는 것을 추천한다.
-<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-setup-4.png" alt="Select start menu folder while installing Git for Windows">
+<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-setup-4.png" alt="Windows 환경에서 Git 설치 중 시작메뉴 폴더명 지정 화면">
 
 1. Git에서 텍스트를 이용한 작업이 필요할 때 사용할 편집기를 지정한다. 다른 외부 편집기를 사용하고 싶다면 직접 지정하고 아니면 기본값으로 두고 진행한다.
-<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-setup-5.png" alt="Choosing the default editor used by Git while installing Git for Windows">
+<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-setup-5.png" alt="Windows 환경에서 Git 설치 중 Git을 사용할 편집기 지정 화면">
 
 1. <span style="color: #8D4801" id="git-setup-6">**새로운 워킹 디렉토리에 Git을 초기화할 때 default branch의 name을 Git에서 기본값으로 지정하는 명칭으로 할지 Custom할지 정하는 곳이다.**</span> 오래전 버전에선 해당 옵션이 존재하지 않아서 branch명이 자동으로 기본값으로 지정되던 시기가 있었는데, Git을 잘 모르던 시절에 인터넷 검색에 기대어 사용할 때 원격 저장소의 브랜치명은 master로 되어있는데 main 브랜치에 push를 해서 동작이 안 되고 뭐가 문젠지 모르는 우스운 실수가 나왔었다. (지금은 웃지만... 당시엔 해결을 못해서 엄청난 스트레스였다...) 아무튼 어느 옵션을 선택하든 Git 명령어를 사용할 때 브랜치를 잘 확인하고 사용하자.
-<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-setup-6.png" alt="Adjusting the name of the initial branch in new repositories while installing Git for Windows">
+<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-setup-6.png" alt="Windows 환경에서 Git 설치 중 Git을 사용할 편집기 지정 화면 기본 브랜치 이름 설정 화면">
 
 1. Git bash 명령어를 실행할 수 있는 경로를 설정하는 화면으로 일반적으로 기본값으로 두고 진행하면 된다. 
-<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-setup-7.png" alt="Adjusting user's PATH environment while installing Git for Windows">
+<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-setup-7.png" alt="Windows 환경에서 Git 설치 중 Git bash 명령어 실행 가능 범위 설정 화면">
 <br>
 - <span style="color: #8D4801">**Use Git from Git Bash only**</span>: 오직 Git bash로만 Git을 사용할 수 있다.
 - <span style="color: #8D4801">**Git from the command line and also from 3rd-party software**</span>: 기본값으로써 Git bash뿐만 아니라 Windows cmd 창에서도 git 명령어를 사용할 수 있다.
 - <span style="color: #8D4801">**Use Git and optional Unix tools from the Command Prompt**</span>: Windows cmd 창에서도 유닉스 도구 명령어를 사용할 수 있다.
 
 1. OpenSSH 패키지를 설치 유무를 선택할 수 있다. 기본값으로 두고 진행한다.
-<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-setup-8.png" alt="Choosing the SSH executable while installing Git for Windows">
+<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-setup-8.png" alt="Windows 환경에서 Git 설치 중 OpenSSH 패키지 설치 유무 선택 화면">
 
 1. 서버 간 코드 이력 전송에 관련된 옵션이다. 기본값으로 두고 진행한다.
-<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-setup-9.png" alt="Choosing HTTPS transport backend while installing Git for Windows">
+<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-setup-9.png" alt="Windows 환경에서 Git 설치 중 서버 간 코드 이력 전송 방식 선택 화면">
 
 1. 엔딩 라인 처리방식 옵션이다. 기본값으로 두고 진행한다.
-<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-setup-10.png" alt="Configuring the line ending conversions while installing Git for Windows">
+<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-setup-10.png" alt="Windows 환경에서 Git 설치 중 엔딩 라인 처리방식 선택 화면">
 
 1. 터미널 에뮬레이터 선택 옵션이다. 기본값으로 두고 진행한다.
-<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-setup-11.png" alt="Configuring the terminal emulator to use with Git Bash while installing Git for Windows">
+<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-setup-11.png" alt="Windows 환경에서 Git 설치 중 터미널 에뮬레이터 선택 화면">
 
 1. <span id="git-setup-12"></span>pull 명령어가 성공적으로 실행될 수도 있지만 이력 간 충돌로 인해 오류가 생길 수 있다. 이 상황에 대한 동작을 선택할 수 있다.
-<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-setup-12.png" alt="Choose the default behavior of 'git pull' while installing Git for Windows">
+<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-setup-12.png" alt="Windows 환경에서 Git 설치 중 충돌로 인한 오류 상황에 대한 동작 선택 화면">
 <br>
 - <span style="color: #8D4801">**Fast-forward or merge**</span>: 브랜치가 생성된 커밋에 따라 순차적으로 분기하는 Fast-forward 방식으로 먼저 병합을 진행하고 동작이 불가능할 경우엔 수동 merge 진행
 - <span style="color: #8D4801">**Rebase**</span>: 공통 조상 커밋인 base 커밋을 이동시키고 각 커밋들을 순차적으로 줄 세우고 동작이 불가능할 경우엔 실패할 수 있음
 - <span style="color: #8D4801">**Only ever fast-forward**</span>: 브랜치가 생성된 커밋에 따라 순차적으로 분기하는 Fast-forward 방식으로 무조건 병합을 진행. 동작이 불가능할 경우엔 실패할 수 있음
 
-1. Git 사용 중 자격증명 관리자 추가 여부 기본값으로 두고 진행한다.
-<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-setup-13.png" alt="Choose a credential helper while installing Git for Windows">
+1. Git 사용 중 자격 증명 관리자 추가 여부 기본값으로 두고 진행한다.
+<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-setup-13.png" alt="Windows 환경에서 Git 설치 중 자격 증명 관리자 추가 여부 선택 화면">
 
 1. 파일시스템 캐싱, symbolic link 사용 유무이다. 잘 모른다면 기본값으로 두고 진행한다.
-<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-setup-14.png" alt="Configuring extra options while installing Git for Windows">
+<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-setup-14.png" alt="Windows 환경에서 Git 설치 중 파일시스템 캐싱, symbolic link 사용 유무 선택 화면">
 
 1. 추가옵션들로써 잘 모른다면 기본값으로 두고 진행한다.
-<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-setup-15.png" alt="Configuring experimental options while installing Git for Windows">
+<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-setup-15.png" alt="Windows 환경에서 Git 설치 중 추가 옵션 선택 화면">
 
 1. 드디어 Git 설치 완료
-<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-setup-completed.png" alt="The scene when Git installing completed for Windows">
+<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-setup-completed.png" alt="Windows 환경에서 Git 설치 완료 화면">
 
 <br>
 
 ### 설치 확인
 정상적으로 설치가 완료되었는지 확인을 해보자. 시작메뉴에 Git Bash를 포함한 프로그램들이 설치되었음을 확인할 수 있다. 이제 Git을 시작할 준비가 되었다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/checking-successful-install.jpg" alt="Files about Git">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/checking-successful-install.jpg" alt="설치 완료된 Git 관련 파일들">
 </div>
 
 ---
@@ -120,19 +120,19 @@ description: Windows / Mac 환경에서 Git 설치 및 환경설정을 해보자
 이미 Homebrew가 설치되어 있다면 이 과정을 생략한다.
 
 - 먼저 MacOs용 패키지 관리 앱 Homebrew 공식 웹사이트([https://brew.sh][homebrew-official-website-link])에 접속하면 확인할 수 있는 설치 명령어를 버튼을 눌러 복사한다.
-<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/homebrew-official-website.jpg" alt="Homebrew official website">
+<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/homebrew-official-website.jpg" alt="Homebrew 공식 웹사이트">
 
 - 터미널 또는 iTerm2를 실행하고 복사한 명령어를 붙여넣기해서 실행하면 설치가 진행된다. (추가로 노트북 계정 비밀번호 입력이 필요할 수 있다.)
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
-<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/terminal-command-to-install-homebrew.jpg" alt="Terminal command to install Homebrew">
+<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/terminal-command-to-install-homebrew.jpg" alt="Homebrew를 설치하기 위한 터미널 명령어">
 
 - 아래의 명령어를 실행하여 Homebrew가 정상적으로 설치되었는지 확인할 수 있다.
 ```bash
 brew --version
 ```
-<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/brew-command-version.jpg" alt="Homebrew command to check the version of itself">
+<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/brew-command-version.jpg" alt="Homebrew 버전 확인 명령어">
 
 <br>
 
@@ -143,13 +143,13 @@ MacOs에서의 Git 설치는 Windows와 비교했을 때 매우 간단하다.
 ```bash
 brew install git
 ```
-<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/brew-command-install-git.jpg" alt="Homebrew command to install Git">
+<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/brew-command-install-git.jpg" alt="Git을 설치하는 Homebrew 명령어">
 
 - 아래의 명령어를 실행하여 Git이 정상적으로 설치되었는지 확인할 수 있다. 이 명령어는 설치된 Git의 버전 정보를 출력해 준다.
 ```bash
 git --version
 ```
-<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-command-version.jpg" alt="Git command to check the version of itself">
+<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-command-version.jpg" alt="Git 버전 확인 명령어">
 
 ---
 
@@ -166,7 +166,7 @@ git <명령어> <옵션>
 ```bash
 git --help
 ```
-<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-command-help.jpg" alt="Git command to check the significant commands in itself">
+<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-command-help.jpg" alt="Git 도움말 명령어">
 
 - 또한 명령어 사용 시 <span style="color: #8D4801">**세미콜론(;)**</span>을 이용하여 여러 개의 명령어를 한 줄에 사용이 가능하다.
 ```bash
@@ -187,7 +187,7 @@ git <명령어> --help
 git <명령어> --help-option
 ```
 - 다음은 add 명령어의 옵션을 확인한 예시이다.
-<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-command-add-help-option.jpg" alt="Git command to check the options of add command">
+<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-command-add-help-option.jpg" alt="Git의 add 명령어에 대한 도움말">
 
 ---
 
@@ -205,10 +205,10 @@ git config <환경변수> <"설정값">
   - .git 폴더는 <span style="color: #8D4801">**git init**</span> 명령어를 통해 실행 당시 경로 안에 만들어진다. <span style="color: #8D4801">**즉, config 파일에 설정한 설정값은 지역적으로 해당 경로 안 저장소에서만 적용된다.**</span>
 
     1. .git 디렉토리의 위치
-<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/location-of-local-git-directory.jpg" alt="Location of local git directory" width="70%">
+<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/location-of-local-git-directory.jpg" alt=".git 디렉토리의 위치" width="70%">
 
     1. config 파일의 위치
-<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/location-of-local-git-config-file.jpg" alt="Location of local git config file" width="70%">
+<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/location-of-local-git-config-file.jpg" alt="config 파일의 위치" width="70%">
 
 <br>
 
@@ -218,13 +218,13 @@ git config <환경변수> <"설정값">
 git config --add <새로운 환경변수> <"설정값">
 ```
 - 환경변수가 잘 추가되었는지 확인하기 위해서 추가하기 전에 설정값 목록을 먼저 확인해 보았다.
-<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-command-config-list-before-add.jpg" alt="The list of values of git config file">
+<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-command-config-list-before-add.jpg" alt="환경변수 목록">
 
 - 명령어를 add 옵션과 함께 실행한다.
-<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-command-config-add.jpg" alt="Git command to add variable and value into config file">
+<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-command-config-add.jpg" alt="환경변수를 추가하는 Git 명령어">
 
 - 새로운 변수와 값이 잘 추가되었음을 확인할 수 있다.
-<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-command-config-list-after-add.jpg" alt="The list of values of git config file">
+<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-command-config-list-after-add.jpg" alt="새로운 환경변수가 추가된 목록">
 
 <br>
 
@@ -234,7 +234,7 @@ git config --add <새로운 환경변수> <"설정값">
 git config --unset <환경변수>
 ```
 - 위의 실습에서 추가한 변수를 삭제해 보자.
-<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-command-config-unset.jpg" alt="Git command to remove variable and value into config file">
+<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-command-config-unset.jpg" alt="환경변수를 삭제하는 Git 명령어">
 
 <br>
 
@@ -244,7 +244,7 @@ git config --unset <환경변수>
 git config --list
 ```
 - 위에서 삭제한 변수가 잘 삭제되었는지 확인해 보자.
-<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-command-config-list-after-unset.jpg" alt="The list of values of git config file">
+<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-command-config-list-after-unset.jpg" alt="위에서 환경변수가 삭제된 목록">
 
 <br>
 
@@ -254,7 +254,7 @@ git config --global <환경변수> <"설정값">
 ```
 - <span style="color: #8D4801">**모든 git 작업영역에 대한 환경설정**</span>을 할 수 있는 명령어이다.
 - 이 명령어는 <span style="color: #8D4801">**최상위 User 폴더 안 .gitconfig 파일에 값을 저장**</span>한다.
-<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/location-of-global-git-config-file.jpg" alt="Location of global git config file">
+<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/location-of-global-git-config-file.jpg" alt="전역 config 파일의 위치">
 
 <br>
 
@@ -278,7 +278,7 @@ git config --global user.email <"사용자 이메일">
 git config --global commit.template <템플릿 파일 경로>
 ```
 - 커밋메시지 템플릿을 변경하는 명령어이다. 커밋메시지 템플릿이란 git commit 명령어 실행 시 <span style="color: #8D4801">**커밋메시지 작성 화면에 특정 양식을 작성**</span>해둔 파일이다.
-<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-commit-template.jpg" alt="Git commit template">
+<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2023-08-26-Starting-Git/git-commit-template.jpg" alt="커밋메시지 템플릿을 변경하는 명령어">
 
 <br>
 

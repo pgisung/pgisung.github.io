@@ -32,32 +32,32 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 ## 비엔티안 시내 탐방기
 <span style="color: indianred">**라오스 여행 2일 차 아침**</span>이 밝았다. 전일엔 사실상 늦은 밤에 도착해서 실감하기 어려웠던 고즈넉한 라오스의 풍경을 보며 <span style="color: #8D4801">**여행 일정 이야기**</span>를 나눴다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/morning-talking-time.jpg" alt="Blogger and friend talking about trip for today">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/morning-talking-time.jpg" alt="대화하는 중인 블로거와 친구">
 </div>
 <br>
 
 루앙 프라방으로 향하는 <span style="color: #8D4801">**기차를 오후에 예약**</span>해 뒀기 때문에 <span style="color: indianred">**오전 안에 비엔티안을 구경**</span>해야 했는데 금강산도 식후경이라고 <span style="color: #8D4801">**아침을 먹기 위해**</span> 일단 숙소를 나섰다. 걷기 시작한 지 얼마 안 되어서 발견한 분수대
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-group-photo-in-nam-phou-park.jpg" alt="The group photo in Nam Phou park">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-group-photo-in-nam-phou-park.jpg" alt="Nam Phou 공원에서 친구들과의 단체 사진">
 </div>
 <br>
 
 벌써 저 멀리 어렴풋이 보이는 빠뚜사이 독립기념문. 어차피 식사 후 방문할 예정이었다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/vientiane-street.jpg" alt="Vientiane street">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/vientiane-street.jpg" alt="저 멀리 빠뚜사이 독립기념문이 어렴풋이 보이는 비엔티안의 거리">
 </div>
 <br>
 
 아침을 먹기 위해 이동 중인 우리들. 동남아에만 왔다 하면 아무렇지 않게 하게 되는 <span style="color: indianred">**무단횡단**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/on-the-way-for-breakfast.jpg" alt="On the way for breakfast">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/on-the-way-for-breakfast.jpg" alt="아침을 먹기 위해 이동 중인 블로거와 친구의 모습">
 </div>
 <br>
 
 ### 딸랏싸오 아침 시장
 누군가가 <span style="color: indianred">**라오스에 방문하면 반드시 먹어봐야 할 과일**</span>이라고 강력히 추천하신 <span style="color: #8D4801">**과일 렁껑**</span>. 실제로 <span style="color: indianred">**열매가 매우 달콤**</span>했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/longkong-fruit.jpg" alt="Longkong fruit">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/longkong-fruit.jpg" alt="과일 렁껑">
 </div>
 <br>
 
@@ -67,20 +67,20 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 라오스인들 소울푸드 쫄깃한 면발에 닭 육수, 볶음 마늘이 들어간 <span style="color: #8D4801">**카오 삐약 센(왼쪽)**</span>과 된장 베이스에 고기고명이 올라간 <span style="color: indianred">**카오 쏘이(오른쪽)**</span>. 필자는 첫 날부터 카오 삐약 센의 맛에 푹 빠져서 라오스 여행 내내 삐약 센 노래를 불렀더랬다.
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/khao-piak-sen.jpg" alt="Khao Piak Sen"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/khao-soi.jpg" alt="Khao Soi"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/khao-piak-sen.jpg" alt="카오 삐약 센"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/khao-soi.jpg" alt="카오 쏘이"> |
 
 <br>
 
 누가 누가 <span style="color: #8D4801">**셀카를 더 잘**</span> 찍을까요?
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-group-photo-in-talat-sao-morning-market-1.jpg" alt="The group photo in Talat Sao morning market"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-group-photo-in-talat-sao-morning-market-2.jpg" alt="The group photo in Talat Sao morning market"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-group-photo-in-talat-sao-morning-market-1.jpg" alt="딸랏싸오 아침 시장에서 아침을 먹던 중 친구들과의 단체 사진"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-group-photo-in-talat-sao-morning-market-2.jpg" alt="딸랏싸오 아침 시장에서 아침을 먹던 중 친구들과의 단체 사진"> |
 
 <br>
 
 시장에서 판매하던 도넛 그냥 보이는 그대로 <span style="color: #8D4801">**고소한 깨와 도넛의 맛**</span>이었다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/donut-from-the-market.jpg" alt="Donut from the market">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/donut-from-the-market.jpg" alt="딸랏싸오 아침 시장에서 구매한 도넛">
 </div>
 <br>
 
@@ -88,7 +88,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 라오스 여행의 묘미 중 하나는 <span style="color: #8D4801">**3인 3색 서로 다른 사진 촬영 자세**</span>였다.
 
 |:---:|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend1-at-the-entrance-of-wat-si-saket.jpg" alt="Friend at the entrance of Wat Si Saket"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/blogger-at-the-entrance-of-wat-si-saket.jpg" alt="Blogger at the entrance of Wat Si Saket"> |  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend2-at-the-entrance-of-wat-si-saket.jpg" alt="Friend at the entrance of Wat Si Saket"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend1-at-the-entrance-of-wat-si-saket.jpg" alt="씨 사켓 사원 입구에서 친구"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/blogger-at-the-entrance-of-wat-si-saket.jpg" alt="씨 사켓 사원 입구에서 블로거"> |  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend2-at-the-entrance-of-wat-si-saket.jpg" alt="씨 사켓 사원 입구에서 친구"> |
 
 <br>
 
@@ -97,39 +97,39 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 
 씨 사켓 사원은 시암(태국) 침공 때도 파괴되지 않고 남았을 정도로 <span style="color: indianred">**비엔티안에서 가장 오래된 사원**</span>이다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/golden-buddha.jpg" alt="Golden Buddha">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/golden-buddha.jpg" alt="씨 사켓 사원의 황금 불상">
 </div>
 <br>
 
 이 사원의 관람 포인트는 <span style="color: #8D4801">**사원 벽면에 빼곡히 채워져 있는 6천 개 이상의 작은 불상들**</span>이다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/many-buddha-statues-1.jpg" alt="Many Buddha statues">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/many-buddha-statues-1.jpg" alt="씨 사켓 사원의 많은 불상들">
 </div>
 <br>
 
 <span style="color: indianred">**아침 일찍 방문**</span>해서 그런지 방문객이 그렇게 많지 않아서 한적하게 사진을 찍으며 즐길 수 있었다.
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend1-in-many-buddha-statues.jpg" alt="Friend in many buddha statues"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/blogger-in-many-buddha-statues.jpg" alt="Blogger in many buddha statues"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend1-in-many-buddha-statues.jpg" alt="많은 불상들과 친구"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/blogger-in-many-buddha-statues.jpg" alt="많은 불상들과 블로거"> |
 
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend2-in-many-buddha-statues.jpg" alt="Friend in many buddha statues">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend2-in-many-buddha-statues.jpg" alt="많은 불상들과 친구">
 </div>
 <br>
 
 불상들의 재료는 각각 천차만별로 <span style="color: #8D4801">**목재, 석재, 청동 등 여러 가지**</span>로 만들어져 있다고 한다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/many-buddha-statues-2.jpg" alt="Many Buddha statues">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/many-buddha-statues-2.jpg" alt="씨 사켓 사원의 많은 불상들">
 </div>
 <br>
 
 사원의 크기는 사실 그렇게 크지 않아서 <span style="color: indianred">**한 바퀴 도는 데 그렇게 오랜 시간이 걸리지 않았다**</span>. 떠나기 전에 메인인 사원 건물과 사진을 찍고 이동했다. 
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend1-in-the-wat-si-saket.jpg" alt="Friend in the Wat Si Saket"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/blogger-in-the-wat-si-saket.jpg" alt="Blogger in the Wat Si Saket"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend1-in-the-wat-si-saket.jpg" alt="씨 사켓 사원과 친구"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/blogger-in-the-wat-si-saket.jpg" alt="씨 사켓 사원과 블로거"> |
 
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend2-in-the-wat-si-saket.jpg" alt="Friend in the Wat Si Saket">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend2-in-the-wat-si-saket.jpg" alt="씨 사켓 사원과 친구">
 </div>
 <br>
 
@@ -138,7 +138,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 
 기사님은 여성분이셨는데 <span style="color: indianred">**우리가 방문하고 싶은 목적지를 다 들린 다음에 기차역까지 픽업**</span>해 주시는 데에 대한 가격을 흥정했고 흔쾌히 승낙하셔서 제일 가까운 빠뚜사이 독립기념문부터 방문했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/on-the-way-to-patuxai-victory-monument.webp" alt="On the way to Patuxai Victory monument">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/on-the-way-to-patuxai-victory-monument.webp" alt="빠뚜사이 독립기념문으로 가는 길">
 </div>
 <br>
 
@@ -147,52 +147,52 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 
 빠뚜사이는 <span style="color: indianred">**라오어로 승리의 문**</span>을 뜻하며 라오스가 <span style="color: #8D4801">**프랑스로부터 독립한 것을 기념**</span>하기 위해 세웠다고 한다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/patuxai-victory-monument.jpg" alt="Patuxai Victory monument">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/patuxai-victory-monument.jpg" alt="빠뚜사이 독립기념문">
 </div>
 <br>
 
 그냥 독립기념문 옆에 있어서 찍혔는데 <span style="color: #8D4801">**라오스 정부 청사**</span>라고 한다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/prime-minister-office.jpg" alt="Prime Minister office">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/prime-minister-office.jpg" alt="라오스 정부 청사">
 </div>
 <br>
 
 이번 여행에서 좋았던 건 우리가 대부분의 장소에서 <span style="color: indianred">**단체샷**</span>을 놓치지 않았다는 것
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-group-photo-in-patuxai-victory-monument.jpg" alt="The group photo in Patuxai Victory monument">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-group-photo-in-patuxai-victory-monument.jpg" alt="빠뚜사이 독립기념문에서 친구들과의 단체 사진">
 </div>
 <br>
 
 에... 자세들이 참 다양합니다.
 
 |:---:|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend1-in-patuxai-victory-monument-1.jpg" alt="Friend in Patuxai Victory monument"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/blogger-in-patuxai-victory-monument.jpg" alt="Blogger in Patuxai Victory monument"> |  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend2-in-patuxai-victory-monument.jpg" alt="Friend in Patuxai Victory monument"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend1-in-patuxai-victory-monument-1.jpg" alt="빠뚜사이 독립기념문에서 친구"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/blogger-in-patuxai-victory-monument.jpg" alt="빠뚜사이 독립기념문에서 블로거"> |  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend2-in-patuxai-victory-monument.jpg" alt="빠뚜사이 독립기념문에서 친구"> |
 
 <br>
 
 <span style="color: #8D4801">**겉모습은 프랑스의 개선문**</span>을 닮았으나 <span style="color: indianred">**세부적인 디자인은 라오스 전통 문양과 불교 문양**</span>으로 이루어져 있다.
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/ceiling-of-the-patuxai-victory-monument-1.jpg" alt="Ceiling of the Patuxai Victory monument"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/ceiling-of-the-patuxai-victory-monument-2.jpg" alt="Ceiling of the Patuxai Victory monument"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/ceiling-of-the-patuxai-victory-monument-1.jpg" alt="빠뚜사이 독립기념문의 천장"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/ceiling-of-the-patuxai-victory-monument-2.jpg" alt="빠뚜사이 독립기념문의 천장"> |
 
 <br>
 
 건물 내부에는 비싸지 않은 가격에 <span style="color: #8D4801">**오를 수 있는 전망대**</span>가 있었으나 우리는 <span style="color: indianred">**기차 일정**</span>상 너무 오래 체류할 수 없어서 올라가지 않았다. 이곳은 <span style="color: #8D4801">**원래 밤에 야경이 더 아름다운 곳**</span>으로, 한국으로 돌아가는 날에 공항 가기 전에 들리려고 했었는데 <span style="color: indianred">**다른 일정들로 인해 야경은 못 보고**</span> 돌아왔다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend1-in-patuxai-victory-monument-2.jpg" alt="Friend in Patuxai Victory monument">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend1-in-patuxai-victory-monument-2.jpg" alt="빠뚜사이 독립기념문에서 친구">
 </div>
 <br>
 
 ### 탓 루앙 황금사원
 독립기념문을 떠나 황금사원을 향하는 길. 도로 끝에 서서히 사원이 보이기 시작했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/on-the-way-to-pha-that-luang.webp" alt="On the way to Pha That Luang">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/on-the-way-to-pha-that-luang.webp" alt="탓 루앙 황금사원으로 가는 길">
 </div>
 <br>
 
 매표소에서 <span style="color: indianred">**표를 구매**</span>하고 입구로 출발!
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-tickets-for-pha-that-luang.jpg" alt="The tickets for Pha That Luang">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-tickets-for-pha-that-luang.jpg" alt="탓 루앙 황금사원 입장권들">
 </div>
 <br>
 
@@ -201,79 +201,79 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 
 황금사원은 입구 문양부터 매우 화려했다. <span style="color: #8D4801">**사원의 정식 명칭은 파 탓 루앙(Pha That Luang)으로 위대한 불탑이라는 뜻**</span>이라고 한다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-entrance-of-pha-that-luang.jpg" alt="The entrance of Pha That Luang">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-entrance-of-pha-that-luang.jpg" alt="탓 루앙 황금사원의 입구">
 </div>
 <br>
 
 가까이 다가가서 보면 사원의 <span style="color: indianred">**칠이나 재질이 상태가 그리 좋아 보이진 않았는데**</span> 현재 형태는 <span style="color: #8D4801">**1566년에 재건된 모습**</span>이라고 하니 조금 이해가 되는듯했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/pha-that-luang.jpg" alt="Pha That Luang">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/pha-that-luang.jpg" alt="탓 루앙 황금사원">
 </div>
 <br>
 
 시작된 촬영 시간. <span style="color: #8D4801">**사원은 라오스의 국장과 지폐에도 등장**</span>할 정도로 <span style="color: indianred">**라오스의 자부심이자 국가적 상징물**</span>이라고 하니 더더욱 열심히 사진을 남겼다.
 
 |:---:|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend1-in-pha-that-luang-1.jpg" alt="Friend in Pha That Luang"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/blogger-in-pha-that-luang-1.jpg" alt="Blogger in Pha That Luang"> |  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend2-in-pha-that-luang-1.jpg" alt="Friend in Pha That Luang"> |
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend1-in-pha-that-luang-2.jpg" alt="Friend in Pha That Luang"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/blogger-in-pha-that-luang-2.jpg" alt="Blogger in Pha That Luang"> |  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend2-in-pha-that-luang-2.jpg" alt="Friend in Pha That Luang"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend1-in-pha-that-luang-1.jpg" alt="탓 루앙 황금사원과 친구"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/blogger-in-pha-that-luang-1.jpg" alt="탓 루앙 황금사원과 블로거"> |  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend2-in-pha-that-luang-1.jpg" alt="탓 루앙 황금사원과 친구"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend1-in-pha-that-luang-2.jpg" alt="탓 루앙 황금사원과 친구"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/blogger-in-pha-that-luang-2.jpg" alt="탓 루앙 황금사원과 블로거"> |  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend2-in-pha-that-luang-2.jpg" alt="탓 루앙 황금사원과 친구"> |
 
 <br>
 
 사원에서 <span style="color: #8D4801">**종을 쓰다듬는 행위**</span>는 <span style="color: indianred">**공덕을 쌓고, 소원을 빌거나 복을 기원하는 행위**</span>라고 하여서 우리도 한 번씩 해보았다.
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/blogger-rubbing-the-temple-bell-for-good-luck.webp" alt="Blogger rubbing the temple bell for good luck"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend2-rubbing-the-temple-bell-for-good-luck.webp" alt="Friend rubbing the temple bell for good luck"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/blogger-rubbing-the-temple-bell-for-good-luck.webp" alt="사원에서 복을 기원하며 종을 쓰다듬는 블로거"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend2-rubbing-the-temple-bell-for-good-luck.webp" alt="사원에서 복을 기원하며 종을 쓰다듬는 친구"> |
 
 <br>
 
 씨 사켓 사원만큼은 아니었지만, 이곳에도 벽을 따라 많은 불상이 세워져 있었다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/many-buddha-statues-3.jpg" alt="Many Buddha statues">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/many-buddha-statues-3.jpg" alt="탓 루앙 황금사원의 많은 불상들">
 </div>
 <br>
 
 어떤 위업을 세우셨는지는 모르겠지만 앉아 있는 동상은 <span style="color: #8D4801">**셋타티라스 왕의 동상**</span>이라고 한다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/king-setthathirath-statue.jpg" alt="King Setthathirath statue">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/king-setthathirath-statue.jpg" alt="셋타티라스 왕의 동상">
 </div>
 <br>
 
 <span style="color: indianred">**탓 루앙 네우아 사원**</span>이라고 황금사원 북쪽에 자리 잡고 있던 <span style="color: #8D4801">**사원 앞에 깃발이 멋져서**</span> 사진을 찍은 우리들
 
 |:---:|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend1-in-wat-that-luang-neua.jpg" alt="Friend in Wat That Luang Neua"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/blogger-in-wat-that-luang-neua.jpg" alt="Blogger in Wat That Luang Neua"> |  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend2-in-wat-that-luang-neua.jpg" alt="Friend in Wat That Luang Neua"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend1-in-wat-that-luang-neua.jpg" alt="탓 루앙 네우아 사원에서 친구"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/blogger-in-wat-that-luang-neua.jpg" alt="탓 루앙 네우아 사원에서 블로거"> |  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend2-in-wat-that-luang-neua.jpg" alt="탓 루앙 네우아 사원에서 친구"> |
 
 <br>
 
 어떤 의미인지는 모르겠지만 사원 앞에서 이렇게 <span style="color: #8D4801">**가짜 돈**</span>을 판매하셨다.
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/fake-money-on-a-horse-model.jpg" alt="Fake money on a horse model"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/fake-money-on-a-elephant-model.jpg" alt="Fake money on a elephant model"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/fake-money-on-a-horse-model.jpg" alt="말 모형 위 가짜 돈들"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/fake-money-on-a-elephant-model.jpg" alt="코끼리 모형 위 가짜 돈들"> |
 
 <br>
 
 황금사원 외곽의 거리에도 <span style="color: indianred">**화려한 불탑**</span>이 많이 보였다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-street-along-pha-that-luang.jpg" alt="The street along Pha That Luang">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-street-along-pha-that-luang.jpg" alt="황금사원 외곽 거리의 화려한 불탑들">
 </div>
 <br>
 
 문자 그대로 <span style="color: #8D4801">**누워있는 부처님상**</span>으로 태국에서도 비슷한 불상을 봤던 기억이 난다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/reclining-buddha.jpg" alt="Reclining Buddha">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/reclining-buddha.jpg" alt="누워있는 부처님상">
 </div>
 <br>
 
 자주 찾아오는 촬영 시간. <span style="color: indianred">**부처님과도 한 컷**</span>
 
 |:---:|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend1-with-reclining-buddha.jpg" alt="Friend with Reclining Buddha"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/blogger-with-reclining-buddha.jpg" alt="Blogger with Reclining Buddha"> |  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend2-with-reclining-buddha.jpg" alt="Friend with Reclining Buddha"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend1-with-reclining-buddha.jpg" alt="누워있는 부처님상과 친구"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/blogger-with-reclining-buddha.jpg" alt="누워있는 부처님상과 블로거"> |  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend2-with-reclining-buddha.jpg" alt="누워있는 부처님상과 친구"> |
 
 <br>
 
 <span style="color: #8D4801">**함께 여행하면 기쁨이 몇 배**</span>인 것 같다. 부처님상을 끝으로 다시 다음 목적지로 이동을 시작했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-group-photo-with-reclining-buddha.jpg" alt="The group photo with Reclining Buddha">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-group-photo-with-reclining-buddha.jpg" alt="누워있는 부처님상과 친구들과의 단체 사진">
 </div>
 <br>
 
@@ -283,7 +283,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 ### 비엔티안 고속철도역
 라오스의 <span style="color: indianred">**최대 철도역**</span>인 <span style="color: #8D4801">**비엔티안 고속철도역**</span>에 도착했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/vientiane-railway-station.jpg" alt="Vientiane railway station">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/vientiane-railway-station.jpg" alt="비엔티안 고속철도역">
 </div>
 <br>
 
@@ -293,7 +293,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 <span style="color: #8D4801">**중국 쿤밍에서부터 연결된 기차역**</span>으로 사실상 중국의 자본이 많이 쓰인 것으로 알고 있다.
 
 |:---:|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend1-in-vientiane-railway-station.jpg" alt="Friend in Vientiane railway station"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/blogger-in-vientiane-railway-station.jpg" alt="Blogger in Vientiane railway station"> |  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend2-in-vientiane-railway-station.jpg" alt="Friend in Vientiane railway station"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend1-in-vientiane-railway-station.jpg" alt="비엔티안 고속철도역에서 친구"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/blogger-in-vientiane-railway-station.jpg" alt="비엔티안 고속철도역에서 블로거"> |  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend2-in-vientiane-railway-station.jpg" alt="비엔티안 고속철도역에서 친구"> |
 
 <br>
 
@@ -303,38 +303,38 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 
 그나저나 친구가 들고 있는 저 <span style="color: #8D4801">**렁껑**</span>이 언제까지 그의 손에 들려있는지 지켜봐 주시길 바란다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/security-check-for-the-train.jpg" alt="Security check for the train">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/security-check-for-the-train.jpg" alt="고속철도역의 보안 검색대">
 </div>
 <br>
 
 보시다시피 <span style="color: indianred">**탑승줄**</span>조차도 매우 길다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/long-queue-for-the-train.jpg" alt="Long queue for the train">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/long-queue-for-the-train.jpg" alt="길었던 고속철도 탑승줄">
 </div>
 <br>
 
-드디어 영접한 <span style="color: #8D4801">**라오스의 고속철도**</span>
+드디어 영접한 <span style="color: #8D4801">**라오스의 고속열차**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-train-coming.jpg" alt="The train coming">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-train-coming.jpg" alt="역에 정차 중인 라오스 고속열차">
 </div>
 <br>
 
 ### 루앙 프라방 고속철도역
 줄어들지 않는 렁껑과 역에서 구매했던 커피
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/longkong-and-coffee.jpg" alt="Longkong and coffee">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/longkong-and-coffee.jpg" alt="렁껑과 역에서 구매했던 커피">
 </div>
 <br>
 
 <span style="color: #8D4801">**루앙 프라방**</span>으로 출발합니다!
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-group-photo-on-the-train.jpg" alt="The group photo on the train">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-group-photo-on-the-train.jpg" alt="열차 안에서 친구들과의 단체 사진">
 </div>
 <br>
 
 직장인은 노는 것도 피곤해요.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/napping-friend.jpg" alt="Napping friend">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/napping-friend.jpg" alt="열차 안에서 선잠을 자는 중인 친구">
 </div>
 <br>
 
@@ -342,7 +342,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 
 캐리어를 끌고 역을 나서는데 <span style="color: indianred">**많은 기사분이 손님들에게 호객**</span>하는 것을 볼 수 있었는데 <span style="color: #8D4801">**먼저 로카 앱을 통해 숙소까지의 대략적인 가격을 측정**</span>하고 말을 걸어오는 기사님 중에 인상이 좋아 보이시는 분께 가격을 흥정했는데 결국에 <span style="color: indianred">**로카 앱보다 싼 가격을 부르셨을 때**</span> 차에 올랐다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/luang-prabang-railway-station.jpg" alt="Luang Prabang railway station">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/luang-prabang-railway-station.jpg" alt="루앙 프라방 고속철도역">
 </div>
 <br>
 
@@ -352,7 +352,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 ### 빌라 부아 통 호텔
 <span style="color: #8D4801">**푸시산에 일몰 시각 전에 올라가지 못할까 봐**</span> 체크인하고 짐을 놓자마자 <span style="color: indianred">**부랴부랴 산을 향하다 보니**</span> 입구 사진만 남아있다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-entrance-of-villa-boua-thong-hotel.jpg" alt="The entrance of Villa Boua Thong hotel">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-entrance-of-villa-boua-thong-hotel.jpg" alt="빌라 부아 통 호텔 입구">
 </div>
 <br>
 
@@ -361,7 +361,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 
 숙소의 방 앞에 존재하던 연못으로 <span style="color: indianred">**모기가 매우 많았다**</span>.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-pond-in-front-of-room.jpg" alt="The pond in front of room">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-pond-in-front-of-room.jpg" alt="숙소의 방 앞에 있던 연못">
 </div>
 <br>
 
@@ -371,7 +371,7 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 ### 푸시산
 <span style="color: #8D4801">**숙소에서 푸시산을 오르는 입구가 크게 멀지가 않아서**</span> 걸어서 도착한 우리. 사진에도 보이다시피 <span style="color: indianred">**중국인 아줌마, 아저씨 관광객들이 참 많았다**</span>.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-entrance-of-phou-si-hill.jpg" alt="The entrance of Phou Si hill">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-entrance-of-phou-si-hill.jpg" alt="많은 중국인들이 보이는 푸시산 입구">
 </div>
 <br>
 
@@ -380,46 +380,46 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 
 올라가기 전 다 같이 한 컷
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-group-photo-at-the-entrance-of-phou-si-hill.jpg" alt="The group photo at the entrance of Phou Si hill">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-group-photo-at-the-entrance-of-phou-si-hill.jpg" alt="푸시산 입구에서 친구들과의 단체 사진">
 </div>
 <br>
 
 계단을 조금 오르니 최근에 <span style="color: indianred">**가격이 1.5배나 인상된 입장권을 구매할 수 있는 매표소**</span>가 있었다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-tickets-for-phou-si-hill.jpg" alt="The tickets for Phou Si hill">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-tickets-for-phou-si-hill.jpg" alt="푸시산 입장권들">
 </div>
 <br>
 
 올라가는 길도 계단으로 잘 되어있어서 사실 <span style="color: #8D4801">**하이킹이라고 부르기도 머쓱할 만큼 뒷동산 오르듯이 올라갔다**</span>.
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/on-the-way-going-up-to-phou-si-hill-1.webp" alt="On the way going up to Phou Si hill"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/on-the-way-going-up-to-phou-si-hill-2.webp" alt="On the way going up to Phou Si hill"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/on-the-way-going-up-to-phou-si-hill-1.webp" alt="푸시산을 올라가고 있는 친구들"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/on-the-way-going-up-to-phou-si-hill-2.webp" alt="푸시산을 올라가고 있는 친구들"> |
 
 <br>
 
 올라왔으니까 또 사진 찍어야지?
 
 |:---:|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend1-on-phou-si-hill-1.jpg" alt="Friend on Phou Si hill"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend1-on-phou-si-hill-2.jpg" alt="Friend on Phou Si hill"> |  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/blogger-on-phou-si-hill.jpg" alt="Blogger on Phou Si hill"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend1-on-phou-si-hill-1.jpg" alt="푸시산에서 친구"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend1-on-phou-si-hill-2.jpg" alt="푸시산에서 친구"> |  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/blogger-on-phou-si-hill.jpg" alt="푸시산에서 블로거"> |
 
 <br>
 
 <span style="color: indianred">**도시 전체가 유네스코 세계문화유산**</span>으로 지정된 루앙 프라방 도시 전경
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/luang-prabang-city-view.jpg" alt="Luang Prabang city view">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/luang-prabang-city-view.jpg" alt="푸시산에서 바라본 루앙 프라방 도시 전경">
 </div>
 <br>
 
 푸시산의 꼭대기에는 <span style="color: #8D4801">**촘시라는 이름의 사원**</span>이 또 존재했었다. 
 
 |:---:|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend1-in-wat-chom-si.jpg" alt="Friend in Wat Chom Si"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend2-in-wat-chom-si.jpg" alt="Blogger in Wat Chom Si"> |  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend2-on-phou-si-hill.jpg" alt="Friend on Phou Si hill"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend1-in-wat-chom-si.jpg" alt="촘시 사원과 친구"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend2-in-wat-chom-si.jpg" alt="촘시 사원과 친구"> |  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend2-on-phou-si-hill.jpg" alt="촘시 사원과 친구"> |
 
 <br>
 
 <span style="color: indianred">**불교 공물용**</span>으로 자주 쓰인다는 <span style="color: orange">**마리골드꽃**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/marigold-flowers.jpg" alt="Marigold flowers">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/marigold-flowers.jpg" alt="마리골드꽃">
 </div>
 <br>
 
@@ -427,26 +427,26 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 
 그래서 우리가 상상했던 것이 <span style="color: #8D4801">**새를 판매하는 새 장수가 고객들에게 새를 판매하고**</span> <span style="color: indianred">**고객들이 푸시산 정상에서 새를 풀어주면**</span> <span style="color: #8D4801">**다시 새 장수가 유혹하든, 교육이 되었든 다시 새장으로 돌아가는 거 아니냐**</span>는 상상을 했었다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/releasing-caged-birds-for-good-luck.webp" alt="Releasing caged birds for good luck">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/releasing-caged-birds-for-good-luck.webp" alt="나무 새장 안에 갇혀있는 새">
 </div>
 <br>
 
 <span style="color: #8D4801">**일몰을 기다리던 우리**</span>. 사실 주변에 앉을만한 좌석이 많이 없어서 <span style="color: indianred">**일몰 명당으로 보이는 좌석을 차지하기 위해서 필자는 올라가자마자 앉아서 대기**</span>했는데, 좌석 앞쪽이 해가 지는 방향이라서 <span style="color: #8D4801">**근처에 중국인 아줌마들이 잔뜩 와서 크게 소리 지르고 떠들며 사진 찍고 난리를 쳐서**</span> 친구 한 명은 짜증이 폭발해서 다른 장소로 대피해 있다가 왔다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/blogger-and-friends-waiting-for-sunset.jpg" alt="Blogger and friends waiting for sunset">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/blogger-and-friends-waiting-for-sunset.jpg" alt="벤치에 앉아 일몰을 기다리는 블로거와 친구">
 </div>
 <br>
 
 지고 있는 해. <span style="color: indianred">**일몰 명소라고 했는데 솔직히 잘 모르겠다**</span>. 중국인 관광객들 사이에서 일몰을 보기 위해 견뎌낸 만큼의 보람은 없었던 것 같다고 생각한다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/sunset-on-phou-si-hill.jpg" alt="Sunset on Phou Si hill">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/sunset-on-phou-si-hill.jpg" alt="푸시산에서 바라본 일몰">
 </div>
 <br>
 
 자 이제 해 떨어졌으니까 <span style="color: #8D4801">**배 채우러 가야지**</span>
 
 |:---:|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/on-the-way-going-down-from-phou-si-hill-1.webp" alt="On the way going down from Phou Si hill"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/on-the-way-going-down-from-phou-si-hill-2.webp" alt="On the way going down from Phou Si hill"> |  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/on-the-way-going-down-from-phou-si-hill-3.webp" alt="On the way going down from Phou Si hill"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/on-the-way-going-down-from-phou-si-hill-1.webp" alt="푸시산을 내려가고 있는 친구들"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/on-the-way-going-down-from-phou-si-hill-2.webp" alt="푸시산을 내려가고 있는 친구들"> |  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/on-the-way-going-down-from-phou-si-hill-3.webp" alt="푸시산을 내려가고 있는 친구들"> |
 
 <br>
 
@@ -454,8 +454,8 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 <span style="color: #8D4801">**루앙 프라방 최대의 야시장**</span>인 몽족 야시장. 실제로 야시장의 영문명은 루앙 프라방 야시장인데 <span style="color: indianred">**몽족 야시장**</span>이라는 표현이 존재하는 이유는 <span style="color: #8D4801">**소수민족인 몽(Hmong)족 상인들이 운영하는 야시장**</span>이라서 그런 이름이 붙여졌다고 한다.
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/luang-prabang-night-market-1.jpg" alt="Luang Prabang night market"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/luang-prabang-night-market-2.jpg" alt="Luang Prabang night market"> |
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/luang-prabang-night-market-3.jpg" alt="Luang Prabang night market"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/luang-prabang-night-market-4.jpg" alt="Luang Prabang night market"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/luang-prabang-night-market-1.jpg" alt="루앙 프라방 야시장"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/luang-prabang-night-market-2.jpg" alt="루앙 프라방 야시장"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/luang-prabang-night-market-3.jpg" alt="루앙 프라방 야시장"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/luang-prabang-night-market-4.jpg" alt="루앙 프라방 야시장"> |
 
 <br>
 
@@ -464,21 +464,21 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 
 쇼핑 좋아하시는 두 분은 신나서 구경하시고 쇼핑 해이터는 그저 묵묵히 따라갈 뿐 
 <div class="image-slider-auto">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend1-in-luang-prabang-night-market.jpg" alt="Friend in Luang Prabang night market">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend2-in-luang-prabang-night-market.jpg" alt="Friend in Luang Prabang night market">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend1-in-luang-prabang-night-market.jpg" alt="루앙 프라방 야시장에서 친구">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend2-in-luang-prabang-night-market.jpg" alt="루앙 프라방 야시장에서 친구">
 </div>
 <br>
 
 <span style="color: #8D4801">**가장 자연스러운 뒤돌아보는 사진**</span>은 뒤에서 <span style="color: indianred">**갑자기 이름을 부르고 찍으면 된다고 했는데**</span> 음... 자연스러운 거 맞나?
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friends-in-luang-prabang-night-market.jpg" alt="Friends in Luang Prabang night market">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friends-in-luang-prabang-night-market.jpg" alt="루앙 프라방 야시장에서 친구들">
 </div>
 <br>
 
 ### 굿 나이트 마켓
 몽족 야시장이 끝나는 <span style="color: #8D4801">**모서리에 자리 잡고 있던 시장**</span>으로 몽족 야시장은 <span style="color: #8D4801">**주로 수공예품, 전통 의상 등을 판매**</span>했다면 <span style="color: indianred">**이곳에서는 음식을 주로 판매**</span>했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/good-night-market.jpg" alt="Good Night market">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/good-night-market.jpg" alt="굿 나이트 마켓">
 </div>
 <br>
 
@@ -487,38 +487,38 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 
 아침에 <span style="color: #8D4801">**카오 삐약 센을 먹었던 사람은 다른 요리 먹어본다고 카오 쏘이를 주문**</span>했고, <span style="color: indianred">**카오 쏘이를 먹었던 친구는 카오 포운을 주문**</span>했는데, 어째 비주얼은 세 그릇이 다 비슷하다. <span style="color: #8D4801">**카오 포운은 라오스 매운 면**</span>이라는 뜻이라고 한다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/khao-soi-and-khao-poon-with-colas.jpg" alt="Khao Soi and Khao Poon with colas">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/khao-soi-and-khao-poon-with-colas.jpg" alt="카오 쏘이, 카오 포운과 콜라들">
 </div>
 <br>
 
 카오시리즈 완뽕 기념사진 (<span style="color: indianred">**나중에 국물까지 다 먹었음**</span>)
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-group-photo-in-good-night-market.jpg" alt="The group photo in Good Night market">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-group-photo-in-good-night-market.jpg" alt="굿 나이트 마켓에서 친구들과의 단체 사진">
 </div>
 <br>
 
 나는 가끔 사색에 잠긴다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend2-in-good-night-market.jpg" alt="Friend in Good Night market">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend2-in-good-night-market.jpg" alt="굿 나이트 마켓에서 친구">
 </div>
 <br>
 
 알파고 주변에서 어느 환전소가 환율이 가장 높은지 알려줘. <span style="color: #8D4801">**미쳤습니까 휴먼?**</span> 
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend1-in-good-night-market.jpg" alt="Friend in Good Night market">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend1-in-good-night-market.jpg" alt="굿 나이트 마켓에서 친구">
 </div>
 <br>
 
 ### 인디고 카페
 눈썰미가 좋으신 분은 알아차리셨겠지만, <span style="color: indianred">**옷이 바뀌었습니다**</span>. 산에 올라갔다가 왔기 때문에 <span style="color: #8D4801">**저녁 식사를 마치고 숙소에 돌아가서 씻고 다시 나온**</span> 우리
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/on-the-way-to-exchange-dollars-to-kips.jpg" alt="On the way to exchange dollars to kips">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/on-the-way-to-exchange-dollars-to-kips.jpg" alt="환전을 위해 이동 중인 블로거와 친구들">
 </div>
 <br>
 
 요즘 코끼리는 뜨거운 커피도 마시는구나
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/indigo-cafe.jpg" alt="Indigo cafe">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/indigo-cafe.jpg" alt="인디고 카페">
 </div>
 <br>
 
@@ -528,26 +528,26 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 환율이 괜찮은 환전소에 가서 가진 달러를 전부 환전하고 목이 말라서 카페에 들렸다. 라오스에 와서 국수가 1인당 가격이 2천 원도 안하고 <span style="color: indianred">**물가가 매우 싸다고 느끼던 중**</span> 여기서 커피값을 내면서 놀랐었다. 역시 임대료를 내시는 가게들이라 그런가? 했지만 <span style="color: #8D4801">**커피 1잔당 국수를 2그릇을 먹을 수 있다고요!**</span>
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend1-in-indigo-cafe.jpg" alt="Friend in Indigo cafe"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/blogger-in-indigo-cafe.jpg" alt="Blogger in Indigo cafe"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/friend1-in-indigo-cafe.jpg" alt="인디고 카페에서 친구"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/blogger-in-indigo-cafe.jpg" alt="인디고 카페에서 블로거"> |
 
 <br>
 
 ### 이름 모를 선술집
 몽족 야시장은 <span style="color: #8D4801">**10시가 다 되어갈 무렵부터 하나둘 장사를 마무리**</span>하신다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/closing-luang-prabang-night-market.jpg" alt="Closing Luang Prabang night market">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/closing-luang-prabang-night-market.jpg" alt="문을 닫고 정리 중인 루앙 프라방 야시장">
 </div>
 <br>
 
 루앙 프라방의 고즈넉한 밤거리
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-street-of-luang-prabang.jpg" alt="The street of Luang Prabang">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-street-of-luang-prabang.jpg" alt="루앙 프라방의 고즈넉한 밤거리">
 </div>
 <br>
 
 우리는 아직 사람들의 왕래가 잦은 곳을 지나 <span style="color: indianred">**조용하고 분위기 좋아 보이는 선술집**</span>을 찾아 자리에 앉았다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-group-photo-in-nameless-tavern.jpg" alt="The group photo in nameless tavern">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/the-group-photo-in-nameless-tavern.jpg" alt="이름을 까먹은 선술집에서 친구들과의 단체 사진">
 </div>
 <br>
 
@@ -557,19 +557,19 @@ description: 2024.04.07 비엔티안에서 씨 사켓 사원, 빠뚜사이 독�
 
 맥주를 학수고대하는 중
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/blogger-and-friends-waiting-for-beers.jpg" alt="Blogger and friends waiting for beers">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/blogger-and-friends-waiting-for-beers.jpg" alt="맥주를 기다리는 블로거와 친구들">
 </div>
 <br>
 
 <span style="color: indianred">**분명 무언가 많이 한 것 같은데 전부 하루 만에 일어난 일**</span>이었다. 그렇게 <span style="color: #8D4801">**비어라오와 함께 하루를 마무리**</span>했던 우리
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/beerlao.jpg" alt="Beerlao">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/beerlao.jpg" alt="비어라오">
 </div>
 <br>
 
 전통적인 열쇠로 여는 문이라 그런가 잘 열리질 않네. <span style="color: #8D4801">**아무튼 길었던 라오스 여행 2일 차**</span> <span style="color: indianred">**진짜 끝!**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/unlocking-the-door-of-hotel.jpg" alt="Unlocking the door of hotel">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-07-Laos-Friendship-Travelog-2/unlocking-the-door-of-hotel.jpg" alt="숙소의 문을 여는 중인 친구">
 </div>
 <br>
 

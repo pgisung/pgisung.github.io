@@ -26,7 +26,7 @@ description: 2013.12.17 말레이시아 조호르 바루에서 겔랑 파타까�
 ## 아마도 이제부터 글의 시작은 언제나 라이딩
 아침으로 미고렝과 오렌지주스를 먹고(사진은 어디로...) 국경을 건너왔으니 데이터 사용을 위해 <span style="color: indianred">**선불 유심칩을 사서 핸드폰에 바꿔 끼고 라이딩을 시작**</span>했다. 
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/prepaid-usim-chip-in-malaysia.jpg" alt="Prepaid USIM chip in Malaysia">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/prepaid-usim-chip-in-malaysia.jpg" alt="말레이시아의 선불 유심칩">
 </div>
 <br>
 
@@ -46,7 +46,7 @@ description: 2013.12.17 말레이시아 조호르 바루에서 겔랑 파타까�
 ### 리마 케다이
 Lima Kedai 즈음의 도로에서 너무 힘들어서 쉬고 있는데 <span style="color: #8D4801">**한 남자가 우리에게 자리를 권하고 음료수를 사줬다**</span>. 100PLUS라고 말레이시아에서는 흔히 마시는 음료로 <span style="color: indianred">**약간의 탄산에 이온 음료 느낌**</span>이 나는 특이한 음료였다. 시원하게 음료를 마시면서 대화를 나누는데 <span style="color: #8D4801">**남자의 이름은 Boy이고 배로 운송업을 하고 있고 본인도 자전거를 취미**</span>로 하고 있어서 말을 걸어왔다고 했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/blogger-with-malaysia-food-truck.jpg" alt="Blogger with Malaysia food truck">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/blogger-with-malaysia-food-truck.jpg" alt="말레이시아 푸드 트럭에서 주문 중인 블로거">
 </div>
 <br>
 
@@ -55,25 +55,25 @@ Lima Kedai 즈음의 도로에서 너무 힘들어서 쉬고 있는데 <span sty
 
 그리고 <span style="color: #8D4801">**말레이시아 전통 음식**</span>이라며 우리나라의 떡과 비슷한 음식도 권해줬는데 코코넛이 들어가서 그런지 굉장히 달았다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/malaysia-food-truck.jpg" alt="Malaysia food truck">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/malaysia-food-truck.jpg" alt="말레이시아 푸드 트럭">
 </div>
 <br>
 
 음료수도 사줬는데 <span style="color: #8D4801">**트럭에 음식값도 본인이 지불**</span>한 Boy
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/boy-with-malaysia-food-truck.jpg" alt="Boy with Malaysia food truck">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/boy-with-malaysia-food-truck.jpg" alt="말레이시아 푸드 트럭에서 블로거와 친구에게 음식을 사주는 Boy">
 </div>
 <br>
 
 그 후 Boy와 <span style="color: #8D4801">**페이스북 친구 추가도 하고 핸드폰 번호도 나눈 후**</span> Puteri Harbour가 부촌으로 볼 게 많으니까 그곳에서 <span style="color: #8D4801">**저녁이나 같이 먹자**</span>고 하면서 자기가 퇴근할 때까지 기다려달라고 하길래 그러자고 약속을 잡고 이동했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/sharing-contacts.jpg" alt="Sharing contacts with Boy">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/sharing-contacts.jpg" alt="연락처를 교환 중인 블로거와 Boy">
 </div>
 <br>
 
 일단 만난 <span style="color: #8D4801">**기념으로 사진 한 장**</span> 찍고 출발
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/blogger-with-friends.jpg" alt="Blogger with friends">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/blogger-with-friends.jpg" alt="만남의 기념으로 다 같이 찍은 단체 사진">
 </div>
 <br>
 
@@ -82,7 +82,7 @@ Lima Kedai 즈음의 도로에서 너무 힘들어서 쉬고 있는데 <span sty
 ## 코타 이스칸다르
 그렇게 Boy와 헤어진 후 약 13km를 달리다 보니 보이던 <span style="color: #8D4801">**모스크 건물과 주정부 청사들**</span>이 매우 아름다웠는데, 이 건물들이 <span style="color: indianred">**스페인 그라나다의 알함브라 궁전에서 영감**</span>을 얻고 지어진 건물들이라고 한다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/kota-iskandar.jpg" alt="Kota Iskandar">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/kota-iskandar.jpg" alt="코타 이스칸다르">
 </div>
 <br>
 
@@ -91,7 +91,7 @@ Lima Kedai 즈음의 도로에서 너무 힘들어서 쉬고 있는데 <span sty
 
 근데 이 아름다운 모스크 앞에서 우린 뭘 하고 있던 걸까? 더 심한 사진은 생략하겠다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/blogger-with-friend-in-kota-iskandar.jpg" alt="Blogger with friend in Kota Iskandar">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/blogger-with-friend-in-kota-iskandar.jpg" alt="코타 이스칸다르에서 익살스러운 사진을 찍는 중인 블로거와 친구">
 </div>
 <br>
 
@@ -100,7 +100,7 @@ Lima Kedai 즈음의 도로에서 너무 힘들어서 쉬고 있는데 <span sty
 ## 푸테리 항구
 약 7km를 더 주행하니 Puteri Habor에 도착했다. 항구에 대한 인상은 무역품 컨테이너들이 가득 쌓여있고 거대한 운송선이 오가는 그런 항구가 아니라 <span style="color: indianred">**유람선이나 관광용 선박, 여행 목적**</span>의 선박들이 정박해 있는 항구로 보였다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/puteri-harbour.jpg" alt="Puteri Harbour">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/puteri-harbour.jpg" alt="푸테리 항구 내부">
 </div>
 <br>
 
@@ -109,7 +109,7 @@ Lima Kedai 즈음의 도로에서 너무 힘들어서 쉬고 있는데 <span sty
 
 심하게 덥고 습했던 외부와 다르게 <span style="color: #8D4801">**건물 안은 시원**</span>해서 좋았다. 말레이시아를 다니다 보면 괜찮은 건물의 공공화장실에도 <span style="color: #8D4801">**휴지가 없고 옆에 연결된 호스를 이용**</span>해 해결하는 듯 보였다. 
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/blogger-with-friend-in-puteri-harbour.jpg" alt="Blogger with friend in Puteri Harbour">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/blogger-with-friend-in-puteri-harbour.jpg" alt="푸테리 항구 내부에서 휴식 중인 블로거와 친구">
 </div>
 <br>
 
@@ -125,7 +125,7 @@ Lima Kedai 즈음의 도로에서 너무 힘들어서 쉬고 있는데 <span sty
 ## 겔랑 파타
 BOY와 헤어지고 숙소가 많을 만한 시내로 이동하는 길
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/puteri-harbour-street.jpg" alt="Puteri harbour street">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/puteri-harbour-street.jpg" alt="푸테리 항구를 떠나는 중인 도로">
 </div>
 <br>
 
@@ -138,8 +138,8 @@ BOY와 헤어지고 숙소가 많을 만한 시내로 이동하는 길
 야시장에는 <span style="color: #8D4801">**처음 보는 신기한 먹을거리**</span>가 많았다. 잡채처럼 생긴 비빔면 맛이 나는 요리가 도시락 한가득 700원에 팔아서 일단 구매하고
 
 |:---:|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/bazar-ramadan-nusa-perintis-1.jpg" alt="Bazar Ramadan Nusa Perintis"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/bazar-ramadan-nusa-perintis-2.jpg" alt="Bazar Ramadan Nusa Perintis"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/bazar-ramadan-nusa-perintis-3.jpg" alt="Bazar Ramadan Nusa Perintis"> |
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/bazar-ramadan-nusa-perintis-4.jpg" alt="Bazar Ramadan Nusa Perintis"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/bazar-ramadan-nusa-perintis-5.jpg" alt="Bazar Ramadan Nusa Perintis"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/bazar-ramadan-nusa-perintis-6.jpg" alt="Bazar Ramadan Nusa Perintis"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/bazar-ramadan-nusa-perintis-1.jpg" alt="바자르 라마단 누사 페린티스 야시장의 노점들"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/bazar-ramadan-nusa-perintis-2.jpg" alt="바자르 라마단 누사 페린티스 야시장의 노점들"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/bazar-ramadan-nusa-perintis-3.jpg" alt="바자르 라마단 누사 페린티스 야시장의 노점들"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/bazar-ramadan-nusa-perintis-4.jpg" alt="바자르 라마단 누사 페린티스 야시장의 노점들"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/bazar-ramadan-nusa-perintis-5.jpg" alt="바자르 라마단 누사 페린티스 야시장의 노점들"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/bazar-ramadan-nusa-perintis-6.jpg" alt="바자르 라마단 누사 페린티스 야시장의 노점들"> |
 
 <br>
 
@@ -150,7 +150,7 @@ BOY와 헤어지고 숙소가 많을 만한 시내로 이동하는 길
 
 그렇게 맛있냐...?
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/friend-drinking-juice-1.jpg" alt="Friend drinking juice">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/friend-drinking-juice-1.jpg" alt="비닐봉지에 담긴 분홍색 음료를 마시는 중인 친구">
 </div>
 <br>
 
@@ -159,7 +159,7 @@ BOY와 헤어지고 숙소가 많을 만한 시내로 이동하는 길
 **아니 김치까지 하진 말고...**
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/friend-drinking-juice-2.jpg" alt="Friend drinking juice"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/friend-drinking-juice-3.jpg" alt="Friend drinking juice"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/friend-drinking-juice-2.jpg" alt="비닐봉지에 담긴 분홍색 음료를 마시는 중인 친구"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/friend-drinking-juice-3.jpg" alt="비닐봉지에 담긴 분홍색 음료를 마시는 중인 친구"> |
 
 <br>
 
@@ -167,13 +167,13 @@ BOY와 헤어지고 숙소가 많을 만한 시내로 이동하는 길
 
 “사타이”라고 부르는 꼬치 요리 역시 싸고 맛있어서 좋았다. 나중에 알고 보니 <span style="color: #8D4801">**사타이가 그냥 꼬치란 뜻**</span>이었다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/bazar-ramadan-nusa-perintis-7.jpg" alt="Bazar Ramadan Nusa Perintis">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/bazar-ramadan-nusa-perintis-7.jpg" alt="야시장에 꼬치를 판매하는 노점">
 </div>
 <br>
 
 꼬치 하나씩 물고 숙소로 돌아가는 길, 이때까진 무슨 일이 일어날지 몰랐다. 밤에 숙소에 들어올 때만 해도 너무 더워서 에어컨을 켜놓고 침대에 덮을 이불이 없는 데도 필요 없겠지, 하고 둘 다 그냥 잤는데 <span style="color: indianred">**진짜 입 돌아가는 줄 알았다. 자다가 추워서 새벽에 여러 번 깼다. 생각해 보니 태어나서 덮는 이불 없는 호텔을 처음 본 날인 것 같다.**</span> (사실 그냥 내려가서 이불 달라고 했으면 될 일이었잖아...)
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/blogger-with-friend.jpg" alt="Blogger with friend">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-17-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-6/blogger-with-friend.jpg" alt="야시장에 블로거와 꼬치를 먹는 중인 친구">
 </div>
 <br>
 

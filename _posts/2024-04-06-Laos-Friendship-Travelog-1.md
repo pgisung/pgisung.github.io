@@ -36,7 +36,7 @@ description: 2024.04.06 한국에서 라오스 비엔티안까지 이동기
 ## 여행 준비 중에 일어난 일
 친구끼리 떠나는 오랜만의 여행이라 설레는 마음으로 <span style="color: indianred">**여행 계획서**</span>를 작성했었다. [노션](https://www.notion.com/ko "노션 웹사이트로 이동")<span style="color: #8D4801">**으로 작성**</span>한 여행 계획서는 다 같이 공유하기에 생각보다 편리했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/travel-itinerary-in-notion.jpg" alt="Travel itinerary in Notion">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/travel-itinerary-in-notion.jpg" alt="노션으로 작성한 여행 계획서">
 </div>
 <br>
 
@@ -45,13 +45,13 @@ description: 2024.04.06 한국에서 라오스 비엔티안까지 이동기
 만약 <span style="color: indianred">**방비엥 등에서 액티비티 예약을 고려**</span>할 경우 <span style="color: #8D4801">**기차 예약자만 할인이 가능한 액티비티 상품들**</span>이 있는 것으로 알고 있다. 하지만, 우리는 더 가격이 저렴한 <span style="color: indianred">**로컬 여행사에서 직접 예약**</span>을 했다.
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/train-tickets.jpg" alt="Train tickets to another city in Laos"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/ticket-qr-code.jpg" alt="Ticket QR code"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/train-tickets.jpg" alt="라오스 비엔티안에서 루앙프라방으로 이동하는 온라인 기차표"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/ticket-qr-code.jpg" alt="표의 QR 코드"> |
 
 <br>
 
 라오스에서는 <span style="color: indianred">**USD 특히 100달러 지폐**</span>가 가치가 가장 높다고 하여서 어느 정도 <span style="color: #8D4801">**미리 환전**</span>을 해두었다. 기왕이면 <span style="color: indianred">**신권 달러의 가치를 더**</span> 쳐준다고 한다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/exchange-kwd-to-usd.jpg" alt="Exchanged Korean dollar to US dollar">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/exchange-kwd-to-usd.jpg" alt="미국 달러로의 환전 영수증">
 </div>
 <br>
 
@@ -60,7 +60,7 @@ description: 2024.04.06 한국에서 라오스 비엔티안까지 이동기
 아무튼 <span style="color: #8D4801">**보험 처리**</span>하고 내일 공항 이동을 위해 <span style="color: indianred">**부랴부랴 렌터카를 인계**</span>받고 마지막으로 여행 일정을 점검했더랬다. (<span style="color: indianred">~~사고가 났어도 여행은 가야지~~</span>)
 
 |:---:|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/car-accident-1.jpg" alt="Car accident"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/car-accident-2.jpg" alt="Car accident"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/rent-car.jpg" alt="Rented car"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/car-accident-1.jpg" alt="교통사고가 난 블로거의 차와 가해 차량"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/car-accident-2.jpg" alt="교통사고가 난 블로거의 차"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/rent-car.jpg" alt="교통사고로 인해 빌린 차"> |
 
 <br>
 
@@ -74,14 +74,14 @@ description: 2024.04.06 한국에서 라오스 비엔티안까지 이동기
 
 설레는 맘으로 <span style="color: #8D4801">**인천대교**</span> 건너는 중
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/incheon-bridge.jpg" alt="Incheon bridge">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/incheon-bridge.jpg" alt="인천대교">
 </div>
 <br>
 
 ### 인천국제공항
 우리 비행기가 <span style="color: #8D4801">**어디**</span>에 있나
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/incheon-international-airport.jpg" alt="Incheon international airport">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/incheon-international-airport.jpg" alt="인천국제공항 비행기 현황판">
 </div>
 <br>
 
@@ -90,41 +90,41 @@ description: 2024.04.06 한국에서 라오스 비엔티안까지 이동기
 
 약 5시간에 가까운 비행이라서 든든하게 <span style="color: indianred">**에그드랍에서 샌드위치**</span>로 배를 채웠다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/egg-drop.jpg" alt="Sandwich from Egg drop">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/egg-drop.jpg" alt="에그 드랍의 샌드위치">
 </div>
 <br>
 
 이때는 통화하는 모습이 참 행복해 보였는데...
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/friend-in-happy-calling.jpg" alt="Friend in happy calling">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/friend-in-happy-calling.jpg" alt="행복하게 통화 중인 친구">
 </div>
 <br>
 
 출국 전 단체 사진. <span style="color: #8D4801">**저희 라오스 갑니다!**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/the-group-photo-with-friends-in-incheon-airport.jpg" alt="The group photo with friends Incheon airport">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/the-group-photo-with-friends-in-incheon-airport.jpg" alt="출국 전 친구들과의 단체 사진">
 </div>
 <br>
 
 유난히 달이 <span style="color: red">**아름답게 붉은 날**</span>이었다. 
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/red-moon.jpg" alt="Red moon">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/red-moon.jpg" alt="대한항공 비행기 위 아름다운 붉은 달">
 </div>
 <br>
 
 드디어 이륙 <span style="color: #8D4801">**인천 안녕**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/a-plane-on-takeoff.jpg" alt="A plane on takeoff">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/a-plane-on-takeoff.jpg" alt="이륙 중인 비행기의 창밖 풍경">
 </div>
 <br>
 
 ---
 
 ## 비엔티안에서
-### 와따이국제공항
+### 와따이 국제 공항
 도착한 비엔티안 공항. <span style="color: indianred">**공항에서 USIM을 구매 후 택시를 이용해 숙소로 바로 이동**</span>했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/wattay-international-airport.jpg" alt="Wattay international airport">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/wattay-international-airport.jpg" alt="와따이 국제 공항">
 </div>
 <br>
 
@@ -135,7 +135,7 @@ description: 2024.04.06 한국에서 라오스 비엔티안까지 이동기
 아늑했던 비엔티안 숙소. 방은 <span style="color: #8D4801">**2층**</span>에 존재했는데, 방을 나서서 <span style="color: indianred">**왼쪽에 바로 테라스**</span>도 있어서 좋았다.
 
 |:---:|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/the-giftown-vientiane-1.jpg" alt="The Giftown Vientiane"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/the-giftown-vientiane-2.jpg" alt="The Giftown Vientiane"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/the-giftown-vientiane-3.jpg" alt="The Giftown Vientiane"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/the-giftown-vientiane-1.jpg" alt="The Giftown Vientiane"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/the-giftown-vientiane-2.jpg" alt="더 기프타운 숙소 거실"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/the-giftown-vientiane-3.jpg" alt="더 기프타운 숙소 침실"> |
 
 <br>
 
@@ -144,7 +144,7 @@ description: 2024.04.06 한국에서 라오스 비엔티안까지 이동기
 
 님들 찍는 건데 왜 숨어있으세요? <span style="color: indianred">**하하하**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/friends-in-the-giftown-vientiane.webp" alt="Friends in the Giftown Vientiane">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/friends-in-the-giftown-vientiane.webp" alt="더 기프타운 숙소 안 영상 촬영을 위해 비켜있는 친구들">
 </div>
 <br>
 
@@ -155,7 +155,7 @@ description: 2024.04.06 한국에서 라오스 비엔티안까지 이동기
 
 요리는 볶음면류를 주문했고, <span style="color: indianred">**태국의 팟타이 느낌이 나는 넓적 면**</span>이 특징이었는데 요리 이름이 기억나질 않는다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/manu-restaurant.jpg" alt="Manu restaurant">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/manu-restaurant.jpg" alt="마누 식당의 면 요리">
 </div>
 <br>
 
@@ -165,7 +165,7 @@ description: 2024.04.06 한국에서 라오스 비엔티안까지 이동기
 ### 편의점 야식 구매
 <span style="color: #8D4801">**여행 첫날인데 그냥 잘 순 없지**</span>하고 들렸던 편의점. 근데 다들 배부르게 먹고 일어난 상태라 막상 맥주 1병과 물, 음료수 그리고 과일 같은 안주를 구매했던 것 같은데 <span style="color: indianred">**내일 아침 일정을 위해 가볍게 먹고 휴식**</span>을 취했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/big-c-convenience-store.jpg" alt="Big C convenience store">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/big-c-convenience-store.jpg" alt="Big C 편의점">
 </div>
 <br>
 
@@ -174,13 +174,13 @@ description: 2024.04.06 한국에서 라오스 비엔티안까지 이동기
 
 왜 핸드폰을 그렇게 목까지 꺾어서 보고 계신 걸까요?
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/blogger-playing-cell-phone.jpg" alt="Blogger playing cell phone">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/blogger-playing-cell-phone.jpg" alt="고개를 숙이고 핸드폰을 보는 중인 블로거">
 </div>
 <br>
 
 친구가 <span style="color: #8D4801">**애완동물로 도마뱀을 키워서**</span> 많은 관심을 가졌던 라오스 도마뱀들
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/lizards.jpg" alt="Lizards">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-06-Laos-Friendship-Travelog-1/lizards.jpg" alt="벽에 붙어있던 라오스의 도마뱀들">
 </div>
 <br>
 

@@ -37,7 +37,7 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 
 보이실지 모르겠지만 <span style="color: #8D4801">**웃고 있는 가이드와 엄지손가락을 치켜드신 기사님**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/the-van-picked-up-me-for-a-trip.jpg" alt="The van picked up me for a trip">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/the-van-picked-up-me-for-a-trip.jpg" alt="투어 내내 타고 다녔던 밴과 안에서 웃는 가이드, 엄지손가락을 치켜드신 기사님">
 </div>
 <br>
 
@@ -46,7 +46,7 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 
 음? 무언가 이 앵글에 기시감이 드신다면 저의 다른 여행 글도 봐주셨단 뜻이겠죠. 감사합니다. <span style="color: #8D4801">**아무튼 오늘 여행도 출발!**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/blogger-on-the-van.jpg" alt="Blogger on the van">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/blogger-on-the-van.jpg" alt="밴에 탑승한 블로거">
 </div>
 <br>
 
@@ -55,7 +55,7 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 
 다른 여행사의 여행객들도 조인하는 것을 보아하니 <span style="color: indianred">**여러 여행사의 인원이 합쳐져서 투어를 진행**</span>하는 듯했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/the-street-next-to-secret-garden-tour-company.jpg" alt="The street next to Secret garden tour company">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/the-street-next-to-secret-garden-tour-company.jpg" alt="시크릿 가든 여행사 옆 거리 풍경">
 </div>
 <br>
 
@@ -65,14 +65,14 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 
 이틀 전에는 없었던 <span style="color: #8D4801">**교통 체증**</span>도 있어서 이동이 좀 지연되었다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/traffic-jam.jpg" alt="Traffic jam">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/traffic-jam.jpg" alt="밴 위에서 마주한 교통 체증">
 </div>
 <br>
 
 ### 챠스키 카페
 킬로토아 투어 때도 들었던 비슷한 에콰도르의 정보들과 금일 투어 일정에 대해 듣다 보니 도착한 식당. 어디서 본 것 같으시다면 맞습니다. <span style="color: #8D4801">**같은 여행사라서 그런지 킬로토아 투어와 같은 식당에서 아침 식사**</span>를 했어요. 같이 온 사람들만 달라졌답니다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/chasky-kfe.jpg" alt="Chasky Kfé">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/chasky-kfe.jpg" alt="챠스키 카페">
 </div>
 <br>
 
@@ -81,13 +81,13 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 
 에콰도르 차 중에는 이유는 모르겠는데 <span style="color: #8D4801">**번호판을 떼어놓고**</span> 앞 유리에 <span style="color: #8D4801">**종이로 번호를 붙여놓은 차**</span>들이 자주 보이는 데 <span style="color: indianred">**법적으로 문제**</span>가 없는지 궁금했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/car-without-a-license-plate.jpg" alt="Car without a lincense plate">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/car-without-a-license-plate.jpg" alt="번호판이 없는 에콰도르의 자동차">
 </div>
 <br>
 
 오늘도 가장 싼 메뉴인 <span style="color: #8D4801">**DESAYUNO COMPLETO**</span>를 시켰는데, 이번에는 <span style="color: indianred">**소고기**</span>로 시켜보았다. 맛도 맛이지만 일단 치킨처럼 뼈가 없어서 더 먹기 좋았다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/beef-rice-with-eggs-and-salad.jpg" alt="Beef rice with eggs and salad">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/beef-rice-with-eggs-and-salad.jpg" alt="소고기와 밥, 계란과 샐러드">
 </div>
 <br>
 
@@ -102,7 +102,7 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 국립공원의 입구에 도착해서 차는 잠깐 멈췄는데 <span style="color: #8D4801">**가이드 분만 내리셔서 탑승객들의 정보만 전달**</span>하고 바로 다시 출발했다.
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/cotopaxi-national-park-administration-1.jpg" alt="Cotopaxi national park administration"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/cotopaxi-national-park-administration-2.jpg" alt="Cotopaxi national park administration"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/cotopaxi-national-park-administration-1.jpg" alt="코토팍시 국립공원 관리사무소"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/cotopaxi-national-park-administration-2.jpg" alt="코토팍시 국립공원 관리사무소"> |
 
 <br>
 
@@ -113,14 +113,14 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 
 고도 3,500m쯤부터 <span style="color: indianred">**길이 비포장도로에 경사**</span>가 있어서 그런지 <span style="color: #8D4801">**차가 엄청나게 흔들리기 시작**</span>했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/a-bumpy-van-ride-on-a-dirt-road.webp" alt="A bumpy van ride on a dirt road">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/a-bumpy-van-ride-on-a-dirt-road.webp" alt="비포장도로를 달리는 흔들리는 밴">
 </div>
 <br>
 
 ### 코토팍시 방문객 센터
 <span style="color: #8D4801">**고도 3,700m에 존재하는 방문객 센터**</span> 벌써 구름 안에 있는 듯 보슬비가 피부에 와 닿았다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/blogger-arrived-cotopaxi-national-park.jpg" alt="Blogger arrived Cotopaxi national park">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/blogger-arrived-cotopaxi-national-park.jpg" alt="코토팍시 방문객 센터에서 블로거">
 </div>
 <br>
 
@@ -129,20 +129,20 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 
 입구에 들어가서 <span style="color: #8D4801">**오른쪽에는 기념품 및 방한용품 상점**</span>이 있었고 <span style="color: indianred">**안쪽으로는 코토팍시 국립공원에 대한 전시관**</span>이 있었는데 내부에 이미 우리보다 앞서 도착한 그룹이 3그룹이나 있어서 그들을 기다릴 겸 쇼핑 등을 하며 잠시 대기시간을 가질 것을 안내해 준 가이드
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/cotopaxi-visitors-center.jpg" alt="Cotopaxi visitors center">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/cotopaxi-visitors-center.jpg" alt="코토팍시 방문객 센터">
 </div>
 <br>
 
 저는 별로 사고 싶은 게 없어서요. 나와서 주변 구경을 시작했다. 바로 옆에는 <span style="color: #8D4801">**이름부터 황무지 산책로**</span>인 삭막한 곳이 있었는데 <span style="color: indianred">**화산 지형으로 인해 언제든 갑자기 지반이 무너질 수 있으니 절벽 가까이 가지 말라**</span>는 경고문이 보였었다.
 
 |:---:|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/the-street-sign-on-volcano-1.jpg" alt="The street sign alerting that from here is mudflow hazard zone"> |<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/the-street-sign-on-volcano-2.jpg" alt="The street sign warning that do not close with cliff"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/the-street-sign-on-volcano-3.jpg" alt="The street sign showing map of walking trail"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/the-street-sign-on-volcano-1.jpg" alt="여기서부터 지반 붕괴 가능성이 있는 위험 구역임을 알리는 표지판"> |<img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/the-street-sign-on-volcano-2.jpg" alt="절벽 가까이 다가가지 말라는 경고 표지판"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/the-street-sign-on-volcano-3.jpg" alt="황무지 산책로의 경로를 보여주는 지도 표지판"> |
 
 <br>
 
 그래서 가볍게 절벽 사진만 찍었는데 분위기가 이름에 걸맞게 <span style="color: indianred">**삭막한**</span> 것 같기도 하네요.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/the-ravine-next-to-walking-trail.jpg" alt="The ravine next to walking trail">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/the-ravine-next-to-walking-trail.jpg" alt="산책로 옆의 좁은 골짜기">
 </div>
 <br>
 
@@ -150,27 +150,27 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 
 밥이라도 많이 먹어야지 먹고 힘내렴
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/blogger-feeding-alpacas.jpg" alt="Blogger feeding alpacas">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/blogger-feeding-alpacas.jpg" alt="알파카에게 먹이를 주는 블로거">
 </div>
 <br>
 
 <span style="color: indianred">**하이킹 출발 전 마지막 화장실**</span>이다. 꼭 들려서 가길 권장하지만 <span style="color: #8D4801">**25센트의 사용료**</span>가 있었다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/the-restroom-in-cotopaxi-visitors-center.jpg" alt="The restroom in Cotopaxi visitors center">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/the-restroom-in-cotopaxi-visitors-center.jpg" alt="코토팍시 방문객 센터 화장실">
 </div>
 <br>
 
 드디어 우리 차례가 와서 <span style="color: #8D4801">**코토팍시 국립공원에 관해서 설명**</span>을 시작한 가이드. 에코 시스템, 화산의 높이 등에 대해서 설명을 해주셨다.
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/guide-explanation-1.jpg" alt="Guide explaining about Cotopaxi national park"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/guide-explanation-2.jpg" alt="Guide explaining about Cotopaxi national park"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/guide-explanation-1.jpg" alt="코토팍시 국립공원에 관해서 설명하는 가이드"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/guide-explanation-2.jpg" alt="산의 높이에 관한 설명"> |
 
 <br>
 
-실제로 <span style="color: indianred">**코토팍시 국립공원 안에서 살아가는 야생 동물들의 발 모양**</span>이라고 한다. <span style="color: #8D4801">**퓨마 등은 고도 1,000m 등 낮은 곳에서만 살기 때문에**</span> 올라가면서 볼 수는 없다고 했다.
+실제로 <span style="color: indianred">**코토팍시 국립공원 안에서 살아가는 야생 동물들의 발 모형**</span>이라고 한다. <span style="color: #8D4801">**퓨마 등은 고도 1,000m 등 낮은 곳에서만 살기 때문에**</span> 올라가면서 볼 수는 없다고 했다.
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/animal-footprints-1.jpg" alt="Animal footprints"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/animal-footprints-2.jpg" alt="Animal footprints"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/animal-footprints-1.jpg" alt="동물들의 발 모형에 직접 손을 비교해 본 블로거"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/animal-footprints-2.jpg" alt="동물들의 발 모형에 직접 손을 비교해 본 블로거"> |
 
 <br>
 
@@ -179,38 +179,38 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 옆에 사진 <span style="color: indianred">**화산의 길은 약 300km에 달하는 에콰도르의 대표적인 화산들의 행렬**</span>을 뜻한다고 한다.
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/the-miniature-of-cotopaxi-national-park.jpg" alt="The miniature of Cotopaxi national park"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/avenida-de-los-volcanes.jpg" alt="Avenida de los Volcanes"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/the-miniature-of-cotopaxi-national-park.jpg" alt="코토팍시 국립공원의 미니어처"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/avenida-de-los-volcanes.jpg" alt="300km에 달하는 에콰도르 화산의 길"> |
 
 <br>
 
 투어에서 <span style="color: #8D4801">**단체 사진**</span>이 빠지면 섭섭하죠. 모두 같이 한 컷
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/the-group-photo-in-cotopaxi-visitors-center.jpg" alt="The group photo in Cotopaxi visitors center">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/the-group-photo-in-cotopaxi-visitors-center.jpg" alt="코토팍시 방문객 센터에서 투어 일행들과 단체 사진">
 </div>
 <br>
 
 이제 하이킹 출발 지점으로 이동하는 중 <span style="color: indianred">**구름 사이로 고개를 내민 코토팍시 화산**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/cotopaxi-volcano-peeking-through-the-clouds.jpg" alt="Cotopaxi Volcano peeking through the clouds">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/cotopaxi-volcano-peeking-through-the-clouds.jpg" alt="구름 사이로 고개를 내민 코토팍시 화산">
 </div>
 <br>
 
 고도 4,000m쯤부터 <span style="color: #8D4801">**데이터가 안 터지기 시작**</span>한다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/cell-phone-has-no-signal.jpg" alt="Cell phone has no signal">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/cell-phone-has-no-signal.jpg" alt="신호가 잡히지 않는 핸드폰 화면">
 </div>
 <br>
 
 고도 4,500m <span style="color: indianred">**밴의 바퀴도 모래에 헛돌기 시작**</span>했다. 차도 이렇게 힘들게 올라오는데 <span style="color: #8D4801">**여길 걸어오려면 사람은 얼마나 힘들려나**</span> 싶었다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/the-vans-wheels-were-spinning-in-the-sand.webp" alt="The van’s wheels were spinning in the sand">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/the-vans-wheels-were-spinning-in-the-sand.webp" alt="모래에 밴의 바퀴가 헛돌았던 상황">
 </div>
 <br>
 
 ### 코토팍시 산장 주차장
 창밖으로 보이기 시작하는 <span style="color: #8D4801">**주차장**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/cotopaxi-refugio-parking.jpg" alt="Cotopaxi refugio parking">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/cotopaxi-refugio-parking.jpg" alt="코토팍시 산장 주차장">
 </div>
 <br>
 
@@ -219,20 +219,20 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 
 차로 이동해서 온 곳의 <span style="color: #8D4801">**고도가 이미 4,620m**</span>였다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/at-an-altitude-of-4620-meters.jpg" alt="At an altitude of 4,620 meters">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/at-an-altitude-of-4620-meters.jpg" alt="고도 4,620미터를 알리는 나침반 앱">
 </div>
 <br>
 
 차에서 막 내렸을 때 진짜 공기가 달라졌다. <span style="color: indianred">**차가운 공기**</span>에 구름인지 <span style="color: indianred">**수분이 마구 부딪혀오고 사람도 날아갈 것 같을 정도로 바람이 강하게 불었다**</span>.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/strong-wind-at-cotopaxi-refugio-parking.webp" alt="Strong wind at Cotopaxi refugio parking">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/strong-wind-at-cotopaxi-refugio-parking.webp" alt="강렬한 바람이 부는 코토팍시 산장 주차장">
 </div>
 <br>
 
 ### 하이킹 시작
 생각보다 <span style="color: #8D4801">**악조건에서 시작**</span>된 하이킹
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/hiking-on-cotopaxi-volcano-1.jpg" alt="Hiking on Cotopaxi Volcano">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/hiking-on-cotopaxi-volcano-1.jpg" alt="코토팍시 하이킹을 시작하는 투어 일행들">
 </div>
 <br>
 
@@ -240,56 +240,56 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 
 문제는 바람이 강하게 불 경우 코스 A는 위험해서 이용할 수 없고 어쩔 수 없이 코스 B를 선택해야 한다고 했는데 <span style="color: #8D4801">**오늘이 딱 그랬다**</span>. <span style="color: indianred">**바람도 강하고 시야도 짧아서 우리는 코스 B를 이용**</span>해 올라가기 시작했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/hiking-on-cotopaxi-volcano-2.jpg" alt="Hiking on Cotopaxi Volcano">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/hiking-on-cotopaxi-volcano-2.jpg" alt="우리가 선택할 하이킹 경로와 이유를 설명하는 가이드">
 </div>
 <br>
 
 열심히 올라가던 중 고도 4,700m에서 <span style="color: #8D4801">**뜬금없이 데이터가 연결**</span>되었다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/cell-phone-suddenly-has-signal.jpg" alt="Cell phone suddenly has signal">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/cell-phone-suddenly-has-signal.jpg" alt="높은 곳에서 갑자기 신호가 잡혔던 핸드폰 화면">
 </div>
 <br>
 
 일부러 그러려고 한 건 아닌데 아무 생각 없이 오르다 보니 <span style="color: indianred">**우리 그룹에서 1등**</span>으로 올라가는 중이다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/hiking-on-cotopaxi-volcano-3.jpg" alt="Hiking on Cotopaxi Volcano">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/hiking-on-cotopaxi-volcano-3.jpg" alt="제일 먼저 걸어 올라와서 투어 일행들을 촬영하는 블로거">
 </div>
 <br>
 
 그래도 앞에 아무도 없으니까 좀 그렇네... <span style="color: #8D4801">**사진도 찍고 천천히 주변도 둘러보고 가자고 생각**</span>했는데
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/hiking-on-cotopaxi-volcano-4.jpg" alt="Hiking on Cotopaxi Volcano">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/hiking-on-cotopaxi-volcano-4.jpg" alt="안개로 인해 아무것도 안 보이는 하이킹 길">
 </div>
 <br>
 
 <span style="color: indianred">**뭐가 보여야 구경하죠...**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/blogger-hiking-on-cotopaxi-volcano-1.jpg" alt="Blogger hiking on Cotopaxi Volcano">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/blogger-hiking-on-cotopaxi-volcano-1.jpg" alt="코토팍시 화산을 하이킹 중 블로거의 셀카">
 </div>
 <br>
 
 절벽이 뭔가 삭막하고 무서워 보여서 찍었는데 <span style="color: #8D4801">**사진 속에선 그저 돌산**</span>처럼 보인다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/hiking-on-cotopaxi-volcano-5.jpg" alt="Hiking on Cotopaxi Volcano">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/hiking-on-cotopaxi-volcano-5.jpg" alt="하이킹 경로 옆 삭막한 돌산 같은 절벽">
 </div>
 <br>
 
 우리 팀 화이팅! 고지가 코앞입니다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/hiking-on-cotopaxi-volcano-6.jpg" alt="Hiking on Cotopaxi Volcano">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/hiking-on-cotopaxi-volcano-6.jpg" alt="안개 저 너머에 희미하게 보이는 투어 일행들">
 </div>
 <br>
 
 드디어 도착! 아마도 <span style="color: indianred">**지금까지는 살면서 밟아본 땅 중에 가장 높은 높이**</span>가 아닐까 싶다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/blogger-arrived-refugio-cotopaxi.jpg" alt="Blogger arrived refugio Cotopaxi">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/blogger-arrived-refugio-cotopaxi.jpg" alt="코토팍시 산장에 도착한 블로거">
 </div>
 <br>
 
 ### 코토팍시 산장
 사실 도착했을 때 안 그래도 낮은 기온에 <span style="color: #8D4801">**구름 속을 뚫고 올라와서 온몸이 다 젖어서 상당히 추웠다**</span>. 그래서 무조건 반사처럼 따뜻한 것을 찾아 카운터 앞에 서게 되었다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/the-counter-in-refugio-cotopaxi.jpg" alt="The counter in refugio Cotopaxi">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/the-counter-in-refugio-cotopaxi.jpg" alt="코토팍시 산장 카운터">
 </div>
 <br>
 
@@ -298,63 +298,63 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 
 마시기 전에 <span style="color: indianred">**손만 댔는데도 너무나 행복했던 핫초코**</span>. <span style="color: #8D4801">**달콤 따뜻한 음료에 온몸이 금방 따뜻해지는**</span> 듯했다. 앞에 앉아계시던 여성분은 일행이 만년설까지 보러 올라갔다고 기다리고 계신다고 했다. 약 20분 정도 걸릴 거라고 했다는데 <span style="color: indianred">**필자도 만약 이런 단체 여행만 아니었다면 더 올라가 보고 싶었는데**</span> 아쉬웠다. 프라이빗 투어가 조금 더 비싸서 선택하지 않았는데 <span style="color: #8D4801">**이럴 때는 돈을 아낀 게 조금 후회**</span>도 된다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/hot-chocolate.jpg" alt="Hot chocolate">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/hot-chocolate.jpg" alt="코토팍시 산장에서 핫초코">
 </div>
 <br>
 
 <span style="color: #8D4801">**산장의 2층에는 다인용 숙소**</span>가 보였는데, 아무래도 제대로 <span style="color: indianred">**등산을 하시는 분들을**</span> 위해 존재하는 것 같다. 근데 <span style="color: #8D4801">**칼바람이 숭숭 들어오는데 나라면 여기서 잠이 올 수 있을까?**</span> 하는 의문이 들긴 했었다.
 
 |:---:|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/dormitorio-1.jpg" alt="Dormitorio in refugio Cotopaxi"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/dormitorio-2.jpg" alt="Dormitorio in refugio Cotopaxi"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/dormitorio-3.jpg" alt="Dormitorio in refugio Cotopaxi"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/dormitorio-1.jpg" alt="코토팍시 산장 침실 문"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/dormitorio-2.jpg" alt="코토팍시 산장 침실 입구"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/dormitorio-3.jpg" alt="코토팍시 산장 침실 내부"> |
 
 <br>
 
 이 추운 곳에 화장실도 밖에 있어요. 그래도 화장실이 있는 게 어딘가 싶기도 하고요. <span style="color: #8D4801">**물은 나오지 않으므로 물티슈 등을 준비**</span>하셔도 좋을 것 같다. 하지만 <span style="color: indianred">**쓰레기를 아무 곳에나 버리는 행위는 엄격하게 금지**</span>되고 있다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/the-restroom-in-refugio-cotopaxi.jpg" alt="The restroom in refugio Cotopaxi">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/the-restroom-in-refugio-cotopaxi.jpg" alt="코토팍시 산장 화장실">
 </div>
 <br>
 
 다른 분의 블로그에서 본 적이 있어서 <span style="color: #8D4801">**2층까지 올라가 보면서 대한민국 국기를 찾아다녀**</span> 보았는데 이제는 치웠는지 <span style="color: indianred">**우리나라 국기가 보이질 않았다**</span>. 그래서 아쉬운 김에 맨유 깃발 앞에서 사진을 찍었다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/blogger-with-manchester-united-flag.jpg" alt="Blogger with Manchester United flag">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/blogger-with-manchester-united-flag.jpg" alt="코토팍시 산장에서 맨체스터 유나이티드 깃발과 블로거">
 </div>
 <br>
 
 드디어 <span style="color: #8D4801">**모두 다 도착한 일행들**</span> 이제 막 도착하신 분들이 몸을 충분히 녹이고 나면 다시 내려가기로 했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/travel-companions-assembled.jpg" alt="Travel companions assembled">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/travel-companions-assembled.jpg" alt="코토팍시 산장에 모두 도착한 투어 일행들">
 </div>
 <br>
 
 내려가기 전에 <span style="color: indianred">**올라온 기념으로 단체 사진**</span>은 필수죠! <span style="color: #8D4801">**어깨동무한 파란색 외투의 친구가 나랑 눈만 마주치면 사진 찍어줄지 물어봐 주고 열심히 찍어줘서 고마웠다**</span>. 사진의 결과물은 음... 아무튼 고마웠다. 그러고 보니 우리 일행은 총 16명인데 <span style="color: indianred">**여기까지 올라온 건 절반 정도인 9명**</span>뿐이었다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/the-group-photo-in-refugio-cotopaxi.jpg" alt="The group photo in refugio Cotopaxi">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/the-group-photo-in-refugio-cotopaxi.jpg" alt="코토팍시 산장에서 투어 일행들과 단체 사진">
 </div>
 <br>
 
 ### 내려오는 길
 당연하지만 내려오는 길은 <span style="color: #8D4801">**힘들지도 시간이 그렇게 오래 걸리지도 않는 길**</span>이었다. 
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/hiking-on-cotopaxi-volcano-7.jpg" alt="Hiking on Cotopaxi Volcano">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/hiking-on-cotopaxi-volcano-7.jpg" alt="코토팍시 화산을 내려가는 길">
 </div>
 <br>
 
 명칭을 뭐라고 해야 할지 모르겠는 것이 구름 속에 있으니 <span style="color: indianred">**구름이라고 해야 할지**</span> 피부에 닿으면 따가우니까 <span style="color: indianred">**눈이나 우박이라고 해야 할지**</span> 정확히는 모르겠지만 아무튼 신기했다. 조금만 내려가면 무려 적도의 태양이 떠 있는 밝은 대낮인데 <span style="color: #8D4801">**눈에 보이는 얼음 결정들**</span>이 날아다닌다니요
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/hiking-on-cotopaxi-volcano-8.webp" alt="Hiking on Cotopaxi Volcano">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/hiking-on-cotopaxi-volcano-8.webp" alt="얼음 결정이 쏟아지는 코토팍시를 걸어 내려가는 투어 일행들">
 </div>
 <br>
 
 어라? 뭔가 <span style="color: indianred">**위의 사진과 비교했을 때 위화감**</span>이 드는데요. 그리고 얼마 안 가 <span style="color: #8D4801">**일행들 사이에서 탄성의 소리**</span>가 크게 들려왔다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/hiking-on-cotopaxi-volcano-9.jpg" alt="Hiking on Cotopaxi Volcano">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/hiking-on-cotopaxi-volcano-9.jpg" alt="순간적으로 구름이 걷히고 있는 코토팍시 화산">
 </div>
 <br>
 
 정말 신기하게도 <span style="color: indianred">**단 몇 초의 사이에 시야를 한참 가리던 구름이 사라져 버렸다**</span>. 그건 그렇고 <span style="color: #8D4801">**내가 내 표정을 보는데도 매우 신나 보인다**</span>.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/blogger-hiking-on-cotopaxi-volcano-2.jpg" alt="Blogger hiking on Cotopaxi Volcano">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/blogger-hiking-on-cotopaxi-volcano-2.jpg" alt="잠깐 사이에 구름이 거의 다 걷혔던 코토팍시 화산에 신이 나 보이는 블로거">
 </div>
 <br>
 
@@ -364,26 +364,26 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 
 올라갈 당시에는 아예 보이지도 않았던 산장도 보이고 <span style="color: indianred">**만년설이 덮여있던 코토팍시가 순식간에 얼굴을 드러냈다**</span>. 그 와중에 기습 퀴즈 <span style="color: #8D4801">**아래 사진에 필자는 어디에**</span> 있을까요?
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/hiking-on-cotopaxi-volcano-10.jpg" alt="Hiking on Cotopaxi Volcano">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/hiking-on-cotopaxi-volcano-10.jpg" alt="맑은 코토팍시 화산을 연신 촬영하기에 바쁜 블로거와 투어 일행들">
 </div>
 <br>
 
 정말 잠깐의 타이밍이었지만 그래도 <span style="color: indianred">**내려가기 전에 볼 수 있었기에 좋았다**</span>.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/blogger-hiking-on-cotopaxi-volcano-3.jpg" alt="Blogger hiking on Cotopaxi Volcano">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/blogger-hiking-on-cotopaxi-volcano-3.jpg" alt="만년설이 덮인 코토팍시 화산과 블로거의 셀카">
 </div>
 <br>
 
 임무 완료다 <span style="color: #8D4801">**만세!**</span> 심 아니고 산봤다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/blogger-hiking-on-cotopaxi-volcano-4.jpg" alt="Blogger hiking on Cotopaxi Volcano">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/blogger-hiking-on-cotopaxi-volcano-4.jpg" alt="코토팍시 화산을 배경으로 만세 중인 블로거">
 </div>
 <br>
 
 아래의 사진을 보면 알 수 있듯이 <span style="color: indianred">**정말 짧은 순간에 다시 구름으로 뒤덮였다**</span>. 정말 <span style="color: #8D4801">**산 위의 날씨는 시시각각 달라지는 것**</span>을 느꼈다. 
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/hiking-on-cotopaxi-volcano-11.jpg" alt="Hiking on Cotopaxi Volcano"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/hiking-on-cotopaxi-volcano-12.jpg" alt="Hiking on Cotopaxi Volcano"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/hiking-on-cotopaxi-volcano-11.jpg" alt="코토팍시 화산을 걸어 내려가는 중 다시 쌓여가는 구름"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/hiking-on-cotopaxi-volcano-12.jpg" alt="코토팍시 화산을 걸어 내려가는 중 다시 시야를 가릴 만큼 자욱해진 구름"> |
 
 <br>
 
@@ -391,14 +391,14 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 
 어쨌든 버스에 후다닥 도착해서 오르자 <span style="color: #8D4801">**먼저 버스에 탑승해 있던 일행들이 환호하며 손뼉 쳐줬다**</span>. 뭐, 엄청 어려운 등산을 한 것도 아니었지만 <span style="color: indianred">**어쨌든 뿌듯했다**</span>.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/hiking-on-cotopaxi-volcano-13.jpg" alt="Hiking on Cotopaxi Volcano">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/hiking-on-cotopaxi-volcano-13.jpg" alt="코토팍시 화산을 내려가는 길옆에 삭막한 모래 절벽">
 </div>
 <br>
 
 ### 림피오푼고 호수
 <span style="color: #8D4801">**고도 3,880m에 있는 호수**</span>로 내리자마자 <span style="color: indianred">**아름다운 코토팍시 화산의 풍경**</span>에 넋을 놓았다. 내가 지금 저런 곳에 올라갔다가 온 게 맞나?
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/blogger-with-cotopaxi-volcano-1.jpg" alt="Blogger with Cotopaxi Volcano">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/blogger-with-cotopaxi-volcano-1.jpg" alt="코토팍시 화산과 만세하는 블로거">
 </div>
 <br>
 
@@ -411,7 +411,7 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 
 호수 자체는 그렇게 크지 않아서 잘 모르겠지만 <span style="color: indianred">**화산과 함께 어우러지는 전체적인 풍경**</span>은 진실로 아름다웠다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/limpiopungo-lake.jpg" alt="Limpiopungo Lake">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/limpiopungo-lake.jpg" alt="림피오푼고 호수 전경">
 </div>
 <br>
 
@@ -422,19 +422,19 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 호수에 있는 정자에서 찍은 사진도 아름다웠다. <span style="color: #8D4801">**티구아 화풍의 갤러리에서 찍었던 코토팍시 화산이 문득 생각나는 풍경**</span>이었다.
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/blogger-with-cotopaxi-volcano-2.jpg" alt="Blogger with Cotopaxi Volcano"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/a-painted-cotopaxi-volcano.jpg" alt="A painted Cotopaxi Volcano"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/blogger-with-cotopaxi-volcano-2.jpg" alt="림피오푼고 호수 근처에서 촬영한 코토팍시 화산과 블로거"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/a-painted-cotopaxi-volcano.jpg" alt="코토팍시 화산 티구아 화풍 그림"> |
 
 <br>
 
 자연의 아름다움이 주는 감동이 정말 큰 것 같다. 하지만 단체 여행이자 일일 관광이라서 <span style="color: indianred">**이곳에서 머무를 수 있는 시간은 약 20분**</span>뿐인 것이 또다시 아쉽긴 했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/cotopaxi-volcano-1.jpg" alt="Cotopaxi Volcano">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/cotopaxi-volcano-1.jpg" alt="한 폭의 그림과도 같은 벌판과 코토팍시 화산">
 </div>
 <br>
 
 자 이제 돌아가야 할 시간이다. <span style="color: #8D4801">**아쉬워서 항상 돌아갈 때는 꼴찌**</span>로 도착하는 필자
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/cotopaxi-volcano-2.jpg" alt="Cotopaxi Volcano">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/cotopaxi-volcano-2.jpg" alt="림피오푼고 호수의 다리를 따라서 다시 밴으로 돌아가는 중인 투어 일행들">
 </div>
 <br>
 
@@ -443,19 +443,19 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 ## 론다도르 코토팍시
 깜짝 퀴즈 <span style="color: indianred">**사진 속 말은 몇 마리일까요?**</span> 아무튼 이렇게 광활한 지대에서 자라는 말들은 실로 자유로움을 느낄 것 같다. 표지판에서 보았던 <span style="color: #8D4801">**이 장소의 이름은 Grassland**</span>였다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/grassland.jpg" alt="Grassland">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/grassland.jpg" alt="광활한 벌판에서 풀을 뜯고 있는 말들">
 </div>
 <br>
 
 이곳에서는 <span style="color: indianred">**양들이 저렇게 일반 거리를**</span> 돌아다닌다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/sheeps-on-the-street.jpg" alt="Sheeps on the street">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/sheeps-on-the-street.jpg" alt="길거리를 자유롭게 다니는 양들">
 </div>
 <br>
 
 도착한 점심 식당은 론다도르 코토팍시 식당으로 <span style="color: #8D4801">**킬로토아 호수 투어 중 그저 일행들을 픽업하기 위해 들렸던 곳으로만 생각**</span>했었는데 알고 보니 <span style="color: indianred">**코토팍시 투어 동선의 일부**</span>였다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/rondador-cotopaxi-1.jpg" alt="Rondador Cotopaxi">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/rondador-cotopaxi-1.jpg" alt="론다도르 코토팍시">
 </div>
 <br>
 
@@ -467,7 +467,7 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 돼지고기는 <span style="color: #8D4801">**새콤한 소스 맛**</span>이 났고, 뼈가 중간중간 섞여 있기도 하고 <span style="color: indianred">**질겨서 잘 안 썰려서 먹기가 어려웠다**</span>. 감자튀김은 평소에 좋아하질 않아서 많이 남겼다.
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/soup-with-juice.jpg" alt="Soup with juice"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/pork-and-fried-potatos.jpg" alt="Pork and fried potatos"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/soup-with-juice.jpg" alt="수프와 수박 주스"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/pork-and-fried-potatos.jpg" alt="감자튀김과 새콤한 양념이 밴 돼지고기"> |
 
 <br>
 
@@ -476,14 +476,14 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 식사를 마치고 가게 앞 마당에 나가니 <span style="color: #8D4801">**알파카, 오리로 보이는 새 등 동물농장**</span>이 펼쳐져 있었고 가이드가 미리 당근을 준비해서 <span style="color: indianred">**먹이 주기 체험**</span>을 할 수 있었다.
 
 |:---:|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/rondador-cotopaxi-2.jpg" alt="Rondador Cotopaxi"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/rondador-cotopaxi-3.jpg" alt="Feeding livestock"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/rondador-cotopaxi-4.jpg" alt="Feeding livestock"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/rondador-cotopaxi-2.jpg" alt="론다도르 코토팍시 정문"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/rondador-cotopaxi-3.jpg" alt="가축들 먹이 주기 체험"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/rondador-cotopaxi-4.jpg" alt="가축들 먹이 주기 체험"> |
 
 <br>
 
 <span style="color: #8D4801">**장미 모양의 초록색 잎을 가진 식물**</span>이 신기해서 찍어보았다.
 
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/rosette-plant.jpg" alt="Rosette plant">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/rosette-plant.jpg" alt="장미 모양의 초록색 잎을 가진 식물">
 </div>
 <br>
 
@@ -492,19 +492,19 @@ description: 2025.09.09 에콰도르 키토에서 세계에서 가장 아름다�
 ## 돌아오는 길
 일정을 끝마치고 키토로 돌아오는 길 <span style="color: indianred">**젖소들이 평화롭게 초원을 거닐고**</span> 있다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/milk-cows.jpg" alt="Milk cows">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/milk-cows.jpg" alt="평화롭게 초원을 거닐고 있는 젖소들">
 </div>
 <br>
 
 출발할 때와 마찬가지로 16명을 모두 각자의 픽업 위치에 내려주어야 했기에 <span style="color: #8D4801">**또다시 약 1시간**</span> 키토를 빙글빙글 돌아야 했지만, <span style="color: indianred">**음악을 들으며 드라이브하는 기분을 즐겼다**</span>.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/old-town-in-quito.jpg" alt="Old town in Quito">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/old-town-in-quito.jpg" alt="키토의 구시가지">
 </div>
 <br>
 
 드디어 <span style="color: #8D4801">**투어를 마치고 숙소로 돌아가는 길**</span> 오늘 투어는 사실상 코토팍시 국립공원만 다녀온 것이지만 <span style="color: indianred">**굉장히 알차게 느껴졌다**</span>.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/returned-quito-street.jpg" alt="Returned Quito street">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-09-09-Climbing-Cotopaxi-Volcano/returned-quito-street.jpg" alt="돌아온 숙소 근처 키토의 신시가지">
 </div>
 <br>
 

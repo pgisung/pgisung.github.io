@@ -29,7 +29,7 @@ description: 2025.08.30 에콰도르 키토에서 적도 박물관 탐방기
 ## Manabiche Los Pinos 식당
 유난히 밝았던 아침, 구름 한 점 없이 맑은 날씨에 코토팍시 화산마저 환하게 나를 반겨주는 거리에서 우버를 타고 약속 장소로 이동했다. <span style="color: #8D4801">**맛있는 Encebollado를 먹을 수 있는 식당**</span>이라고 추천받은 곳으로 공원 근처의 큰 도로에서 꺾은 후 조금 깊숙이 들어와야 발견할 수 있었다. 
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/manabiche-los-pinos-restaurante.jpg" alt="Manabiche Los Pinos restaurant">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/manabiche-los-pinos-restaurante.jpg" alt="Manabiche Los Pinos 식당">
 </div>
 <br>
 
@@ -40,7 +40,7 @@ description: 2025.08.30 에콰도르 키토에서 적도 박물관 탐방기
 
 직장인이나 일반인 중에도 취미로 축구에 진심인 여성분들이 많다던데, 확실히 <span style="color: #8D4801">**축구의 대륙 남미**</span>인가 싶었다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/women-playing-futsal.jpg" alt="Women playing futsal">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/women-playing-futsal.jpg" alt="풋살 경기중인 여성분들">
 </div>
 <br>
 
@@ -55,7 +55,7 @@ description: 2025.08.30 에콰도르 키토에서 적도 박물관 탐방기
 ## 적도 박물관
 오늘의 목적지인 적도 박물관은 바이센테니얼 공원 기준으로 약 30분, <span style="color: #8D4801">**카롤리나 공원 기준으로 약 40분 정도 거리로 체감상 마리스칼 수크레 공항과 비슷한 거리**</span>에 존재했는데, 우버 <span style="color: indianred">**가격은 절반 이하**</span>라는 게 의문이었다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/travel-time.jpg" alt="Travel time to Mitad del Mundo">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/travel-time.jpg" alt="적도 박물관까지 이동 시간">
 </div>
 <br>
 
@@ -65,47 +65,47 @@ description: 2025.08.30 에콰도르 키토에서 적도 박물관 탐방기
 ### 입구 및 과거 주거 형태
 아이들의 방학이어서 그런지 <span style="color: #8D4801">**줄 서 있는 가족 손님이 많았던 Boleteria**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/long-queue-at-the-ticket-office.jpg" alt="Long queue at the ticket office">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/long-queue-at-the-ticket-office.jpg" alt="매표소에 늘어서 있는 긴 줄">
 </div>
 <br>
 
 과거 남미 조상들이 살던 집이라는데 뭔가 <span style="color: #8D4801">**한국의 초가집**</span> 같기도 하고 <span style="color: indianred">**지구 반대편에 살던 인간의 삶이 우리와 크게 다르지 않았다는 게**</span> 신기했다. 기둥 사진의 그림은 과거 사람들이 <span style="color: #8D4801">**태양을 표현**</span>한 그림이라고 한다.
 
 |:---:|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/ancestral-house-1.jpg" alt="Ancestral house"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/ancestral-house-2.jpg" alt="Ancestral house"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/ancestral-house-3.jpg" alt="Ancestral house"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/ancestral-house-1.jpg" alt="과거 조상의 집"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/ancestral-house-2.jpg" alt="과거 조상의 집"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/ancestral-house-3.jpg" alt="과거 조상의 집"> |
 
 <br>
 
 인간에게 매우 중요한 양식이었던 옥수수. 전시용으로 오래 걸려있어서 그런가? 안에 <span style="color: indianred">**옥수수심이 빨간색**</span>인 건 처음 보는 것 같은데 아닌가...? 
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/corn-1.jpg" alt="Corns"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/corn-2.jpg" alt="Corn"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/corn-1.jpg" alt="옥수수들"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/corn-2.jpg" alt="심이 빨간색인 옥수수"> |
 
 <br>
 
 <span style="color: #8D4801">**라마 한 마리의 털**</span>을 통으로 쓴 듯한 침대. 전기장판도 없었을 그 시절에 유일한 <span style="color: indianred">**난방 수단**</span>이었으리라.
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/pelos-de-liamingos-1.jpg" alt="Hairs from llama"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/pelos-de-liamingos-2.jpg" alt="Explanation about llama hairs"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/pelos-de-liamingos-1.jpg" alt="라마 털로 만든 침대"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/pelos-de-liamingos-2.jpg" alt="라마 털로 만든 침대에 관한 설명"> |
 
 <br>
 
 음 뭔가 이국적이라기보다 <span style="color: #8D4801">**꽤 정겨운 느낌의 배경**</span>들인데...
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/blogger-at-ancestral-house-1.jpg" alt="Blogger at ancestral housea"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/blogger-at-ancestral-house-2.jpg" alt="Blogger at ancestral house"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/blogger-at-ancestral-house-1.jpg" alt="과거 조상의 집과 블로거"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/blogger-at-ancestral-house-2.jpg" alt="과거 조상의 집과 블로거"> |
 
 <br>
 
 우리나라의 <span style="color: #8D4801">**가마솥**</span>같이 보이는데 돌 위에 밥을 지어 먹었다고 한다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/cauldron.jpg" alt="Cauldron">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/cauldron.jpg" alt="돌 위에 밥을 짓는 에콰도르의 가마솥">
 </div>
 <br>
 
 <span style="color: #8D4801">**커피를 내릴 때 쓰는 거름막**</span>이라는데 실제로 <span style="color: indianred">**지금도 사용**</span>하는 가정들이 존재한다고 한다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/coffee-filter.jpg" alt="Coffee filter">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/coffee-filter.jpg" alt="커피 거름막">
 </div>
 <br>
 
@@ -115,56 +115,56 @@ description: 2025.08.30 에콰도르 키토에서 적도 박물관 탐방기
 과거에는, 이 건물이 <span style="color: indianred">**소와 투우사의 쇼를 볼 수 있는 투우장**</span>
 이었다고 한다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/orchestra.jpg" alt="Orchestra">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/orchestra.jpg" alt="과거 투우장에서 리허설로 연주 중인 오케스트라">
 </div>
 <br>
 
 경기장을 나와서 걷다 보니 보이던 열차. <span style="color: #8D4801">**전시용이 아니고 실제로 무료로 탑승하여 적도 박물관을 한 바퀴 돌 수 있는 관광열차**</span>였다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/trackless-train.jpg" alt="Trackless train">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/trackless-train.jpg" alt="무궤도 관광열차">
 </div>
 <br>
 
 열차 탑승을 위해 기다리던 중 보이던 <span style="color: #8D4801">**남동생을 위해 그네를 돌려주는 여자아이**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/sister-helping-younger-brother-for-swing.webp" alt="The girl helping her young brother to enjoy the swing">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/sister-helping-younger-brother-for-swing.webp" alt="남동생을 위해 그네를 돌려주는 여자아이">
 </div>
 <br>
 
 사실 적도 박물관이 기념비를 중심으로 그렇게 크지 않아서 <span style="color: indianred">**열차는 한 바퀴에 약 5~6분 정도**</span> 걸렸었다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/blogger-on-trackless-train.jpg" alt="Blogger on trackless train">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/blogger-on-trackless-train.jpg" alt="무궤도 관광열차 위에서 블로거">
 </div>
 <br>
 
 ### 수제 맥주 박물관
 다음 장소로 <span style="color: #8D4801">**맥주 박물관**</span>에 들어가던 중 낯익은 언어를 발견했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/entrance-of-museum-for-craft-beer.jpg" alt="Entrance of museum for craft beer">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/entrance-of-museum-for-craft-beer.jpg" alt="수제 맥주 박물관 입구">
 </div>
 <br>
 
 다른 나라는 없는데 <span style="color: indianred">**한국어 해설이 존재**</span>해서 매우 반가웠다. 적도 박물관 곳곳에서 이런 QR코드를 발견할 수 있었다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/audio-guide-for-korean.jpg" alt="Audio guide for Korean">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/audio-guide-for-korean.jpg" alt="한국어 오디오 해설 QR코드">
 </div>
 <br>
 
 박물관이라기엔 <span style="color: #8D4801">**매우 작고 소소해서**</span> 더운 날에 가볍게 시음으로 목을 축이시러 들르시면 될 것 같다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/process-to-make-craft-beer.jpg" alt="Process to make craft beer">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/process-to-make-craft-beer.jpg" alt="수제 맥주 생산 공정">
 </div>
 <br>
 
 맥주를 내리는 중(?)인 직원
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/the-staff-dropping-beer.webp" alt="The staff dropping beer">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/the-staff-dropping-beer.webp" alt="잔에 맥주를 담는 직원">
 </div>
 <br>
 
 세계의 중심에서 마시는 맥주라니 뭔가 거창한 것 같기도 한데... 아마도 <span style="color: #8D4801">**왼쪽부터 오른쪽으로 갈수록 도수가 높아졌던 것으로 기억하는데 3.5도에서 10도까지**</span> 다양했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/a-tasting-beer-set.jpg" alt="A tasting beer set">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/a-tasting-beer-set.jpg" alt="시음용 수제 맥주 세트">
 </div>
 <br>
 
@@ -172,27 +172,27 @@ description: 2025.08.30 에콰도르 키토에서 적도 박물관 탐방기
 
 팁을 드리며 함께 찍은 사진 왠지 모르게 닮은 것 같기도...?
 <div class="image-slider-auto">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/blogger-with-guitarist-1.jpg" alt="Blogger with Guitarist">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/blogger-with-guitarist-2.jpg" alt="Blogger with Guitarist">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/blogger-with-guitarist-1.jpg" alt="블로거와 기타리스트">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/blogger-with-guitarist-2.jpg" alt="블로거와 기타리스트">
 </div>
 <br>
 
 ### 기념품 가게
 다들 콜럼버스의 달걀 이야기는 들어보셨죠? (아니, 그건 달걀을 깨서 세우는 건데요?) 아무튼 어떤 원리인지는 몰라도 <span style="color: indianred">**중심으로부터 남북으로 2.5km 반경 안에서는 어떤 자기장의 현상으로 인해 달걀이 저렇게 설 수 있다**</span>고 합니다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/a-shopkeeper-putting-up-egg-on-the-nail.webp" alt="A shopkeeper putting up egg on the nail">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/a-shopkeeper-putting-up-egg-on-the-nail.webp" alt="못 위에 달걀을 세우는 가게 주인">
 </div>
 <br>
 
 그래서 저도 해봤는데요? 저는 잘 안되더라고요. 여기 <span style="color: #8D4801">**세우고 10초간 버티면 작은 선물을 주신대서**</span> 열심히 했건만... 근데 기분 탓인지 <span style="color: indianred">**달걀 중심에 무언가 당기는 힘**</span>이 느껴졌던 것만 같아서 신기하긴 했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/blogger-trying-to-put-up-egg-on-the-nail.webp" alt="Blogger trying to put up egg on the nail">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/blogger-trying-to-put-up-egg-on-the-nail.webp" alt="못 위에 달걀을 세우려 시도하는 블로거">
 </div>
 <br>
 
 실패하고 <span style="color: #8D4801">**파나마모자**</span>나 한번 써보는 중
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/blogger-wearing-panama-hat.jpg" alt="Blogger wearing Panama hat">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/blogger-wearing-panama-hat.jpg" alt="파나마모자를 쓴 블로거">
 </div>
 <br>
 
@@ -202,47 +202,47 @@ description: 2025.08.30 에콰도르 키토에서 적도 박물관 탐방기
 약간 에콰도르는 이런 부류의 산업들이 많은데 <span style="color: #8D4801">**원유를 생산하는 산유국**</span>임에도 불구하고 <span style="color: indianred">**정유 공장의 규모가 충분하지 않아 정제된 석유 제품을 일부 수입해서 사용**</span>하고 있다고 한다.
 
 |:---:|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/entrance-of-raqeri-cacao-cafe.jpg" alt="Entrance of raqeri cacao cafe"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/cacao-cake.jpg" alt="Cacao cake"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/raqeri-cacao-cafe.jpg" alt="raqeri cacao cafe"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/entrance-of-raqeri-cacao-cafe.jpg" alt="raqeri cacao 카페 입구"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/cacao-cake.jpg" alt="카카오 케이크"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/raqeri-cacao-cafe.jpg" alt="raqeri cacao 카페"> |
 
 <br>
 
 ### 적도 기념비
 <span style="color: #8D4801">**위도 0 세계의 중심**</span>임을 기념하는 <span style="color: #8D4801">**기념비**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/equatorial-monument-1.jpg" alt="Equatorial monument">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/equatorial-monument-1.jpg" alt="적도 기념비">
 </div>
 <br>
 
 태양광이 적도에 도달할 때 가장 가깝게 수직으로 도달한다던데, 진짜 적도라 그런가 태양이 파랗게 보일 정도로 밝았다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/equatorial-monument-2.jpg" alt="Equatorial monument">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/equatorial-monument-2.jpg" alt="태양과 적도 기념비">
 </div>
 <br>
 
 북쪽도 남쪽도 아닌 <span style="color: indianred">**중심에 한 번 서보았습니다**</span>.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/blogger-standing-on-the-equator.jpg" alt="Blogger standing on the equator">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/blogger-standing-on-the-equator.jpg" alt="북쪽도 남쪽도 아닌 중심에 선 블로거">
 </div>
 <br>
 
 기념비 안에 입장하면 <span style="color: #8D4801">**에콰도르의 역사를 보여주는 박물관**</span>이 존재한다. 판초를 비롯하여 화려한 원주민 복장들
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/clothes-worn-by-the-natives-1.jpg" alt="Clothes worn by the natives"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/clothes-worn-by-the-natives-2.jpg" alt="Clothes worn by the natives"> |
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/clothes-worn-by-the-natives-3.jpg" alt="Clothes worn by the natives"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/clothes-worn-by-the-natives-4.jpg" alt="Clothes worn by the natives"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/clothes-worn-by-the-natives-1.jpg" alt="원주민들이 입었던 화려한 복장들"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/clothes-worn-by-the-natives-2.jpg" alt="원주민들이 입었던 화려한 복장들"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/clothes-worn-by-the-natives-3.jpg" alt="옷을 짜는 원주민"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/clothes-worn-by-the-natives-4.jpg" alt="원주민들이 입었던 화려한 복장들"> |
 
 <br>
 
 옥상에 도달하면 적도를 내려다볼 수 있는 전망대가 존재한다. <span style="color: indianred">**저 노란색 선을 기준으로 지구의 북쪽과 남쪽이 구분**</span>된다니 마냥 신기할 뿐
 <div class="image-slider-auto">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/observatory-on-the-monument-1.jpg" alt="Observatory on the monument">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/observatory-on-the-monument-2.jpg" alt="Observatory on the monument">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/observatory-on-the-monument-1.jpg" alt="적도 기념비 전망대">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/observatory-on-the-monument-2.jpg" alt="적도 기념비 전망대">
 </div>
 <br>
 
 <span style="color: #8D4801">**다윈의 진화론에 발상지 갈라파고스 군도**</span>의 지도. 에콰도르에서 지내는 동안 꼭 가봐야 할 텐데! 따뜻한 곳에서 서식하는 <span style="color: #8D4801">**갈라파고스 펭귄**</span>도 꼭 보고 싶다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/the-map-of-galapagos-islands.jpg" alt="The map of Galápagos Islands">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/the-map-of-galapagos-islands.jpg" alt="갈라파고스 군도의 지도">
 </div>
 <br>
 
@@ -250,32 +250,32 @@ description: 2025.08.30 에콰도르 키토에서 적도 박물관 탐방기
 에콰도르에 존재하는 <span style="color: #8D4801">**정확한 적도를 측량**</span>하기 위해 방문했었다는 프랑스, 스페인의 <span style="color: #8D4801">**탐사단이 사용했다는 도구들**</span>
 
 |:---:|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/france-pavilion-2.jpg" alt="The tools France pavilion used"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/france-pavilion-3.jpg" alt="The tools France pavilion used"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/france-pavilion-4.jpg" alt="The tools France pavilion used"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/france-pavilion-2.jpg" alt="탐사단이 사용했다는 도구"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/france-pavilion-3.jpg" alt="탐사단이 사용했다는 도구 그림"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/france-pavilion-4.jpg" alt="탐사단이 사용했다는 지구본"> |
 
 <br>
 
 <span style="color: indianred">**문제는 당시 그들이 측량한 적도가 사실은 틀렸다**</span>는 것이다. 철석같이 믿었던 적도의 위치는 정확히는 기념비가 아니라 <span style="color: #8D4801">**이곳에서 조금 떨어진 학교 근처**</span>라고 한다. (그래서 그 주변에 새로 박물관을 지었다고...)
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/france-pavilion-1.jpg" alt="France pavilion">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/france-pavilion-1.jpg" alt="프랑스 탐사단">
 </div>
 <br>
 
 ### 천문관
 천문관에 입장하기 위해선 몇 분 동안 대기해야 했는데 그 이유가 <span style="color: #8D4801">**입장하면 대략 10분이 안 되는 시간 동안 태양계의 행성들을 탐험하는 시뮬레이션**</span>을 상영해 준다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/simulation-video-to-space.webp" alt="Simulation video to space">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/simulation-video-to-space.webp" alt="우주를 탐사하는 시뮬레이션을 보여주는 천문관">
 </div>
 <br>
 
 무슨 새인지 모르겠는데 <span style="color: #8D4801">**노란색**</span>으로 귀여웠던 새
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/yellow-bird.webp" alt="Yellow bird">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/yellow-bird.webp" alt="노랑새">
 </div>
 <br>
 
 <span style="color: #8D4801">**적도 박물관 탐방 끄-읕!**</span> 나오는 길에 보이던 많은 노점들
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/street-vendors.jpg" alt="Street vendors">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/street-vendors.jpg" alt="적도 박물관 앞의 노점들">
 </div>
 <br>
 
@@ -284,7 +284,7 @@ description: 2025.08.30 에콰도르 키토에서 적도 박물관 탐방기
 ## Sweet & Coffee 카페
 <span style="color: #8D4801">**에콰도르 커피**</span>로 말랐던 목을 축이고 대화를 나누는 데, <span style="color: indianred">**행상인들이 수차례 와서 자꾸 대화 흐름이 끊겨서**</span> 금방 나왔다. 보통 가게에서 막는다고는 하는데 오늘은 바빠서 못 막았나?
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/sweet-and-coffee-cafe.jpg" alt="Sweet & coffee cafe">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/sweet-and-coffee-cafe.jpg" alt="Sweet & coffee 카페">
 </div>
 <br>
 
@@ -297,7 +297,7 @@ description: 2025.08.30 에콰도르 키토에서 적도 박물관 탐방기
 저녁 식사로 방문했던 한식당 <span style="color: #8D4801">**잡채 메뉴 1개를 시켰는데 두 명인 것을 확인하고 미리 접시 두 개로 나눠**</span>주셔서 좋았다. (근데 잡채 이게 둘로 나눈 양이 맞나...?) 제육 덮밥도 그렇고 <span style="color: indianred">**머나먼 이국에서 진짜 한국의 맛**</span>이 느껴져서 좋았다.
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/japchae-and-rice-with-stir-fried-pork.jpg" alt="Japchae and rice with stir-fried pork"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/blueberry-lemonade-and-citron-tea.jpg" alt="Blueberry lemonade and citron tea"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/japchae-and-rice-with-stir-fried-pork.jpg" alt="잡채와 제육덮밥"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/blueberry-lemonade-and-citron-tea.jpg" alt="블루베리 레모네이드와 유자차"> |
 
 <br>
 
@@ -306,7 +306,7 @@ description: 2025.08.30 에콰도르 키토에서 적도 박물관 탐방기
 
 저녁을 너무 많이 먹어서 소화할 겸 끼센뜨로 몰을 걷던 중 줄이 줄어들지를 않던 가게 나중에 너무 궁금해서 뭔가하고 들려서 봤는데 <span style="color: #8D4801">**특별 할인 행사**</span>를 했던 것 같다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/long-queue-in-quicentro-mall.jpg" alt="Long queue in Quicentro mall">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/long-queue-in-quicentro-mall.jpg" alt="끼쎈뜨로 몰의 긴 줄">
 </div>
 <br>
 

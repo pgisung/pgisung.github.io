@@ -23,7 +23,7 @@ description: 2013.12.16 싱가포르에서 육로를 통해 말레이시아로 �
 급한 김에 이리저리 현지인들에게 물어물어 찾아간 자전거 가게마다 모두 문이 닫혀있어서 완전히 지쳐버렸었는데 <span style="color: indianred">**나중에 알고 보니 자전거 가게 개점 시간이 우리나라에 비해 매우 늦어서**</span> 그랬다...(개점 시간을 모르니 안 해도 될 고생을 사서 했었던) 6곳 정도의 자전거 가게를 오전 내내 돌아다니다가 <span style="color: #8D4801">**오후 1시쯤에 처음에 찾아갔던 가게를 찾아가니 그제야 열려있어서**</span> 자전거를 조립하고 준비를 마쳤다. 
 
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-16-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-5/friend-with-bicycle-engineers.jpg" alt="Friend with bicycle engineers">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-16-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-5/friend-with-bicycle-engineers.jpg" alt="친구와 자전거를 조립해 주신 기술자님들">
 </div>
 <br>
 
@@ -35,19 +35,19 @@ description: 2013.12.16 싱가포르에서 육로를 통해 말레이시아로 �
 ## 첫 라이딩
 이제서야 <span style="color: #8D4801">**진짜 자전거 여행**</span>이 시작되는 기분
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-16-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-5/blogger-and-friend-1.jpg" alt="Blogger and friend with assembled bicycles">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-16-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-5/blogger-and-friend-1.jpg" alt="조립을 완료한 자전거와 사진을 찍는 중인 블로거와 친구">
 </div>
 <br>
 
 <span style="color: #8D4801">**길을 찾는 건 주로 mrkyia가 구글 맵을 이용**</span>했다.(앞으로의 자전거 여행 동안 김네비 역할을 한다.) 싱가포르의 길은 생각 외로 좋았다. 사실상 인도로 많이 달렸지만, 자전거로 주행할 만큼 아주 넓었고 신호 체계도 잘 잡혀있고, 횡단보도도 잘되어있었다. <span style="color: indianred">**특이하게도 횡단보도 신호등은 건널 사람이 스위치를 눌러야 다음 타이밍에 신호가 열리는 방식**</span>이었는데, 버튼의 존재를 몰랐던 우리는 안 누르고 한동안 멍하니 기다리다가 신호등이 고장 난 건지 의심하기도 했었다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-16-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-5/blogger-and-friend-2.jpg" alt="Blogger and friend making ridiculous faces">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-16-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-5/blogger-and-friend-2.jpg" alt="웃기는 표정을 짓는 중인 블로거와 친구">
 </div>
 <br>
 
 싱가포르 도로를 주행하는 동안 보이는 교통수단은 주로 차가 대부분이었고 오토바이와 자전거는 가끔 보일 정도였다. 그렇게 약 30km 정도를 달려 출입국 관리소에 거의 도달했을 무렵에 좌측에 사이클 전용 도로가 나왔는데...
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-16-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-5/the-road-we-were-leaving-singapore.jpg" alt="The road we were leaving Singapore">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-16-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-5/the-road-we-were-leaving-singapore.jpg" alt="싱가포르를 출국하는 도로">
 </div>
 <br>
 
@@ -58,7 +58,7 @@ description: 2013.12.16 싱가포르에서 육로를 통해 말레이시아로 �
 
 <span style="color: #BA8E77">**당시에는 너무나도 당황해서 사진 찍을 겨를도 없었기에 다른 분의 사진을 인용했다.**</span>
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-16-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-5/crowded-queue-of-motorcycles.jpg" alt="The crowded queue of motorcycles">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-16-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-5/crowded-queue-of-motorcycles.jpg" alt="엄청나게 많은 사람이 오토바이를 타고 줄 서 있는 이륜차 도로">
 </div>
 
 <center>
@@ -82,14 +82,14 @@ description: 2013.12.16 싱가포르에서 육로를 통해 말레이시아로 �
 90링겟 방이라기엔 수지타산이 안 맞는 것 같았지만 그래도 나름 괜찮았던 호텔이었는데 (사실 <span style="color: #8D4801">**둘 다 멘탈이 반쯤 날아가서**</span> 그런지 숙소는 싼 곳을 알아보고 다니려고 했었는데 그럴 정신도 없었다.) 몹시 지쳤던 우리는 씻고 휴식을 취하다가 <span style="color: #8D4801">**몰려오는 배고픔**</span>에 호텔 앞 식당에 가서 치킨라이스와 미고랭을 시켰다. <span style="color: #8D4801">**미고랭은 말레이시아의 볶음면 요리로 매콤 고소한 맛**</span>이 너무나도 입맛에 잘 맞아서 이후 여행 중에도 자주 먹었던 걸로 기억한다.
 
 <div class="image-slider-auto">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-16-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-5/blogger-having-dinner.jpg" alt="Blogger having dinner">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-16-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-5/friend-having-dinner.jpg" alt="Friend having dinner">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-16-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-5/blogger-having-dinner.jpg" alt="미고랭으로 저녁을 먹는 중인 블로거">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-16-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-5/friend-having-dinner.jpg" alt="치킨라이스로 저녁을 먹는 중인 친구">
 </div>
 <br>
 
 식사 후 오늘 너무 배고팠던 것을 상기하며 <span style="color: #8D4801">**비상식량으로 초코바**</span>를 몇 개 구매 후 숙소에 돌아와 잠들었다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-16-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-5/night-view-in-johor-bahru.jpg" alt="The night view in Johor bahru">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-16-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-5/night-view-in-johor-bahru.jpg" alt="조호르 바루의 거리 야경">
 </div>
 <br>
 

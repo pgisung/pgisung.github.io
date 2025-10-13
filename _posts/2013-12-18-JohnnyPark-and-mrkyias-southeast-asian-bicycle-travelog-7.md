@@ -26,13 +26,13 @@ description: 2013.12.18 말레이시아 겔랑 파타에서 폰티안까지 이�
 <span style="color: indianred">**아이스티를 마시기 위해 잠시 들렀던 주유소**</span>에서 편의점 직원과 찍었던 사진
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-18-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-7/blogger-with-staff-in-convenience-store.jpg" alt="Blogger with staff in convenience store"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-18-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-7/friend-with-staff-in-convenience-store.jpg" alt="Friend with staff in convenience store"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-18-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-7/blogger-with-staff-in-convenience-store.jpg" alt="편의점 직원과 블로거"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-18-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-7/friend-with-staff-in-convenience-store.jpg" alt="편의점 직원과 친구"> |
 
 <br>
 
 <span style="color: blue">**파란색 사원**</span>도 이쁘네요
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-18-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-7/temple.jpg" alt="Temple">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-18-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-7/temple.jpg" alt="말레이시아의 파란색 사원">
 </div>
 <br>
 
@@ -40,7 +40,7 @@ description: 2013.12.18 말레이시아 겔랑 파타에서 폰티안까지 이�
 
 말레이시아는 <span style="color: indianred">**국토의 15~20% 이상이 팜유 농장**</span>으로 세계에서 <span style="color: #8D4801">**인도네시아 다음으로 가장 많은 팜유를 수출하는 국가**</span>로 알려져 있다. 그래서 라이딩하는 내내 시종일관 어마어마한 팜나무들을 지나다녔다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-18-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-7/federal-route-5.jpg" alt="Federal Route 5">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-18-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-7/federal-route-5.jpg" alt="말레이시아의 5번 국도">
 </div>
 <br>
 
@@ -48,26 +48,26 @@ description: 2013.12.18 말레이시아 겔랑 파타에서 폰티안까지 이�
 
 말레이시아의 강렬한 태양에 매우 목이 말랐던 필자. 말레이시아에서 구매하는 <span style="color: #8D4801">**대부분의 음료에는 거의 코코넛이 포함**</span>되어 있던 것 같다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-18-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-7/blogger-in-thirsty.jpg" alt="Blogger in thirsty">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-18-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-7/blogger-in-thirsty.jpg" alt="자전거를 타던 중 목이 말라서 물을 마시는 중인 블로거">
 </div>
 <br>
 
 이것은 기쁜 표정인가 힘든 표정인가 알 수가 없구려
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-18-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-7/friend-on-riding-1.jpg" alt="Friend on riding bicycle">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-18-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-7/friend-on-riding-1.jpg" alt="자전거를 타는 중인 친구">
 </div>
 <br>
 
 알 것 같다. <span style="color: indianred">**기쁜 표정**</span>이었네!
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-18-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-7/blogger-on-riding.jpg" alt="Blogger on riding bicycle"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-18-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-7/friend-on-riding-2.jpg" alt="Friend on riding bicycle"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-18-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-7/blogger-on-riding.jpg" alt="자전거 위의 블로거"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-18-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-7/friend-on-riding-2.jpg" alt="자전거 위에서 익살스러운 표정을 짓는 중인 친구"> |
 
 <br>
 
 점점 마을이 보이는 것을 보니 <span style="color: #8D4801">**거의 다 도착**</span>한 것 같다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-18-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-7/town-view.jpg" alt="Town view">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-18-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-7/town-view.jpg" alt="말레이시아의 어느 한 마을">
 </div>
 <br>
 
@@ -76,7 +76,7 @@ description: 2013.12.18 말레이시아 겔랑 파타에서 폰티안까지 이�
 ## 폰티안
 도착 기념 샷. 폰티안은 <span style="color: indianred">**바다가 보이는 분위기가 고요한 도시**</span>였다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-18-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-7/blogger-and-friend.jpg" alt="Blogger and friend">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-18-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-7/blogger-and-friend.jpg" alt="폰티안에 도착한 블로거와 친구">
 </div>
 <br>
 
@@ -92,14 +92,14 @@ description: 2013.12.18 말레이시아 겔랑 파타에서 폰티안까지 이�
 
 구글 맵에 평점 테러라도 하고 싶었는데 심지어 <span style="color: indianred">**이 식당은 구글 맵에도 존재하지 않는다**</span>. 인스타그램에서 Aliff Pontian점을 검색하면 <span style="color: #8D4801">**인스타 계정은 있는 듯하다**</span>.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-18-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-7/aliff-restaurant.jpg" alt="Aliff restaurant">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-18-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-7/aliff-restaurant.jpg" alt="알리프 식당의 볶음밥">
 </div>
 <br>
 
 ### 폰티안 케실 공원
 저녁 먹고 소화도 시킬 겸 <span style="color: #8D4801">**바다를 보러 나왔다**</span>.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-18-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-7/pontian-kecil-park.jpg" alt="Pontian Kecil Park">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-18-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-7/pontian-kecil-park.jpg" alt="해변이 보이는 폰티안 케실 공원">
 </div>
 <br>
 
@@ -108,7 +108,7 @@ description: 2013.12.18 말레이시아 겔랑 파타에서 폰티안까지 이�
 
 음... <span style="color: indianred">**조금만 뒤로 가서 찍어도 사진이 훨씬 나을 텐데**</span> 그때의 나에게 조언해 주고 싶다. (<span style="color: #8D4801">**물론 지금도 엄청 잘 찍는 것은 아니지만**</span>)
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-18-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-7/friend-in-pontian-kecil-park-1.jpg" alt="Friend in Pontian Kecil Park">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-18-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-7/friend-in-pontian-kecil-park-1.jpg" alt="폰티안 케실 공원에 친구">
 </div>
 <br>
 
@@ -117,7 +117,7 @@ description: 2013.12.18 말레이시아 겔랑 파타에서 폰티안까지 이�
 길거리에 버려져 있던 자전거와 굳이 같이 찍겠다고들 찍었는데 <span style="color: #8D4801">**그나마라도 자전거가 없었어야**</span> 사진이 나았을텐데...
 
 |:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-18-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-7/blogger-in-pontian-kecil-park.jpg" alt="Blogger in Pontian Kecil Park"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-18-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-7/friend-in-pontian-kecil-park-2.jpg" alt="Friend in Pontian Kecil Park"> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-18-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-7/blogger-in-pontian-kecil-park.jpg" alt="폰티안 케실 공원에서 하늘을 떠받드는 듯한 자세 중인 블로거"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2013-12-18-JohnnyPark-and-mrkyias-southeast-asian-bicycle-travelog-7/friend-in-pontian-kecil-park-2.jpg" alt="폰티안 케실 공원에서 하늘을 찌르고 있는 친구"> |
 
 <br>
 
