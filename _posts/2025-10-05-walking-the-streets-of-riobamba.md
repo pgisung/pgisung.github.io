@@ -15,7 +15,7 @@ description: 2025.10.05 ~ 06 리오밤바 시내 탐방기
 - [엘 차카레로 식당](#엘-차카레로-식당)
 2. [마음먹고 나선 시내 탐방](#마음먹고-나선-시내-탐방)
 - [산 프란시스코 시장](#산-프란시스코-시장)
-- [엘라도스 산 프란시스코](#엘라도스-산-프란시스코)
+- [엘라도스 산 프란시스코 아이스크림 가게](#엘라도스-산-프란시스코-아이스크림-가게)
 - [리오밤바 박물관](#리오밤바-박물관)
 - [수크레 공원](#수크레-공원)
 - [리오밤바 기차역](#리오밤바-기차역)
@@ -179,7 +179,7 @@ description: 2025.10.05 ~ 06 리오밤바 시내 탐방기
 
 <br>
 
-### 엘라도스 산 프란시스코
+### 엘라도스 산 프란시스코 아이스크림 가게
 믿거나 말거나 <span style="color: indianred">**침보라소 화산의 만년설로 만든 아이스크림**</span>이라고 해서 꼭 한 번 방문하려고 했던 가게. 시장 건물 안에 붙어있었는데 아무 생각 없이 직진으로 걸어가다가 구글맵을 확인하고는 이미 한참 지나간 것을 깨닫고 다시 돌아왔다.
 <div class="image-slider-static">
   <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-05-walking-the-streets-of-riobamba/helados-san-francisco.webp" alt="엘라도스 산 프란시스코">
@@ -287,7 +287,7 @@ description: 2025.10.05 ~ 06 리오밤바 시내 탐방기
 
 너무 늦은 시간에 출발하는 표이긴 했지만, <span style="color: indianred">**어차피 과야킬을 거쳐서 돌아가도 도착 시간이 애매한 것은 마찬가지**</span>라고 생각했다.
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-05-walking-the-streets-of-riobamba/the-bus-ticket-going-to-cuenca.webp" alt="쿠엥카로 가는 야간 버스표">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-05-walking-the-streets-of-riobamba/the-bus-ticket-going-to-cuenca.webp" alt="쿠엥카로 가는 고속버스표">
 </div>
 <br>
 
@@ -326,14 +326,14 @@ description: 2025.10.05 ~ 06 리오밤바 시내 탐방기
 ## 여행 경비
 경비는 <span style="color: indianred">**1인 기준**</span>이다.
 
-| 2025.10.05 ~ 06 | 현지 통화 | 원화 |
-|:---:|:---:|:---:|
-| **2025.10.05 저녁 식비** | 13 USD | 18,855원 |
-| **아이스크림** | 0.35 USD | 507원 |
-| **버스 창구 이용료** | 0.2 USD | 290원 |
-| **감자, 곱창** | 2 USD | 2,900원 |
-| **아이스크림** | 0.35 USD | 507원 |
-| <span style="color: #8D4801">**총합**</span> | **15.9 USD** | **23,059원** |
+| 날짜 | 내용 | 현지 통화 | 원화 |
+|:---:|:---:|:---:|:---:|
+| <span style="color: brown">**2025.10.05**</span> | **저녁 식비** | 13 USD | 18,855원 |
+| <span style="color: brown">**2025.10.06**</span> | **아이스크림** | 0.35 USD | 507원 |
+|| **버스 창구 이용료** | 0.2 USD | 290원 |
+|| **감자, 곱창** | 2 USD | 2,900원 |
+|| **아이스크림** | 0.35 USD | 507원 |
+| <span style="color: brown">**2025.10.05 ~ 06**</span> | <span style="color: #8D4801">**총합**</span> | **15.9 USD** | **23,059원** |
 
 <script>
 window.panoramas = [

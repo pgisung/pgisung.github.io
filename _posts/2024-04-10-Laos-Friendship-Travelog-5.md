@@ -22,7 +22,7 @@ description: 2024.04.10 방 비엥에서 동굴 튜빙, 집라인, 카약킹 후
 - [버기카 타고 오는 길](#버기카-타고-오는-길)
 3. [라오스 마지막 밤](#라오스-마지막-밤)
 - [야시장 구경](#야시장-구경)
-- [길거리 샤부샤부](#길거리-샤부샤부)
+- [길거리 샤부샤부 식당](#길거리-샤부샤부-식당)
 4. [여행 경로](#여행-경로)
 5. [여행 경비](#여행-경비)
 
@@ -762,7 +762,7 @@ description: 2024.04.10 방 비엥에서 동굴 튜빙, 집라인, 카약킹 후
 </div>
 <br>
 
-### 길거리 샤부샤부
+### 길거리 샤부샤부 식당
 그렇게 야시장 거리를 걷던 중 눈에 확 들어온 샤부샤부 가게 특히나 <span style="color: brown">**길거리 노상에 항아리에 데워서 먹는 그 감성**</span>에 홀린 듯이 들어가서 자리에 앉았다.
 <div class="image-slider-static">
   <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2024-04-10-Laos-Friendship-Travelog-5/blogger-and-friend1-selecting-foods-to-put-into-hot-pot.webp" alt="샤부샤부 재료를 고르는 중인 블로거와 친구">

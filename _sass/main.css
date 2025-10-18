@@ -768,7 +768,7 @@ blockquote {
   padding: 10px 20px;
   margin: 20px 0;
   font-size: 20px;
-  font-weight: bold;
+  font-weight: 700;
   overflow-y: auto;
   max-height: 500px;
   border-radius: 14px;
@@ -2239,7 +2239,6 @@ a {
 .post-footer .post-footer-list li {
   display: inline-block;
   font-size: 14px;
-  font-weight: 300px;
   margin-right: 32px;
 }
 .post-footer .post-footer-list li:last-child {
@@ -2848,7 +2847,7 @@ div[id*=panorama] {
 .site-footer .footer-lists .list-wrapper .footer-list li .element-info div p {
   display: inline-block;
   margin: 0;
-  font-weight: bold;
+  font-weight: 700;
   font-family: "Gowun Batang", serif;
 }
 .site-footer .footer-lists .list-wrapper .footer-list li .element-info .element-title {
