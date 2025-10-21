@@ -2,6 +2,8 @@
 import { initializeApp } from "https://www.gstatic.com/firebasejs/12.3.0/firebase-app.js";
 // import { getAnalytics } from "firebase/analytics";
 import { getFirestore, collection, doc, getDoc, getDocs, setDoc, updateDoc, deleteDoc, increment, addDoc, serverTimestamp, query, where, limit, orderBy } from "https://www.gstatic.com/firebasejs/12.3.0/firebase-firestore.js";
+import { getAuth, signInWithEmailAndPassword } from "https://www.gstatic.com/firebasejs/12.3.0/firebase-auth.js";
+
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
 
@@ -20,9 +22,21 @@ const firebaseConfig = {
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
+const auth = getAuth(app);
 // const analytics = getAnalytics(app);
 // 오늘 날짜 (YYYY-MM-DD)
 const today = new Date().toISOString().slice(0, 10);
+
+const ownerEmail = "pjisung19@gmail.com";
+const ownerPassword = "20252025";
+
+signInWithEmailAndPassword(auth, ownerEmail, ownerPassword)
+  .then((userCredential) => {
+    console.log("로그인 성공");
+  })
+  .catch((error) => {
+    console.error("로그인 실패:", error);
+  });
 
 // <----- Util functions ----->
 async function incrementCounter(path, field) {

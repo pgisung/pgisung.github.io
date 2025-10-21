@@ -1,4 +1,772 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-10-18T23:00:28+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JohnnyPark</title><subtitle>The growth diary of Software developer JohnnyPark</subtitle><entry><title type="html">우회하여 쿠엥카(Cuenca)에 도달하다</title><link href="http://localhost:4000/travel/ecuador/2025/10/14/reaching-cuenca-by-a-detour/" rel="alternate" type="text/html" title="우회하여 쿠엥카(Cuenca)에 도달하다" /><published>2025-10-14T14:09:46+09:00</published><updated>2025-10-14T14:09:46+09:00</updated><id>http://localhost:4000/travel/ecuador/2025/10/14/reaching-cuenca-by-a-detour</id><content type="html" xml:base="http://localhost:4000/travel/ecuador/2025/10/14/reaching-cuenca-by-a-detour/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-10-21T23:59:40+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JohnnyPark</title><subtitle>The growth diary of Software developer JohnnyPark</subtitle><entry><title type="html">에콰도르 쿠엥카(Cuenca)에서 국경을 넘어 페루 우아라즈(Huaraz)까지</title><link href="http://localhost:4000/travel/peru/2025/10/19/crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/" rel="alternate" type="text/html" title="에콰도르 쿠엥카(Cuenca)에서 국경을 넘어 페루 우아라즈(Huaraz)까지" /><published>2025-10-19T00:57:13+09:00</published><updated>2025-10-19T00:57:13+09:00</updated><id>http://localhost:4000/travel/peru/2025/10/19/crossing-the-border-from-cuenca-ecuador-to-huaraz-peru</id><content type="html" xml:base="http://localhost:4000/travel/peru/2025/10/19/crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/"><![CDATA[<blockquote>
+  <ol>
+    <li><a href="#처음으로-버스를-통해-넘어본-국경">처음으로 버스를 통해 넘어본 국경</a></li>
+    <li><a href="#치클라요-일상">치클라요 일상</a>
+      <ul>
+        <li><a href="#호텔-이탈리아">호텔 이탈리아</a></li>
+        <li><a href="#엘-란초-식당">엘 란초 식당</a></li>
+        <li><a href="#치클라요-시장">치클라요 시장</a></li>
+        <li><a href="#헤브론-식당">헤브론 식당</a></li>
+        <li><a href="#크루즈-델-수르-버스-회사">크루즈 델 수르 버스 회사</a></li>
+      </ul>
+    </li>
+    <li><a href="#논스톱으로-우아라즈로-이동">논스톱으로 우아라즈로 이동</a>
+      <ul>
+        <li><a href="#우아스카란-와시-숙소">우아스카란 와시 숙소</a></li>
+        <li><a href="#돈-비토-식당">돈 비토 식당</a></li>
+      </ul>
+    </li>
+    <li><a href="#우아라즈-일상">우아라즈 일상</a>
+      <ul>
+        <li><a href="#우아라즈-시장">우아라즈 시장</a></li>
+        <li><a href="#칼리마-식당">칼리마 식당</a></li>
+        <li><a href="#트래블러-소울-여행사">트래블러 소울 여행사</a></li>
+      </ul>
+    </li>
+    <li><a href="#여행-경로">여행 경로</a></li>
+    <li><a href="#여행-경비">여행 경비</a></li>
+  </ol>
+</blockquote>
+
+<hr />
+
+<h2 id="처음으로-버스를-통해-넘어본-국경">처음으로 버스를 통해 넘어본 국경</h2>
+<p>근사한 저녁 식사를 마치고 버스 터미널로 이동하는 길. 일단 이때까지의 기분은 <span style="color: #8D4801"><strong>드디어 페루에 들어간다는 설렘</strong></span>이 대부분이었던 것 같다.</p>
+<div class="image-slider-static">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/on-the-way-going-to-cuenca-bus-terminal.webp" alt="택시에 올라 쿠엥카 버스터미널로 가는 길" />
+</div>
+<p><br /></p>
+
+<p><span style="color: indianred"><strong>터미널이 생각보다 넓어서</strong></span> 치클라요 가는 버스가 어디에 정차해 있는지 여쭤봤었다.</p>
+<div class="image-slider-static">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/ticket-gate-in-cuenca-bus-terminal.webp" alt="쿠엥카 버스터미널 표 검문소" />
+</div>
+<p><br /></p>
+
+<p>드디어 오른 <span style="color: brown"><strong>페루행 버스</strong></span>. 버스에 오르기 전 가방을 수하물 칸에 넣기 위해 기다리던 중에 커다란 목소리의 한국말이 들려왔다. <span style="color: #8D4801"><strong>남미에서 한국 사람 찾기 분명 어렵다</strong></span>고 했는데, 필자는 <span style="color: indianred"><strong>가는 데마다 마주치고 있어서</strong></span> 몇 번이나 만나려고 이러나 세어보고 싶어졌다.</p>
+<div class="image-slider-static">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/blogger-on-the-bus-going-to-chiclayo.webp" alt="치클라요로 향하는 버스에서 블로거" />
+</div>
+<p><br /></p>
+
+<p>구글 맵의 예상 시간이 생각보다 정확했었던 것이 <span style="color: #8D4801"><strong>국경을 넘으면서 출입국 절차와 소지품 보안 검색</strong></span>을 진행하는 데 <span style="color: indianred"><strong>약 1시간 15분</strong></span>이 걸렸었고 그래서 <span style="color: #8D4801"><strong>총 이동 시간</strong></span>이 <span style="color: indianred"><strong>약 14시간</strong></span> 걸렸는데 얼추 맞아떨어졌었다.</p>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m34!1m12!1m3!1d2734159.090584302!2d-80.51009284725144!3d-4.896589962517395!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m19!3e0!4m5!1s0x91cd1824680d654f%3A0x185f47d50c039a11!2zNDI1NCs0UlAgVGVybWluYWwgVGVycmVzdHJlIEN1ZW5jYSwgQ3VlbmNhIDAxMDEwMyDsl5DsvbDrj4TrpbQ!3m2!1d-2.8921704!2d-78.99291889999999!4m5!1s0x90339ac1b865bdc7%3A0xcccac1347b224785!2sPeru%20Border%20Care%20Center%20Binacional!3m2!1d-3.5107855!2d-80.25009829999999!4m5!1s0x904ceeee55cff97f%3A0x954d109826966f73!2sChiclayo%20North%20Bus%20Station%2C%20Jos%C3%A9%20Leonardo%20Ortiz!3m2!1d-6.7580898!2d-79.8606157!5e0!3m2!1sko!2spe!4v1760807684716!5m2!1sko!2spe" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<p><br /></p>
+
+<p>새벽 이동 중 꺼져 있던 불이 켜지며 <span style="color: brown"><strong>국경 검문소에 하차</strong></span>했다.</p>
+<div class="image-slider-static">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/on-the-lighted-bus.webp" alt="불 켜진 버스 안" />
+</div>
+<p><br /></p>
+
+<p>다들 졸린 눈 비비며 기다렸던 출입국 절차. 신기하게도 <span style="color: #8D4801"><strong>에콰도르의 출국 심사대와 페루의 입국 심사대가 한 사무실 안에 같이 존재</strong></span>했다. 그래서 <span style="color: indianred"><strong>출국 심사를 마치자마자 입국 심사가 바로 진행</strong></span>된다.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/migration-from-ecuador-to-peru-1.webp" alt="에콰도르와 페루 출입국 심사소" /></td>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/migration-from-ecuador-to-peru-2.webp" alt="에콰도르와 페루 출입국 심사소의 긴 줄" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<p>사실 약 40분 정도 만에 출입국 심사가 완료되고 버스에 탑승하길래 끝난 줄 알았는데, 갑자기 <span style="color: brown"><strong>몇 분 만에 짐을 전부 다 들고 다시 내리라고</strong></span> 하셨다.</p>
+
+<p>이곳에서 또 <span style="color: #8D4801"><strong>약 30분 정도 소지품을 검사</strong></span>하고 버스에 올랐다.</p>
+<div class="image-slider-static">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/on-the-baggage-check.webp" alt="수하물 검사소" />
+</div>
+<p><br /></p>
+
+<p>페루에 입국하자마자 <span style="color: indianred"><strong>바깥의 풍경이 바로 달라져서</strong></span>, 국경을 넘었다는 것이 확 체감되었다.</p>
+<div class="image-slider-static">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/a-vast-expanse-of-peru.webp" alt="페루의 광활한 벌판" />
+</div>
+<p><br /></p>
+
+<p>드디어 도착한 <span style="color: brown"><strong>치클라요 북 터미널</strong></span>. 긴장을 풀지 못한 채로 버스 위에서 선잠을 자면서 오다 보니 굉장히 피곤한 상태에서 일단 <span style="color: #8D4801"><strong>페루의 통화 환전과 모바일 데이터를 해결해야</strong></span>만 했는데,</p>
+
+<p>모바일 데이터가 없다 보니 <span style="color: indianred"><strong>인드라이브조차 쓸 수 없었고 터미널 앞에 기사들과 흥정해야</strong></span>만 했다. 달러로 얼마라고 얘기하길래 알았다고 하고 출발해서 환전하고 Claro 매장 앞에 내려서 계산하는데 페루 솔로 얼마라고 하길래 너무 힘들어서 맞을 거라고 생각하고 줬는데… <span style="color: brown"><strong>나중에 알고 보니 몇 배나 손해</strong></span>를 봤다.</p>
+
+<p>페루의 버스터미널에서는 이런 식의 <span style="color: #8D4801"><strong>사기를 치는 기사들</strong></span>이 많으니까, 모두 <span style="color: indianred"><strong>조심 또 조심</strong></span>하자. (솔직히 나름 조심한다고 생각하고 다녔는데 항상 마음처럼 되지는 않는 것 같다)</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/chiclayo-north-bus-station-1.webp" alt="치클라요 북 터미널" /></td>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/chiclayo-north-bus-station-2.webp" alt="치클라요 북 터미널" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<hr />
+
+<h2 id="치클라요-일상">치클라요 일상</h2>
+<p>택시로 맞은 뒤통수도 얼얼했는데 <span style="color: #8D4801"><strong>도착한 통신사 매장의 상황</strong></span>. 무슨 날이라도 잡은 듯이 어마어마하게 줄이 길었고 심지어 잘 줄어들지도 않아서 <span style="color: indianred"><strong>짐을 들고 있는 채로 1시간을 기다렸다</strong></span>.</p>
+<div class="image-slider-static">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/long-queue-in-claro-shop.webp" alt="클라로 매장 안 긴 줄" />
+</div>
+<p><br /></p>
+
+<p>아하 제가 <span style="color: brown"><strong>기다렸던 줄은 무려 번호표를 받기 위한 줄</strong></span>이었고요. 무려 <span style="color: #8D4801"><strong>30분을 더 기다려서</strong></span> 겨우 필자의 차례가 왔다.</p>
+
+<p>그런데… 매장 직원이 거듭 미안하다며 일이 지연되고 있다고 하시면서 분주하게 돌아다니시는데, 그렇게 <span style="color: indianred"><strong>또 1시간 30분</strong></span>을 기다려서 12kg짜리 가방을 등에 진 채로 <span style="color: brown"><strong>3시간 만에 유심을 구매</strong></span>했다. 에콰도르 키토에서는 그래도 직원 창구까지만 가면 수 분 내에 일 처리가 되었는데, 뭐가 문제였을까?</p>
+<div class="image-slider-static">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/waiting-number-in-claro-shop.webp" alt="클라로 매장 대기 숫자" />
+</div>
+<p><br /></p>
+
+<p>숙소를 잡고 이동할 때까지만 해도 정말 온몸이 물먹은 솜처럼 무거웠는데, <span style="color: #8D4801"><strong>샤워만 하고 나면 멀쩡해지는 마법 같은 컨디션</strong></span>으로 치클라요의 중심 광장을 또 걸어보았었다.</p>
+
+<p>치클라요 대성당 앞에서 사진을 찍던 중 눈 마주친 페루 주민분이 파파 레온 14세에 대해서 장황하게 설명해 주셨다.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/chiclayo-cathedral.webp" alt="치클라요 대성당" /></td>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/blogger-in-chiclayo-cathedral.webp" alt="치클라요 대성당에서 블로거" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<p>치클라요가 그렇게 <span style="color: indianred"><strong>큰 도시는 아니라고 생각했는데도 존재했던 한인 마켓</strong></span>. 반갑기는 했지만, 페루까지 와서 한국 음식 먹고 싶지 않아요</p>
+<div class="image-slider-static">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/korean-market-in-chiclayo.webp" alt="치클라요의 한인 마켓" />
+</div>
+<p><br /></p>
+
+<h3 id="호텔-이탈리아">호텔 이탈리아</h3>
+<p>도착 시간이 어찌 될지 몰라서 에콰도르 출국 전에 <span style="color: brown"><strong>찾아만 놓고 데이터를 구매한 후에나 예약했던 숙소</strong></span>. <span style="color: #8D4801"><strong>바로 앞이 활발한 전통 시장</strong></span>이라서 낮에는 볼거리 덕에 좋았고 늦은 밤에는 위험할까 봐 나가지 않았다.</p>
+<div class="image-slider-static">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/hotel-italia-1.webp" alt="호텔 이탈리아 입구" />
+</div>
+<p><br /></p>
+
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d247.6265069053233!2d-79.83741715550424!3d-6.7669143123045385!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x904ceed6dcf37ecb%3A0x5120fa51c2ba6e9e!2sHotel%20Italia%20I!5e0!3m2!1sko!2spe!4v1760807807168!5m2!1sko!2spe" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<p><br /></p>
+
+<p>작지만, 필자의 기준에는 지낼 만했던 방. 특히 <span style="color: indianred"><strong>노트북을 올려둘 수 있는 책상</strong></span>도 있고 콘센트도 근처에 있어서 좋았다. 하지만 <span style="color: brown"><strong>위생에 민감하신 분들</strong></span>은 지내기 조금 힘들 수도 있겠다고 생각했다.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/hotel-italia-2.webp" alt="호텔 이탈리아 침실" /></td>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/hotel-italia-3.webp" alt="호텔 이탈리아 화장실" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<h3 id="엘-란초-식당">엘 란초 식당</h3>
+<p><span style="color: #8D4801"><strong>숙소 주인분의 추천으로 방문</strong></span>하게 된 점심 식당.</p>
+<div class="image-slider-static">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/el-rancho-restaurant.webp" alt="엘 란초 식당 입구" />
+</div>
+<p><br /></p>
+
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d247.62539196871774!2d-79.83841191977262!3d-6.7690880759222125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x904ceed7b1f1825b%3A0xb8b6a9961379bca0!2sRestaurant%20El%20Rancho!5e0!3m2!1sko!2spe!4v1760807851108!5m2!1sko!2spe" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<p><br /></p>
+
+<p>간판부터 닭이길래 무난하게 주문했던 <span style="color: #8D4801"><strong>닭고기 볶음밥. 맛 또한 무난했던 볶음밥의 맛</strong></span>이었다. 이 요리의 이름은 <span style="color: brown"><strong>Arroz</strong></span> <span style="color: indianred"><strong>chaufa</strong></span> <span style="color: brown"><strong>de pollo</strong></span>인데 다른 글자들은 전부 스페인어이지만 <span style="color: indianred"><strong>chaufa</strong></span>는 항상 번역기가 번역을 못 해서 대체 무슨 말인가 했었는데, <span style="color: indianred"><strong>중국어 차오판(볶음밥)에서 파생된 단어</strong></span>라서 스페인어가 번역을 못 하는 것이었다.</p>
+<div class="image-slider-static">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/arroz-chaufa-de-pollo.webp" alt="닭고기 볶음밥" />
+</div>
+<p><br /></p>
+
+<h3 id="치클라요-시장">치클라요 시장</h3>
+<p>숙소 바로 근처였던 <span style="color: brown"><strong>치클라요 시장</strong></span>. 골목 구석구석까지 따지면 <span style="color: #8D4801"><strong>규모도 엄청 크고 유동 주민들도 매우 많았다</strong></span>.</p>
+<div class="image-slider-static">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/chiclayo-market-1.webp" alt="치클라요 시장" />
+</div>
+<p><br /></p>
+
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1981.015494418343!2d-79.83984164685782!3d-6.76607596740297!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x904ceed7336dafdb%3A0x94a72e4da12bdc8b!2sMercado%20Modelo%20de%20Chiclayo!5e0!3m2!1sko!2spe!4v1760807983336!5m2!1sko!2spe" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<p><br /></p>
+
+<p>기존의 동전 지갑에 달러가 동전으로 너무 많이 남아있어서 <span style="color: indianred"><strong>페루 동전을 담을 지갑을 새로 살 필요</strong></span>가 있었는데, 에콰도르에서 아직 못 간 갈라파고스가 눈에 들어왔다. 가격이 굳이 흥정하지 않아도 4솔로 <span style="color: brown"><strong>매우 저렴했다</strong></span>고 느꼈던 동전 지갑</p>
+<div class="image-slider-static">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/fake-galapagos-coin-purse.webp" alt="가짜 갈라파고스 코인 지갑" />
+</div>
+<p><br /></p>
+
+<p><span style="color: #8D4801"><strong>스페인어로 속을 채운 작은 감자</strong></span>란 뜻을 가진 <span style="color: indianred"><strong>파피타스 레예나스</strong></span>. <span style="color: brown"><strong>속에 으깬 감자와 고기</strong></span>가 들어있었고 <span style="color: brown"><strong>세비체 소스</strong></span>를 올려주셨다. 간단한 요기용으로는 괜찮을 것 같지만, 식사용으로는 다소 양이 부족했다.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/the-stall-selling-papitas-rellenas.webp" alt="파피타스 레예나스를 파는 노점" /></td>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/papitas-rellenas.webp" alt="파피타스 레예나스" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<p>하이에나처럼 먹거리를 찾아 시장을 돌아다니는 중</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/chiclayo-market-2.webp" alt="치클라요 시장" /></td>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/chiclayo-market-3.webp" alt="치클라요 시장" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<p>요리 이름이 무엇이냐고 여쭈었을 때, 주인분께서 <span style="color: #8D4801"><strong>음식은 꼬미냐르, 음료는 시바다라고 발음</strong></span>해 주셨는데 <span style="color: indianred"><strong>아무리 찾아봐도 그런 이름의 요리를 찾을 수가 없었다</strong></span>. 사실 시장 안 대부분의 가게가 비슷하게 이런 요리를 판매하고 있어서 대체로 비슷한 맛일 것 같지만 어쨌든 <span style="color: brown"><strong>맛있었고, 식당에서 외식하는 것보다 가격이 경제적</strong></span>이고 좋아서 한 번 더 방문했었다.</p>
+<div class="image-slider-static">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/fried-rice-and-noodle-in-chiclayo-market.webp" alt="치클라요 시장 안에서 볶음밥과 면" />
+</div>
+<p><br /></p>
+
+<p>사람 심리가 <span style="color: #8D4801"><strong>사람들이 모여있는 곳은 뭔가 특별해 보이는</strong></span>데, 지나가던 중 많은 사람이 컵에 바로바로 떠서 마시는 <span style="color: indianred"><strong>하얀 음료가 무슨 음료일지 궁금</strong></span>했었다.</p>
+
+<p>처음에는 그냥 지나쳤었는데 이 음료가 자꾸 머릿속에서 맴돌아서 <span style="color: brown"><strong>호기심을 견디지 못하고 다시 수백 미터 뒤로 돌아가 마셔보았다</strong></span>.</p>
+
+<p>이름을 여쭤보니 <span style="color: #8D4801"><strong>쏘이아</strong></span>였고 한 컵에 1솔이었는데, <span style="color: indianred"><strong>과하지 않게 달고 고소하게 맛있었다</strong></span>. 나중에 검색해 보니 <span style="color: brown"><strong>콩이나 대두로 만든 음료</strong></span>라고 한다.</p>
+<div class="image-slider-static">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/soya.webp" alt="쏘이아" />
+</div>
+<p><br /></p>
+
+<p><span style="color: purple"><strong>마이스 모라도</strong></span>는 <span style="color: #8D4801"><strong>보라색 옥수수</strong></span>라는 뜻으로 <span style="color: indianred"><strong>페루 안데스산맥에서 재배되는 독특한 옥수수 품종</strong></span>이다. 주로 요리에 사용되는 노란 옥수수와 달리, <span style="color: brown"><strong>주로 삶아서 그 진한 보라색 물을 우려내는 방식에 사용</strong></span>된다고 한다.</p>
+
+<p>이 옥수수는 <span style="color: #8D4801"><strong>잉카 시대 이전부터 재배</strong></span>되어 온 것으로 추정되며, 당시에는 <span style="color: indianred"><strong>신성한 작물</strong></span>로 여겨졌다고 한다.</p>
+<div class="image-slider-static">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/maiz-morado.webp" alt="마이스 모라도" />
+</div>
+<p><br /></p>
+
+<p>친구의 추천으로 알게 되어 그 맛에 흠뻑 빠져서 물 대신 자주 마셨던 <span style="color: purple"><strong>치차 모라다</strong></span> 주스 (<span style="color: brown"><strong>페루에서만 마실 수 있다고요</strong></span>)</p>
+
+<p>처음에는 <span style="color: #8D4801"><strong>마라꾸야나 모라처럼 따로 존재하는 과일인 줄</strong></span> 알았으나, 바로 앞에서 언급한 <span style="color: purple"><strong>마이스 모라도</strong></span>를 삶은 물에 <span style="color: indianred"><strong>파인애플, 사과, 계피, 정향 등을 넣고 끓여서 만들어진다</strong></span>고 한다.</p>
+<div class="image-slider-static">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/chicha-morada-juice-1.webp" alt="치차 모라다 주스" />
+</div>
+<p><br /></p>
+
+<h3 id="헤브론-식당">헤브론 식당</h3>
+<p>식사할 만한 식당을 찾던 중 구글 맵에서 찾았던 식당</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/hebron-restaurant-1.webp" alt="헤브론 식당 간판" /></td>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/hebron-restaurant-2.webp" alt="헤브론 식당 입구" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d495.24670694204275!2d-79.83897757552467!3d-6.773060687706759!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x904cef284f8d5ff1%3A0x9ee66e0a469a724f!2sHebr%C3%B3n%20Restaurant%20%26%20Grill!5e0!3m2!1sko!2spe!4v1760808076410!5m2!1sko!2spe" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<p><br /></p>
+
+<p><span style="color: indianred"><strong>물도 너무 비싸서</strong></span> 결국 뭐라도 마실 거면 좋아하는 걸 마시자고 생각하고 주문한 <span style="color: purple"><strong>치차 모라다</strong></span> 주스 (시장보다 몇 배의 폭리를 취하는 거냐…)</p>
+<div class="image-slider-static">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/chicha-morada-juice-2.webp" alt="치차 모라다 주스" />
+</div>
+<p><br /></p>
+
+<p>메뉴를 뒤적거리다 맘에 드는 요리가 눈에 보이지 않으면 자꾸 까먹고 주문하게 되는 소고기. 이곳 <span style="color: brown"><strong>남미에서 소고기의 익힘 정도를 아는 식당은 단 한 번도 본 적이 없다</strong></span>.</p>
+
+<p>보통 주문할 때 깔끔하게 원하는 메뉴만 시키고 말기 때문에 <span style="color: #8D4801"><strong>직원이랑 길게 얘기하는 경우가 거의 없었는데</strong></span>, 서빙 직원이 자꾸 내가 주문한 메뉴를 <span style="color: indianred"><strong>원하지도 않는, 알아듣지도 못하는 정보를 주저리주저리</strong></span> 늘어놓고 내 말은 자꾸 무시해서 주문 중에 솔직히 피곤했다.</p>
+
+<p>근데 이 직원이 필자가 <span style="color: brown"><strong>식사 중에도 몇 번이고 자꾸만 쳐다보고</strong></span> (참고로 남자 직원이다) <span style="color: #8D4801"><strong>불필요하게 다가와서 말을 걸곤 해서</strong></span> 불편하게 식사를 마쳤는데, <span style="color: indianred"><strong>알고 보니 한국어를 공부하고 싶어서 말을 걸어온 것</strong></span> 같은데 (필자는 밥만 먹으러 왔단 말이다) 아시아인은 봤어도 한국인은 처음이라고 WhatsApp 번호를 물어봤다.</p>
+
+<p>결국 알려주긴 했는데, 그 뒤 대화도 언어가 잘 통하는 것도 아니고 나이도 23으로 젊어서 관심사 자체가 달라서 대화가 잘 이어지지는 않았었다.</p>
+<div class="image-slider-static">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/lomo-saltado.webp" alt="소고기 등심" />
+</div>
+<p><br /></p>
+
+<h3 id="크루즈-델-수르-버스-회사">크루즈 델 수르 버스 회사</h3>
+<p><span style="color: brown"><strong>치클라요에서 우아라즈로 바로 가는 버스가 없기에</strong></span> 우아라즈와 비교적 가까운 <span style="color: indianred"><strong>침보테로 가는 버스를 예약</strong></span>하기 위해 방문했다.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/cruz-del-sur-bus-company-1.webp" alt="크루즈 델 수르 버스 회사 입구" /></td>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/cruz-del-sur-bus-company-2.webp" alt="크루즈 델 수르 버스 회사 내부" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.9492636089735!2d-79.83698800000005!3d-6.776030099999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x904cef293446d0cd%3A0x7ed42734c486b335!2sCruz%20del%20Sur!5e0!3m2!1sko!2spe!4v1760825298476!5m2!1sko!2spe" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<p><br /></p>
+
+<p><span style="color: #8D4801"><strong>치클라요에서 예약한 침보테행 고속버스표</strong></span>. 무슨 표가 이렇게 큰가 했는데 그냥 설문지였다.</p>
+<div class="image-slider-static">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/the-bus-ticket-going-to-chimbote.webp" alt="침보테로 가는 고속버스표" />
+</div>
+<p><br /></p>
+
+<hr />
+
+<h2 id="논스톱으로-우아라즈로-이동">논스톱으로 우아라즈로 이동</h2>
+<p>원래는 <span style="color: #8D4801"><strong>시장 노점으로 가득 차 있던 숙소 앞 거리</strong></span>가 출발하는 아침 너무 이른 시간이라 그런지 <span style="color: indianred"><strong>텅 비어 있었다</strong></span>.</p>
+<div class="image-slider-static">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/the-street-in-front-of-hotel-italia.webp" alt="텅 빈 호텔 이탈리아 앞의 거리" />
+</div>
+<p><br /></p>
+
+<p>버스에 탑승하기 위해서는 비행기에 탑승하는 것처럼 <span style="color: brown"><strong>수하물 맡길 때 가방의 무게를 재고</strong></span>, 체크인 시 <span style="color: #8D4801"><strong>가볍게 온몸 검문</strong></span>도 했는데 조금 귀찮아도 보안에 약간 안심이 되었었다.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/cruz-del-sur-bus-company-3.webp" alt="크루즈 델 수르 버스 회사 수하물 맡기는 곳" /></td>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/cruz-del-sur-bus-company-4.webp" alt="크루즈 델 수르 버스 회사 승강장 입구" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<p>침보테까지 함께할 고속버스. <span style="color: indianred"><strong>버스 앞면에 리마행이라고 적혀있어서 다른 버스인 줄</strong></span> 알고 헤맸는데 직원이 이 버스라고 인도해 주었다.</p>
+<div class="image-slider-static">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/the-bus-going-to-chimbote.webp" alt="침보테로 가는 버스" />
+</div>
+<p><br /></p>
+
+<p>이렇게 좋은 버스는 남미에서 처음 타봐요. <span style="color: brown"><strong>좌석도 넓고 바로 옆에 아무도 없는 데다가</strong></span> <span style="color: indianred"><strong>커튼으로 구분이 되어있어서 개인 공간이 보장</strong></span>되었다.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/blogger-on-the-bus-going-to-chimbote-1.webp" alt="침보테로 가는 버스 위에서 블로거" /></td>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/blogger-on-the-bus-going-to-chimbote-2.webp" alt="침보테로 가는 버스 위에서 블로거" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<p>또한 장거리 이동한다고 <span style="color: #8D4801"><strong>물이랑 이런저런 과자들을 무료로 제공</strong></span>해 줬다.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/water-and-snacks-those-bus-company-offered-1.webp" alt="포장된 버스 회사에서 제공해 준 물과 과자들" /></td>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/water-and-snacks-those-bus-company-offered-2.webp" alt="포장을 푼 버스 회사에서 제공해 준 물과 과자들" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<p>드디어 침보테를 향해 <span style="color: brown"><strong>출발!</strong></span></p>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m34!1m12!1m3!1d166989.98847132252!2d-78.56556724405506!3d-9.165556765051807!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m19!3e0!4m5!1s0x904cef293446d0cd%3A0x7ed42734c486b335!2sCruz%20del%20Sur%2C%20Av.%20Francisco%20Bolognesi%20888%2C%20Chiclayo%2014008!3m2!1d-6.7760301!2d-79.83698799999999!4m5!1s0x91ad3d88c03798a5%3A0x89a7d7e598fa4801!2sCruz%20del%20Sur%2C%20Amazonas%2C%20Trujillo!3m2!1d-8.1038055!2d-79.02362819999999!4m5!1s0x91ab84045765c6a5%3A0xd99c235aa2f87756!2sTerminal%20Terrestre%20Chimbote%2C%20Autopista%20Panamericana%20Norte%2C%20%EC%B9%A8%EB%B3%B4%ED%85%8C!3m2!1d-9.104779299999999!2d-78.5578073!5e0!3m2!1sko!2spe!4v1760808337846!5m2!1sko!2spe" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<p><br /></p>
+
+<p><span style="color: #8D4801"><strong>끝이 보이지 않는 광활한 페루의 자연 경관</strong></span>. 교통편을 오래 탑승하고 있으면 지루할 만도 한데, <span style="color: indianred"><strong>가만히 창밖을 바라만 보고 있어도 뭔지 모를 힐링</strong></span>이 되었다.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/peru-natural-scenary-from-bus-1.webp" alt="버스에서 보는 페루의 자연 경관" /></td>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/peru-natural-scenary-from-bus-2.webp" alt="버스에서 보는 페루의 자연 경관" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<p>가만히 창밖을 보고 있다 보면 같은 모랫바닥인데 어디는 건들지도 않은 듯한 모래사장이고 어디는 그 모래 위에 농사를 짓고 있는데, <span style="color: brown"><strong>두 땅의 차이가 무엇이길래 농사를 짓고 안 짓는지가 결정</strong></span>되는지 궁금했었다.</p>
+<div class="image-slider-static">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/peru-natural-scenary-from-bus-3.webp" alt="버스에서 보는 페루의 자연 경관" />
+</div>
+<p><br /></p>
+
+<p>드디어 <span style="color: #8D4801"><strong>도착한 침보테</strong></span>. <span style="color: indianred"><strong>도착하기까지 약 9시간</strong></span> 걸렸었다.</p>
+<div class="image-slider-static">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/chimbote-bus-terminal.webp" alt="침보테 버스터미널" />
+</div>
+<p><br /></p>
+
+<p>?! <span style="color: brown"><strong>방금 도착한 거 아니었나요?</strong></span></p>
+
+<p>에… 맞는데요. 침보테에 도착하자마자 <span style="color: #8D4801"><strong>10분 후에 우아라즈로 떠나는 버스를 찾았습니다</strong></span>.</p>
+<div class="image-slider-static">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/the-bus-going-to-huaraz.webp" alt="우아라즈로 가는 버스" />
+</div>
+<p><br /></p>
+
+<p>그래서 <span style="color: indianred"><strong>급하게 표를 구매</strong></span>해서 버스에 올랐습니다.</p>
+<div class="image-slider-static">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/the-bus-ticket-going-to-huaraz.webp" alt="우아라즈로 가는 고속버스표" />
+</div>
+<p><br /></p>
+
+<p>그리하여 다시 우아라즈로 <span style="color: brown"><strong>출발!</strong></span></p>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1292609.842861651!2d-78.42412498577863!3d-8.969765501233422!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x91ab84045765c6a5%3A0xd99c235aa2f87756!2sTerminal%20Terrestre%20Chimbote%2C%20Au.%20Panamericana%20N%20770%2C%20Chimbote%2002804!3m2!1d-9.104779299999999!2d-78.5578073!4m5!1s0x91a90d0de44d8e1d%3A0x3681c81af47c0247!2zVHJhbnNwb3J0ZXMgVmlhIENvc3RhLCBQYXNhamUgTWFudWVsIFZpbGxhcsOhbiB5IExvbGksIOyasOyVhOudvOyKpA!3m2!1d-9.5269487!2d-77.5277672!5e0!3m2!1sko!2spe!4v1760808597973!5m2!1sko!2spe" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<p><br /></p>
+
+<p>침보테로 이동할 때 너무 편하게 이동해서 <span style="color: #8D4801"><strong>상대적으로 불편</strong></span>했던 우아라즈행 버스</p>
+<div class="image-slider-static">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/peru-natural-scenary-from-bus-4.webp" alt="버스에서 보는 페루의 자연 경관" />
+</div>
+<p><br /></p>
+
+<p>이것이야말로 <span style="color: indianred"><strong>사막과 바다가 공존하는 배경</strong></span>. 이 풍경을 보고 나서 <span style="color: brown"><strong>치클라요가 아니라 침보테에 좀 더 머물러야 했나 하는 아쉬움</strong></span>이 생겼었다.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/peru-natural-scenary-from-bus-5.webp" alt="버스에서 보는 페루의 자연 경관" /></td>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/peru-natural-scenary-from-bus-6.webp" alt="버스에서 보는 페루의 자연 경관" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<p>어두워져서 <span style="color: #8D4801"><strong>불 꺼진 버스 안</strong></span>. 승객이 더 이상 탑승할 기미가 없자 옆자리 남자가 뒤에 남는 자리로 옮겨가서 이때부터 조금 편하게 갈 수 있었다.</p>
+<div class="image-slider-static">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/on-the-unlighted-bus.webp" alt="불 꺼진 버스 안" />
+</div>
+<p><br /></p>
+
+<p>드디어 산 아래로 <span style="color: indianred"><strong>내려다보이기 시작한 밤의 우아라즈</strong></span></p>
+<div class="image-slider-static">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/huaraz-night-view-from-bus.webp" alt="버스에서 보는 우아라즈의 야경" />
+</div>
+<p><br /></p>
+
+<p><span style="color: brown"><strong>약 5시간</strong></span> 걸린 끝에 오늘의 종착지 <span style="color: #8D4801"><strong>우아라즈에 도착!</strong></span> 사실 도착했을 때까지는 기분이 좋았는데, 우아라즈 <span style="color: indianred"><strong>도시의 첫인상은 그렇게 좋지 않았다</strong></span>.</p>
+
+<p>일단 10시가 다 되어가는 늦은 시각이기도 했고, <span style="color: brown"><strong>거리의 모습과 분위기가 어둡고 흉흉</strong></span>하게 보여서 서둘러서 숙소로의 발걸음을 재촉했다.</p>
+<div class="image-slider-static">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/via-costa-bus-station.webp" alt="비아 코스타 버스 회사 정류장" />
+</div>
+<p><br /></p>
+
+<h3 id="우아스카란-와시-숙소">우아스카란 와시 숙소</h3>
+<p>가격에 비해 <span style="color: #8D4801"><strong>매우 넓은 방과 유용한 가구들이 많았던 숙소</strong></span>. 심지어 TV에 <span style="color: indianred"><strong>넷플릭스도 계정 없이 켜져서</strong></span> ‘이 방 좋네’ 했는데 알고 보니 넷플릭스는 <span style="color: brown"><strong>이전 손님이 로그아웃을 안 하고 갔던 것</strong></span>이다.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/huascaran-wasi-1.webp" alt="우아스카란 와시 숙소 침실" /></td>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/huascaran-wasi-2.webp" alt="우아스카란 와시 숙소 주방" /></td>
+    </tr>
+    <tr>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/huascaran-wasi-3.webp" alt="우아스카란 와시 숙소 화장실" /></td>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/huascaran-wasi-4.webp" alt="우아스카란 와시 숙소 빨래건조대" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d256.37030669345324!2d-77.53268907672032!3d-9.523549009453493!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91a90d5014fba203%3A0xc5b7a7ba5024ba!2sHuascar%C3%A1n%20Wasi!5e0!3m2!1sko!2spe!4v1760808792931!5m2!1sko!2spe" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<p><br /></p>
+
+<p>하지만 숙소는 <span style="color: #8D4801"><strong>방음이 전혀 안 되어서</strong></span> 집중에 방해될 만큼 소음이 심했고, 부킹닷컴의 숙소 이름부터 따뜻한 물이 포함되어 있었지만 <span style="color: indianred"><strong>사실상 따뜻한 물이 안 나오는 것과 다름없었다</strong></span>. 왜냐하면 따뜻하다고 느낄 정도의 수온을 만들려면 <span style="color: brown"><strong>샤워 헤드를 분리하고도 졸졸 흐르는 시냇물보다 못한 수압</strong></span>으로 샤워해야 하기 때문이다. 수압을 올릴 때는 수온이 바로 내려갔다.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/water-pressure-and-water-temperature-in-inverse-proportion-1.webp" alt="우아스카란 와시 숙소 화장실에서 반비례하는 수압과 수온" /></td>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/water-pressure-and-water-temperature-in-inverse-proportion-2.webp" alt="우아스카란 와시 숙소 화장실에서 반비례하는 수압과 수온" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<h3 id="돈-비토-식당">돈 비토 식당</h3>
+<p><span style="color: #8D4801"><strong>공포를 이긴 허기</strong></span>로 인해 빠르게 밥을 먹는 것에 중점을 두고 근처에 문을 연 식당을 찾아 나섰다. (<span style="color: indianred"><strong>배가 고팠지만 진지하게 밥을 먹으러 나갈지 말지 고민</strong></span>을 많이 했었다) 근데 숙소 자체가 살짝 외진 곳에 자리 잡고 있다 보니 <span style="color: brown"><strong>식당이 있을 만한 거리까지 어쩔 수 없이 약 1km는 걸어</strong></span> 나왔던 것 같다.</p>
+<div class="image-slider-static">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/don-vito-restaurant.webp" alt="돈 비토 식당 입구" />
+</div>
+<p><br /></p>
+
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d245.92426100353006!2d-77.5288787484169!3d-9.527124386013623!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91a90d11c6e327f5%3A0x8cdf71326ee4e0d6!2sDon%20Vito%20Pollo%20y%20Parrillas!5e0!3m2!1sko!2spe!4v1760808826260!5m2!1sko!2spe" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<p><br /></p>
+
+<p>주문한 메뉴를 고른 기준은 <span style="color: #8D4801"><strong>치킨과 밥 그리고 계란이 포함된 메뉴</strong></span>로 골랐었다. 솔직히 감자튀김은 잘 먹지도 않아서 <span style="color: indianred"><strong>빼고 싶은데, 메뉴판에 어디를 둘러봐도 죄다 감자튀김을 포함</strong></span>하고 있는 메뉴뿐이었다.</p>
+
+<p>식사하면서 문득 궁금했던 것이 <span style="color: brown"><strong>포크랑 나이프로 뼈 있는 닭을 교양 있게 먹으려면 어떻게 먹어야</strong></span> 하나 싶었다. 이리 굴리고 저리 굴려봐도 손으로 잡지 않으면 먹기 너무나 어려운 것을…</p>
+<div class="image-slider-static">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/don-vito-a-lo-pobre.webp" alt="튀긴 닭 다리와 계란을 얹은 밥, 감자튀김과 샐러드" />
+</div>
+<p><br /></p>
+
+<hr />
+
+<h2 id="우아라즈-일상">우아라즈 일상</h2>
+<p>숙소 계정인 줄 알고 <span style="color: #8D4801"><strong>열심히 한국의 콘텐츠를 시청</strong></span>했더랬다. 계정 주인이 누구신지는 몰라도 뭔가 <span style="color: indianred"><strong>한국 문화를 전파한 기분</strong></span></p>
+<div class="image-slider-static">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/k-pop-demon-hunters-on-tv.webp" alt="TV의 넷플릭스로 재생 중인 &lt;케이팝 데몬 헌터스&gt;" />
+</div>
+<p><br /></p>
+
+<p><span style="color: brown"><strong>우아라즈에도 자리 잡은 한인 마켓</strong></span>. 아직 <span style="color: indianred"><strong>치파 식당들만큼은 아니지만</strong></span> 한국의 문화가 이미 페루에도 많이 퍼져있다는 것을 알 수 있다.</p>
+<div class="image-slider-static">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/korean-market-in-huaraz.webp" alt="우아라즈의 한인 마켓" />
+</div>
+<p><br /></p>
+
+<h3 id="우아라즈-시장">우아라즈 시장</h3>
+<p>치클라요보다 <span style="color: indianred"><strong>시장이 많이 작아서</strong></span> 금방 다 돌아보고 <span style="color: purple"><strong>치차 모라다</strong></span> 주스 사서 숙소에 돌아왔다. (사실 <span style="color: purple"><strong>치차 모라다</strong></span> 사러 갔던 것)</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/huaraz-market-1.webp" alt="우아라즈 시장 내부" /></td>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/huaraz-market-2.webp" alt="우아라즈 시장 내부" /></td>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/huaraz-market-3.webp" alt="우아라즈 시장 외부" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1967.3969500073035!2d-77.53117451358136!3d-9.526627746674995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91a90d117345d801%3A0x8519d99f750af197!2sMercado%20Central%20de%20Huaraz!5e0!3m2!1sko!2spe!4v1760808873497!5m2!1sko!2spe" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<p><br /></p>
+
+<h3 id="칼리마-식당">칼리마 식당</h3>
+<p>뭐야 이 식당은 <span style="color: brown"><strong>구글 평점이 어떻게 이렇게 높을 수가 있지?</strong></span> 하면서 방문했던 식당. 일단 직원들의 반응을 보아하니 평소에 바쁜지 <span style="color: #8D4801"><strong>그다지 친절하지는 않았다</strong></span>.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/calima-restaurant-1.webp" alt="칼리마 식당 입구" /></td>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/calima-restaurant-2.webp" alt="칼리마 식당 내부" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3934.794242847018!2d-77.52796180000003!3d-9.52659799999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91a90dce45df5d4f%3A0x44b3668b06bd69b9!2sCalima%20-%20Restaurant%20%26%20Caf%C3%A9!5e0!3m2!1sko!2spe!4v1760808911494!5m2!1sko!2spe" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<p><br /></p>
+
+<p>어… 근데 이거 입맛을 돋우는 애피타이저 맞죠? 농담 아니고 수프 다 먹고 나니 주메뉴 안 먹었어도 더 이상 배가 고플 것 같지는 않았다. <span style="color: indianred"><strong>아무튼 수프는 양도 맛도 만점</strong></span>이었다.</p>
+
+<p>소고기 등심의 경우에 어쩌다 보니 다시 시키게 되었는데, 이유가 리뷰 중의 하나가 <span style="color: brown"><strong>자기가 페루와서 먹어본 소고기 등심 중 최고</strong></span>였다길래, 뭐가 다른가 하고 시켜봤는데 <span style="color: #8D4801"><strong>솔직히 잘 모르겠더라고요</strong></span></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/appetizer-soup.webp" alt="애피타이저 수프" /></td>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/lomo-saltado-calima.webp" alt="칼리마 식당 식 소고기 등심" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<h3 id="트래블러-소울-여행사">트래블러 소울 여행사</h3>
+<p><span style="color: brown"><strong>우아라즈 중심가 근처</strong></span>에 자리 잡고 있던 <span style="color: #8D4801"><strong>평점 많고 리뷰 괜찮았던 여행사</strong></span>로 어차피 주변 여행사들의 가격대가 비슷해서 사람들이 많이 이용한 곳으로 선택했다.</p>
+
+<p>원체 유명하기도 했지만, 실제로 사진과 자료를 봐도 딱 두 장소가 끌려서 <span style="color: indianred"><strong>라구나 빠론과 라구나 69 트래킹 투어를 예약</strong></span>하고 나왔다.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/traveler-soul-tour-company-1.webp" alt="트래블러 소울 여행사 입구" /></td>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/traveler-soul-tour-company-2.webp" alt="트래블러 소울 여행사 내부" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1967.3878792924909!2d-77.52881949999997!3d-9.5282017!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91a90dfd30212413%3A0xee0ead44e0306354!2sTraveler%20Soul%20Per%C3%BA%20-%20Agencia%20de%20Viajes%20y%20turismo!5e0!3m2!1sko!2spe!4v1760808958903!5m2!1sko!2spe" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<p><br /></p>
+
+<p>아래는 참고용 트래블러 소울 여행사 <span style="color: brown"><strong>투어들 2025년 가격표</strong></span> 및 <a href="https://drive.google.com/file/d/1VQbO6WEdwJGgHzPMkIe5kx7JA6gQg6we/view?usp=sharing" title="트래블러 소울 여행사 투어 정보 문서로 이동">투어 정보</a>이다.</p>
+<div class="image-slider-static">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/tour-prices.webp" alt="트래블러 소울 여행사 투어들 가격표" />
+</div>
+<p><br /></p>
+
+<hr />
+
+<h2 id="여행-경로">여행 경로</h2>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m58!1m12!1m3!1d4058855.6208499824!2d-78.92513157853617!3d-6.2615709556179375!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m43!3e0!4m5!1s0x91cd1824680d654f%3A0x185f47d50c039a11!2sTerminal%20Terrestre%20Cuenca!3m2!1d-2.8921704!2d-78.99291889999999!4m5!1s0x90339ac1b865bdc7%3A0xcccac1347b224785!2sPeru%20Border%20Care%20Center%20Binacional!3m2!1d-3.5107855!2d-80.25009829999999!4m5!1s0x904ceeee55cff97f%3A0x954d109826966f73!2sChiclayo%20North%20Bus%20Station!3m2!1d-6.7580898!2d-79.8606157!4m5!1s0x904cef293446d0cd%3A0x7ed42734c486b335!2sCruz%20del%20Sur!3m2!1d-6.7760301!2d-79.83698799999999!4m5!1s0x91ad3d88c03798a5%3A0x89a7d7e598fa4801!2sCruz%20del%20Sur%2C%20Amazonas%20497%2C%20Trujillo%2013001!3m2!1d-8.1038055!2d-79.02362819999999!4m5!1s0x91ab84045765c6a5%3A0xd99c235aa2f87756!2sTerminal%20Terrestre%20Chimbote!3m2!1d-9.104779299999999!2d-78.5578073!4m5!1s0x91a90d0de44d8e1d%3A0x3681c81af47c0247!2sTransportes%20Via%20Costa%2C%20Pje.%20Manuel%20Villar%C3%A1n%20y%20Loli%20143%2C%20Huaraz%2002001!3m2!1d-9.5269487!2d-77.5277672!5e0!3m2!1sko!2spe!4v1760809127684!5m2!1sko!2spe" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<p><br /></p>
+
+<hr />
+
+<h2 id="여행-경비">여행 경비</h2>
+<p>경비는 <span style="color: indianred"><strong>1인 기준</strong></span>이다.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">2025.10.10</th>
+      <th style="text-align: center">현지 통화</th>
+      <th style="text-align: center">원화</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><strong>인드라이브 택시 교통비</strong></td>
+      <td style="text-align: center">3 USD</td>
+      <td style="text-align: center">3,668원</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><span style="color: #8D4801"><strong>총합</strong></span></td>
+      <td style="text-align: center"><strong>3 USD</strong></td>
+      <td style="text-align: center"><strong>3,668원</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">날짜</th>
+      <th style="text-align: center">내용</th>
+      <th style="text-align: center">현지 통화</th>
+      <th style="text-align: center">원화</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><span style="color: brown"><strong>2025.10.11</strong></span></td>
+      <td style="text-align: center"><strong>터미널 택시 교통비</strong></td>
+      <td style="text-align: center">30 PEN</td>
+      <td style="text-align: center">12,574원</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"><strong>USIM &amp; 30일 데이터 구매</strong></td>
+      <td style="text-align: center">35 PEN</td>
+      <td style="text-align: center">14,670원</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"><strong>치클라요 4박 숙박비</strong></td>
+      <td style="text-align: center">180 PEN</td>
+      <td style="text-align: center">75,447원</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"><strong>점심 식비</strong></td>
+      <td style="text-align: center">35 PEN</td>
+      <td style="text-align: center">14,670원</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"><strong>동전 지갑</strong></td>
+      <td style="text-align: center">4 PEN</td>
+      <td style="text-align: center">1,676원</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"><strong>마트 패드, 잉카 콜라</strong></td>
+      <td style="text-align: center">29 PEN</td>
+      <td style="text-align: center">12,897원</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><span style="color: brown"><strong>2025.10.12</strong></span></td>
+      <td style="text-align: center"><strong>시장 파피타스 레예나스</strong></td>
+      <td style="text-align: center">3 PEN</td>
+      <td style="text-align: center">1,257원</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"><strong>시장 볶음밥과 면</strong></td>
+      <td style="text-align: center">10 PEN</td>
+      <td style="text-align: center">4,191원</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"><strong>시장 쏘이아</strong></td>
+      <td style="text-align: center">1 PEN</td>
+      <td style="text-align: center">419원</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><span style="color: brown"><strong>2025.10.13</strong></span></td>
+      <td style="text-align: center"><strong>저녁 식비</strong></td>
+      <td style="text-align: center">65 PEN</td>
+      <td style="text-align: center">27,103원</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><span style="color: brown"><strong>2025.10.14</strong></span></td>
+      <td style="text-align: center"><strong>시장 볶음밥과 면</strong></td>
+      <td style="text-align: center">10 PEN</td>
+      <td style="text-align: center">4,191원</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"><strong>침보테행 고속버스 교통비</strong></td>
+      <td style="text-align: center">75 PEN</td>
+      <td style="text-align: center">31,462원</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"><strong>치차 모라다 주스 2병</strong></td>
+      <td style="text-align: center">2 PEN</td>
+      <td style="text-align: center">838원</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><span style="color: brown"><strong>2025.10.15</strong></span></td>
+      <td style="text-align: center"><strong>인드라이브 택시 교통비</strong></td>
+      <td style="text-align: center">6 PEN</td>
+      <td style="text-align: center">2,515원</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"><strong>우아라즈행 고속버스 교통비</strong></td>
+      <td style="text-align: center">30 PEN</td>
+      <td style="text-align: center">12,546원</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"><strong>트루히요 버스터미널 화장실 사용료</strong></td>
+      <td style="text-align: center">1 PEN</td>
+      <td style="text-align: center">419원</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"><strong>우아라즈 5박 숙박비</strong></td>
+      <td style="text-align: center">245 PEN</td>
+      <td style="text-align: center">102,471원</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"><strong>저녁 식비</strong></td>
+      <td style="text-align: center">34 PEN</td>
+      <td style="text-align: center">14,219원</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><span style="color: brown"><strong>2025.10.16</strong></span></td>
+      <td style="text-align: center"><strong>치차 모라다 주스 2병</strong></td>
+      <td style="text-align: center">3 PEN</td>
+      <td style="text-align: center">1,254원</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"><strong>점심 겸 저녁 식비</strong></td>
+      <td style="text-align: center">28 PEN</td>
+      <td style="text-align: center">11,344원</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><span style="color: brown"><strong>2025.10.11 ~ 16</strong></span></td>
+      <td style="text-align: center"><span style="color: #8D4801"><strong>총합</strong></span></td>
+      <td style="text-align: center"><strong>826 PEN</strong></td>
+      <td style="text-align: center"><strong>346,163원</strong></td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name></name></author><category term="Travel" /><category term="Peru" /><category term="Peru trip" /><category term="Chiclayo" /><category term="Huaraz" /><category term="페루 여행" /><category term="치클라요" /><category term="우아라즈" /><summary type="html"><![CDATA[2025.10.10 ~ 16 에콰도르 쿠엥카에서 국경을 넘어 페루 우아라즈까지 이동기 및 페루에서의 일상]]></summary></entry><entry><title type="html">우회하여 쿠엥카(Cuenca)에 도달하다</title><link href="http://localhost:4000/travel/ecuador/2025/10/14/reaching-cuenca-by-a-detour/" rel="alternate" type="text/html" title="우회하여 쿠엥카(Cuenca)에 도달하다" /><published>2025-10-14T14:09:46+09:00</published><updated>2025-10-14T14:09:46+09:00</updated><id>http://localhost:4000/travel/ecuador/2025/10/14/reaching-cuenca-by-a-detour</id><content type="html" xml:base="http://localhost:4000/travel/ecuador/2025/10/14/reaching-cuenca-by-a-detour/"><![CDATA[<blockquote>
   <ol>
     <li><a href="#결국-쿠엥카에-닿기까지">결국 쿠엥카에 닿기까지</a>
       <ul>
@@ -169,9 +937,9 @@
 <table>
   <tbody>
     <tr>
-      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-07-reaching-cuenca-by-a-detour/calderon-park-blocked-by-barricade-1.webp" alt="" /></td>
-      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-07-reaching-cuenca-by-a-detour/calderon-park-blocked-by-barricade-2.webp" alt="" /></td>
-      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-07-reaching-cuenca-by-a-detour/calderon-park-blocked-by-barricade-3.webp" alt="" /></td>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-07-reaching-cuenca-by-a-detour/calderon-park-blocked-by-barricade-1.webp" alt="바리케이드로 진입이 완전히 차단되어 있던 칼데론 공원" /></td>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-07-reaching-cuenca-by-a-detour/calderon-park-blocked-by-barricade-2.webp" alt="바리케이드로 진입이 완전히 차단되어 있던 칼데론 공원" /></td>
+      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-07-reaching-cuenca-by-a-detour/calderon-park-blocked-by-barricade-3.webp" alt="바리케이드로 진입이 완전히 차단되어 있던 칼데론 공원" /></td>
     </tr>
   </tbody>
 </table>
@@ -943,7 +1711,7 @@
     </tr>
     <tr>
       <td style="text-align: center"> </td>
-      <td style="text-align: center"><strong>아침 &amp; 점심 식비</strong></td>
+      <td style="text-align: center"><strong>아침 겸 점심 식비</strong></td>
       <td style="text-align: center">5.5 USD</td>
       <td style="text-align: center">8,071원</td>
     </tr>
@@ -5038,442 +5806,4 @@ window.panoramas = [
       <td style="text-align: center"><strong>104,658원</strong></td>
     </tr>
   </tbody>
-</table>]]></content><author><name></name></author><category term="Travel" /><category term="Ecuador" /><category term="Ecuador trip" /><category term="Quito" /><category term="Bolivia visa" /><category term="에콰도르 여행" /><category term="키토" /><category term="볼리비아 비자" /><summary type="html"><![CDATA[2025.09.01 에콰도르 키토에서 볼리비아 비자 발급받을 때 필요한 서류 및 방법, 후기]]></summary></entry><entry><title type="html">위도 0 세계의 중심에 서보다 - 미타 델 문도(Mitad del Mundo), 키토 적도 박물관</title><link href="http://localhost:4000/travel/ecuador/2025/09/02/Mitad-del-Mundo-travelog/" rel="alternate" type="text/html" title="위도 0 세계의 중심에 서보다 - 미타 델 문도(Mitad del Mundo), 키토 적도 박물관" /><published>2025-09-02T08:01:37+09:00</published><updated>2025-09-02T08:01:37+09:00</updated><id>http://localhost:4000/travel/ecuador/2025/09/02/Mitad-del-Mundo-travelog</id><content type="html" xml:base="http://localhost:4000/travel/ecuador/2025/09/02/Mitad-del-Mundo-travelog/"><![CDATA[<blockquote>
-  <ol>
-    <li><a href="#manabiche-los-pinos-식당">Manabiche Los Pinos 식당</a></li>
-    <li><a href="#적도-박물관">적도 박물관</a>
-      <ul>
-        <li><a href="#입구-및-과거-주거-형태">입구 및 과거 주거 형태</a></li>
-        <li><a href="#관광열차">관광열차</a></li>
-        <li><a href="#수제-맥주-박물관">수제 맥주 박물관</a></li>
-        <li><a href="#기념품-가게">기념품 가게</a></li>
-        <li><a href="#raqeri-cacao-카페">raqeri cacao 카페</a></li>
-        <li><a href="#적도-기념비">적도 기념비</a></li>
-        <li><a href="#프랑스-전시관">프랑스 전시관</a></li>
-        <li><a href="#천문관">천문관</a></li>
-      </ul>
-    </li>
-    <li><a href="#sweet--coffee-카페">Sweet &amp; Coffee 카페</a></li>
-    <li><a href="#tasty-korean-food-식당">Tasty Korean Food 식당</a></li>
-    <li><a href="#여행-경로">여행 경로</a></li>
-    <li><a href="#여행-경비">여행 경비</a></li>
-  </ol>
-</blockquote>
-
-<hr />
-
-<h2 id="manabiche-los-pinos-식당">Manabiche Los Pinos 식당</h2>
-<p>유난히 밝았던 아침, 구름 한 점 없이 맑은 날씨에 코토팍시 화산마저 환하게 나를 반겨주는 거리에서 우버를 타고 약속 장소로 이동했다. <span style="color: #8D4801"><strong>맛있는 Encebollado를 먹을 수 있는 식당</strong></span>이라고 추천받은 곳으로 공원 근처의 큰 도로에서 꺾은 후 조금 깊숙이 들어와야 발견할 수 있었다.</p>
-<div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/manabiche-los-pinos-restaurante.jpg" alt="Manabiche Los Pinos 식당" />
-</div>
-<p><br /></p>
-
-<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.8068969863834!2d-78.47731886050795!3d-0.13710649986211698!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d58f1279ae6ee5%3A0x97d2c7f26c4113c9!2sManabiche%20Los%20Pinos!5e0!3m2!1sko!2sec!4v1756619623001!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<p><br /></p>
-
-<p>약속 시간보다 일찍 도착해서 근처 운동장에서 여성분들의 풋살 경기를 구경했다. 풋살처럼 팀당 총 6명씩 뛰었는데, 운동장이 내가 알던 풋살 경기장의 크기가 아니라 거의 축구 경기장 크기보다 약간 작은 정도 같아서 <span style="color: indianred"><strong>풋살하기엔 너무 큰 게 아닌가?</strong></span> 싶었었다.</p>
-
-<p>직장인이나 일반인 중에도 취미로 축구에 진심인 여성분들이 많다던데, 확실히 <span style="color: #8D4801"><strong>축구의 대륙 남미</strong></span>인가 싶었다.</p>
-<div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/women-playing-futsal.jpg" alt="풋살 경기중인 여성분들" />
-</div>
-<p><br /></p>
-
-<p><span style="color: #8D4801"><strong>Encebollado는 에콰도르식 해장국</strong></span>으로 <span style="color: indianred"><strong>참치와 같은 흰살생선, 식감이 감자와 비슷하지만 좀 더 단단한 yuca를 삶아 만든 생선국</strong></span>이라고 생각하면 되는데 비린 느낌은 전혀 없고 오히려 약간 시원한 국물 기반에 새콤한 신맛이 살짝 나는 정도였다. 보통 옥수수, 바나나, 빵에 곁들여 먹고 취향에 따라 국물에 라임을 더 추가하여 해장한다고 한다.</p>
-<div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/encebollados.jpg" alt="Encebollados" />
-</div>
-<p><br /></p>
-
-<hr />
-
-<h2 id="적도-박물관">적도 박물관</h2>
-<p>오늘의 목적지인 적도 박물관은 바이센테니얼 공원 기준으로 약 30분, <span style="color: #8D4801"><strong>카롤리나 공원 기준으로 약 40분 정도 거리로 체감상 마리스칼 수크레 공항과 비슷한 거리</strong></span>에 존재했는데, 우버 <span style="color: indianred"><strong>가격은 절반 이하</strong></span>라는 게 의문이었다.</p>
-<div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/travel-time.jpg" alt="적도 박물관까지 이동 시간" />
-</div>
-<p><br /></p>
-
-<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d89190.7560968259!2d-78.54012425644173!3d-0.05962782082519612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d5881ef89bad91%3A0xb2e1699b00a1a9b8!2sMiddle%20of%20the%20World!5e0!3m2!1sko!2sec!4v1756619687859!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<p><br /></p>
-
-<h3 id="입구-및-과거-주거-형태">입구 및 과거 주거 형태</h3>
-<p>아이들의 방학이어서 그런지 <span style="color: #8D4801"><strong>줄 서 있는 가족 손님이 많았던 Boleteria</strong></span></p>
-<div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/long-queue-at-the-ticket-office.jpg" alt="매표소에 늘어서 있는 긴 줄" />
-</div>
-<p><br /></p>
-
-<p>과거 남미 조상들이 살던 집이라는데 뭔가 <span style="color: #8D4801"><strong>한국의 초가집</strong></span> 같기도 하고 <span style="color: indianred"><strong>지구 반대편에 살던 인간의 삶이 우리와 크게 다르지 않았다는 게</strong></span> 신기했다. 기둥 사진의 그림은 과거 사람들이 <span style="color: #8D4801"><strong>태양을 표현</strong></span>한 그림이라고 한다.</p>
-
-<table>
-  <tbody>
-    <tr>
-      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/ancestral-house-1.jpg" alt="과거 조상의 집" /></td>
-      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/ancestral-house-2.jpg" alt="과거 조상의 집" /></td>
-      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/ancestral-house-3.jpg" alt="과거 조상의 집" /></td>
-    </tr>
-  </tbody>
-</table>
-
-<p><br /></p>
-
-<p>인간에게 매우 중요한 양식이었던 옥수수. 전시용으로 오래 걸려있어서 그런가? 안에 <span style="color: indianred"><strong>옥수수심이 빨간색</strong></span>인 건 처음 보는 것 같은데 아닌가…?</p>
-
-<table>
-  <tbody>
-    <tr>
-      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/corn-1.jpg" alt="옥수수들" /></td>
-      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/corn-2.jpg" alt="심이 빨간색인 옥수수" /></td>
-    </tr>
-  </tbody>
-</table>
-
-<p><br /></p>
-
-<p><span style="color: #8D4801"><strong>라마 한 마리의 털</strong></span>을 통으로 쓴 듯한 침대. 전기장판도 없었을 그 시절에 유일한 <span style="color: indianred"><strong>난방 수단</strong></span>이었으리라.</p>
-
-<table>
-  <tbody>
-    <tr>
-      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/pelos-de-liamingos-1.jpg" alt="라마 털로 만든 침대" /></td>
-      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/pelos-de-liamingos-2.jpg" alt="라마 털로 만든 침대에 관한 설명" /></td>
-    </tr>
-  </tbody>
-</table>
-
-<p><br /></p>
-
-<p>음 뭔가 이국적이라기보다 <span style="color: #8D4801"><strong>꽤 정겨운 느낌의 배경</strong></span>들인데…</p>
-
-<table>
-  <tbody>
-    <tr>
-      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/blogger-at-ancestral-house-1.jpg" alt="과거 조상의 집과 블로거" /></td>
-      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/blogger-at-ancestral-house-2.jpg" alt="과거 조상의 집과 블로거" /></td>
-    </tr>
-  </tbody>
-</table>
-
-<p><br /></p>
-
-<p>우리나라의 <span style="color: #8D4801"><strong>가마솥</strong></span>같이 보이는데 돌 위에 밥을 지어 먹었다고 한다.</p>
-<div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/cauldron.jpg" alt="돌 위에 밥을 짓는 에콰도르의 가마솥" />
-</div>
-<p><br /></p>
-
-<p><span style="color: #8D4801"><strong>커피를 내릴 때 쓰는 거름막</strong></span>이라는데 실제로 <span style="color: indianred"><strong>지금도 사용</strong></span>하는 가정들이 존재한다고 한다.</p>
-<div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/coffee-filter.jpg" alt="커피 거름막" />
-</div>
-<p><br /></p>
-
-<h3 id="관광열차">관광열차</h3>
-<p>오래된 집들을 지나 들어온 경기장 같은 건물. 한 <span style="color: #8D4801"><strong>오케스트라</strong></span>가 관중 없이 연주 중이었는데 오후에 야외 다른 장소에서 또 연주하시는 것을 보았던 것으로 미루어보아 <span style="color: #8D4801"><strong>아마도 리허설</strong></span>이었던 것으로 보인다.</p>
-
-<p>과거에는, 이 건물이 <span style="color: indianred"><strong>소와 투우사의 쇼를 볼 수 있는 투우장</strong></span>
-이었다고 한다.</p>
-<div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/orchestra.jpg" alt="과거 투우장에서 리허설로 연주 중인 오케스트라" />
-</div>
-<p><br /></p>
-
-<p>경기장을 나와서 걷다 보니 보이던 열차. <span style="color: #8D4801"><strong>전시용이 아니고 실제로 무료로 탑승하여 적도 박물관을 한 바퀴 돌 수 있는 관광열차</strong></span>였다.</p>
-<div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/trackless-train.jpg" alt="무궤도 관광열차" />
-</div>
-<p><br /></p>
-
-<p>열차 탑승을 위해 기다리던 중 보이던 <span style="color: #8D4801"><strong>남동생을 위해 그네를 돌려주는 여자아이</strong></span></p>
-<div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/sister-helping-younger-brother-for-swing.webp" alt="남동생을 위해 그네를 돌려주는 여자아이" />
-</div>
-<p><br /></p>
-
-<p>사실 적도 박물관이 기념비를 중심으로 그렇게 크지 않아서 <span style="color: indianred"><strong>열차는 한 바퀴에 약 5~6분 정도</strong></span> 걸렸었다.</p>
-<div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/blogger-on-trackless-train.jpg" alt="무궤도 관광열차 위에서 블로거" />
-</div>
-<p><br /></p>
-
-<h3 id="수제-맥주-박물관">수제 맥주 박물관</h3>
-<p>다음 장소로 <span style="color: #8D4801"><strong>맥주 박물관</strong></span>에 들어가던 중 낯익은 언어를 발견했다.</p>
-<div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/entrance-of-museum-for-craft-beer.jpg" alt="수제 맥주 박물관 입구" />
-</div>
-<p><br /></p>
-
-<p>다른 나라는 없는데 <span style="color: indianred"><strong>한국어 해설이 존재</strong></span>해서 매우 반가웠다. 적도 박물관 곳곳에서 이런 QR코드를 발견할 수 있었다.</p>
-<div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/audio-guide-for-korean.jpg" alt="한국어 오디오 해설 QR코드" />
-</div>
-<p><br /></p>
-
-<p>박물관이라기엔 <span style="color: #8D4801"><strong>매우 작고 소소해서</strong></span> 더운 날에 가볍게 시음으로 목을 축이시러 들르시면 될 것 같다.</p>
-<div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/process-to-make-craft-beer.jpg" alt="수제 맥주 생산 공정" />
-</div>
-<p><br /></p>
-
-<p>맥주를 내리는 중(?)인 직원</p>
-<div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/the-staff-dropping-beer.webp" alt="잔에 맥주를 담는 직원" />
-</div>
-<p><br /></p>
-
-<p>세계의 중심에서 마시는 맥주라니 뭔가 거창한 것 같기도 한데… 아마도 <span style="color: #8D4801"><strong>왼쪽부터 오른쪽으로 갈수록 도수가 높아졌던 것으로 기억하는데 3.5도에서 10도까지</strong></span> 다양했다.</p>
-<div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/a-tasting-beer-set.jpg" alt="시음용 수제 맥주 세트" />
-</div>
-<p><br /></p>
-
-<p>맥주를 마시는 내내 어딘가에서 들어봤음 직한 음악에 기타를 덧대어 연주해 주신 기타리스트. <span style="color: #8D4801"><strong>옆에 계시는 손님들도 자연스럽게 그루브를 타시고 한 곡이 끝날 때마다 박수를 쳐주고 자리를 떠나기 전에 당연한 듯 연주에 대한 값을 치르고 가는 문화</strong></span>가 신기했다.</p>
-
-<p>팁을 드리며 함께 찍은 사진 왠지 모르게 닮은 것 같기도…?</p>
-<div class="image-slider-auto">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/blogger-with-guitarist-1.jpg" alt="블로거와 기타리스트" />
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/blogger-with-guitarist-2.jpg" alt="블로거와 기타리스트" />
-</div>
-<p><br /></p>
-
-<h3 id="기념품-가게">기념품 가게</h3>
-<p>다들 콜럼버스의 달걀 이야기는 들어보셨죠? (아니, 그건 달걀을 깨서 세우는 건데요?) 아무튼 어떤 원리인지는 몰라도 <span style="color: indianred"><strong>중심으로부터 남북으로 2.5km 반경 안에서는 어떤 자기장의 현상으로 인해 달걀이 저렇게 설 수 있다</strong></span>고 합니다.</p>
-<div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/a-shopkeeper-putting-up-egg-on-the-nail.webp" alt="못 위에 달걀을 세우는 가게 주인" />
-</div>
-<p><br /></p>
-
-<p>그래서 저도 해봤는데요? 저는 잘 안되더라고요. 여기 <span style="color: #8D4801"><strong>세우고 10초간 버티면 작은 선물을 주신대서</strong></span> 열심히 했건만… 근데 기분 탓인지 <span style="color: indianred"><strong>달걀 중심에 무언가 당기는 힘</strong></span>이 느껴졌던 것만 같아서 신기하긴 했다.</p>
-<div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/blogger-trying-to-put-up-egg-on-the-nail.webp" alt="못 위에 달걀을 세우려 시도하는 블로거" />
-</div>
-<p><br /></p>
-
-<p>실패하고 <span style="color: #8D4801"><strong>파나마모자</strong></span>나 한번 써보는 중</p>
-<div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/blogger-wearing-panama-hat.jpg" alt="파나마모자를 쓴 블로거" />
-</div>
-<p><br /></p>
-
-<h3 id="raqeri-cacao-카페">raqeri cacao 카페</h3>
-<p>옆에 카카오 박물관이라고는 하는데 아이들 놀이터인 듯 보여서 바로 카페에 들어와 봤다. 이곳에서 판매하는 제품들은 <span style="color: #8D4801"><strong>실제로 에콰도르에서 생산된 카카오들임이 확실</strong></span>하지만 <span style="color: indianred"><strong>가공, 제조는 유럽에서</strong></span> 이뤄지기 때문에 초콜릿들은 유럽산이라고 할 수 있겠다.</p>
-
-<p>약간 에콰도르는 이런 부류의 산업들이 많은데 <span style="color: #8D4801"><strong>원유를 생산하는 산유국</strong></span>임에도 불구하고 <span style="color: indianred"><strong>정유 공장의 규모가 충분하지 않아 정제된 석유 제품을 일부 수입해서 사용</strong></span>하고 있다고 한다.</p>
-
-<table>
-  <tbody>
-    <tr>
-      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/entrance-of-raqeri-cacao-cafe.jpg" alt="raqeri cacao 카페 입구" /></td>
-      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/cacao-cake.jpg" alt="카카오 케이크" /></td>
-      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/raqeri-cacao-cafe.jpg" alt="raqeri cacao 카페" /></td>
-    </tr>
-  </tbody>
-</table>
-
-<p><br /></p>
-
-<h3 id="적도-기념비">적도 기념비</h3>
-<p><span style="color: #8D4801"><strong>위도 0 세계의 중심</strong></span>임을 기념하는 <span style="color: #8D4801"><strong>기념비</strong></span></p>
-<div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/equatorial-monument-1.jpg" alt="적도 기념비" />
-</div>
-<p><br /></p>
-
-<p>태양광이 적도에 도달할 때 가장 가깝게 수직으로 도달한다던데, 진짜 적도라 그런가 태양이 파랗게 보일 정도로 밝았다.</p>
-<div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/equatorial-monument-2.jpg" alt="태양과 적도 기념비" />
-</div>
-<p><br /></p>
-
-<p>북쪽도 남쪽도 아닌 <span style="color: indianred"><strong>중심에 한 번 서보았습니다</strong></span>.</p>
-<div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/blogger-standing-on-the-equator.jpg" alt="북쪽도 남쪽도 아닌 중심에 선 블로거" />
-</div>
-<p><br /></p>
-
-<p>기념비 안에 입장하면 <span style="color: #8D4801"><strong>에콰도르의 역사를 보여주는 박물관</strong></span>이 존재한다. 판초를 비롯하여 화려한 원주민 복장들</p>
-
-<table>
-  <tbody>
-    <tr>
-      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/clothes-worn-by-the-natives-1.jpg" alt="원주민들이 입었던 화려한 복장들" /></td>
-      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/clothes-worn-by-the-natives-2.jpg" alt="원주민들이 입었던 화려한 복장들" /></td>
-    </tr>
-    <tr>
-      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/clothes-worn-by-the-natives-3.jpg" alt="옷을 짜는 원주민" /></td>
-      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/clothes-worn-by-the-natives-4.jpg" alt="원주민들이 입었던 화려한 복장들" /></td>
-    </tr>
-  </tbody>
-</table>
-
-<p><br /></p>
-
-<p>옥상에 도달하면 적도를 내려다볼 수 있는 전망대가 존재한다. <span style="color: indianred"><strong>저 노란색 선을 기준으로 지구의 북쪽과 남쪽이 구분</strong></span>된다니 마냥 신기할 뿐</p>
-<div class="image-slider-auto">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/observatory-on-the-monument-1.jpg" alt="적도 기념비 전망대" />
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/observatory-on-the-monument-2.jpg" alt="적도 기념비 전망대" />
-</div>
-<p><br /></p>
-
-<p><span style="color: #8D4801"><strong>다윈의 진화론에 발상지 갈라파고스 군도</strong></span>의 지도. 에콰도르에서 지내는 동안 꼭 가봐야 할 텐데! 따뜻한 곳에서 서식하는 <span style="color: #8D4801"><strong>갈라파고스 펭귄</strong></span>도 꼭 보고 싶다.</p>
-<div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/the-map-of-galapagos-islands.jpg" alt="갈라파고스 군도의 지도" />
-</div>
-<p><br /></p>
-
-<h3 id="프랑스-전시관">프랑스 전시관</h3>
-<p>에콰도르에 존재하는 <span style="color: #8D4801"><strong>정확한 적도를 측량</strong></span>하기 위해 방문했었다는 프랑스, 스페인의 <span style="color: #8D4801"><strong>탐사단이 사용했다는 도구들</strong></span></p>
-
-<table>
-  <tbody>
-    <tr>
-      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/france-pavilion-2.jpg" alt="탐사단이 사용했다는 도구" /></td>
-      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/france-pavilion-3.jpg" alt="탐사단이 사용했다는 도구 그림" /></td>
-      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/france-pavilion-4.jpg" alt="탐사단이 사용했다는 지구본" /></td>
-    </tr>
-  </tbody>
-</table>
-
-<p><br /></p>
-
-<p><span style="color: indianred"><strong>문제는 당시 그들이 측량한 적도가 사실은 틀렸다</strong></span>는 것이다. 철석같이 믿었던 적도의 위치는 정확히는 기념비가 아니라 <span style="color: #8D4801"><strong>이곳에서 조금 떨어진 학교 근처</strong></span>라고 한다. (그래서 그 주변에 새로 박물관을 지었다고…)</p>
-<div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/france-pavilion-1.jpg" alt="프랑스 탐사단" />
-</div>
-<p><br /></p>
-
-<h3 id="천문관">천문관</h3>
-<p>천문관에 입장하기 위해선 몇 분 동안 대기해야 했는데 그 이유가 <span style="color: #8D4801"><strong>입장하면 대략 10분이 안 되는 시간 동안 태양계의 행성들을 탐험하는 시뮬레이션</strong></span>을 상영해 준다.</p>
-<div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/simulation-video-to-space.webp" alt="우주를 탐사하는 시뮬레이션을 보여주는 천문관" />
-</div>
-<p><br /></p>
-
-<p>무슨 새인지 모르겠는데 <span style="color: #8D4801"><strong>노란색</strong></span>으로 귀여웠던 새</p>
-<div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/yellow-bird.webp" alt="노랑새" />
-</div>
-<p><br /></p>
-
-<p><span style="color: #8D4801"><strong>적도 박물관 탐방 끄-읕!</strong></span> 나오는 길에 보이던 많은 노점들</p>
-<div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/street-vendors.jpg" alt="적도 박물관 앞의 노점들" />
-</div>
-<p><br /></p>
-
-<hr />
-
-<h2 id="sweet--coffee-카페">Sweet &amp; Coffee 카페</h2>
-<p><span style="color: #8D4801"><strong>에콰도르 커피</strong></span>로 말랐던 목을 축이고 대화를 나누는 데, <span style="color: indianred"><strong>행상인들이 수차례 와서 자꾸 대화 흐름이 끊겨서</strong></span> 금방 나왔다. 보통 가게에서 막는다고는 하는데 오늘은 바빠서 못 막았나?</p>
-<div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/sweet-and-coffee-cafe.jpg" alt="Sweet &amp; coffee 카페" />
-</div>
-<p><br /></p>
-
-<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d865.326164581857!2d-78.4801961187489!3d-0.17987820988299946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a8141487355%3A0x8e013addeaa2a179!2sSweet%20%26%20Coffee%20%E2%80%A2%20Rep%C3%BAblica%20de%20El%20Salvador!5e0!3m2!1sko!2sec!4v1756619753560!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<p><br /></p>
-
-<hr />
-
-<h2 id="tasty-korean-food-식당">Tasty Korean Food 식당</h2>
-<p>저녁 식사로 방문했던 한식당 <span style="color: #8D4801"><strong>잡채 메뉴 1개를 시켰는데 두 명인 것을 확인하고 미리 접시 두 개로 나눠</strong></span>주셔서 좋았다. (근데 잡채 이게 둘로 나눈 양이 맞나…?) 제육 덮밥도 그렇고 <span style="color: indianred"><strong>머나먼 이국에서 진짜 한국의 맛</strong></span>이 느껴져서 좋았다.</p>
-
-<table>
-  <tbody>
-    <tr>
-      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/japchae-and-rice-with-stir-fried-pork.jpg" alt="잡채와 제육덮밥" /></td>
-      <td><img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/blueberry-lemonade-and-citron-tea.jpg" alt="블루베리 레모네이드와 유자차" /></td>
-    </tr>
-  </tbody>
-</table>
-
-<p><br /></p>
-
-<iframe data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d997.4498850297531!2d-78.47874846946739!3d-0.17579706742542914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d59a7c342eadad%3A0xb325d53a1b2e9ea6!2sTasty%20Korean%20Food!5e0!3m2!1sko!2sec!4v1756619787486!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<p><br /></p>
-
-<p>저녁을 너무 많이 먹어서 소화할 겸 끼센뜨로 몰을 걷던 중 줄이 줄어들지를 않던 가게 나중에 너무 궁금해서 뭔가하고 들려서 봤는데 <span style="color: #8D4801"><strong>특별 할인 행사</strong></span>를 했던 것 같다.</p>
-<div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-30-Mitad-del-Mundo-travelog/long-queue-in-quicentro-mall.jpg" alt="끼쎈뜨로 몰의 긴 줄" />
-</div>
-<p><br /></p>
-
-<hr />
-
-<h2 id="여행-경로">여행 경로</h2>
-<iframe data-src="https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d87962.75408984741!2d-78.49230865106448!3d-0.10116905279532266!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e0!4m5!1s0x91d59a85e62ca895%3A0x217098644d0182ff!2sRGF7%2B7XM%20Centro%20Comercial%20I%C3%B1aquito%20(CCI)%2C%20Av.%20Naciones%20Unidas%2C%20Quito%20170506!3m2!1d-0.1767993!2d-78.4850658!4m5!1s0x91d58f1279ae6ee5%3A0x97d2c7f26c4113c9!2zTWFuYWJpY2hlIExvcyBQaW5vcywgQ2FsbGUsIO2CpO2GoA!3m2!1d-0.1371065!2d-78.4747493!4m5!1s0x91d5881ef89bad91%3A0xb2e1699b00a1a9b8!2sMiddle%20of%20the%20World%2C%20Avenida%20Manuel%20C%C3%B3rdova%20Galarza%2C%20%ED%82%A4%ED%86%A0!3m2!1d-0.0021692!2d-78.45582499999999!4m5!1s0x91d59a8141487355%3A0x8e013addeaa2a179!2zU3dlZXQgJiBDb2ZmZWUg4oCiIFJlcMO6YmxpY2EgZGUgRWwgU2FsdmFkb3IsIEF2ZW5pZGEgUmVww7pibGljYSBkZSBFbCBTYWx2YWRvciwg7YKk7Yag!3m2!1d-0.17947839999999998!2d-78.479698!4m5!1s0x91d59a7c342eadad%3A0xb325d53a1b2e9ea6!2zVGFzdHkgS29yZWFuIEZvb2QsIEVsIERpYSwg7YKk7Yag!3m2!1d-0.1757967!2d-78.47836629999999!5e0!3m2!1sko!2sec!4v1757349017572!5m2!1sko!2sec" allowfullscreen="" title="Google map embed" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<p><br /></p>
-
-<hr />
-
-<h2 id="여행-경비">여행 경비</h2>
-<p>경비는 <span style="color: indianred"><strong>2인 기준</strong></span>이다.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align: center">2025.08.30</th>
-      <th style="text-align: center">현지 통화</th>
-      <th style="text-align: center">원화</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: center"><strong>우버 택시 교통비</strong></td>
-      <td style="text-align: center">2.72 USD</td>
-      <td style="text-align: center">3,775원</td>
-    </tr>
-    <tr>
-      <td style="text-align: center"><strong>아침 식비</strong></td>
-      <td style="text-align: center">15 USD</td>
-      <td style="text-align: center">20,850원</td>
-    </tr>
-    <tr>
-      <td style="text-align: center"><strong>우버 택시 교통비</strong></td>
-      <td style="text-align: center">7.27 USD</td>
-      <td style="text-align: center">10,106원</td>
-    </tr>
-    <tr>
-      <td style="text-align: center"><strong>적도 박물관 입장료</strong></td>
-      <td style="text-align: center">10 USD</td>
-      <td style="text-align: center">13,900원</td>
-    </tr>
-    <tr>
-      <td style="text-align: center"><strong>열쇠고리 기념품</strong></td>
-      <td style="text-align: center">1 USD</td>
-      <td style="text-align: center">1,390원</td>
-    </tr>
-    <tr>
-      <td style="text-align: center"><strong>맥주 시음</strong></td>
-      <td style="text-align: center">7.01 USD</td>
-      <td style="text-align: center">9,741원</td>
-    </tr>
-    <tr>
-      <td style="text-align: center"><strong>초콜릿케이크</strong></td>
-      <td style="text-align: center">5 USD</td>
-      <td style="text-align: center">6,950원</td>
-    </tr>
-    <tr>
-      <td style="text-align: center"><strong>우버 택시 교통비</strong></td>
-      <td style="text-align: center">11.16 USD</td>
-      <td style="text-align: center">15,515원</td>
-    </tr>
-    <tr>
-      <td style="text-align: center"><strong>카페</strong></td>
-      <td style="text-align: center">8.01 USD</td>
-      <td style="text-align: center">11,133원</td>
-    </tr>
-    <tr>
-      <td style="text-align: center"><strong>저녁 식비</strong></td>
-      <td style="text-align: center">26.03 USD</td>
-      <td style="text-align: center">36,184원</td>
-    </tr>
-    <tr>
-      <td style="text-align: center"><span style="color: #8D4801"><strong>총합</strong></span></td>
-      <td style="text-align: center"><strong>93.2 USD</strong></td>
-      <td style="text-align: center"><strong>129,544원</strong></td>
-    </tr>
-  </tbody>
-</table>]]></content><author><name></name></author><category term="Travel" /><category term="Ecuador" /><category term="Ecuador trip" /><category term="Quito" /><category term="Mitad del Mundo" /><category term="Latitude 0" /><category term="에콰도르 여행" /><category term="키토" /><category term="미타 델 문도" /><category term="위도 0" /><summary type="html"><![CDATA[2025.08.30 에콰도르 키토에서 적도 박물관 탐방기]]></summary></entry></feed>
+</table>]]></content><author><name></name></author><category term="Travel" /><category term="Ecuador" /><category term="Ecuador trip" /><category term="Quito" /><category term="Bolivia visa" /><category term="에콰도르 여행" /><category term="키토" /><category term="볼리비아 비자" /><summary type="html"><![CDATA[2025.09.01 에콰도르 키토에서 볼리비아 비자 발급받을 때 필요한 서류 및 방법, 후기]]></summary></entry></feed>

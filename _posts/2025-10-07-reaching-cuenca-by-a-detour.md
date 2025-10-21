@@ -126,7 +126,7 @@ description: 2025.10.07 ~ 10 리오밤바에서 쿠엥카까지 이동기 및 �
 나중에 알게 된 사실이 <span style="color: #8D4801">**반정부 시위대가 돌과 총까지 사용하며 대통령 차량 행렬을 습격**</span>하는 사건이 벌어지는 바람에 <span style="color: indianred">**정부 인사들의 경호 차원에서 차단**</span>했던 것으로 보였다.
 
 |:---:|:---:|:---:|
-| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-07-reaching-cuenca-by-a-detour/calderon-park-blocked-by-barricade-1.webp" alt=""> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-07-reaching-cuenca-by-a-detour/calderon-park-blocked-by-barricade-2.webp" alt=""> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-07-reaching-cuenca-by-a-detour/calderon-park-blocked-by-barricade-3.webp" alt=""> |
+| <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-07-reaching-cuenca-by-a-detour/calderon-park-blocked-by-barricade-1.webp" alt="바리케이드로 진입이 완전히 차단되어 있던 칼데론 공원"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-07-reaching-cuenca-by-a-detour/calderon-park-blocked-by-barricade-2.webp" alt="바리케이드로 진입이 완전히 차단되어 있던 칼데론 공원"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-07-reaching-cuenca-by-a-detour/calderon-park-blocked-by-barricade-3.webp" alt="바리케이드로 진입이 완전히 차단되어 있던 칼데론 공원"> |
 
 <br>
 
@@ -688,7 +688,7 @@ description: 2025.10.07 ~ 10 리오밤바에서 쿠엥카까지 이동기 및 �
 || **콜라** | 1.5 USD | 2,136원 |
 | <span style="color: brown">**2025.10.10**</span> | **인드라이브 택시 교통비** | 2.5 USD | 3,560원 |
 || **치클라요행 고속버스 교통비** | 35.1 USD | 50,207원 |
-|| **아침 & 점심 식비** | 5.5 USD | 8,071원 |
+|| **아침 겸 점심 식비** | 5.5 USD | 8,071원 |
 || **인드라이브 택시 교통비** | 4 USD | 5,870원 |
 || **저녁 식비** | 37.1 USD | 54,445원 |
 | <span style="color: brown">**2025.10.07 ~ 10**</span> | <span style="color: #8D4801">**총합**</span> | **195.14 USD** | **281,229원** |
