@@ -2685,6 +2685,10 @@ div[id*=panorama] {
 }
 .top i {
   line-height: 0;
+  -webkit-transition: -webkit-transform 0.35s ease;
+  transition: -webkit-transform 0.35s ease;
+  transition: transform 0.35s ease;
+  transition: transform 0.35s ease, -webkit-transform 0.35s ease;
 }
 .top.top-active {
   right: 20px;
@@ -2693,6 +2697,11 @@ div[id*=panorama] {
   color: #8E828E;
   opacity: 1;
   border-color: #8E828E;
+}
+.top:hover i {
+  -webkit-transform: translate(0px, -3px);
+      -ms-transform: translate(0px, -3px);
+          transform: translate(0px, -3px);
 }
 
 /* 8. ========== Pagination Styles ========== */

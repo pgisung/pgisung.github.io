@@ -458,7 +458,7 @@ description: 2025.10.10 ~ 16 에콰도르 쿠엥카에서 국경을 넘어 페�
 ### 트래블러 소울 여행사
 <span style="color: brown">**우아라즈 중심가 근처**</span>에 자리 잡고 있던 <span style="color: #8D4801">**평점 많고 리뷰 괜찮았던 여행사**</span>로 어차피 주변 여행사들의 가격대가 비슷해서 사람들이 많이 이용한 곳으로 선택했다.
 
-원체 유명하기도 했지만, 실제로 사진과 자료를 봐도 딱 두 장소가 끌려서 <span style="color: indianred">**라구나 빠론과 라구나 69 트래킹 투어를 예약**</span>하고 나왔다.
+원체 유명하기도 했지만, 실제로 사진과 자료를 봐도 딱 두 장소가 끌려서 <span style="color: indianred">**라구나 빠론과 라구나 69 트레킹 투어를 예약**</span>하고 나왔다.
 
 |:---:|:---:|
 | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/traveler-soul-tour-company-1.webp" alt="트래블러 소울 여행사 입구"> | <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-10-10-crossing-the-border-from-cuenca-ecuador-to-huaraz-peru/traveler-soul-tour-company-2.webp" alt="트래블러 소울 여행사 내부"> |

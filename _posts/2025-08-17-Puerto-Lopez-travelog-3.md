@@ -90,7 +90,7 @@ description: 2025.08.17 플라타 섬 투어 이야기
 </div>
 <br>
 
-입도하기 직전 가이드가 <span style="color: indianred">**신고 있던 신발을 모두 벗어서**</span> 안쪽에 두고 섬 트래킹할 때 신을 <span style="color: indianred">**트래킹 신발을 손에 들고 내리라고**</span> 하는데, 그 이유는 <span style="color: #8D4801">**마땅한 선착장이 없고 보트가 모래사장까지 올라올 순 없어서**</span> 물 위로 하선해야 하기 때문이다. 
+입도하기 직전 가이드가 <span style="color: indianred">**신고 있던 신발을 모두 벗어서**</span> 안쪽에 두고 섬 트레킹할 때 신을 <span style="color: indianred">**트레킹 신발을 손에 들고 내리라고**</span> 하는데, 그 이유는 <span style="color: #8D4801">**마땅한 선착장이 없고 보트가 모래사장까지 올라올 순 없어서**</span> 물 위로 하선해야 하기 때문이다. 
 <div class="image-slider-static">
   <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/the-coast-of-plata-island.jpg" alt="플라타 섬의 해안가">
 </div>
@@ -108,7 +108,7 @@ description: 2025.08.17 플라타 섬 투어 이야기
 </div>
 <br>
 
-이곳 플라타 섬 보호 센터에는 <span style="color: indianred">**무료로 사용할 수 있는 화장실**</span>도 있어서 섬 트래킹 시작 전에 다녀오면 된다.
+이곳 플라타 섬 보호 센터에는 <span style="color: indianred">**무료로 사용할 수 있는 화장실**</span>도 있어서 섬 트레킹 시작 전에 다녀오면 된다.
 <div class="image-slider-static">
   <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/plata-island-protection-center-2.jpg" alt="플라타 섬 보호 센터">
 </div>
@@ -124,11 +124,11 @@ description: 2025.08.17 플라타 섬 투어 이야기
 </div>
 <br>
 
-드디어 트래킹 출발! <span style="color: indianred">**다녀온 사람들 후기를 읽어보면 덥고 힘들기만**</span> 했다. <span style="color: indianred">**목이 너무 말랐다**</span>. 이런 후기들이 많아서 물도 한 통 챙기고 <span style="color: #8D4801">**걱정했는데**</span>
+드디어 트레킹 출발! <span style="color: indianred">**다녀온 사람들 후기를 읽어보면 덥고 힘들기만**</span> 했다. <span style="color: indianred">**목이 너무 말랐다**</span>. 이런 후기들이 많아서 물도 한 통 챙기고 <span style="color: #8D4801">**걱정했는데**</span>
 
-시즌이 달랐던 건지 날씨가 다른 건지 아무튼 푸에르토 로페스 머무는 내내 맑은 날이 없어서 <span style="color: #8D4801">**오히려 선선하고 시원한 환경에서 트래킹해서**</span> 더운 것은 몰랐고, 앞에 가족이 느려서인지 모르겠지만 <span style="color: #8D4801">**매우 천천히 이동**</span>해서 사실 힘들 기회도 없었다...
+시즌이 달랐던 건지 날씨가 다른 건지 아무튼 푸에르토 로페스 머무는 내내 맑은 날이 없어서 <span style="color: #8D4801">**오히려 선선하고 시원한 환경에서 트레킹해서**</span> 더운 것은 몰랐고, 앞에 가족이 느려서인지 모르겠지만 <span style="color: #8D4801">**매우 천천히 이동**</span>해서 사실 힘들 기회도 없었다...
 <div class="image-slider-static">
-  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/trekking-start.jpg" alt="트래킹을 시작하는 우리 여행사 그룹">
+  <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/trekking-start.jpg" alt="트레킹을 시작하는 우리 여행사 그룹">
 </div>
 <br>
 
@@ -334,7 +334,7 @@ description: 2025.08.17 플라타 섬 투어 이야기
 </div>
 <br>
 
-<span style="color: #8D4801">**섬 트래킹을 마치고 다시 돌아가는 길**</span> 저 밑 절벽에 <span style="color: skyblue">**푸른발부비새**</span>들은 안 보이시죠?
+<span style="color: #8D4801">**섬 트레킹을 마치고 다시 돌아가는 길**</span> 저 밑 절벽에 <span style="color: skyblue">**푸른발부비새**</span>들은 안 보이시죠?
 <div class="image-slider-static">
   <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/cliff-when-we-were-going-back.jpg" alt="절벽 장소">
 </div>
@@ -353,7 +353,7 @@ description: 2025.08.17 플라타 섬 투어 이야기
 <br>
 
 ### 눈으로만 즐긴 스노클링
-트래킹을 마치고 보트에 복귀하면 스노클링 포인트로 이동한 후에 <span style="color: #8D4801">**점심으로 샌드위치와 콜라**</span>를 나눠주신다.
+트레킹을 마치고 보트에 복귀하면 스노클링 포인트로 이동한 후에 <span style="color: #8D4801">**점심으로 샌드위치와 콜라**</span>를 나눠주신다.
 <div class="image-slider-static">
   <img data-src="https://pub-056cbc77efa44842832acb3cdce331b6.r2.dev/2025-08-17-Puerto-Lopez-travelog-3/lunch-time-1.jpg" alt="점심으로 샌드위치와 콜라를 나눠주시는 투어 회사 직원">
 </div>
